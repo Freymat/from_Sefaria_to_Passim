@@ -1,0 +1,436 @@
+{
+  "title": "Nahum",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Nahum_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 31,
+      "length": 31,
+      "text": "משא נינוה ספר חזון נחום האלקשי׃"
+    },
+    {
+      "uid": "Nahum_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 32,
+      "end_char": 99,
+      "length": 68,
+      "text": "אל קנוא ונקם יהוה נקם יהוה ובעל חמה נקם יהוה לצריו ונוטר הוא לאיביו׃"
+    },
+    {
+      "uid": "Nahum_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 100,
+      "end_char": 182,
+      "length": 83,
+      "text": "יהוה ארך אפים (וגדול) [וגדל־]כח ונקה לא ינקה יהוה בסופה ובשערה דרכו וענן אבק רגליו׃"
+    },
+    {
+      "uid": "Nahum_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 183,
+      "end_char": 246,
+      "length": 64,
+      "text": "גוער בים ויבשהו וכל־הנהרות החריב אמלל בשן וכרמל ופרח לבנון אמלל׃"
+    },
+    {
+      "uid": "Nahum_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 247,
+      "end_char": 310,
+      "length": 64,
+      "text": "הרים רעשו ממנו והגבעות התמגגו ותשא הארץ מפניו ותבל וכל־יושבי בה׃"
+    },
+    {
+      "uid": "Nahum_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 311,
+      "end_char": 379,
+      "length": 69,
+      "text": "לפני זעמו מי יעמוד ומי יקום בחרון אפו חמתו נתכה כאש והצרים נתצו ממנו׃"
+    },
+    {
+      "uid": "Nahum_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 380,
+      "end_char": 415,
+      "length": 36,
+      "text": "טוב יהוה למעוז ביום צרה וידע חסי בו׃"
+    },
+    {
+      "uid": "Nahum_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 416,
+      "end_char": 456,
+      "length": 41,
+      "text": "ובשטף עבר כלה יעשה מקומה ואיביו ירדף־חשך׃"
+    },
+    {
+      "uid": "Nahum_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 457,
+      "end_char": 504,
+      "length": 48,
+      "text": "מה־תחשבון אל־יהוה כלה הוא עשה לא־תקום פעמים צרה׃"
+    },
+    {
+      "uid": "Nahum_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 505,
+      "end_char": 553,
+      "length": 49,
+      "text": "כי עד־סירים סבכים וכסבאם סבואים אכלו כקש יבש מלא׃"
+    },
+    {
+      "uid": "Nahum_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 554,
+      "end_char": 587,
+      "length": 34,
+      "text": "ממך יצא חשב על־יהוה רעה יעץ בליעל׃"
+    },
+    {
+      "uid": "Nahum_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 588,
+      "end_char": 651,
+      "length": 64,
+      "text": "כה׀ אמר יהוה אם־שלמים וכן רבים וכן נגוזו ועבר וענתך לא אענך עוד׃"
+    },
+    {
+      "uid": "Nahum_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 652,
+      "end_char": 686,
+      "length": 35,
+      "text": "ועתה אשבר מטהו מעליך ומוסרתיך אנתק׃"
+    },
+    {
+      "uid": "Nahum_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 687,
+      "end_char": 763,
+      "length": 77,
+      "text": "וצוה עליך יהוה לא־יזרע משמך עוד מבית אלהיך אכרית פסל ומסכה אשים קברך כי קלות׃"
+    },
+    {
+      "uid": "Nahum_15",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 764,
+      "end_char": 872,
+      "length": 109,
+      "text": "הנה על־ההרים רגלי מבשר משמיע שלום חגי יהודה חגיך שלמי נדריך כי לא יוסיף עוד (לעבור) [לעבר־]בך בליעל כלה נכרת׃"
+    },
+    {
+      "uid": "Nahum_16",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 873,
+      "end_char": 929,
+      "length": 57,
+      "text": "עלה מפיץ על־פניך נצור מצורה צפה־דרך חזק מתנים אמץ כח מאד׃"
+    },
+    {
+      "uid": "Nahum_17",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 930,
+      "end_char": 993,
+      "length": 64,
+      "text": "כי שב יהוה את־גאון יעקב כגאון ישראל כי בקקום בקקים וזמריהם שחתו׃"
+    },
+    {
+      "uid": "Nahum_18",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 994,
+      "end_char": 1064,
+      "length": 71,
+      "text": "מגן גבריהו מאדם אנשי־חיל מתלעים באש־פלדת הרכב ביום הכינו והברשים הרעלו׃"
+    },
+    {
+      "uid": "Nahum_19",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1065,
+      "end_char": 1129,
+      "length": 65,
+      "text": "בחוצות יתהוללו הרכב ישתקשקון ברחבות מראיהן כלפידים כברקים ירוצצו׃"
+    },
+    {
+      "uid": "Nahum_20",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1130,
+      "end_char": 1189,
+      "length": 60,
+      "text": "יזכר אדיריו יכשלו (בהלכותם) [בהליכתם] ימהרו חומתה והכן הסכך׃"
+    },
+    {
+      "uid": "Nahum_21",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1190,
+      "end_char": 1219,
+      "length": 30,
+      "text": "שערי הנהרות נפתחו וההיכל נמוג׃"
+    },
+    {
+      "uid": "Nahum_22",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1220,
+      "end_char": 1276,
+      "length": 57,
+      "text": "והצב גלתה העלתה ואמהתיה מנהגות כקול יונים מתפפת על־לבבהן׃"
+    },
+    {
+      "uid": "Nahum_23",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1277,
+      "end_char": 1332,
+      "length": 56,
+      "text": "ונינוה כברכת־מים מימי היא והמה נסים עמדו עמדו ואין מפנה׃"
+    },
+    {
+      "uid": "Nahum_24",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 1333,
+      "end_char": 1381,
+      "length": 49,
+      "text": "בזו כסף בזו זהב ואין קצה לתכונה כבד מכל כלי חמדה׃"
+    },
+    {
+      "uid": "Nahum_25",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 1382,
+      "end_char": 1455,
+      "length": 74,
+      "text": "בוקה ומבוקה ומבלקה ולב נמס ופק ברכים וחלחלה בכל־מתנים ופני כלם קבצו פארור׃"
+    },
+    {
+      "uid": "Nahum_26",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 1456,
+      "end_char": 1528,
+      "length": 73,
+      "text": "איה מעון אריות ומרעה הוא לכפרים אשר הלך אריה לביא שם גור אריה ואין מחריד׃"
+    },
+    {
+      "uid": "Nahum_27",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 1529,
+      "end_char": 1590,
+      "length": 62,
+      "text": "אריה טרף בדי גרותיו ומחנק ללבאתיו וימלא־טרף חריו ומענתיו טרפה׃"
+    },
+    {
+      "uid": "Nahum_28",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 1591,
+      "end_char": 1691,
+      "length": 101,
+      "text": "הנני אליך נאם יהוה צבאות והבערתי בעשן רכבה וכפיריך תאכל חרב והכרתי מארץ טרפך ולא־ישמע עוד קול מלאככה׃"
+    },
+    {
+      "uid": "Nahum_29",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 1692,
+      "end_char": 1733,
+      "length": 42,
+      "text": "הוי עיר דמים כלה כחש פרק מלאה לא ימיש טרף׃"
+    },
+    {
+      "uid": "Nahum_30",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 1734,
+      "end_char": 1777,
+      "length": 44,
+      "text": "קול שוט וקול רעש אופן וסוס דהר ומרכבה מרקדה׃"
+    },
+    {
+      "uid": "Nahum_31",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 1778,
+      "end_char": 1860,
+      "length": 83,
+      "text": "פרש מעלה ולהב חרב וברק חנית ורב חלל וכבד פגר ואין קצה לגויה (יכשלו) [וכשלו] בגויתם׃"
+    },
+    {
+      "uid": "Nahum_32",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 1861,
+      "end_char": 1928,
+      "length": 68,
+      "text": "מרב זנוני זונה טובת חן בעלת כשפים המכרת גוים בזנוניה ומשפחות בכשפיה׃"
+    },
+    {
+      "uid": "Nahum_33",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 1929,
+      "end_char": 2006,
+      "length": 78,
+      "text": "הנני אליך נאם יהוה צבאות וגליתי שוליך על־פניך והראיתי גוים מערך וממלכות קלונך׃"
+    },
+    {
+      "uid": "Nahum_34",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 2007,
+      "end_char": 2045,
+      "length": 39,
+      "text": "והשלכתי עליך שקצים ונבלתיך ושמתיך כראי׃"
+    },
+    {
+      "uid": "Nahum_35",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 2046,
+      "end_char": 2114,
+      "length": 69,
+      "text": "והיה כל־ראיך ידוד ממך ואמר שדדה נינוה מי ינוד לה מאין אבקש מנחמים לך׃"
+    },
+    {
+      "uid": "Nahum_36",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 2115,
+      "end_char": 2176,
+      "length": 62,
+      "text": "התיטבי מנא אמון הישבה ביארים מים סביב לה אשר־חיל ים מים חומתה׃"
+    },
+    {
+      "uid": "Nahum_37",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 2177,
+      "end_char": 2223,
+      "length": 47,
+      "text": "כוש עצמה ומצרים ואין קצה פוט ולובים היו בעזרתך׃"
+    },
+    {
+      "uid": "Nahum_38",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 2224,
+      "end_char": 2316,
+      "length": 93,
+      "text": "גם־היא לגלה הלכה בשבי גם עלליה ירטשו בראש כל־חוצות ועל־נכבדיה ידו גורל וכל־גדוליה רתקו בזקים׃"
+    },
+    {
+      "uid": "Nahum_39",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 2317,
+      "end_char": 2361,
+      "length": 45,
+      "text": "גם־את תשכרי תהי נעלמה גם־את תבקשי מעוז מאויב׃"
+    },
+    {
+      "uid": "Nahum_40",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 2362,
+      "end_char": 2413,
+      "length": 52,
+      "text": "כל־מבצריך תאנים עם־בכורים אם־ינועו ונפלו על־פי אוכל׃"
+    },
+    {
+      "uid": "Nahum_41",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 2414,
+      "end_char": 2475,
+      "length": 62,
+      "text": "הנה עמך נשים בקרבך לאיביך פתוח נפתחו שערי ארצך אכלה אש בריחיך׃"
+    },
+    {
+      "uid": "Nahum_42",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 2476,
+      "end_char": 2535,
+      "length": 60,
+      "text": "מי מצור שאבי־לך חזקי מבצריך באי בטיט ורמסי בחמר החזיקי מלבן׃"
+    },
+    {
+      "uid": "Nahum_43",
+      "chapter_number": 3,
+      "verse_number": 15,
+      "start_char": 2536,
+      "end_char": 2593,
+      "length": 58,
+      "text": "שם תאכלך אש תכריתך חרב תאכלך כילק התכבד כילק התכבדי כארבה׃"
+    },
+    {
+      "uid": "Nahum_44",
+      "chapter_number": 3,
+      "verse_number": 16,
+      "start_char": 2594,
+      "end_char": 2631,
+      "length": 38,
+      "text": "הרבית רכליך מכוכבי השמים ילק פשט ויעף׃"
+    },
+    {
+      "uid": "Nahum_45",
+      "chapter_number": 3,
+      "verse_number": 17,
+      "start_char": 2632,
+      "end_char": 2718,
+      "length": 87,
+      "text": "מנזריך כארבה וטפסריך כגוב גבי החונים בגדרות ביום קרה שמש זרחה ונודד ולא־נודע מקומו אים׃"
+    },
+    {
+      "uid": "Nahum_46",
+      "chapter_number": 3,
+      "verse_number": 18,
+      "start_char": 2719,
+      "end_char": 2777,
+      "length": 59,
+      "text": "נמו רעיך מלך אשור ישכנו אדיריך נפשו עמך על־ההרים ואין מקבץ׃"
+    },
+    {
+      "uid": "Nahum_47",
+      "chapter_number": 3,
+      "verse_number": 19,
+      "start_char": 2778,
+      "end_char": 2855,
+      "length": 78,
+      "text": "אין־כהה לשברך נחלה מכתך כל׀ שמעי שמעך תקעו כף עליך כי על־מי לא־עברה רעתך תמיד׃"
+    }
+  ]
+}

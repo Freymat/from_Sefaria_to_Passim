@@ -1,0 +1,355 @@
+{
+  "title": "Haggai",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Haggai_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 139,
+      "length": 139,
+      "text": "בשנת שתים לדריוש המלך בחדש הששי ביום אחד לחדש היה דבר־יהוה ביד־חגי הנביא אל־זרבבל בן־שאלתיאל פחת יהודה ואל־יהושע בן־יהוצדק הכהן הגדול לאמר׃"
+    },
+    {
+      "uid": "Haggai_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 140,
+      "end_char": 203,
+      "length": 64,
+      "text": "כה אמר יהוה צבאות לאמר העם הזה אמרו לא עת־בא עת־בית יהוה להבנות׃"
+    },
+    {
+      "uid": "Haggai_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 204,
+      "end_char": 236,
+      "length": 33,
+      "text": "ויהי דבר־יהוה ביד־חגי הנביא לאמר׃"
+    },
+    {
+      "uid": "Haggai_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 237,
+      "end_char": 281,
+      "length": 45,
+      "text": "העת לכם אתם לשבת בבתיכם ספונים והבית הזה חרב׃"
+    },
+    {
+      "uid": "Haggai_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 282,
+      "end_char": 325,
+      "length": 44,
+      "text": "ועתה כה אמר יהוה צבאות שימו לבבכם על־דרכיכם׃"
+    },
+    {
+      "uid": "Haggai_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 326,
+      "end_char": 420,
+      "length": 95,
+      "text": "זרעתם הרבה והבא מעט אכול ואין־לשבעה שתו ואין־לשכרה לבוש ואין־לחם לו והמשתכר משתכר אל־צרור נקוב׃"
+    },
+    {
+      "uid": "Haggai_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 421,
+      "end_char": 459,
+      "length": 39,
+      "text": "כה אמר יהוה צבאות שימו לבבכם על־דרכיכם׃"
+    },
+    {
+      "uid": "Haggai_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 460,
+      "end_char": 522,
+      "length": 63,
+      "text": "עלו ההר והבאתם עץ ובנו הבית וארצה־בו (ואכבד) [ואכבדה] אמר יהוה׃"
+    },
+    {
+      "uid": "Haggai_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 523,
+      "end_char": 629,
+      "length": 107,
+      "text": "פנה אל־הרבה והנה למעט והבאתם הבית ונפחתי בו יען מה נאם יהוה צבאות יען ביתי אשר־הוא חרב ואתם רצים איש לביתו׃"
+    },
+    {
+      "uid": "Haggai_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 630,
+      "end_char": 672,
+      "length": 43,
+      "text": "על־כן עליכם כלאו שמים מטל והארץ כלאה יבולה׃"
+    },
+    {
+      "uid": "Haggai_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 673,
+      "end_char": 786,
+      "length": 114,
+      "text": "ואקרא חרב על־הארץ ועל־ההרים ועל־הדגן ועל־התירוש ועל־היצהר ועל אשר תוציא האדמה ועל־האדם ועל־הבהמה ועל כל־יגיע כפים׃"
+    },
+    {
+      "uid": "Haggai_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 787,
+      "end_char": 930,
+      "length": 144,
+      "text": "וישמע זרבבל׀בן־שלתיאל ויהושע בן־יהוצדק הכהן הגדול וכל׀ שארית העם בקול יהוה אלהיהם ועל־דברי חגי הנביא כאשר שלחו יהוה אלהיהם וייראו העם מפני יהוה׃"
+    },
+    {
+      "uid": "Haggai_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 931,
+      "end_char": 990,
+      "length": 60,
+      "text": "ויאמר חגי מלאך יהוה במלאכות יהוה לעם לאמר אני אתכם נאם־יהוה׃"
+    },
+    {
+      "uid": "Haggai_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 991,
+      "end_char": 1130,
+      "length": 140,
+      "text": "ויער יהוה את־רוח זרבבל בן־שלתיאל פחת יהודה ואת־רוח יהושע בן־יהוצדק הכהן הגדול ואת־רוח כל שארית העם ויבאו ויעשו מלאכה בבית־יהוה צבאות אלהיהם׃"
+    },
+    {
+      "uid": "Haggai_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 1131,
+      "end_char": 1180,
+      "length": 50,
+      "text": "ביום עשרים וארבעה לחדש בששי בשנת שתים לדריוש המלך׃"
+    },
+    {
+      "uid": "Haggai_16",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 1181,
+      "end_char": 1236,
+      "length": 56,
+      "text": "בשביעי בעשרים ואחד לחדש היה דבר־יהוה ביד־חגי הנביא לאמר׃"
+    },
+    {
+      "uid": "Haggai_17",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1237,
+      "end_char": 1322,
+      "length": 86,
+      "text": "אמר־נא אל־זרבבל בן־שלתיאל פחת יהודה ואל־יהושע בן־יהוצדק הכהן הגדול ואל־שארית העם לאמר׃"
+    },
+    {
+      "uid": "Haggai_18",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1323,
+      "end_char": 1413,
+      "length": 91,
+      "text": "מי בכם הנשאר אשר ראה את־הבית הזה בכבודו הראשון ומה אתם ראים אתו עתה הלוא כמהו כאין בעיניכם׃"
+    },
+    {
+      "uid": "Haggai_19",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 1414,
+      "end_char": 1526,
+      "length": 113,
+      "text": "ועתה חזק זרבבל׀נאם־יהוה וחזק יהושע בן־יהוצדק הכהן הגדול וחזק כל־עם הארץ נאם־יהוה ועשו כי־אני אתכם נאם יהוה צבאות׃"
+    },
+    {
+      "uid": "Haggai_20",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1527,
+      "end_char": 1589,
+      "length": 63,
+      "text": "את־הדבר אשר־כרתי אתכם בצאתכם ממצרים ורוחי עמדת בתוככם אל־תיראו׃"
+    },
+    {
+      "uid": "Haggai_21",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1590,
+      "end_char": 1673,
+      "length": 84,
+      "text": "כי כה אמר יהוה צבאות עוד אחת מעט היא ואני מרעיש את־השמים ואת־הארץ ואת־הים ואת־החרבה׃"
+    },
+    {
+      "uid": "Haggai_22",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1674,
+      "end_char": 1751,
+      "length": 78,
+      "text": "והרעשתי את־כל־הגוים ובאו חמדת כל־הגוים ומלאתי את־הבית הזה כבוד אמר יהוה צבאות׃"
+    },
+    {
+      "uid": "Haggai_23",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1752,
+      "end_char": 1783,
+      "length": 32,
+      "text": "לי הכסף ולי הזהב נאם יהוה צבאות׃"
+    },
+    {
+      "uid": "Haggai_24",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1784,
+      "end_char": 1874,
+      "length": 91,
+      "text": "גדול יהיה כבוד הבית הזה האחרון מן־הראשון אמר יהוה צבאות ובמקום הזה אתן שלום נאם יהוה צבאות׃"
+    },
+    {
+      "uid": "Haggai_25",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 1875,
+      "end_char": 1943,
+      "length": 69,
+      "text": "בעשרים וארבעה לתשיעי בשנת שתים לדריוש היה דבר־יהוה אל־חגי הנביא לאמר׃"
+    },
+    {
+      "uid": "Haggai_26",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 1944,
+      "end_char": 1988,
+      "length": 45,
+      "text": "כה אמר יהוה צבאות שאל־נא את־הכהנים תורה לאמר׃"
+    },
+    {
+      "uid": "Haggai_27",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 1989,
+      "end_char": 2105,
+      "length": 117,
+      "text": "הן׀ ישא־איש בשר־קדש בכנף בגדו ונגע בכנפו אל־הלחם ואל־הנזיד ואל־היין ואל־שמן ואל־כל־מאכל היקדש ויענו הכהנים ויאמרו לא׃"
+    },
+    {
+      "uid": "Haggai_28",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 2106,
+      "end_char": 2169,
+      "length": 64,
+      "text": "ויאמר חגי אם־יגע טמא־נפש בכל־אלה היטמא ויענו הכהנים ויאמרו יטמא׃"
+    },
+    {
+      "uid": "Haggai_29",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 2170,
+      "end_char": 2263,
+      "length": 94,
+      "text": "ויען חגי ויאמר כן העם־הזה וכן־הגוי הזה לפני נאם־יהוה וכן כל־מעשה ידיהם ואשר יקריבו שם טמא הוא׃"
+    },
+    {
+      "uid": "Haggai_30",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 2264,
+      "end_char": 2331,
+      "length": 68,
+      "text": "ועתה שימו־נא לבבכם מן־היום הזה ומעלה מטרם שום־אבן אל־אבן בהיכל יהוה׃"
+    },
+    {
+      "uid": "Haggai_31",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 2332,
+      "end_char": 2405,
+      "length": 74,
+      "text": "מהיותם בא אל־ערמת עשרים והיתה עשרה בא אל־היקב לחשף חמשים פורה והיתה עשרים׃"
+    },
+    {
+      "uid": "Haggai_32",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 2406,
+      "end_char": 2477,
+      "length": 72,
+      "text": "הכיתי אתכם בשדפון ובירקון ובברד את כל־מעשה ידיכם ואין־אתכם אלי נאם־יהוה׃"
+    },
+    {
+      "uid": "Haggai_33",
+      "chapter_number": 2,
+      "verse_number": 18,
+      "start_char": 2478,
+      "end_char": 2572,
+      "length": 95,
+      "text": "שימו־נא לבבכם מן־היום הזה ומעלה מיום עשרים וארבעה לתשיעי למן־היום אשר־יסד היכל־יהוה שימו לבבכם׃"
+    },
+    {
+      "uid": "Haggai_34",
+      "chapter_number": 2,
+      "verse_number": 19,
+      "start_char": 2573,
+      "end_char": 2645,
+      "length": 73,
+      "text": "העוד הזרע במגורה ועד־הגפן והתאנה והרמון ועץ הזית לא נשא מן־היום הזה אברך׃"
+    },
+    {
+      "uid": "Haggai_35",
+      "chapter_number": 2,
+      "verse_number": 20,
+      "start_char": 2646,
+      "end_char": 2695,
+      "length": 50,
+      "text": "ויהי דבר־יהוה׀שנית אל־חגי בעשרים וארבעה לחדש לאמר׃"
+    },
+    {
+      "uid": "Haggai_36",
+      "chapter_number": 2,
+      "verse_number": 21,
+      "start_char": 2696,
+      "end_char": 2751,
+      "length": 56,
+      "text": "אמר אל־זרבבל פחת־יהודה לאמר אני מרעיש את־השמים ואת־הארץ׃"
+    },
+    {
+      "uid": "Haggai_37",
+      "chapter_number": 2,
+      "verse_number": 22,
+      "start_char": 2752,
+      "end_char": 2848,
+      "length": 97,
+      "text": "והפכתי כסא ממלכות והשמדתי חזק ממלכות הגוים והפכתי מרכבה ורכביה וירדו סוסים ורכביהם איש בחרב אחיו׃"
+    },
+    {
+      "uid": "Haggai_38",
+      "chapter_number": 2,
+      "verse_number": 23,
+      "start_char": 2849,
+      "end_char": 2949,
+      "length": 101,
+      "text": "ביום ההוא נאם־יהוה צבאות אקחך זרבבל בן־שאלתיאל עבדי נאם־יהוה ושמתיך כחותם כי־בך בחרתי נאם יהוה צבאות׃"
+    }
+  ]
+}

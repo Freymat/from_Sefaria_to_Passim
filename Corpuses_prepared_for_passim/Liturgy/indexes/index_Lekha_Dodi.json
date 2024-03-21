@@ -1,0 +1,355 @@
+{
+  "title": "Lekha Dodi",
+  "categories": [
+    "Liturgy",
+    "Piyutim"
+  ],
+  "sectionNames": [
+    "Verse",
+    "Verset"
+  ],
+  "lines": [
+    {
+      "uid": "Lekha_Dodi_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 18,
+      "length": 18,
+      "text": "לכה דודי לקראת כלה"
+    },
+    {
+      "uid": "Lekha_Dodi_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 19,
+      "end_char": 31,
+      "length": 13,
+      "text": "פני שבת נקבלה"
+    },
+    {
+      "uid": "Lekha_Dodi_3",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 32,
+      "end_char": 51,
+      "length": 20,
+      "text": "שמור וזכור בדבור אחד"
+    },
+    {
+      "uid": "Lekha_Dodi_4",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 52,
+      "end_char": 67,
+      "length": 16,
+      "text": "השמיענו אל המיחד"
+    },
+    {
+      "uid": "Lekha_Dodi_5",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 68,
+      "end_char": 82,
+      "length": 15,
+      "text": "ה' אחד ושמו אחד"
+    },
+    {
+      "uid": "Lekha_Dodi_6",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 83,
+      "end_char": 100,
+      "length": 18,
+      "text": "לשם ולתפארת ולתהלה"
+    },
+    {
+      "uid": "Lekha_Dodi_7",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 101,
+      "end_char": 119,
+      "length": 19,
+      "text": "לקראת שבת לכו ונלכה"
+    },
+    {
+      "uid": "Lekha_Dodi_8",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 120,
+      "end_char": 136,
+      "length": 17,
+      "text": "כי היא מקור הברכה"
+    },
+    {
+      "uid": "Lekha_Dodi_9",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 137,
+      "end_char": 151,
+      "length": 15,
+      "text": "מראש מקדם נסוכה"
+    },
+    {
+      "uid": "Lekha_Dodi_10",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 152,
+      "end_char": 171,
+      "length": 20,
+      "text": "סוף מעשה במחשבה תחלה"
+    },
+    {
+      "uid": "Lekha_Dodi_11",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 172,
+      "end_char": 189,
+      "length": 18,
+      "text": "מקדש מלך עיר מלוכה"
+    },
+    {
+      "uid": "Lekha_Dodi_12",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 190,
+      "end_char": 208,
+      "length": 19,
+      "text": "קומי צאי מתוך ההפכה"
+    },
+    {
+      "uid": "Lekha_Dodi_13",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 209,
+      "end_char": 227,
+      "length": 19,
+      "text": "רב לך שבת בעמק הבכא"
+    },
+    {
+      "uid": "Lekha_Dodi_14",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 228,
+      "end_char": 247,
+      "length": 20,
+      "text": "והוא יחמול עליך חמלה"
+    },
+    {
+      "uid": "Lekha_Dodi_15",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 248,
+      "end_char": 263,
+      "length": 16,
+      "text": "התנערי מעפר קומי"
+    },
+    {
+      "uid": "Lekha_Dodi_16",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 264,
+      "end_char": 283,
+      "length": 20,
+      "text": "לבשי בגדי תפארתך עמי"
+    },
+    {
+      "uid": "Lekha_Dodi_17",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 284,
+      "end_char": 305,
+      "length": 22,
+      "text": "על יד בן ישי בית הלחמי"
+    },
+    {
+      "uid": "Lekha_Dodi_18",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 306,
+      "end_char": 322,
+      "length": 17,
+      "text": "קרבה אל נפשי גאלה"
+    },
+    {
+      "uid": "Lekha_Dodi_19",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 323,
+      "end_char": 337,
+      "length": 15,
+      "text": "התעוררי התעוררי"
+    },
+    {
+      "uid": "Lekha_Dodi_20",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 338,
+      "end_char": 357,
+      "length": 20,
+      "text": "כי בא אורך קומי אורי"
+    },
+    {
+      "uid": "Lekha_Dodi_21",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 358,
+      "end_char": 375,
+      "length": 18,
+      "text": "עורי עורי שיר דברי"
+    },
+    {
+      "uid": "Lekha_Dodi_22",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 376,
+      "end_char": 392,
+      "length": 17,
+      "text": "כבוד ה' עליך נגלה"
+    },
+    {
+      "uid": "Lekha_Dodi_23",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 393,
+      "end_char": 409,
+      "length": 17,
+      "text": "לא תבשי ולא תכלמי"
+    },
+    {
+      "uid": "Lekha_Dodi_24",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 410,
+      "end_char": 428,
+      "length": 19,
+      "text": "מה תשתוחחי ומה תהמי"
+    },
+    {
+      "uid": "Lekha_Dodi_25",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 429,
+      "end_char": 444,
+      "length": 16,
+      "text": "בך יחסו עניי עמי"
+    },
+    {
+      "uid": "Lekha_Dodi_26",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 445,
+      "end_char": 461,
+      "length": 17,
+      "text": "ונבנתה עיר על תלה"
+    },
+    {
+      "uid": "Lekha_Dodi_27",
+      "chapter_number": 8,
+      "verse_number": 1,
+      "start_char": 462,
+      "end_char": 477,
+      "length": 16,
+      "text": "והיו למשסה שאסיך"
+    },
+    {
+      "uid": "Lekha_Dodi_28",
+      "chapter_number": 8,
+      "verse_number": 2,
+      "start_char": 478,
+      "end_char": 492,
+      "length": 15,
+      "text": "ורחקו כל מבלעיך"
+    },
+    {
+      "uid": "Lekha_Dodi_29",
+      "chapter_number": 8,
+      "verse_number": 3,
+      "start_char": 493,
+      "end_char": 507,
+      "length": 15,
+      "text": "ישיש עליך אלהיך"
+    },
+    {
+      "uid": "Lekha_Dodi_30",
+      "chapter_number": 8,
+      "verse_number": 4,
+      "start_char": 508,
+      "end_char": 523,
+      "length": 16,
+      "text": "כמשוש חתן על כלה"
+    },
+    {
+      "uid": "Lekha_Dodi_31",
+      "chapter_number": 9,
+      "verse_number": 1,
+      "start_char": 524,
+      "end_char": 539,
+      "length": 16,
+      "text": "ימין ושמאל תפרצי"
+    },
+    {
+      "uid": "Lekha_Dodi_32",
+      "chapter_number": 9,
+      "verse_number": 2,
+      "start_char": 540,
+      "end_char": 552,
+      "length": 13,
+      "text": "ואת ה' תעריצי"
+    },
+    {
+      "uid": "Lekha_Dodi_33",
+      "chapter_number": 9,
+      "verse_number": 3,
+      "start_char": 553,
+      "end_char": 569,
+      "length": 17,
+      "text": "על יד איש בן פרצי"
+    },
+    {
+      "uid": "Lekha_Dodi_34",
+      "chapter_number": 9,
+      "verse_number": 4,
+      "start_char": 570,
+      "end_char": 582,
+      "length": 13,
+      "text": "ונשמחה ונגילה"
+    },
+    {
+      "uid": "Lekha_Dodi_35",
+      "chapter_number": 10,
+      "verse_number": 1,
+      "start_char": 583,
+      "end_char": 601,
+      "length": 19,
+      "text": "באי בשלום עטרת בעלה"
+    },
+    {
+      "uid": "Lekha_Dodi_36",
+      "chapter_number": 10,
+      "verse_number": 2,
+      "start_char": 602,
+      "end_char": 616,
+      "length": 15,
+      "text": "גם בשמחה ובצהלה"
+    },
+    {
+      "uid": "Lekha_Dodi_37",
+      "chapter_number": 10,
+      "verse_number": 3,
+      "start_char": 617,
+      "end_char": 633,
+      "length": 17,
+      "text": "תוך אמוני עם סגלה"
+    },
+    {
+      "uid": "Lekha_Dodi_38",
+      "chapter_number": 10,
+      "verse_number": 4,
+      "start_char": 634,
+      "end_char": 650,
+      "length": 17,
+      "text": "בואי כלה בואי כלה"
+    }
+  ]
+}

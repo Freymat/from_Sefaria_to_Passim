@@ -1,0 +1,6484 @@
+{
+  "title": "II Kings",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "II_Kings_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 32,
+      "length": 32,
+      "text": "ויפשע מואב בישראל אחרי מות אחאב׃"
+    },
+    {
+      "uid": "II_Kings_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 33,
+      "end_char": 146,
+      "length": 114,
+      "text": "ויפל אחזיה בעד השבכה בעליתו אשר בשמרון ויחל וישלח מלאכים ויאמר אלהם לכו דרשו בבעל זבוב אלהי עקרון אם־אחיה מחלי זה׃"
+    },
+    {
+      "uid": "II_Kings_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 147,
+      "end_char": 274,
+      "length": 128,
+      "text": "ומלאך יהוה דבר אל־אליה התשבי קום עלה לקראת מלאכי מלך־שמרון ודבר אלהם המבלי אין־אלהים בישראל אתם הלכים לדרש בבעל זבוב אלהי עקרון׃"
+    },
+    {
+      "uid": "II_Kings_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 275,
+      "end_char": 342,
+      "length": 68,
+      "text": "ולכן כה־אמר יהוה המטה אשר־עלית שם לא־תרד ממנה כי מות תמות וילך אליה׃"
+    },
+    {
+      "uid": "II_Kings_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 343,
+      "end_char": 385,
+      "length": 43,
+      "text": "וישובו המלאכים אליו ויאמר אליהם מה־זה שבתם׃"
+    },
+    {
+      "uid": "II_Kings_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 386,
+      "end_char": 582,
+      "length": 197,
+      "text": "ויאמרו אליו איש׀ עלה לקראתנו ויאמר אלינו לכו שובו אל־המלך אשר־שלח אתכם ודברתם אליו כה אמר יהוה המבלי אין־אלהים בישראל אתה שלח לדרש בבעל זבוב אלהי עקרון לכן המטה אשר־עלית שם לא־תרד ממנה כי־מות תמות׃"
+    },
+    {
+      "uid": "II_Kings_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 583,
+      "end_char": 649,
+      "length": 67,
+      "text": "וידבר אלהם מה משפט האיש אשר עלה לקראתכם וידבר אליכם את־הדברים האלה׃"
+    },
+    {
+      "uid": "II_Kings_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 650,
+      "end_char": 716,
+      "length": 67,
+      "text": "ויאמרו אליו איש בעל שער ואזור עור אזור במתניו ויאמר אליה התשבי הוא׃"
+    },
+    {
+      "uid": "II_Kings_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 717,
+      "end_char": 808,
+      "length": 92,
+      "text": "וישלח אליו שר־חמשים וחמשיו ויעל אליו והנה ישב על־ראש ההר וידבר אליו איש האלהים המלך דבר רדה׃"
+    },
+    {
+      "uid": "II_Kings_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 809,
+      "end_char": 930,
+      "length": 122,
+      "text": "ויענה אליהו וידבר אל־שר החמשים ואם־איש אלהים אני תרד אש מן־השמים ותאכל אתך ואת־חמשיך ותרד אש מן־השמים ותאכל אתו ואת־חמשיו׃"
+    },
+    {
+      "uid": "II_Kings_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 931,
+      "end_char": 1014,
+      "length": 84,
+      "text": "וישב וישלח אליו שר־חמשים אחר וחמשיו ויען וידבר אליו איש האלהים כה־אמר המלך מהרה רדה׃"
+    },
+    {
+      "uid": "II_Kings_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 1015,
+      "end_char": 1133,
+      "length": 119,
+      "text": "ויען אליה וידבר אליהם אם־איש האלהים אני תרד אש מן־השמים ותאכל אתך ואת־חמשיך ותרד אש־אלהים מן־השמים ותאכל אתו ואת־חמשיו׃"
+    },
+    {
+      "uid": "II_Kings_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 1134,
+      "end_char": 1295,
+      "length": 162,
+      "text": "וישב וישלח שר־חמשים שלשים וחמשיו ויעל ויבא שר־החמשים השלישי ויכרע על־ברכיו׀ לנגד אליהו ויתחנן אליו וידבר אליו איש האלהים תיקר־נא נפשי ונפש עבדיך אלה חמשים בעיניך׃"
+    },
+    {
+      "uid": "II_Kings_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 1296,
+      "end_char": 1381,
+      "length": 86,
+      "text": "הנה ירדה אש מן־השמים ותאכל את־שני שרי החמשים הראשנים ואת־חמשיהם ועתה תיקר נפשי בעיניך׃"
+    },
+    {
+      "uid": "II_Kings_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 1382,
+      "end_char": 1451,
+      "length": 70,
+      "text": "וידבר מלאך יהוה אל־אליהו רד אותו אל־תירא מפניו ויקם וירד אותו אל־המלך׃"
+    },
+    {
+      "uid": "II_Kings_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 1452,
+      "end_char": 1599,
+      "length": 148,
+      "text": "וידבר אליו כה־אמר יהוה יען אשר־שלחת מלאכים לדרש בבעל זבוב אלהי עקרון המבלי אין־אלהים בישראל לדרש בדברו לכן המטה אשר־עלית שם לא־תרד ממנה כי־מות תמות׃"
+    },
+    {
+      "uid": "II_Kings_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 1600,
+      "end_char": 1699,
+      "length": 100,
+      "text": "וימת כדבר יהוה׀ אשר־דבר אליהו וימלך יהורם תחתיובשנת שתים ליהורם בן־יהושפט מלך יהודה כי לא־היה לו בן׃"
+    },
+    {
+      "uid": "II_Kings_18",
+      "chapter_number": 1,
+      "verse_number": 18,
+      "start_char": 1700,
+      "end_char": 1770,
+      "length": 71,
+      "text": "ויתר דברי אחזיהו אשר עשה הלוא־המה כתובים על־ספר דברי הימים למלכי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_19",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 1771,
+      "end_char": 1835,
+      "length": 65,
+      "text": "ויהי בהעלות יהוה את־אליהו בסערה השמים וילך אליהו ואלישע מן־הגלגל׃"
+    },
+    {
+      "uid": "II_Kings_20",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1836,
+      "end_char": 1940,
+      "length": 105,
+      "text": "ויאמר אליהו אל־אלישע שב־נא פה כי יהוה שלחני עד־בית־אל ויאמר אלישע חי־יהוה וחי־נפשך אם־אעזבך וירדו בית־אל׃"
+    },
+    {
+      "uid": "II_Kings_21",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1941,
+      "end_char": 2055,
+      "length": 115,
+      "text": "ויצאו בני־הנביאים אשר־בית־אל אל־אלישע ויאמרו אליו הידעת כי היום יהוה לקח את־אדניך מעל ראשך ויאמר גם־אני ידעתי החשו׃"
+    },
+    {
+      "uid": "II_Kings_22",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 2056,
+      "end_char": 2150,
+      "length": 95,
+      "text": "ויאמר לו אליהו אלישע׀ שב־נא פה כי יהוה שלחני יריחו ויאמר חי־יהוה וחי־נפשך אם־אעזבך ויבאו יריחו׃"
+    },
+    {
+      "uid": "II_Kings_23",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 2151,
+      "end_char": 2265,
+      "length": 115,
+      "text": "ויגשו בני־הנביאים אשר־ביריחו אל־אלישע ויאמרו אליו הידעת כי היום יהוה לקח את־אדניך מעל ראשך ויאמר גם־אני ידעתי החשו׃"
+    },
+    {
+      "uid": "II_Kings_24",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 2266,
+      "end_char": 2354,
+      "length": 89,
+      "text": "ויאמר לו אליהו שב־נא פה כי יהוה שלחני הירדנה ויאמר חי־יהוה וחי־נפשך אם־אעזבך וילכו שניהם׃"
+    },
+    {
+      "uid": "II_Kings_25",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 2355,
+      "end_char": 2422,
+      "length": 68,
+      "text": "וחמשים איש מבני הנביאים הלכו ויעמדו מנגד מרחוק ושניהם עמדו על־הירדן׃"
+    },
+    {
+      "uid": "II_Kings_26",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 2423,
+      "end_char": 2495,
+      "length": 73,
+      "text": "ויקח אליהו את־אדרתו ויגלם ויכה את־המים ויחצו הנה והנה ויעברו שניהם בחרבה׃"
+    },
+    {
+      "uid": "II_Kings_27",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 2496,
+      "end_char": 2594,
+      "length": 99,
+      "text": "ויהי כעברם ואליהו אמר אל־אלישע שאל מה אעשה־לך בטרם אלקח מעמך ויאמר אלישע ויהי נא פי־שנים ברוחך אלי׃"
+    },
+    {
+      "uid": "II_Kings_28",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 2595,
+      "end_char": 2659,
+      "length": 65,
+      "text": "ויאמר הקשית לשאול אם־תראה אתי לקח מאתך יהי־לך כן ואם־אין לא יהיה׃"
+    },
+    {
+      "uid": "II_Kings_29",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 2660,
+      "end_char": 2745,
+      "length": 86,
+      "text": "ויהי המה הלכים הלוך ודבר והנה רכב־אש וסוסי אש ויפרדו בין שניהם ויעל אליהו בסערה השמים׃"
+    },
+    {
+      "uid": "II_Kings_30",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 2746,
+      "end_char": 2837,
+      "length": 92,
+      "text": "ואלישע ראה והוא מצעק אבי׀ אבי רכב ישראל ופרשיו ולא ראהו עוד ויחזק בבגדיו ויקרעם לשנים קרעים׃"
+    },
+    {
+      "uid": "II_Kings_31",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 2838,
+      "end_char": 2895,
+      "length": 58,
+      "text": "וירם את־אדרת אליהו אשר נפלה מעליו וישב ויעמד על־שפת הירדן׃"
+    },
+    {
+      "uid": "II_Kings_32",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 2896,
+      "end_char": 3016,
+      "length": 121,
+      "text": "ויקח את־אדרת אליהו אשר־נפלה מעליו ויכה את־המים ויאמר איה יהוה אלהי אליהו אף־הוא׀ ויכה את־המים ויחצו הנה והנה ויעבר אלישע׃"
+    },
+    {
+      "uid": "II_Kings_33",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 3017,
+      "end_char": 3110,
+      "length": 94,
+      "text": "ויראהו בני־הנביאים אשר־ביריחו מנגד ויאמרו נחה רוח אליהו על־אלישע ויבאו לקראתו וישתחוו־לו ארצה׃"
+    },
+    {
+      "uid": "II_Kings_34",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 3111,
+      "end_char": 3263,
+      "length": 153,
+      "text": "ויאמרו אליו הנה־נא יש־את־עבדיך חמשים אנשים בני־חיל ילכו נא ויבקשו את־אדניך פן־נשאו רוח יהוה וישלכהו באחד ההרים או באחת (הגיאות) [הגיאיות] ויאמר לא תשלחו׃"
+    },
+    {
+      "uid": "II_Kings_35",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 3264,
+      "end_char": 3334,
+      "length": 71,
+      "text": "ויפצרו־בו עד־בש ויאמר שלחו וישלחו חמשים איש ויבקשו שלשה־ימים ולא מצאהו׃"
+    },
+    {
+      "uid": "II_Kings_36",
+      "chapter_number": 2,
+      "verse_number": 18,
+      "start_char": 3335,
+      "end_char": 3396,
+      "length": 62,
+      "text": "וישבו אליו והוא ישב ביריחו ויאמר אלהם הלא־אמרתי אליכם אל־תלכו׃"
+    },
+    {
+      "uid": "II_Kings_37",
+      "chapter_number": 2,
+      "verse_number": 19,
+      "start_char": 3397,
+      "end_char": 3480,
+      "length": 84,
+      "text": "ויאמרו אנשי העיר אל־אלישע הנה־נא מושב העיר טוב כאשר אדני ראה והמים רעים והארץ משכלת׃"
+    },
+    {
+      "uid": "II_Kings_38",
+      "chapter_number": 2,
+      "verse_number": 20,
+      "start_char": 3481,
+      "end_char": 3528,
+      "length": 48,
+      "text": "ויאמר קחו־לי צלחית חדשה ושימו שם מלח ויקחו אליו׃"
+    },
+    {
+      "uid": "II_Kings_39",
+      "chapter_number": 2,
+      "verse_number": 21,
+      "start_char": 3529,
+      "end_char": 3620,
+      "length": 92,
+      "text": "ויצא אל־מוצא המים וישלך־שם מלח ויאמר כה־אמר יהוה רפאתי למים האלה לא־יהיה משם עוד מות ומשכלת׃"
+    },
+    {
+      "uid": "II_Kings_40",
+      "chapter_number": 2,
+      "verse_number": 22,
+      "start_char": 3621,
+      "end_char": 3662,
+      "length": 42,
+      "text": "וירפו המים עד היום הזה כדבר אלישע אשר דבר׃"
+    },
+    {
+      "uid": "II_Kings_41",
+      "chapter_number": 2,
+      "verse_number": 23,
+      "start_char": 3663,
+      "end_char": 3756,
+      "length": 94,
+      "text": "ויעל משם בית־אל והוא׀ עלה בדרך ונערים קטנים יצאו מן־העיר ויתקלסו־בו ויאמרו לו עלה קרח עלה קרח׃"
+    },
+    {
+      "uid": "II_Kings_42",
+      "chapter_number": 2,
+      "verse_number": 24,
+      "start_char": 3757,
+      "end_char": 3844,
+      "length": 88,
+      "text": "ויפן אחריו ויראם ויקללם בשם יהוה ותצאנה שתים דבים מן־היער ותבקענה מהם ארבעים ושני ילדים׃"
+    },
+    {
+      "uid": "II_Kings_43",
+      "chapter_number": 2,
+      "verse_number": 25,
+      "start_char": 3845,
+      "end_char": 3879,
+      "length": 35,
+      "text": "וילך משם אל־הר הכרמל ומשם שב שמרון׃"
+    },
+    {
+      "uid": "II_Kings_44",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 3880,
+      "end_char": 3967,
+      "length": 88,
+      "text": "ויהורם בן־אחאב מלך על־ישראל בשמרון בשנת שמנה עשרה ליהושפט מלך יהודה וימלך שתים־עשרה שנה׃"
+    },
+    {
+      "uid": "II_Kings_45",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 3968,
+      "end_char": 4037,
+      "length": 70,
+      "text": "ויעשה הרע בעיני יהוה רק לא כאביו וכאמו ויסר את־מצבת הבעל אשר עשה אביו׃"
+    },
+    {
+      "uid": "II_Kings_46",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 4038,
+      "end_char": 4094,
+      "length": 57,
+      "text": "רק בחטאות ירבעם בן־נבט אשר־החטיא את־ישראל דבק לא־סר ממנה׃"
+    },
+    {
+      "uid": "II_Kings_47",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 4095,
+      "end_char": 4166,
+      "length": 72,
+      "text": "ומישע מלך־מואב היה נקד והשיב למלך־ישראל מאה־אלף כרים ומאה אלף אילים צמר׃"
+    },
+    {
+      "uid": "II_Kings_48",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 4167,
+      "end_char": 4207,
+      "length": 41,
+      "text": "ויהי כמות אחאב ויפשע מלך־מואב במלך ישראל׃"
+    },
+    {
+      "uid": "II_Kings_49",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 4208,
+      "end_char": 4258,
+      "length": 51,
+      "text": "ויצא המלך יהורם ביום ההוא משמרון ויפקד את־כל־ישראל׃"
+    },
+    {
+      "uid": "II_Kings_50",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 4259,
+      "end_char": 4379,
+      "length": 121,
+      "text": "וילך וישלח אל־יהושפט מלך־יהודה לאמר מלך מואב פשע בי התלך אתי אל־מואב למלחמה ויאמר אעלה כמוני כמוך כעמי כעמך כסוסי כסוסיך׃"
+    },
+    {
+      "uid": "II_Kings_51",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 4380,
+      "end_char": 4421,
+      "length": 42,
+      "text": "ויאמר אי־זה הדרך נעלה ויאמר דרך מדבר אדום׃"
+    },
+    {
+      "uid": "II_Kings_52",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 4422,
+      "end_char": 4514,
+      "length": 93,
+      "text": "וילך מלך ישראל ומלך־יהודה ומלך אדום ויסבו דרך שבעת ימים ולא־היה מים למחנה ולבהמה אשר ברגליהם׃"
+    },
+    {
+      "uid": "II_Kings_53",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 4515,
+      "end_char": 4582,
+      "length": 68,
+      "text": "ויאמר מלך ישראל אהה כי־קרא יהוה לשלשת המלכים האלה לתת אותם ביד־מואב׃"
+    },
+    {
+      "uid": "II_Kings_54",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 4583,
+      "end_char": 4707,
+      "length": 125,
+      "text": "ויאמר יהושפט האין פה נביא ליהוה ונדרשה את־יהוה מאותו ויען אחד מעבדי מלך־ישראל ויאמר פה אלישע בן־שפט אשר־יצק מים על־ידי אליהו׃"
+    },
+    {
+      "uid": "II_Kings_55",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 4708,
+      "end_char": 4776,
+      "length": 69,
+      "text": "ויאמר יהושפט יש אותו דבר־יהוה וירדו אליו מלך ישראל ויהושפט ומלך אדום׃"
+    },
+    {
+      "uid": "II_Kings_56",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 4777,
+      "end_char": 4912,
+      "length": 136,
+      "text": "ויאמר אלישע אל־מלך ישראל מה־לי ולך לך אל־נביאי אביך ואל־נביאי אמך ויאמר לו מלך ישראל אל כי־קרא יהוה לשלשת המלכים האלה לתת אותם ביד־מואב׃"
+    },
+    {
+      "uid": "II_Kings_57",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 4913,
+      "end_char": 5013,
+      "length": 101,
+      "text": "ויאמר אלישע חי־יהוה צבאות אשר עמדתי לפניו כי לולי פני יהושפט מלך־יהודה אני נשא אם־אביט אליך ואם־אראך׃"
+    },
+    {
+      "uid": "II_Kings_58",
+      "chapter_number": 3,
+      "verse_number": 15,
+      "start_char": 5014,
+      "end_char": 5064,
+      "length": 51,
+      "text": "ועתה קחו־לי מנגן והיה כנגן המנגן ותהי עליו יד־יהוה׃"
+    },
+    {
+      "uid": "II_Kings_59",
+      "chapter_number": 3,
+      "verse_number": 16,
+      "start_char": 5065,
+      "end_char": 5105,
+      "length": 41,
+      "text": "ויאמר כה אמר יהוה עשה הנחל הזה גבים׀גבים׃"
+    },
+    {
+      "uid": "II_Kings_60",
+      "chapter_number": 3,
+      "verse_number": 17,
+      "start_char": 5106,
+      "end_char": 5193,
+      "length": 88,
+      "text": "כי־כה׀ אמר יהוה לא־תראו רוח ולא־תראו גשם והנחל ההוא ימלא מים ושתיתם אתם ומקניכם ובהמתכם׃"
+    },
+    {
+      "uid": "II_Kings_61",
+      "chapter_number": 3,
+      "verse_number": 18,
+      "start_char": 5194,
+      "end_char": 5232,
+      "length": 39,
+      "text": "ונקל זאת בעיני יהוה ונתן את־מואב בידכם׃"
+    },
+    {
+      "uid": "II_Kings_62",
+      "chapter_number": 3,
+      "verse_number": 19,
+      "start_char": 5233,
+      "end_char": 5331,
+      "length": 99,
+      "text": "והכיתם כל־עיר מבצר וכל־עיר מבחור וכל־עץ טוב תפילו וכל־מעיני־מים תסתמו וכל החלקה הטובה תכאבו באבנים׃"
+    },
+    {
+      "uid": "II_Kings_63",
+      "chapter_number": 3,
+      "verse_number": 20,
+      "start_char": 5332,
+      "end_char": 5396,
+      "length": 65,
+      "text": "ויהי בבקר כעלות המנחה והנה־מים באים מדרך אדום ותמלא הארץ את־המים׃"
+    },
+    {
+      "uid": "II_Kings_64",
+      "chapter_number": 3,
+      "verse_number": 21,
+      "start_char": 5397,
+      "end_char": 5475,
+      "length": 79,
+      "text": "וכל־מואב שמעו כי־עלו המלכים להלחם בם ויצעקו מכל חגר חגרה ומעלה ויעמדו על־הגבול׃"
+    },
+    {
+      "uid": "II_Kings_65",
+      "chapter_number": 3,
+      "verse_number": 22,
+      "start_char": 5476,
+      "end_char": 5541,
+      "length": 66,
+      "text": "וישכימו בבקר והשמש זרחה על־המים ויראו מואב מנגד את־המים אדמים כדם׃"
+    },
+    {
+      "uid": "II_Kings_66",
+      "chapter_number": 3,
+      "verse_number": 23,
+      "start_char": 5542,
+      "end_char": 5604,
+      "length": 63,
+      "text": "ויאמרו דם זה החרב נחרבו המלכים ויכו איש את־רעהו ועתה לשלל מואב׃"
+    },
+    {
+      "uid": "II_Kings_67",
+      "chapter_number": 3,
+      "verse_number": 24,
+      "start_char": 5605,
+      "end_char": 5693,
+      "length": 89,
+      "text": "ויבאו אל־מחנה ישראל ויקמו ישראל ויכו את־מואב וינסו מפניהם (ויבו) [ויכו־]בה והכות את־מואב׃"
+    },
+    {
+      "uid": "II_Kings_68",
+      "chapter_number": 3,
+      "verse_number": 25,
+      "start_char": 5694,
+      "end_char": 5823,
+      "length": 130,
+      "text": "והערים יהרסו וכל־חלקה טובה ישליכו איש־אבנו ומלאוה וכל־מעין־מים יסתמו וכל־עץ־טוב יפילו עד־השאיר אבניה בקיר חרשת ויסבו הקלעים ויכוה׃"
+    },
+    {
+      "uid": "II_Kings_69",
+      "chapter_number": 3,
+      "verse_number": 26,
+      "start_char": 5824,
+      "end_char": 5915,
+      "length": 92,
+      "text": "וירא מלך מואב כי־חזק ממנו המלחמה ויקח אותו שבע־מאות איש שלף חרב להבקיע אל־מלך אדום ולא יכלו׃"
+    },
+    {
+      "uid": "II_Kings_70",
+      "chapter_number": 3,
+      "verse_number": 27,
+      "start_char": 5916,
+      "end_char": 6013,
+      "length": 98,
+      "text": "ויקח את־בנו הבכור אשר־ימלך תחתיו ויעלהו עלה על־החמה ויהי קצף־גדול על־ישראל ויסעו מעליו וישבו לארץ׃"
+    },
+    {
+      "uid": "II_Kings_71",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 6014,
+      "end_char": 6141,
+      "length": 128,
+      "text": "ואשה אחת מנשי בני־הנביאים צעקה אל־אלישע לאמר עבדך אישי מת ואתה ידעת כי עבדך היה ירא את־יהוה והנשה בא לקחת את־שני ילדי לו לעבדים׃"
+    },
+    {
+      "uid": "II_Kings_72",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 6142,
+      "end_char": 6240,
+      "length": 99,
+      "text": "ויאמר אליה אלישע מה אעשה־לך הגידי לי מה־יש־[לך] (לכי) בבית ותאמר אין לשפחתך כל בבית כי אם־אסוך שמן׃"
+    },
+    {
+      "uid": "II_Kings_73",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 6241,
+      "end_char": 6314,
+      "length": 74,
+      "text": "ויאמר לכי שאלי־לך כלים מן־החוץ מאת כל־[שכניך] (שכנכי) כלים רקים אל־תמעיטי׃"
+    },
+    {
+      "uid": "II_Kings_74",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 6315,
+      "end_char": 6380,
+      "length": 66,
+      "text": "ובאת וסגרת הדלת בעדך ובעד־בניך ויצקת על כל־הכלים האלה והמלא תסיעי׃"
+    },
+    {
+      "uid": "II_Kings_75",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 6381,
+      "end_char": 6452,
+      "length": 72,
+      "text": "ותלך מאתו ותסגר הדלת בעדה ובעד בניה הם מגישים אליה והיא (מיצקת) [מוצקת]׃"
+    },
+    {
+      "uid": "II_Kings_76",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 6453,
+      "end_char": 6535,
+      "length": 83,
+      "text": "ויהי׀ כמלאת הכלים ותאמר אל־בנה הגישה אלי עוד כלי ויאמר אליה אין עוד כלי ויעמד השמן׃"
+    },
+    {
+      "uid": "II_Kings_77",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 6536,
+      "end_char": 6635,
+      "length": 100,
+      "text": "ותבא ותגד לאיש האלהים ויאמר לכי מכרי את־השמן ושלמי את־[נשיך] (נשיכי) ואת [ובניך] (בניכי) תחיי בנותר׃"
+    },
+    {
+      "uid": "II_Kings_78",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 6636,
+      "end_char": 6728,
+      "length": 93,
+      "text": "ויהי היום ויעבר אלישע אל־שונם ושם אשה גדולה ותחזק־בו לאכל־לחם ויהי מדי עברו יסר שמה לאכל־לחם׃"
+    },
+    {
+      "uid": "II_Kings_79",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 6729,
+      "end_char": 6792,
+      "length": 64,
+      "text": "ותאמר אל־אישה הנה־נא ידעתי כי איש אלהים קדוש הוא עבר עלינו תמיד׃"
+    },
+    {
+      "uid": "II_Kings_80",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 6793,
+      "end_char": 6873,
+      "length": 81,
+      "text": "נעשה־נא עלית־קיר קטנה ונשים לו שם מטה ושלחן וכסא ומנורה והיה בבאו אלינו יסור שמה׃"
+    },
+    {
+      "uid": "II_Kings_81",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 6874,
+      "end_char": 6916,
+      "length": 43,
+      "text": "ויהי היום ויבא שמה ויסר אל־העליה וישכב־שמה׃"
+    },
+    {
+      "uid": "II_Kings_82",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 6917,
+      "end_char": 6974,
+      "length": 58,
+      "text": "ויאמר אל־גיחזי נערו קרא לשונמית הזאת ויקרא־לה ותעמד לפניו׃"
+    },
+    {
+      "uid": "II_Kings_83",
+      "chapter_number": 4,
+      "verse_number": 13,
+      "start_char": 6975,
+      "end_char": 7098,
+      "length": 124,
+      "text": "ויאמר לו אמר־נא אליה הנה חרדת׀אלינו את־כל־החרדה הזאת מה לעשות לך היש לדבר־לך אל־המלך או אל־שר הצבא ותאמר בתוך עמי אנכי ישבת׃"
+    },
+    {
+      "uid": "II_Kings_84",
+      "chapter_number": 4,
+      "verse_number": 14,
+      "start_char": 7099,
+      "end_char": 7153,
+      "length": 55,
+      "text": "ויאמר ומה לעשות לה ויאמר גיחזי אבל בן אין־לה ואישה זקן׃"
+    },
+    {
+      "uid": "II_Kings_85",
+      "chapter_number": 4,
+      "verse_number": 15,
+      "start_char": 7154,
+      "end_char": 7186,
+      "length": 33,
+      "text": "ויאמר קרא־לה ויקרא־לה ותעמד בפתח׃"
+    },
+    {
+      "uid": "II_Kings_86",
+      "chapter_number": 4,
+      "verse_number": 16,
+      "start_char": 7187,
+      "end_char": 7269,
+      "length": 83,
+      "text": "ויאמר למועד הזה כעת חיה (אתי) [את] חבקת בן ותאמר אל־אדני איש האלהים אל־תכזב בשפחתך׃"
+    },
+    {
+      "uid": "II_Kings_87",
+      "chapter_number": 4,
+      "verse_number": 17,
+      "start_char": 7270,
+      "end_char": 7324,
+      "length": 55,
+      "text": "ותהר האשה ותלד בן למועד הזה כעת חיה אשר־דבר אליה אלישע׃"
+    },
+    {
+      "uid": "II_Kings_88",
+      "chapter_number": 4,
+      "verse_number": 18,
+      "start_char": 7325,
+      "end_char": 7368,
+      "length": 44,
+      "text": "ויגדל הילד ויהי היום ויצא אל־אביו אל־הקצרים׃"
+    },
+    {
+      "uid": "II_Kings_89",
+      "chapter_number": 4,
+      "verse_number": 19,
+      "start_char": 7369,
+      "end_char": 7418,
+      "length": 50,
+      "text": "ויאמר אל־אביו ראשי׀ראשי ויאמר אל־הנער שאהו אל־אמו׃"
+    },
+    {
+      "uid": "II_Kings_90",
+      "chapter_number": 4,
+      "verse_number": 20,
+      "start_char": 7419,
+      "end_char": 7469,
+      "length": 51,
+      "text": "וישאהו ויביאהו אל־אמו וישב על־ברכיה עד־הצהרים וימת׃"
+    },
+    {
+      "uid": "II_Kings_91",
+      "chapter_number": 4,
+      "verse_number": 21,
+      "start_char": 7470,
+      "end_char": 7516,
+      "length": 47,
+      "text": "ותעל ותשכבהו על־מטת איש האלהים ותסגר בעדו ותצא׃"
+    },
+    {
+      "uid": "II_Kings_92",
+      "chapter_number": 4,
+      "verse_number": 22,
+      "start_char": 7517,
+      "end_char": 7601,
+      "length": 85,
+      "text": "ותקרא אל־אישה ותאמר שלחה נא לי אחד מן־הנערים ואחת האתנות וארוצה עד־איש האלהים ואשובה׃"
+    },
+    {
+      "uid": "II_Kings_93",
+      "chapter_number": 4,
+      "verse_number": 23,
+      "start_char": 7602,
+      "end_char": 7674,
+      "length": 73,
+      "text": "ויאמר מדוע (אתי) [את] (הלכתי) [הלכת] אליו היום לא־חדש ולא שבת ותאמר שלום׃"
+    },
+    {
+      "uid": "II_Kings_94",
+      "chapter_number": 4,
+      "verse_number": 24,
+      "start_char": 7675,
+      "end_char": 7739,
+      "length": 65,
+      "text": "ותחבש האתון ותאמר אל־נערה נהג ולך אל־תעצר־לי לרכב כי אם־אמרתי לך׃"
+    },
+    {
+      "uid": "II_Kings_95",
+      "chapter_number": 4,
+      "verse_number": 25,
+      "start_char": 7740,
+      "end_char": 7842,
+      "length": 103,
+      "text": "ותלך ותבא אל־איש האלהים אל־הר הכרמל ויהי כראות איש־האלהים אתה מנגד ויאמר אל־גיחזי נערו הנה השונמית הלז׃"
+    },
+    {
+      "uid": "II_Kings_96",
+      "chapter_number": 4,
+      "verse_number": 26,
+      "start_char": 7843,
+      "end_char": 7911,
+      "length": 69,
+      "text": "עתה רוץ־נא לקראתה ואמר־לה השלום לך השלום לאישך השלום לילד ותאמר שלום׃"
+    },
+    {
+      "uid": "II_Kings_97",
+      "chapter_number": 4,
+      "verse_number": 27,
+      "start_char": 7912,
+      "end_char": 8036,
+      "length": 125,
+      "text": "ותבא אל־איש האלהים אל־ההר ותחזק ברגליו ויגש גיחזי להדפה ויאמר איש האלהים הרפה־לה כי־נפשה מרה־לה ויהוה העלים ממני ולא הגיד לי׃"
+    },
+    {
+      "uid": "II_Kings_98",
+      "chapter_number": 4,
+      "verse_number": 28,
+      "start_char": 8037,
+      "end_char": 8083,
+      "length": 47,
+      "text": "ותאמר השאלתי בן מאת אדני הלא אמרתי לא תשלה אתי׃"
+    },
+    {
+      "uid": "II_Kings_99",
+      "chapter_number": 4,
+      "verse_number": 29,
+      "start_char": 8084,
+      "end_char": 8195,
+      "length": 112,
+      "text": "ויאמר לגיחזי חגר מתניך וקח משענתי בידך ולך כי־תמצא איש לא תברכנו וכי־יברכך איש לא תעננו ושמת משענתי על־פני הנער׃"
+    },
+    {
+      "uid": "II_Kings_100",
+      "chapter_number": 4,
+      "verse_number": 30,
+      "start_char": 8196,
+      "end_char": 8251,
+      "length": 56,
+      "text": "ותאמר אם הנער חי־יהוה וחי־נפשך אם־אעזבך ויקם וילך אחריה׃"
+    },
+    {
+      "uid": "II_Kings_101",
+      "chapter_number": 4,
+      "verse_number": 31,
+      "start_char": 8252,
+      "end_char": 8351,
+      "length": 100,
+      "text": "וגחזי עבר לפניהם וישם את־המשענת על־פני הנער ואין קול ואין קשב וישב לקראתו ויגד־לו לאמר לא הקיץ הנער׃"
+    },
+    {
+      "uid": "II_Kings_102",
+      "chapter_number": 4,
+      "verse_number": 32,
+      "start_char": 8352,
+      "end_char": 8394,
+      "length": 43,
+      "text": "ויבא אלישע הביתה והנה הנער מת משכב על־מטתו׃"
+    },
+    {
+      "uid": "II_Kings_103",
+      "chapter_number": 4,
+      "verse_number": 33,
+      "start_char": 8395,
+      "end_char": 8435,
+      "length": 41,
+      "text": "ויבא ויסגר הדלת בעד שניהם ויתפלל אל־יהוה׃"
+    },
+    {
+      "uid": "II_Kings_104",
+      "chapter_number": 4,
+      "verse_number": 34,
+      "start_char": 8436,
+      "end_char": 8524,
+      "length": 89,
+      "text": "ויעל וישכב על־הילד וישם פיו על־פיו ועיניו על־עיניו וכפיו על־כפו ויגהר עליו ויחם בשר הילד׃"
+    },
+    {
+      "uid": "II_Kings_105",
+      "chapter_number": 4,
+      "verse_number": 35,
+      "start_char": 8525,
+      "end_char": 8617,
+      "length": 93,
+      "text": "וישב וילך בבית אחת הנה ואחת הנה ויעל ויגהר עליו ויזורר הנער עד־שבע פעמים ויפקח הנער את־עיניו׃"
+    },
+    {
+      "uid": "II_Kings_106",
+      "chapter_number": 4,
+      "verse_number": 36,
+      "start_char": 8618,
+      "end_char": 8688,
+      "length": 71,
+      "text": "ויקרא אל־גיחזי ויאמר קרא אל־השנמית הזאת ויקראה ותבא אליו ויאמר שאי בנך׃"
+    },
+    {
+      "uid": "II_Kings_107",
+      "chapter_number": 4,
+      "verse_number": 37,
+      "start_char": 8689,
+      "end_char": 8736,
+      "length": 48,
+      "text": "ותבא ותפל על־רגליו ותשתחו ארצה ותשא את־בנה ותצא׃"
+    },
+    {
+      "uid": "II_Kings_108",
+      "chapter_number": 4,
+      "verse_number": 38,
+      "start_char": 8737,
+      "end_char": 8840,
+      "length": 104,
+      "text": "ואלישע שב הגלגלה והרעב בארץ ובני הנביאים ישבים לפניו ויאמר לנערו שפת הסיר הגדולה ובשל נזיד לבני הנביאים׃"
+    },
+    {
+      "uid": "II_Kings_109",
+      "chapter_number": 4,
+      "verse_number": 39,
+      "start_char": 8841,
+      "end_char": 8944,
+      "length": 104,
+      "text": "ויצא אחד אל־השדה ללקט ארת וימצא גפן שדה וילקט ממנו פקעת שדה מלא בגדו ויבא ויפלח אל־סיר הנזיד כי־לא ידעו׃"
+    },
+    {
+      "uid": "II_Kings_110",
+      "chapter_number": 4,
+      "verse_number": 40,
+      "start_char": 8945,
+      "end_char": 9032,
+      "length": 88,
+      "text": "ויצקו לאנשים לאכול ויהי כאכלם מהנזיד והמה צעקו ויאמרו מות בסיר איש האלהים ולא יכלו לאכל׃"
+    },
+    {
+      "uid": "II_Kings_111",
+      "chapter_number": 4,
+      "verse_number": 41,
+      "start_char": 9033,
+      "end_char": 9101,
+      "length": 69,
+      "text": "ויאמר וקחו־קמח וישלך אל־הסיר ויאמר צק לעם ויאכלו ולא היה דבר רע בסיר׃"
+    },
+    {
+      "uid": "II_Kings_112",
+      "chapter_number": 4,
+      "verse_number": 42,
+      "start_char": 9102,
+      "end_char": 9196,
+      "length": 95,
+      "text": "ואיש בא מבעל שלשה ויבא לאיש האלהים לחם בכורים עשרים־לחם שערים וכרמל בצקלנו ויאמר תן לעם ויאכלו׃"
+    },
+    {
+      "uid": "II_Kings_113",
+      "chapter_number": 4,
+      "verse_number": 43,
+      "start_char": 9197,
+      "end_char": 9276,
+      "length": 80,
+      "text": "ויאמר משרתו מה אתן זה לפני מאה איש ויאמר תן לעם ויאכלו כי כה אמר יהוה אכל והותר׃"
+    },
+    {
+      "uid": "II_Kings_114",
+      "chapter_number": 4,
+      "verse_number": 44,
+      "start_char": 9277,
+      "end_char": 9312,
+      "length": 36,
+      "text": "ויתן לפניהם ויאכלו ויותרו כדבר יהוה׃"
+    },
+    {
+      "uid": "II_Kings_115",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 9313,
+      "end_char": 9417,
+      "length": 105,
+      "text": "ונעמן שר־צבא מלך־ארם היה איש גדול לפני אדניו ונשא פנים כי־בו נתן־יהוה תשועה לארם והאיש היה גבור חיל מצרע׃"
+    },
+    {
+      "uid": "II_Kings_116",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 9418,
+      "end_char": 9480,
+      "length": 63,
+      "text": "וארם יצאו גדודים וישבו מארץ ישראל נערה קטנה ותהי לפני אשת נעמן׃"
+    },
+    {
+      "uid": "II_Kings_117",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 9481,
+      "end_char": 9546,
+      "length": 66,
+      "text": "ותאמר אל־גברתה אחלי אדני לפני הנביא אשר בשמרון אז יאסף אתו מצרעתו׃"
+    },
+    {
+      "uid": "II_Kings_118",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 9547,
+      "end_char": 9605,
+      "length": 59,
+      "text": "ויבא ויגד לאדניו לאמר כזאת וכזאת דברה הנערה אשר מארץ ישראל׃"
+    },
+    {
+      "uid": "II_Kings_119",
+      "chapter_number": 5,
+      "verse_number": 5,
+      "start_char": 9606,
+      "end_char": 9710,
+      "length": 105,
+      "text": "ויאמר מלך־ארם לך־בא ואשלחה ספר אל־מלך ישראל וילך ויקח בידו עשר ככרי־כסף וששת אלפים זהב ועשר חליפות בגדים׃"
+    },
+    {
+      "uid": "II_Kings_120",
+      "chapter_number": 5,
+      "verse_number": 6,
+      "start_char": 9711,
+      "end_char": 9804,
+      "length": 94,
+      "text": "ויבא הספר אל־מלך ישראל לאמר ועתה כבוא הספר הזה אליך הנה שלחתי אליך את־נעמן עבדי ואספתו מצרעתו׃"
+    },
+    {
+      "uid": "II_Kings_121",
+      "chapter_number": 5,
+      "verse_number": 7,
+      "start_char": 9805,
+      "end_char": 9939,
+      "length": 135,
+      "text": "ויהי כקרא מלך־ישראל את־הספר ויקרע בגדיו ויאמר האלהים אני להמית ולהחיות כי־זה שלח אלי לאסף איש מצרעתו כי אך־דעו־נא וראו כי־מתאנה הוא לי׃"
+    },
+    {
+      "uid": "II_Kings_122",
+      "chapter_number": 5,
+      "verse_number": 8,
+      "start_char": 9940,
+      "end_char": 10061,
+      "length": 122,
+      "text": "ויהי כשמע׀ אלישע איש־האלהים כי־קרע מלך־ישראל את־בגדיו וישלח אל־המלך לאמר למה קרעת בגדיך יבא־נא אלי וידע כי יש נביא בישראל׃"
+    },
+    {
+      "uid": "II_Kings_123",
+      "chapter_number": 5,
+      "verse_number": 9,
+      "start_char": 10062,
+      "end_char": 10106,
+      "length": 45,
+      "text": "ויבא נעמן בסוסו וברכבו ויעמד פתח־הבית לאלישע׃"
+    },
+    {
+      "uid": "II_Kings_124",
+      "chapter_number": 5,
+      "verse_number": 10,
+      "start_char": 10107,
+      "end_char": 10178,
+      "length": 72,
+      "text": "וישלח אליו אלישע מלאך לאמר הלוך ורחצת שבע־פעמים בירדן וישב בשרך לך וטהר׃"
+    },
+    {
+      "uid": "II_Kings_125",
+      "chapter_number": 5,
+      "verse_number": 11,
+      "start_char": 10179,
+      "end_char": 10279,
+      "length": 101,
+      "text": "ויקצף נעמן וילך ויאמר הנה אמרתי אלי׀ יצא יצוא ועמד וקרא בשם־יהוה אלהיו והניף ידו אל־המקום ואסף המצרע׃"
+    },
+    {
+      "uid": "II_Kings_126",
+      "chapter_number": 5,
+      "verse_number": 12,
+      "start_char": 10280,
+      "end_char": 10368,
+      "length": 89,
+      "text": "הלא טוב (אבנה) [אמנה] ופרפר נהרות דמשק מכל מימי ישראל הלא־ארחץ בהם וטהרתי ויפן וילך בחמה׃"
+    },
+    {
+      "uid": "II_Kings_127",
+      "chapter_number": 5,
+      "verse_number": 13,
+      "start_char": 10369,
+      "end_char": 10462,
+      "length": 94,
+      "text": "ויגשו עבדיו וידברו אליו ויאמרו אבי דבר גדול הנביא דבר אליך הלוא תעשה ואף כי־אמר אליך רחץ וטהר׃"
+    },
+    {
+      "uid": "II_Kings_128",
+      "chapter_number": 5,
+      "verse_number": 14,
+      "start_char": 10463,
+      "end_char": 10534,
+      "length": 72,
+      "text": "וירד ויטבל בירדן שבע פעמים כדבר איש האלהים וישב בשרו כבשר נער קטן ויטהר׃"
+    },
+    {
+      "uid": "II_Kings_129",
+      "chapter_number": 5,
+      "verse_number": 15,
+      "start_char": 10535,
+      "end_char": 10663,
+      "length": 129,
+      "text": "וישב אל־איש האלהים הוא וכל־מחנהו ויבא ויעמד לפניו ויאמר הנה־נא ידעתי כי אין אלהים בכל־הארץ כי אם־בישראל ועתה קח־נא ברכה מאת עבדך׃"
+    },
+    {
+      "uid": "II_Kings_130",
+      "chapter_number": 5,
+      "verse_number": 16,
+      "start_char": 10664,
+      "end_char": 10720,
+      "length": 57,
+      "text": "ויאמר חי־יהוה אשר־עמדתי לפניו אם־אקח ויפצר־בו לקחת וימאן׃"
+    },
+    {
+      "uid": "II_Kings_131",
+      "chapter_number": 5,
+      "verse_number": 17,
+      "start_char": 10721,
+      "end_char": 10822,
+      "length": 102,
+      "text": "ויאמר נעמן ולא יתן־נא לעבדך משא צמד־פרדים אדמה כי לוא־יעשה עוד עבדך עלה וזבח לאלהים אחרים כי אם־ליהוה׃"
+    },
+    {
+      "uid": "II_Kings_132",
+      "chapter_number": 5,
+      "verse_number": 18,
+      "start_char": 10823,
+      "end_char": 10962,
+      "length": 140,
+      "text": "לדבר הזה יסלח יהוה לעבדך בבוא אדני בית־רמון להשתחות שמה והוא׀ נשען על־ידי והשתחויתי בית רמן בהשתחויתי בית רמן יסלח־(נא)־יהוה לעבדך בדבר הזה׃"
+    },
+    {
+      "uid": "II_Kings_133",
+      "chapter_number": 5,
+      "verse_number": 19,
+      "start_char": 10963,
+      "end_char": 10999,
+      "length": 37,
+      "text": "ויאמר לו לך לשלום וילך מאתו כברת־ארץ׃"
+    },
+    {
+      "uid": "II_Kings_134",
+      "chapter_number": 5,
+      "verse_number": 20,
+      "start_char": 11000,
+      "end_char": 11129,
+      "length": 130,
+      "text": "ויאמר גיחזי נער אלישע איש־האלהים הנה׀ חשך אדני את־נעמן הארמי הזה מקחת מידו את אשר־הביא חי־יהוה כי־אם־רצתי אחריו ולקחתי מאתו מאומה׃"
+    },
+    {
+      "uid": "II_Kings_135",
+      "chapter_number": 5,
+      "verse_number": 21,
+      "start_char": 11130,
+      "end_char": 11206,
+      "length": 77,
+      "text": "וירדף גיחזי אחרי נעמן ויראה נעמן רץ אחריו ויפל מעל המרכבה לקראתו ויאמר השלום׃"
+    },
+    {
+      "uid": "II_Kings_136",
+      "chapter_number": 5,
+      "verse_number": 22,
+      "start_char": 11207,
+      "end_char": 11322,
+      "length": 116,
+      "text": "ויאמר׀ שלום אדני שלחני לאמר הנה עתה זה באו אלי שני־נערים מהר אפרים מבני הנביאים תנה־נא להם ככר־כסף ושתי חלפות בגדים׃"
+    },
+    {
+      "uid": "II_Kings_137",
+      "chapter_number": 5,
+      "verse_number": 23,
+      "start_char": 11323,
+      "end_char": 11429,
+      "length": 107,
+      "text": "ויאמר נעמן הואל קח ככרים ויפרץ־בו ויצר ככרים כסף בשני חרטים ושתי חלפות בגדים ויתן אל־שני נעריו וישאו לפניו׃"
+    },
+    {
+      "uid": "II_Kings_138",
+      "chapter_number": 5,
+      "verse_number": 24,
+      "start_char": 11430,
+      "end_char": 11485,
+      "length": 56,
+      "text": "ויבא אל־העפל ויקח מידם ויפקד בבית וישלח את־האנשים וילכו׃"
+    },
+    {
+      "uid": "II_Kings_139",
+      "chapter_number": 5,
+      "verse_number": 25,
+      "start_char": 11486,
+      "end_char": 11570,
+      "length": 85,
+      "text": "והוא־בא ויעמד אל־אדניו ויאמר אליו אלישע (מאן) [מאין] גחזי ויאמר לא־הלך עבדך אנה ואנה׃"
+    },
+    {
+      "uid": "II_Kings_140",
+      "chapter_number": 5,
+      "verse_number": 26,
+      "start_char": 11571,
+      "end_char": 11690,
+      "length": 120,
+      "text": "ויאמר אליו לא־לבי הלך כאשר הפך־איש מעל מרכבתו לקראתך העת לקחת את־הכסף ולקחת בגדים וזיתים וכרמים וצאן ובקר ועבדים ושפחות׃"
+    },
+    {
+      "uid": "II_Kings_141",
+      "chapter_number": 5,
+      "verse_number": 27,
+      "start_char": 11691,
+      "end_char": 11744,
+      "length": 54,
+      "text": "וצרעת נעמן תדבק־בך ובזרעך לעולם ויצא מלפניו מצרע כשלג׃"
+    },
+    {
+      "uid": "II_Kings_142",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 11745,
+      "end_char": 11818,
+      "length": 74,
+      "text": "ויאמרו בני־הנביאים אל־אלישע הנה־נא המקום אשר אנחנו ישבים שם לפניך צר ממנו׃"
+    },
+    {
+      "uid": "II_Kings_143",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 11819,
+      "end_char": 11894,
+      "length": 76,
+      "text": "נלכה־נא עד־הירדן ונקחה משם איש קורה אחת ונעשה־לנו שם מקום לשבת שם ויאמר לכו׃"
+    },
+    {
+      "uid": "II_Kings_144",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 11895,
+      "end_char": 11940,
+      "length": 46,
+      "text": "ויאמר האחד הואל נא ולך את־עבדיך ויאמר אני אלך׃"
+    },
+    {
+      "uid": "II_Kings_145",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 11941,
+      "end_char": 11975,
+      "length": 35,
+      "text": "וילך אתם ויבאו הירדנה ויגזרו העצים׃"
+    },
+    {
+      "uid": "II_Kings_146",
+      "chapter_number": 6,
+      "verse_number": 5,
+      "start_char": 11976,
+      "end_char": 12049,
+      "length": 74,
+      "text": "ויהי האחד מפיל הקורה ואת־הברזל נפל אל־המים ויצעק ויאמר אהה אדני והוא שאול׃"
+    },
+    {
+      "uid": "II_Kings_147",
+      "chapter_number": 6,
+      "verse_number": 6,
+      "start_char": 12050,
+      "end_char": 12120,
+      "length": 71,
+      "text": "ויאמר איש־האלהים אנה נפל ויראהו את־המקום ויקצב־עץ וישלך־שמה ויצף הברזל׃"
+    },
+    {
+      "uid": "II_Kings_148",
+      "chapter_number": 6,
+      "verse_number": 7,
+      "start_char": 12121,
+      "end_char": 12150,
+      "length": 30,
+      "text": "ויאמר הרם לך וישלח ידו ויקחהו׃"
+    },
+    {
+      "uid": "II_Kings_149",
+      "chapter_number": 6,
+      "verse_number": 8,
+      "start_char": 12151,
+      "end_char": 12220,
+      "length": 70,
+      "text": "ומלך ארם היה נלחם בישראל ויועץ אל־עבדיו לאמר אל־מקום פלני אלמני תחנתי׃"
+    },
+    {
+      "uid": "II_Kings_150",
+      "chapter_number": 6,
+      "verse_number": 9,
+      "start_char": 12221,
+      "end_char": 12291,
+      "length": 71,
+      "text": "וישלח איש האלהים אל־מלך ישראל לאמר השמר מעבר המקום הזה כי־שם ארם נחתים׃"
+    },
+    {
+      "uid": "II_Kings_151",
+      "chapter_number": 6,
+      "verse_number": 10,
+      "start_char": 12292,
+      "end_char": 12371,
+      "length": 80,
+      "text": "וישלח מלך ישראל אל־המקום אשר אמר־לו איש־האלהים והזהירה ונשמר שם לא אחת ולא שתים׃"
+    },
+    {
+      "uid": "II_Kings_152",
+      "chapter_number": 6,
+      "verse_number": 11,
+      "start_char": 12372,
+      "end_char": 12463,
+      "length": 92,
+      "text": "ויסער לב מלך־ארם על־הדבר הזה ויקרא אל־עבדיו ויאמר אליהם הלוא תגידו לי מי משלנו אל־מלך ישראל׃"
+    },
+    {
+      "uid": "II_Kings_153",
+      "chapter_number": 6,
+      "verse_number": 12,
+      "start_char": 12464,
+      "end_char": 12566,
+      "length": 103,
+      "text": "ויאמר אחד מעבדיו לוא אדני המלך כי־אלישע הנביא אשר בישראל יגיד למלך ישראל את־הדברים אשר תדבר בחדר משכבך׃"
+    },
+    {
+      "uid": "II_Kings_154",
+      "chapter_number": 6,
+      "verse_number": 13,
+      "start_char": 12567,
+      "end_char": 12625,
+      "length": 59,
+      "text": "ויאמר לכו וראו איכה הוא ואשלח ואקחהו ויגד־לו לאמר הנה בדתן׃"
+    },
+    {
+      "uid": "II_Kings_155",
+      "chapter_number": 6,
+      "verse_number": 14,
+      "start_char": 12626,
+      "end_char": 12680,
+      "length": 55,
+      "text": "וישלח־שמה סוסים ורכב וחיל כבד ויבאו לילה ויקפו על־העיר׃"
+    },
+    {
+      "uid": "II_Kings_156",
+      "chapter_number": 6,
+      "verse_number": 15,
+      "start_char": 12681,
+      "end_char": 12779,
+      "length": 99,
+      "text": "וישכם משרת איש האלהים לקום ויצא והנה־חיל סובב את־העיר וסוס ורכב ויאמר נערו אליו אהה אדני איכה נעשה׃"
+    },
+    {
+      "uid": "II_Kings_157",
+      "chapter_number": 6,
+      "verse_number": 16,
+      "start_char": 12780,
+      "end_char": 12820,
+      "length": 41,
+      "text": "ויאמר אל־תירא כי רבים אשר אתנו מאשר אותם׃"
+    },
+    {
+      "uid": "II_Kings_158",
+      "chapter_number": 6,
+      "verse_number": 17,
+      "start_char": 12821,
+      "end_char": 12934,
+      "length": 114,
+      "text": "ויתפלל אלישע ויאמר יהוה פקח־נא את־עיניו ויראה ויפקח יהוה את־עיני הנער וירא והנה ההר מלא סוסים ורכב אש סביבת אלישע׃"
+    },
+    {
+      "uid": "II_Kings_159",
+      "chapter_number": 6,
+      "verse_number": 18,
+      "start_char": 12935,
+      "end_char": 13022,
+      "length": 88,
+      "text": "וירדו אליו ויתפלל אלישע אל־יהוה ויאמר הך־נא את־הגוי־הזה בסנורים ויכם בסנורים כדבר אלישע׃"
+    },
+    {
+      "uid": "II_Kings_160",
+      "chapter_number": 6,
+      "verse_number": 19,
+      "start_char": 13023,
+      "end_char": 13120,
+      "length": 98,
+      "text": "ויאמר אלהם אלישע לא זה הדרך ולא זה העיר לכו אחרי ואוליכה אתכם אל־האיש אשר תבקשון וילך אותם שמרונה׃"
+    },
+    {
+      "uid": "II_Kings_161",
+      "chapter_number": 6,
+      "verse_number": 20,
+      "start_char": 13121,
+      "end_char": 13218,
+      "length": 98,
+      "text": "ויהי כבאם שמרון ויאמר אלישע יהוה פקח את־עיני־אלה ויראו ויפקח יהוה את־עיניהם ויראו והנה בתוך שמרון׃"
+    },
+    {
+      "uid": "II_Kings_162",
+      "chapter_number": 6,
+      "verse_number": 21,
+      "start_char": 13219,
+      "end_char": 13267,
+      "length": 49,
+      "text": "ויאמר מלך־ישראל אל־אלישע כראתו אותם האכה אכה אבי׃"
+    },
+    {
+      "uid": "II_Kings_163",
+      "chapter_number": 6,
+      "verse_number": 22,
+      "start_char": 13268,
+      "end_char": 13360,
+      "length": 93,
+      "text": "ויאמר לא תכה האשר שבית בחרבך ובקשתך אתה מכה שים לחם ומים לפניהם ויאכלו וישתו וילכו אל־אדניהם׃"
+    },
+    {
+      "uid": "II_Kings_164",
+      "chapter_number": 6,
+      "verse_number": 23,
+      "start_char": 13361,
+      "end_char": 13455,
+      "length": 95,
+      "text": "ויכרה להם כרה גדולה ויאכלו וישתו וישלחם וילכו אל־אדניהם ולא־יספו עוד גדודי ארם לבוא בארץ ישראל׃"
+    },
+    {
+      "uid": "II_Kings_165",
+      "chapter_number": 6,
+      "verse_number": 24,
+      "start_char": 13456,
+      "end_char": 13520,
+      "length": 65,
+      "text": "ויהי אחרי־כן ויקבץ בן־הדד מלך־ארם את־כל־מחנהו ויעל ויצר על־שמרון׃"
+    },
+    {
+      "uid": "II_Kings_166",
+      "chapter_number": 6,
+      "verse_number": 25,
+      "start_char": 13521,
+      "end_char": 13620,
+      "length": 100,
+      "text": "ויהי רעב גדול בשמרון והנה צרים עליה עד היות ראש־חמור בשמנים כסף ורבע הקב (חרי) [דב־]יונים בחמשה־כסף׃"
+    },
+    {
+      "uid": "II_Kings_167",
+      "chapter_number": 6,
+      "verse_number": 26,
+      "start_char": 13621,
+      "end_char": 13684,
+      "length": 64,
+      "text": "ויהי מלך ישראל עבר על־החמה ואשה צעקה אליו לאמר הושיעה אדני המלך׃"
+    },
+    {
+      "uid": "II_Kings_168",
+      "chapter_number": 6,
+      "verse_number": 27,
+      "start_char": 13685,
+      "end_char": 13736,
+      "length": 52,
+      "text": "ויאמר אל־יושעך יהוה מאין אושיעך המן־הגרן או מן־היקב׃"
+    },
+    {
+      "uid": "II_Kings_169",
+      "chapter_number": 6,
+      "verse_number": 28,
+      "start_char": 13737,
+      "end_char": 13822,
+      "length": 86,
+      "text": "ויאמר־לה המלך מה־לך ותאמר האשה הזאת אמרה אלי תני את־בנך ונאכלנו היום ואת־בני נאכל מחר׃"
+    },
+    {
+      "uid": "II_Kings_170",
+      "chapter_number": 6,
+      "verse_number": 29,
+      "start_char": 13823,
+      "end_char": 13895,
+      "length": 73,
+      "text": "ונבשל את־בני ונאכלהו ואמר אליה ביום האחר תני את־בנך ונאכלנו ותחבא את־בנה׃"
+    },
+    {
+      "uid": "II_Kings_171",
+      "chapter_number": 6,
+      "verse_number": 30,
+      "start_char": 13896,
+      "end_char": 13986,
+      "length": 91,
+      "text": "ויהי כשמע המלך את־דברי האשה ויקרע את־בגדיו והוא עבר על־החמה וירא העם והנה השק על־בשרו מבית׃"
+    },
+    {
+      "uid": "II_Kings_172",
+      "chapter_number": 6,
+      "verse_number": 31,
+      "start_char": 13987,
+      "end_char": 14053,
+      "length": 67,
+      "text": "ויאמר כה־יעשה־לי אלהים וכה יוסף אם־יעמד ראש אלישע בן־שפט עליו היום׃"
+    },
+    {
+      "uid": "II_Kings_173",
+      "chapter_number": 6,
+      "verse_number": 32,
+      "start_char": 14054,
+      "end_char": 14253,
+      "length": 200,
+      "text": "ואלישע ישב בביתו והזקנים ישבים אתו וישלח איש מלפניו בטרם יבא המלאך אליו והוא׀ אמר אל־הזקנים הראיתם כי־שלח בן־המרצח הזה להסיר את־ראשי ראו׀ כבא המלאך סגרו הדלת ולחצתם אתו בדלת הלוא קול רגלי אדניו אחריו׃"
+    },
+    {
+      "uid": "II_Kings_174",
+      "chapter_number": 6,
+      "verse_number": 33,
+      "start_char": 14254,
+      "end_char": 14335,
+      "length": 82,
+      "text": "עודנו מדבר עמם והנה המלאך ירד אליו ויאמר הנה־זאת הרעה מאת יהוה מה־אוחיל ליהוה עוד׃"
+    },
+    {
+      "uid": "II_Kings_175",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 14336,
+      "end_char": 14424,
+      "length": 89,
+      "text": "ויאמר אלישע שמעו דבר־יהוה כה׀ אמר יהוה כעת׀מחר סאה־סלת בשקל וסאתים שערים בשקל בשער שמרון׃"
+    },
+    {
+      "uid": "II_Kings_176",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 14425,
+      "end_char": 14551,
+      "length": 127,
+      "text": "ויען השליש אשר־למלך נשען על־ידו את־איש האלהים ויאמר הנה יהוה עשה ארבות בשמים היהיה הדבר הזה ויאמר הנכה ראה בעיניך ומשם לא תאכל׃"
+    },
+    {
+      "uid": "II_Kings_177",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 14552,
+      "end_char": 14629,
+      "length": 78,
+      "text": "וארבעה אנשים היו מצרעים פתח השער ויאמרו איש אל־רעהו מה אנחנו ישבים פה עד־מתנו׃"
+    },
+    {
+      "uid": "II_Kings_178",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 14630,
+      "end_char": 14745,
+      "length": 116,
+      "text": "אם־אמרנו נבוא העיר והרעב בעיר ומתנו שם ואם־ישבנו פה ומתנו ועתה לכו ונפלה אל־מחנה ארם אם־יחינו נחיה ואם־ימיתנו ומתנו׃"
+    },
+    {
+      "uid": "II_Kings_179",
+      "chapter_number": 7,
+      "verse_number": 5,
+      "start_char": 14746,
+      "end_char": 14811,
+      "length": 66,
+      "text": "ויקמו בנשף לבוא אל־מחנה ארם ויבאו עד־קצה מחנה ארם והנה אין־שם איש׃"
+    },
+    {
+      "uid": "II_Kings_180",
+      "chapter_number": 7,
+      "verse_number": 6,
+      "start_char": 14812,
+      "end_char": 14948,
+      "length": 137,
+      "text": "ואדני השמיע׀ את־מחנה ארם קול רכב קול סוס קול חיל גדול ויאמרו איש אל־אחיו הנה שכר־עלינו מלך ישראל את־מלכי החתים ואת־מלכי מצרים לבוא עלינו׃"
+    },
+    {
+      "uid": "II_Kings_181",
+      "chapter_number": 7,
+      "verse_number": 7,
+      "start_char": 14949,
+      "end_char": 15035,
+      "length": 87,
+      "text": "ויקומו וינוסו בנשף ויעזבו את־אהליהם ואת־סוסיהם ואת־חמריהם המחנה כאשר־היא וינסו אל־נפשם׃"
+    },
+    {
+      "uid": "II_Kings_182",
+      "chapter_number": 7,
+      "verse_number": 8,
+      "start_char": 15036,
+      "end_char": 15182,
+      "length": 147,
+      "text": "ויבאו המצרעים האלה עד־קצה המחנה ויבאו אל־אהל אחד ויאכלו וישתו וישאו משם כסף וזהב ובגדים וילכו ויטמנו וישבו ויבאו אל־אהל אחר וישאו משם וילכו ויטמנו׃"
+    },
+    {
+      "uid": "II_Kings_183",
+      "chapter_number": 7,
+      "verse_number": 9,
+      "start_char": 15183,
+      "end_char": 15316,
+      "length": 134,
+      "text": "ויאמרו איש אל־רעהו לא־כן׀ אנחנו עשים היום הזה יום־בשרה הוא ואנחנו מחשים וחכינו עד־אור הבקר ומצאנו עוון ועתה לכו ונבאה ונגידה בית המלך׃"
+    },
+    {
+      "uid": "II_Kings_184",
+      "chapter_number": 7,
+      "verse_number": 10,
+      "start_char": 15317,
+      "end_char": 15443,
+      "length": 127,
+      "text": "ויבאו ויקראו אל־שער העיר ויגידו להם לאמר באנו אל־מחנה ארם והנה אין־שם איש וקול אדם כי אם־הסוס אסור והחמור אסור ואהלים כאשר־המה׃"
+    },
+    {
+      "uid": "II_Kings_185",
+      "chapter_number": 7,
+      "verse_number": 11,
+      "start_char": 15444,
+      "end_char": 15478,
+      "length": 35,
+      "text": "ויקרא השערים ויגידו בית המלך פנימה׃"
+    },
+    {
+      "uid": "II_Kings_186",
+      "chapter_number": 7,
+      "verse_number": 12,
+      "start_char": 15479,
+      "end_char": 15642,
+      "length": 164,
+      "text": "ויקם המלך לילה ויאמר אל־עבדיו אגידה־נא לכם את אשר־עשו לנו ארם ידעו כי־רעבים אנחנו ויצאו מן־המחנה להחבה (בהשדה) [בשדה] לאמר כי־יצאו מן־העיר ונתפשם חיים ואל־העיר נבא׃"
+    },
+    {
+      "uid": "II_Kings_187",
+      "chapter_number": 7,
+      "verse_number": 13,
+      "start_char": 15643,
+      "end_char": 15791,
+      "length": 149,
+      "text": "ויען אחד מעבדיו ויאמר ויקחו־נא חמשה מן־הסוסים הנשארים אשר נשארו־בה הנם ככל־[המון] (ההמון) ישראל אשר נשארו־בה הנם ככל־המון ישראל אשר־תמו ונשלחה ונראה׃"
+    },
+    {
+      "uid": "II_Kings_188",
+      "chapter_number": 7,
+      "verse_number": 14,
+      "start_char": 15792,
+      "end_char": 15850,
+      "length": 59,
+      "text": "ויקחו שני רכב סוסים וישלח המלך אחרי מחנה־ארם לאמר לכו וראו׃"
+    },
+    {
+      "uid": "II_Kings_189",
+      "chapter_number": 7,
+      "verse_number": 15,
+      "start_char": 15851,
+      "end_char": 15959,
+      "length": 109,
+      "text": "וילכו אחריהם עד־הירדן והנה כל־הדרך מלאה בגדים וכלים אשר־השליכו ארם (בהחפזם) [בחפזם] וישבו המלאכים ויגדו למלך׃"
+    },
+    {
+      "uid": "II_Kings_190",
+      "chapter_number": 7,
+      "verse_number": 16,
+      "start_char": 15960,
+      "end_char": 16032,
+      "length": 73,
+      "text": "ויצא העם ויבזו את מחנה ארם ויהי סאה־סלת בשקל וסאתים שערים בשקל כדבר יהוה׃"
+    },
+    {
+      "uid": "II_Kings_191",
+      "chapter_number": 7,
+      "verse_number": 17,
+      "start_char": 16033,
+      "end_char": 16142,
+      "length": 110,
+      "text": "והמלך הפקיד את־השליש אשר־נשען על־ידו על־השער וירמסהו העם בשער וימת כאשר דבר איש האלהים אשר דבר ברדת המלך אליו׃"
+    },
+    {
+      "uid": "II_Kings_192",
+      "chapter_number": 7,
+      "verse_number": 18,
+      "start_char": 16143,
+      "end_char": 16231,
+      "length": 89,
+      "text": "ויהי כדבר איש האלהים אל־המלך לאמר סאתים שערים בשקל וסאה־סלת בשקל יהיה כעת מחר בשער שמרון׃"
+    },
+    {
+      "uid": "II_Kings_193",
+      "chapter_number": 7,
+      "verse_number": 19,
+      "start_char": 16232,
+      "end_char": 16337,
+      "length": 106,
+      "text": "ויען השליש את־איש האלהים ויאמר והנה יהוה עשה ארבות בשמים היהיה כדבר הזה ויאמר הנך ראה בעיניך ומשם לא תאכל׃"
+    },
+    {
+      "uid": "II_Kings_194",
+      "chapter_number": 7,
+      "verse_number": 20,
+      "start_char": 16338,
+      "end_char": 16373,
+      "length": 36,
+      "text": "ויהי־לו כן וירמסו אתו העם בשער וימת׃"
+    },
+    {
+      "uid": "II_Kings_195",
+      "chapter_number": 8,
+      "verse_number": 1,
+      "start_char": 16374,
+      "end_char": 16498,
+      "length": 125,
+      "text": "ואלישע דבר אל־האשה אשר־החיה את־בנה לאמר קומי ולכי (אתי) [את] וביתך וגורי באשר תגורי כי־קרא יהוה לרעב וגם־בא אל־הארץ שבע שנים׃"
+    },
+    {
+      "uid": "II_Kings_196",
+      "chapter_number": 8,
+      "verse_number": 2,
+      "start_char": 16499,
+      "end_char": 16570,
+      "length": 72,
+      "text": "ותקם האשה ותעש כדבר איש האלהים ותלך היא וביתה ותגר בארץ־פלשתים שבע שנים׃"
+    },
+    {
+      "uid": "II_Kings_197",
+      "chapter_number": 8,
+      "verse_number": 3,
+      "start_char": 16571,
+      "end_char": 16645,
+      "length": 75,
+      "text": "ויהי מקצה שבע שנים ותשב האשה מארץ פלשתים ותצא לצעק אל־המלך אל־ביתה ואל־שדה׃"
+    },
+    {
+      "uid": "II_Kings_198",
+      "chapter_number": 8,
+      "verse_number": 4,
+      "start_char": 16646,
+      "end_char": 16722,
+      "length": 77,
+      "text": "והמלך מדבר אל־גחזי נער איש־האלהים לאמר ספרה־נא לי את כל־הגדלות אשר־עשה אלישע׃"
+    },
+    {
+      "uid": "II_Kings_199",
+      "chapter_number": 8,
+      "verse_number": 5,
+      "start_char": 16723,
+      "end_char": 16868,
+      "length": 146,
+      "text": "ויהי הוא מספר למלך את אשר־החיה את־המת והנה האשה אשר־החיה את־בנה צעקת אל־המלך על־ביתה ועל־שדה ויאמר גחזי אדני המלך זאת האשה וזה־בנה אשר־החיה אלישע׃"
+    },
+    {
+      "uid": "II_Kings_200",
+      "chapter_number": 8,
+      "verse_number": 6,
+      "start_char": 16869,
+      "end_char": 16982,
+      "length": 114,
+      "text": "וישאל המלך לאשה ותספר־לו ויתן־לה המלך סריס אחד לאמר השיב את־כל־אשר־לה ואת כל־תבואת השדה מיום עזבה את־הארץ ועד־עתה׃"
+    },
+    {
+      "uid": "II_Kings_201",
+      "chapter_number": 8,
+      "verse_number": 7,
+      "start_char": 16983,
+      "end_char": 17052,
+      "length": 70,
+      "text": "ויבא אלישע דמשק ובן־הדד מלך־ארם חלה ויגד־לו לאמר בא איש האלהים עד־הנה׃"
+    },
+    {
+      "uid": "II_Kings_202",
+      "chapter_number": 8,
+      "verse_number": 8,
+      "start_char": 17053,
+      "end_char": 17145,
+      "length": 93,
+      "text": "ויאמר המלך אל־חזהאל קח בידך מנחה ולך לקראת איש האלהים ודרשת את־יהוה מאותו לאמר האחיה מחלי זה׃"
+    },
+    {
+      "uid": "II_Kings_203",
+      "chapter_number": 8,
+      "verse_number": 9,
+      "start_char": 17146,
+      "end_char": 17277,
+      "length": 132,
+      "text": "וילך חזאל לקראתו ויקח מנחה בידו וכל־טוב דמשק משא ארבעים גמל ויבא ויעמד לפניו ויאמר בנך בן־הדד מלך־ארם שלחני אליך לאמר האחיה מחלי זה׃"
+    },
+    {
+      "uid": "II_Kings_204",
+      "chapter_number": 8,
+      "verse_number": 10,
+      "start_char": 17278,
+      "end_char": 17344,
+      "length": 67,
+      "text": "ויאמר אליו אלישע לך אמר־[לו] (לא) חיה תחיה והראני יהוה כי־מות ימות׃"
+    },
+    {
+      "uid": "II_Kings_205",
+      "chapter_number": 8,
+      "verse_number": 11,
+      "start_char": 17345,
+      "end_char": 17385,
+      "length": 41,
+      "text": "ויעמד את־פניו וישם עד־בש ויבך איש האלהים׃"
+    },
+    {
+      "uid": "II_Kings_206",
+      "chapter_number": 8,
+      "verse_number": 12,
+      "start_char": 17386,
+      "end_char": 17513,
+      "length": 128,
+      "text": "ויאמר חזאל מדוע אדני בכה ויאמר כי־ידעתי את אשר־תעשה לבני ישראל רעה מבצריהם תשלח באש ובחריהם בחרב תהרג ועלליהם תרטש והרתיהם תבקע׃"
+    },
+    {
+      "uid": "II_Kings_207",
+      "chapter_number": 8,
+      "verse_number": 13,
+      "start_char": 17514,
+      "end_char": 17602,
+      "length": 89,
+      "text": "ויאמר חזהאל כי מה עבדך הכלב כי יעשה הדבר הגדול הזה ויאמר אלישע הראני יהוה אתך מלך על־ארם׃"
+    },
+    {
+      "uid": "II_Kings_208",
+      "chapter_number": 8,
+      "verse_number": 14,
+      "start_char": 17603,
+      "end_char": 17679,
+      "length": 77,
+      "text": "וילך׀ מאת אלישע ויבא אל־אדניו ויאמר לו מה־אמר לך אלישע ויאמר אמר לי חיה תחיה׃"
+    },
+    {
+      "uid": "II_Kings_209",
+      "chapter_number": 8,
+      "verse_number": 15,
+      "start_char": 17680,
+      "end_char": 17749,
+      "length": 70,
+      "text": "ויהי ממחרת ויקח המכבר ויטבל במים ויפרש על־פניו וימת וימלך חזהאל תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_210",
+      "chapter_number": 8,
+      "verse_number": 16,
+      "start_char": 17750,
+      "end_char": 17831,
+      "length": 82,
+      "text": "ובשנת חמש ליורם בן־אחאב מלך ישראל ויהושפט מלך יהודה מלך יהורם בן־יהושפט מלך יהודה׃"
+    },
+    {
+      "uid": "II_Kings_211",
+      "chapter_number": 8,
+      "verse_number": 17,
+      "start_char": 17832,
+      "end_char": 17892,
+      "length": 61,
+      "text": "בן־שלשים ושתים שנה היה במלכו ושמנה (שנה) [שנים] מלך בירושל͏ם׃"
+    },
+    {
+      "uid": "II_Kings_212",
+      "chapter_number": 8,
+      "verse_number": 18,
+      "start_char": 17893,
+      "end_char": 17976,
+      "length": 84,
+      "text": "וילך בדרך׀ מלכי ישראל כאשר עשו בית אחאב כי בת־אחאב היתה לו לאשה ויעש הרע בעיני יהוה׃"
+    },
+    {
+      "uid": "II_Kings_213",
+      "chapter_number": 8,
+      "verse_number": 19,
+      "start_char": 17977,
+      "end_char": 18057,
+      "length": 81,
+      "text": "ולא־אבה יהוה להשחית את־יהודה למען דוד עבדו כאשר אמר־לו לתת לו ניר לבניו כל־הימים׃"
+    },
+    {
+      "uid": "II_Kings_214",
+      "chapter_number": 8,
+      "verse_number": 20,
+      "start_char": 18058,
+      "end_char": 18103,
+      "length": 46,
+      "text": "בימיו פשע אדום מתחת יד־יהודה וימלכו עליהם מלך׃"
+    },
+    {
+      "uid": "II_Kings_215",
+      "chapter_number": 8,
+      "verse_number": 21,
+      "start_char": 18104,
+      "end_char": 18203,
+      "length": 100,
+      "text": "ויעבר יורם צעירה וכל־הרכב עמו ויהי־הוא קם לילה ויכה את־אדום הסביב אליו ואת שרי הרכב וינס העם לאהליו׃"
+    },
+    {
+      "uid": "II_Kings_216",
+      "chapter_number": 8,
+      "verse_number": 22,
+      "start_char": 18204,
+      "end_char": 18262,
+      "length": 59,
+      "text": "ויפשע אדום מתחת יד־יהודה עד היום הזה אז תפשע לבנה בעת ההיא׃"
+    },
+    {
+      "uid": "II_Kings_217",
+      "chapter_number": 8,
+      "verse_number": 23,
+      "start_char": 18263,
+      "end_char": 18333,
+      "length": 71,
+      "text": "ויתר דברי יורם וכל־אשר עשה הלא־הם כתובים על־ספר דברי הימים למלכי יהודה׃"
+    },
+    {
+      "uid": "II_Kings_218",
+      "chapter_number": 8,
+      "verse_number": 24,
+      "start_char": 18334,
+      "end_char": 18400,
+      "length": 67,
+      "text": "וישכב יורם עם־אבתיו ויקבר עם־אבתיו בעיר דוד וימלך אחזיהו בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_219",
+      "chapter_number": 8,
+      "verse_number": 25,
+      "start_char": 18401,
+      "end_char": 18473,
+      "length": 73,
+      "text": "בשנת שתים־עשרה שנה ליורם בן־אחאב מלך ישראל מלך אחזיהו בן־יהורם מלך יהודה׃"
+    },
+    {
+      "uid": "II_Kings_220",
+      "chapter_number": 8,
+      "verse_number": 26,
+      "start_char": 18474,
+      "end_char": 18560,
+      "length": 87,
+      "text": "בן־עשרים ושתים שנה אחזיהו במלכו ושנה אחת מלך בירושל͏ם ושם אמו עתליהו בת־עמרי מלך ישראל׃"
+    },
+    {
+      "uid": "II_Kings_221",
+      "chapter_number": 8,
+      "verse_number": 27,
+      "start_char": 18561,
+      "end_char": 18629,
+      "length": 69,
+      "text": "וילך בדרך בית אחאב ויעש הרע בעיני יהוה כבית אחאב כי חתן בית־אחאב הוא׃"
+    },
+    {
+      "uid": "II_Kings_222",
+      "chapter_number": 8,
+      "verse_number": 28,
+      "start_char": 18630,
+      "end_char": 18702,
+      "length": 73,
+      "text": "וילך את־יורם בן־אחאב למלחמה עם־חזאל מלך־ארם ברמת גלעד ויכו ארמים את־יורם׃"
+    },
+    {
+      "uid": "II_Kings_223",
+      "chapter_number": 8,
+      "verse_number": 29,
+      "start_char": 18703,
+      "end_char": 18857,
+      "length": 155,
+      "text": "וישב יורם המלך להתרפא ביזרעאל מן־המכים אשר יכהו ארמים ברמה בהלחמו את־חזהאל מלך ארם ואחזיהו בן־יהורם מלך יהודה ירד לראות את־יורם בן־אחאב ביזרעאל כי־חלה הוא׃"
+    },
+    {
+      "uid": "II_Kings_224",
+      "chapter_number": 9,
+      "verse_number": 1,
+      "start_char": 18858,
+      "end_char": 18945,
+      "length": 88,
+      "text": "ואלישע הנביא קרא לאחד מבני הנביאים ויאמר לו חגר מתניך וקח פך השמן הזה בידך ולך רמת גלעד׃"
+    },
+    {
+      "uid": "II_Kings_225",
+      "chapter_number": 9,
+      "verse_number": 2,
+      "start_char": 18946,
+      "end_char": 19027,
+      "length": 82,
+      "text": "ובאת־שמה וראה־שם יהוא בן־יהושפט בן־נמשי ובאת והקמתו מתוך אחיו והביאת אתו חדר בחדר׃"
+    },
+    {
+      "uid": "II_Kings_226",
+      "chapter_number": 9,
+      "verse_number": 3,
+      "start_char": 19028,
+      "end_char": 19120,
+      "length": 93,
+      "text": "ולקחת פך־השמן ויצקת על־ראשו ואמרת כה־אמר יהוה משחתיך למלך אל־ישראל ופתחת הדלת ונסתה ולא תחכה׃"
+    },
+    {
+      "uid": "II_Kings_227",
+      "chapter_number": 9,
+      "verse_number": 4,
+      "start_char": 19121,
+      "end_char": 19150,
+      "length": 30,
+      "text": "וילך הנער הנער הנביא רמת גלעד׃"
+    },
+    {
+      "uid": "II_Kings_228",
+      "chapter_number": 9,
+      "verse_number": 5,
+      "start_char": 19151,
+      "end_char": 19235,
+      "length": 85,
+      "text": "ויבא והנה שרי החיל ישבים ויאמר דבר לי אליך השר ויאמר יהוא אל־מי מכלנו ויאמר אליך השר׃"
+    },
+    {
+      "uid": "II_Kings_229",
+      "chapter_number": 9,
+      "verse_number": 6,
+      "start_char": 19236,
+      "end_char": 19333,
+      "length": 98,
+      "text": "ויקם ויבא הביתה ויצק השמן אל־ראשו ויאמר לו כה־אמר יהוה אלהי ישראל משחתיך למלך אל־עם יהוה אל־ישראל׃"
+    },
+    {
+      "uid": "II_Kings_230",
+      "chapter_number": 9,
+      "verse_number": 7,
+      "start_char": 19334,
+      "end_char": 19411,
+      "length": 78,
+      "text": "והכיתה את־בית אחאב אדניך ונקמתי דמי׀ עבדי הנביאים ודמי כל־עבדי יהוה מיד איזבל׃"
+    },
+    {
+      "uid": "II_Kings_231",
+      "chapter_number": 9,
+      "verse_number": 8,
+      "start_char": 19412,
+      "end_char": 19471,
+      "length": 60,
+      "text": "ואבד כל־בית אחאב והכרתי לאחאב משתין בקיר ועצור ועזוב בישראל׃"
+    },
+    {
+      "uid": "II_Kings_232",
+      "chapter_number": 9,
+      "verse_number": 9,
+      "start_char": 19472,
+      "end_char": 19526,
+      "length": 55,
+      "text": "ונתתי את־בית אחאב כבית ירבעם בן־נבט וכבית בעשא בן־אחיה׃"
+    },
+    {
+      "uid": "II_Kings_233",
+      "chapter_number": 9,
+      "verse_number": 10,
+      "start_char": 19527,
+      "end_char": 19586,
+      "length": 60,
+      "text": "ואת־איזבל יאכלו הכלבים בחלק יזרעאל ואין קבר ויפתח הדלת וינס׃"
+    },
+    {
+      "uid": "II_Kings_234",
+      "chapter_number": 9,
+      "verse_number": 11,
+      "start_char": 19587,
+      "end_char": 19687,
+      "length": 101,
+      "text": "ויהוא יצא אל־עבדי אדניו ויאמר לו השלום מדוע בא־המשגע הזה אליך ויאמר אליהם אתם ידעתם את־האיש ואת־שיחו׃"
+    },
+    {
+      "uid": "II_Kings_235",
+      "chapter_number": 9,
+      "verse_number": 12,
+      "start_char": 19688,
+      "end_char": 19772,
+      "length": 85,
+      "text": "ויאמרו שקר הגד־נא לנו ויאמר כזאת וכזאת אמר אלי לאמר כה אמר יהוה משחתיך למלך אל־ישראל׃"
+    },
+    {
+      "uid": "II_Kings_236",
+      "chapter_number": 9,
+      "verse_number": 13,
+      "start_char": 19773,
+      "end_char": 19850,
+      "length": 78,
+      "text": "וימהרו ויקחו איש בגדו וישימו תחתיו אל־גרם המעלות ויתקעו בשופר ויאמרו מלך יהוא׃"
+    },
+    {
+      "uid": "II_Kings_237",
+      "chapter_number": 9,
+      "verse_number": 14,
+      "start_char": 19851,
+      "end_char": 19944,
+      "length": 94,
+      "text": "ויתקשר יהוא בן־יהושפט בן־נמשי אל־יורם ויורם היה שמר ברמת גלעד הוא וכל־ישראל מפני חזאל מלך־ארם׃"
+    },
+    {
+      "uid": "II_Kings_238",
+      "chapter_number": 9,
+      "verse_number": 15,
+      "start_char": 19945,
+      "end_char": 20093,
+      "length": 149,
+      "text": "וישב יהורם המלך להתרפא ביזרעאל מן־המכים אשר יכהו ארמים בהלחמו את־חזאל מלך ארם ויאמר יהוא אם־יש נפשכם אל־יצא פליט מן־העיר ללכת (לגיד) [להגיד] ביזרעאל׃"
+    },
+    {
+      "uid": "II_Kings_239",
+      "chapter_number": 9,
+      "verse_number": 16,
+      "start_char": 20094,
+      "end_char": 20168,
+      "length": 75,
+      "text": "וירכב יהוא וילך יזרעאלה כי יורם שכב שמה ואחזיה מלך יהודה ירד לראות את־יורם׃"
+    },
+    {
+      "uid": "II_Kings_240",
+      "chapter_number": 9,
+      "verse_number": 17,
+      "start_char": 20169,
+      "end_char": 20280,
+      "length": 112,
+      "text": "והצפה עמד על־המגדל ביזרעאל וירא את־שפעת יהוא בבאו ויאמר שפעת אני ראה ויאמר יהורם קח רכב ושלח לקראתם ויאמר השלום׃"
+    },
+    {
+      "uid": "II_Kings_241",
+      "chapter_number": 9,
+      "verse_number": 18,
+      "start_char": 20281,
+      "end_char": 20397,
+      "length": 117,
+      "text": "וילך רכב הסוס לקראתו ויאמר כה־אמר המלך השלום ויאמר יהוא מה־לך ולשלום סב אל־אחרי ויגד הצפה לאמר בא־המלאך עד־הם ולא־שב׃"
+    },
+    {
+      "uid": "II_Kings_242",
+      "chapter_number": 9,
+      "verse_number": 19,
+      "start_char": 20398,
+      "end_char": 20483,
+      "length": 86,
+      "text": "וישלח רכב סוס שני ויבא אלהם ויאמר כה־אמר המלך שלום ויאמר יהוא מה־לך ולשלום סב אל־אחרי׃"
+    },
+    {
+      "uid": "II_Kings_243",
+      "chapter_number": 9,
+      "verse_number": 20,
+      "start_char": 20484,
+      "end_char": 20558,
+      "length": 75,
+      "text": "ויגד הצפה לאמר בא עד־אליהם ולא־שב והמנהג כמנהג יהוא בן־נמשי כי בשגעון ינהג׃"
+    },
+    {
+      "uid": "II_Kings_244",
+      "chapter_number": 9,
+      "verse_number": 21,
+      "start_char": 20559,
+      "end_char": 20679,
+      "length": 121,
+      "text": "ויאמר יהורם אסר ויאסר רכבו ויצא יהורם מלך־ישראל ואחזיהו מלך־יהודה איש ברכבו ויצאו לקראת יהוא וימצאהו בחלקת נבות היזרעאלי׃"
+    },
+    {
+      "uid": "II_Kings_245",
+      "chapter_number": 9,
+      "verse_number": 22,
+      "start_char": 20680,
+      "end_char": 20768,
+      "length": 89,
+      "text": "ויהי כראות יהורם את־יהוא ויאמר השלום יהוא ויאמר מה השלום עד־זנוני איזבל אמך וכשפיה הרבים׃"
+    },
+    {
+      "uid": "II_Kings_246",
+      "chapter_number": 9,
+      "verse_number": 23,
+      "start_char": 20769,
+      "end_char": 20817,
+      "length": 49,
+      "text": "ויהפך יהורם ידיו וינס ויאמר אל־אחזיהו מרמה אחזיה׃"
+    },
+    {
+      "uid": "II_Kings_247",
+      "chapter_number": 9,
+      "verse_number": 24,
+      "start_char": 20818,
+      "end_char": 20886,
+      "length": 69,
+      "text": "ויהוא מלא ידו בקשת ויך את־יהורם בין זרעיו ויצא החצי מלבו ויכרע ברכבו׃"
+    },
+    {
+      "uid": "II_Kings_248",
+      "chapter_number": 9,
+      "verse_number": 25,
+      "start_char": 20887,
+      "end_char": 21012,
+      "length": 126,
+      "text": "ויאמר אל־בדקר שלשה שא השלכהו בחלקת שדה נבות היזרעאלי כי־זכר אני ואתה את רכבים צמדים אחרי אחאב אביו ויהוה נשא עליו את־המשא הזה׃"
+    },
+    {
+      "uid": "II_Kings_249",
+      "chapter_number": 9,
+      "verse_number": 26,
+      "start_char": 21013,
+      "end_char": 21123,
+      "length": 111,
+      "text": "אם־לא את־דמי נבות ואת־דמי בניו ראיתי אמש נאם־יהוה ושלמתי לך בחלקה הזאת נאם־יהוה ועתה שא השלכהו בחלקה כדבר יהוה׃"
+    },
+    {
+      "uid": "II_Kings_250",
+      "chapter_number": 9,
+      "verse_number": 27,
+      "start_char": 21124,
+      "end_char": 21247,
+      "length": 124,
+      "text": "ואחזיה מלך־יהודה ראה וינס דרך בית הגן וירדף אחריו יהוא ויאמר גם־אתו הכהו אל־המרכבה במעלה־גור אשר את־יבלעם וינס מגדו וימת שם׃"
+    },
+    {
+      "uid": "II_Kings_251",
+      "chapter_number": 9,
+      "verse_number": 28,
+      "start_char": 21248,
+      "end_char": 21309,
+      "length": 62,
+      "text": "וירכבו אתו עבדיו ירושל͏מה ויקברו אתו בקברתו עם־אבתיו בעיר דוד׃"
+    },
+    {
+      "uid": "II_Kings_252",
+      "chapter_number": 9,
+      "verse_number": 29,
+      "start_char": 21310,
+      "end_char": 21361,
+      "length": 52,
+      "text": "ובשנת אחת עשרה שנה ליורם בן־אחאב מלך אחזיה על־יהודה׃"
+    },
+    {
+      "uid": "II_Kings_253",
+      "chapter_number": 9,
+      "verse_number": 30,
+      "start_char": 21362,
+      "end_char": 21438,
+      "length": 77,
+      "text": "ויבוא יהוא יזרעאלה ואיזבל שמעה ותשם בפוך עיניה ותיטב את־ראשה ותשקף בעד החלון׃"
+    },
+    {
+      "uid": "II_Kings_254",
+      "chapter_number": 9,
+      "verse_number": 31,
+      "start_char": 21439,
+      "end_char": 21479,
+      "length": 41,
+      "text": "ויהוא בא בשער ותאמר השלום זמרי הרג אדניו׃"
+    },
+    {
+      "uid": "II_Kings_255",
+      "chapter_number": 9,
+      "verse_number": 32,
+      "start_char": 21480,
+      "end_char": 21544,
+      "length": 65,
+      "text": "וישא פניו אל־החלון ויאמר מי אתי מי וישקיפו אליו שנים שלשה סריסים׃"
+    },
+    {
+      "uid": "II_Kings_256",
+      "chapter_number": 9,
+      "verse_number": 33,
+      "start_char": 21545,
+      "end_char": 21610,
+      "length": 66,
+      "text": "ויאמר (שמטהו) [שמטוה] וישמטוה ויז מדמה אל־הקיר ואל־הסוסים וירמסנה׃"
+    },
+    {
+      "uid": "II_Kings_257",
+      "chapter_number": 9,
+      "verse_number": 34,
+      "start_char": 21611,
+      "end_char": 21676,
+      "length": 66,
+      "text": "ויבא ויאכל וישת ויאמר פקדו־נא את־הארורה הזאת וקברוה כי בת־מלך היא׃"
+    },
+    {
+      "uid": "II_Kings_258",
+      "chapter_number": 9,
+      "verse_number": 35,
+      "start_char": 21677,
+      "end_char": 21733,
+      "length": 57,
+      "text": "וילכו לקברה ולא־מצאו בה כי אם־הגלגלת והרגלים וכפות הידים׃"
+    },
+    {
+      "uid": "II_Kings_259",
+      "chapter_number": 9,
+      "verse_number": 36,
+      "start_char": 21734,
+      "end_char": 21840,
+      "length": 107,
+      "text": "וישבו ויגידו לו ויאמר דבר־יהוה הוא אשר דבר ביד־עבדו אליהו התשבי לאמר בחלק יזרעאל יאכלו הכלבים את־בשר איזבל׃"
+    },
+    {
+      "uid": "II_Kings_260",
+      "chapter_number": 9,
+      "verse_number": 37,
+      "start_char": 21841,
+      "end_char": 21918,
+      "length": 78,
+      "text": "(והית) [והיתה] נבלת איזבל כדמן על־פני השדה בחלק יזרעאל אשר לא־יאמרו זאת איזבל׃"
+    },
+    {
+      "uid": "II_Kings_261",
+      "chapter_number": 10,
+      "verse_number": 1,
+      "start_char": 21919,
+      "end_char": 22014,
+      "length": 96,
+      "text": "ולאחאב שבעים בנים בשמרון ויכתב יהוא ספרים וישלח שמרון אל־שרי יזרעאל הזקנים ואל־האמנים אחאב לאמר׃"
+    },
+    {
+      "uid": "II_Kings_262",
+      "chapter_number": 10,
+      "verse_number": 2,
+      "start_char": 22015,
+      "end_char": 22090,
+      "length": 76,
+      "text": "ועתה כבא הספר הזה אליכם ואתכם בני אדניכם ואתכם הרכב והסוסים ועיר מבצר והנשק׃"
+    },
+    {
+      "uid": "II_Kings_263",
+      "chapter_number": 10,
+      "verse_number": 3,
+      "start_char": 22091,
+      "end_char": 22159,
+      "length": 69,
+      "text": "וראיתם הטוב והישר מבני אדניכם ושמתם על־כסא אביו והלחמו על־בית אדניכם׃"
+    },
+    {
+      "uid": "II_Kings_264",
+      "chapter_number": 10,
+      "verse_number": 4,
+      "start_char": 22160,
+      "end_char": 22225,
+      "length": 66,
+      "text": "ויראו מאד מאד ויאמרו הנה שני המלכים לא עמדו לפניו ואיך נעמד אנחנו׃"
+    },
+    {
+      "uid": "II_Kings_265",
+      "chapter_number": 10,
+      "verse_number": 5,
+      "start_char": 22226,
+      "end_char": 22349,
+      "length": 124,
+      "text": "וישלח אשר־על־הבית ואשר על־העיר והזקנים והאמנים אל־יהוא׀לאמר עבדיך אנחנו וכל אשר־תאמר אלינו נעשה לא־נמלך איש הטוב בעיניך עשה׃"
+    },
+    {
+      "uid": "II_Kings_266",
+      "chapter_number": 10,
+      "verse_number": 6,
+      "start_char": 22350,
+      "end_char": 22500,
+      "length": 151,
+      "text": "ויכתב אליהם ספר׀שנית לאמר אם־לי אתם ולקלי׀ אתם שמעים קחו את־ראשי אנשי בני־אדניכם ובאו אלי כעת מחר יזרעאלה ובני המלך שבעים איש את־גדלי העיר מגדלים אותם׃"
+    },
+    {
+      "uid": "II_Kings_267",
+      "chapter_number": 10,
+      "verse_number": 7,
+      "start_char": 22501,
+      "end_char": 22599,
+      "length": 99,
+      "text": "ויהי כבא הספר אליהם ויקחו את־בני המלך וישחטו שבעים איש וישימו את־ראשיהם בדודים וישלחו אליו יזרעאלה׃"
+    },
+    {
+      "uid": "II_Kings_268",
+      "chapter_number": 10,
+      "verse_number": 8,
+      "start_char": 22600,
+      "end_char": 22685,
+      "length": 86,
+      "text": "ויבא המלאך ויגד־לו לאמר הביאו ראשי בני־המלך ויאמר שימו אתם שני צברים פתח השער עד־הבקר׃"
+    },
+    {
+      "uid": "II_Kings_269",
+      "chapter_number": 10,
+      "verse_number": 9,
+      "start_char": 22686,
+      "end_char": 22780,
+      "length": 95,
+      "text": "ויהי בבקר ויצא ויעמד ויאמר אל־כל־העם צדקים אתם הנה אני קשרתי על־אדני ואהרגהו ומי הכה את־כל־אלה׃"
+    },
+    {
+      "uid": "II_Kings_270",
+      "chapter_number": 10,
+      "verse_number": 10,
+      "start_char": 22781,
+      "end_char": 22875,
+      "length": 95,
+      "text": "דעו אפוא כי לא יפל מדבר יהוה ארצה אשר־דבר יהוה על־בית אחאב ויהוה עשה את אשר דבר ביד עבדו אליהו׃"
+    },
+    {
+      "uid": "II_Kings_271",
+      "chapter_number": 10,
+      "verse_number": 11,
+      "start_char": 22876,
+      "end_char": 22963,
+      "length": 88,
+      "text": "ויך יהוא את כל־הנשארים לבית־אחאב ביזרעאל וכל־גדליו ומידעיו וכהניו עד־בלתי השאיר־לו שריד׃"
+    },
+    {
+      "uid": "II_Kings_272",
+      "chapter_number": 10,
+      "verse_number": 12,
+      "start_char": 22964,
+      "end_char": 23007,
+      "length": 44,
+      "text": "ויקם ויבא וילך שמרון הוא בית־עקד הרעים בדרך׃"
+    },
+    {
+      "uid": "II_Kings_273",
+      "chapter_number": 10,
+      "verse_number": 13,
+      "start_char": 23008,
+      "end_char": 23110,
+      "length": 103,
+      "text": "ויהוא מצא את־אחי אחזיהו מלך־יהודה ויאמר מי אתם ויאמרו אחי אחזיהו אנחנו ונרד לשלום בני־המלך ובני הגבירה׃"
+    },
+    {
+      "uid": "II_Kings_274",
+      "chapter_number": 10,
+      "verse_number": 14,
+      "start_char": 23111,
+      "end_char": 23198,
+      "length": 88,
+      "text": "ויאמר תפשום חיים ויתפשום חיים וישחטום אל־בור בית־עקד ארבעים ושנים איש ולא־השאיר איש מהם׃"
+    },
+    {
+      "uid": "II_Kings_275",
+      "chapter_number": 10,
+      "verse_number": 15,
+      "start_char": 23199,
+      "end_char": 23352,
+      "length": 154,
+      "text": "וילך משם וימצא את־יהונדב בן־רכב לקראתו ויברכהו ויאמר אליו היש את־לבבך ישר כאשר לבבי עם־לבבך ויאמר יהונדב יש ויש תנה את־ידך ויתן ידו ויעלהו אליו אל־המרכבה׃"
+    },
+    {
+      "uid": "II_Kings_276",
+      "chapter_number": 10,
+      "verse_number": 16,
+      "start_char": 23353,
+      "end_char": 23401,
+      "length": 49,
+      "text": "ויאמר לכה אתי וראה בקנאתי ליהוה וירכבו אתו ברכבו׃"
+    },
+    {
+      "uid": "II_Kings_277",
+      "chapter_number": 10,
+      "verse_number": 17,
+      "start_char": 23402,
+      "end_char": 23479,
+      "length": 78,
+      "text": "ויבא שמרון ויך את־כל־הנשארים לאחאב בשמרון עד־השמדו כדבר יהוה אשר דבר אל־אליהו׃"
+    },
+    {
+      "uid": "II_Kings_278",
+      "chapter_number": 10,
+      "verse_number": 18,
+      "start_char": 23480,
+      "end_char": 23549,
+      "length": 70,
+      "text": "ויקבץ יהוא את־כל־העם ויאמר אלהם אחאב עבד את־הבעל מעט יהוא יעבדנו הרבה׃"
+    },
+    {
+      "uid": "II_Kings_279",
+      "chapter_number": 10,
+      "verse_number": 19,
+      "start_char": 23550,
+      "end_char": 23688,
+      "length": 139,
+      "text": "ועתה כל־נביאי הבעל כל־עבדיו וכל־כהניו קראו אלי איש אל־יפקד כי זבח גדול לי לבעל כל אשר־יפקד לא יחיה ויהוא עשה בעקבה למען האביד את־עבדי הבעל׃"
+    },
+    {
+      "uid": "II_Kings_280",
+      "chapter_number": 10,
+      "verse_number": 20,
+      "start_char": 23689,
+      "end_char": 23721,
+      "length": 33,
+      "text": "ויאמר יהוא קדשו עצרה לבעל ויקראו׃"
+    },
+    {
+      "uid": "II_Kings_281",
+      "chapter_number": 10,
+      "verse_number": 21,
+      "start_char": 23722,
+      "end_char": 23821,
+      "length": 100,
+      "text": "וישלח יהוא בכל־ישראל ויבאו כל־עבדי הבעל ולא־נשאר איש אשר לא־בא ויבאו בית הבעל וימלא בית־הבעל פה לפה׃"
+    },
+    {
+      "uid": "II_Kings_282",
+      "chapter_number": 10,
+      "verse_number": 22,
+      "start_char": 23822,
+      "end_char": 23882,
+      "length": 61,
+      "text": "ויאמר לאשר על־המלתחה הוצא לבוש לכל עבדי הבעל ויצא להם המלבוש׃"
+    },
+    {
+      "uid": "II_Kings_283",
+      "chapter_number": 10,
+      "verse_number": 23,
+      "start_char": 23883,
+      "end_char": 23989,
+      "length": 107,
+      "text": "ויבא יהוא ויהונדב בן־רכב בית הבעל ויאמר לעבדי הבעל חפשו וראו פן־יש־פה עמכם מעבדי יהוה כי אם־עבדי הבעל לבדם׃"
+    },
+    {
+      "uid": "II_Kings_284",
+      "chapter_number": 10,
+      "verse_number": 24,
+      "start_char": 23990,
+      "end_char": 24106,
+      "length": 117,
+      "text": "ויבאו לעשות זבחים ועלות ויהוא שם־לו בחוץ שמנים איש ויאמר האיש אשר־ימלט מן־האנשים אשר אני מביא על־ידיכם נפשו תחת נפשו׃"
+    },
+    {
+      "uid": "II_Kings_285",
+      "chapter_number": 10,
+      "verse_number": 25,
+      "start_char": 24107,
+      "end_char": 24231,
+      "length": 125,
+      "text": "ויהי ככלתו׀ לעשות העלה ויאמר יהוא לרצים ולשלשים באו הכום איש אל־יצא ויכום לפי־חרב וישלכו הרצים והשלשים וילכו עד־עיר בית־הבעל׃"
+    },
+    {
+      "uid": "II_Kings_286",
+      "chapter_number": 10,
+      "verse_number": 26,
+      "start_char": 24232,
+      "end_char": 24263,
+      "length": 32,
+      "text": "ויצאו את־מצבות בית־הבעל וישרפוה׃"
+    },
+    {
+      "uid": "II_Kings_287",
+      "chapter_number": 10,
+      "verse_number": 27,
+      "start_char": 24264,
+      "end_char": 24335,
+      "length": 72,
+      "text": "ויתצו את מצבת הבעל ויתצו את־בית הבעל וישמהו (למחראות) [למוצאות] עד־היום׃"
+    },
+    {
+      "uid": "II_Kings_288",
+      "chapter_number": 10,
+      "verse_number": 28,
+      "start_char": 24336,
+      "end_char": 24361,
+      "length": 26,
+      "text": "וישמד יהוא את־הבעל מישראל׃"
+    },
+    {
+      "uid": "II_Kings_289",
+      "chapter_number": 10,
+      "verse_number": 29,
+      "start_char": 24362,
+      "end_char": 24450,
+      "length": 89,
+      "text": "רק חטאי ירבעם בן־נבט אשר החטיא את־ישראל לא־סר יהוא מאחריהם עגלי הזהב אשר בית־אל ואשר בדן׃"
+    },
+    {
+      "uid": "II_Kings_290",
+      "chapter_number": 10,
+      "verse_number": 30,
+      "start_char": 24451,
+      "end_char": 24560,
+      "length": 110,
+      "text": "ויאמר יהוה אל־יהוא יען אשר־הטיבת לעשות הישר בעיני ככל אשר בלבבי עשית לבית אחאב בני רבעים ישבו לך על־כסא ישראל׃"
+    },
+    {
+      "uid": "II_Kings_291",
+      "chapter_number": 10,
+      "verse_number": 31,
+      "start_char": 24561,
+      "end_char": 24650,
+      "length": 90,
+      "text": "ויהוא לא שמר ללכת בתורת־יהוה אלהי־ישראל בכל־לבבו לא סר מעל חטאות ירבעם אשר החטיא את־ישראל׃"
+    },
+    {
+      "uid": "II_Kings_292",
+      "chapter_number": 10,
+      "verse_number": 32,
+      "start_char": 24651,
+      "end_char": 24707,
+      "length": 57,
+      "text": "בימים ההם החל יהוה לקצות בישראל ויכם חזאל בכל־גבול ישראל׃"
+    },
+    {
+      "uid": "II_Kings_293",
+      "chapter_number": 10,
+      "verse_number": 33,
+      "start_char": 24708,
+      "end_char": 24798,
+      "length": 91,
+      "text": "מן־הירדן מזרח השמש את כל־ארץ הגלעד הגדי והראובני והמנשי מערער אשר־על־נחל ארנן והגלעד והבשן׃"
+    },
+    {
+      "uid": "II_Kings_294",
+      "chapter_number": 10,
+      "verse_number": 34,
+      "start_char": 24799,
+      "end_char": 24881,
+      "length": 83,
+      "text": "ויתר דברי יהוא וכל־אשר עשה וכל־גבורתו הלוא־הם כתובים על־ספר דברי הימים למלכי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_295",
+      "chapter_number": 10,
+      "verse_number": 35,
+      "start_char": 24882,
+      "end_char": 24942,
+      "length": 61,
+      "text": "וישכב יהוא עם־אבתיו ויקברו אתו בשמרון וימלך יהואחז בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_296",
+      "chapter_number": 10,
+      "verse_number": 36,
+      "start_char": 24943,
+      "end_char": 24994,
+      "length": 52,
+      "text": "והימים אשר מלך יהוא על־ישראל עשרים־ושמנה שנה בשמרון׃"
+    },
+    {
+      "uid": "II_Kings_297",
+      "chapter_number": 11,
+      "verse_number": 1,
+      "start_char": 24995,
+      "end_char": 25064,
+      "length": 70,
+      "text": "ועתליה אם אחזיהו (וראתה) [ראתה] כי מת בנה ותקם ותאבד את כל־זרע הממלכה׃"
+    },
+    {
+      "uid": "II_Kings_298",
+      "chapter_number": 11,
+      "verse_number": 2,
+      "start_char": 25065,
+      "end_char": 25221,
+      "length": 157,
+      "text": "ותקח יהושבע בת־המלך־יורם אחות אחזיהו את־יואש בן־אחזיה ותגנב אתו מתוך בני־המלך (הממותתים) [המומתים] אתו ואת־מינקתו בחדר המטות ויסתרו אתו מפני עתליהו ולא הומת׃"
+    },
+    {
+      "uid": "II_Kings_299",
+      "chapter_number": 11,
+      "verse_number": 3,
+      "start_char": 25222,
+      "end_char": 25273,
+      "length": 52,
+      "text": "ויהי אתה בית יהוה מתחבא שש שנים ועתליה מלכת על־הארץ׃"
+    },
+    {
+      "uid": "II_Kings_300",
+      "chapter_number": 11,
+      "verse_number": 4,
+      "start_char": 25274,
+      "end_char": 25418,
+      "length": 145,
+      "text": "ובשנה השביעית שלח יהוידע ויקח׀ את־שרי (המאיות) [המאות] לכרי ולרצים ויבא אתם אליו בית יהוה ויכרת להם ברית וישבע אתם בבית יהוה וירא אתם את־בן־המלך׃"
+    },
+    {
+      "uid": "II_Kings_301",
+      "chapter_number": 11,
+      "verse_number": 5,
+      "start_char": 25419,
+      "end_char": 25488,
+      "length": 70,
+      "text": "ויצום לאמר זה הדבר אשר תעשון השלשית מכם באי השבת ושמרי משמרת בית המלך׃"
+    },
+    {
+      "uid": "II_Kings_302",
+      "chapter_number": 11,
+      "verse_number": 6,
+      "start_char": 25489,
+      "end_char": 25553,
+      "length": 65,
+      "text": "והשלשית בשער סור והשלשית בשער אחר הרצים ושמרתם את־משמרת הבית מסח׃"
+    },
+    {
+      "uid": "II_Kings_303",
+      "chapter_number": 11,
+      "verse_number": 7,
+      "start_char": 25554,
+      "end_char": 25613,
+      "length": 60,
+      "text": "ושתי הידות בכם כל יצאי השבת ושמרו את־משמרת בית־יהוה אל־המלך׃"
+    },
+    {
+      "uid": "II_Kings_304",
+      "chapter_number": 11,
+      "verse_number": 8,
+      "start_char": 25614,
+      "end_char": 25693,
+      "length": 80,
+      "text": "והקפתם על־המלך סביב איש וכליו בידו והבא אל־השדרות יומת והיו את־המלך בצאתו ובבאו׃"
+    },
+    {
+      "uid": "II_Kings_305",
+      "chapter_number": 11,
+      "verse_number": 9,
+      "start_char": 25694,
+      "end_char": 25806,
+      "length": 113,
+      "text": "ויעשו שרי (המאיות) [המאות] ככל אשר־צוה יהוידע הכהן ויקחו איש את־אנשיו באי השבת עם יצאי השבת ויבאו אל־יהוידע הכהן׃"
+    },
+    {
+      "uid": "II_Kings_306",
+      "chapter_number": 11,
+      "verse_number": 10,
+      "start_char": 25807,
+      "end_char": 25885,
+      "length": 79,
+      "text": "ויתן הכהן לשרי (המאיות) [המאות] את־החנית ואת־השלטים אשר למלך דוד אשר בבית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_307",
+      "chapter_number": 11,
+      "verse_number": 11,
+      "start_char": 25886,
+      "end_char": 25976,
+      "length": 91,
+      "text": "ויעמדו הרצים איש׀ וכליו בידו מכתף הבית הימנית עד־כתף הבית השמאלית למזבח ולבית על־המלך סביב׃"
+    },
+    {
+      "uid": "II_Kings_308",
+      "chapter_number": 11,
+      "verse_number": 12,
+      "start_char": 25977,
+      "end_char": 26064,
+      "length": 88,
+      "text": "ויוצא את־בן־המלך ויתן עליו את־הנזר ואת־העדות וימלכו אתו וימשחהו ויכו־כף ויאמרו יחי המלך׃"
+    },
+    {
+      "uid": "II_Kings_309",
+      "chapter_number": 11,
+      "verse_number": 13,
+      "start_char": 26065,
+      "end_char": 26114,
+      "length": 50,
+      "text": "ותשמע עתליה את־קול הרצין העם ותבא אל־העם בית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_310",
+      "chapter_number": 11,
+      "verse_number": 14,
+      "start_char": 26115,
+      "end_char": 26236,
+      "length": 122,
+      "text": "ותרא והנה המלך עמד על־העמוד כמשפט והשרים והחצצרות אל־המלך וכל־עם הארץ שמח ותקע בחצצרות ותקרע עתליה את־בגדיה ותקרא קשר קשר׃"
+    },
+    {
+      "uid": "II_Kings_311",
+      "chapter_number": 11,
+      "verse_number": 15,
+      "start_char": 26237,
+      "end_char": 26374,
+      "length": 138,
+      "text": "ויצו יהוידע הכהן את־שרי (המאיות) [המאות׀] פקדי החיל ויאמר אליהם הוציאו אתה אל־מבית לשדרת והבא אחריה המת בחרב כי אמר הכהן אל־תומת בית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_312",
+      "chapter_number": 11,
+      "verse_number": 16,
+      "start_char": 26375,
+      "end_char": 26428,
+      "length": 54,
+      "text": "וישמו לה ידים ותבוא דרך־מבוא הסוסים בית המלך ותומת שם׃"
+    },
+    {
+      "uid": "II_Kings_313",
+      "chapter_number": 11,
+      "verse_number": 17,
+      "start_char": 26429,
+      "end_char": 26513,
+      "length": 85,
+      "text": "ויכרת יהוידע את־הברית בין יהוה ובין המלך ובין העם להיות לעם ליהוה ובין המלך ובין העם׃"
+    },
+    {
+      "uid": "II_Kings_314",
+      "chapter_number": 11,
+      "verse_number": 18,
+      "start_char": 26514,
+      "end_char": 26638,
+      "length": 125,
+      "text": "ויבאו כל־עם הארץ בית־הבעל ויתצהו את־מזבחתו ואת־צלמיו שברו היטב ואת מתן כהן הבעל הרגו לפני המזבחות וישם הכהן פקדת על־בית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_315",
+      "chapter_number": 11,
+      "verse_number": 19,
+      "start_char": 26639,
+      "end_char": 26765,
+      "length": 127,
+      "text": "ויקח את־שרי המאות ואת־הכרי ואת־הרצים ואת׀ כל־עם הארץ וירידו את־המלך מבית יהוה ויבואו דרך־שער הרצים בית המלך וישב על־כסא המלכים׃"
+    },
+    {
+      "uid": "II_Kings_316",
+      "chapter_number": 11,
+      "verse_number": 20,
+      "start_char": 26766,
+      "end_char": 26832,
+      "length": 67,
+      "text": "וישמח כל־עם־הארץ והעיר שקטה ואת־עתליהו המיתו בחרב בית (מלך) [המלך]׃"
+    },
+    {
+      "uid": "II_Kings_317",
+      "chapter_number": 12,
+      "verse_number": 1,
+      "start_char": 26833,
+      "end_char": 26856,
+      "length": 24,
+      "text": "בן־שבע שנים יהואש במלכו׃"
+    },
+    {
+      "uid": "II_Kings_318",
+      "chapter_number": 12,
+      "verse_number": 2,
+      "start_char": 26857,
+      "end_char": 26928,
+      "length": 72,
+      "text": "בשנת־שבע ליהוא מלך יהואש וארבעים שנה מלך בירושל͏ם ושם אמו צביה מבאר שבע׃"
+    },
+    {
+      "uid": "II_Kings_319",
+      "chapter_number": 12,
+      "verse_number": 3,
+      "start_char": 26929,
+      "end_char": 26985,
+      "length": 57,
+      "text": "ויעש יהואש הישר בעיני יהוה כל־ימיו אשר הורהו יהוידע הכהן׃"
+    },
+    {
+      "uid": "II_Kings_320",
+      "chapter_number": 12,
+      "verse_number": 4,
+      "start_char": 26986,
+      "end_char": 27030,
+      "length": 45,
+      "text": "רק הבמות לא־סרו עוד העם מזבחים ומקטרים בבמות׃"
+    },
+    {
+      "uid": "II_Kings_321",
+      "chapter_number": 12,
+      "verse_number": 5,
+      "start_char": 27031,
+      "end_char": 27153,
+      "length": 123,
+      "text": "ויאמר יהואש אל־הכהנים כל כסף הקדשים אשר־יובא בית־יהוה כסף עובר איש כסף נפשות ערכו כל־כסף אשר יעלה על לב־איש להביא בית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_322",
+      "chapter_number": 12,
+      "verse_number": 6,
+      "start_char": 27154,
+      "end_char": 27224,
+      "length": 71,
+      "text": "יקחו להם הכהנים איש מאת מכרו והם יחזקו את־בדק הבית לכל אשר־ימצא שם בדק׃"
+    },
+    {
+      "uid": "II_Kings_323",
+      "chapter_number": 12,
+      "verse_number": 7,
+      "start_char": 27225,
+      "end_char": 27287,
+      "length": 63,
+      "text": "ויהי בשנת עשרים ושלש שנה למלך יהואש לא־חזקו הכהנים את־בדק הבית׃"
+    },
+    {
+      "uid": "II_Kings_324",
+      "chapter_number": 12,
+      "verse_number": 8,
+      "start_char": 27288,
+      "end_char": 27413,
+      "length": 126,
+      "text": "ויקרא המלך יהואש ליהוידע הכהן ולכהנים ויאמר אלהם מדוע אינכם מחזקים את־בדק הבית ועתה אל־תקחו־כסף מאת מכריכם כי־לבדק הבית תתנהו׃"
+    },
+    {
+      "uid": "II_Kings_325",
+      "chapter_number": 12,
+      "verse_number": 9,
+      "start_char": 27414,
+      "end_char": 27471,
+      "length": 58,
+      "text": "ויאתו הכהנים לבלתי קחת־כסף מאת העם ולבלתי חזק את־בדק הבית׃"
+    },
+    {
+      "uid": "II_Kings_326",
+      "chapter_number": 12,
+      "verse_number": 10,
+      "start_char": 27472,
+      "end_char": 27616,
+      "length": 145,
+      "text": "ויקח יהוידע הכהן ארון אחד ויקב חר בדלתו ויתן אתו אצל המזבח (בימין) [מימין] בבוא־איש בית יהוה ונתנו־שמה הכהנים שמרי הסף את־כל־הכסף המובא בית־יהוה׃"
+    },
+    {
+      "uid": "II_Kings_327",
+      "chapter_number": 12,
+      "verse_number": 11,
+      "start_char": 27617,
+      "end_char": 27706,
+      "length": 90,
+      "text": "ויהי כראותם כי־רב הכסף בארון ויעל ספר המלך והכהן הגדול ויצרו וימנו את־הכסף הנמצא בית־יהוה׃"
+    },
+    {
+      "uid": "II_Kings_328",
+      "chapter_number": 12,
+      "verse_number": 12,
+      "start_char": 27707,
+      "end_char": 27820,
+      "length": 114,
+      "text": "ונתנו את־הכסף המתכן על־[ידי] (יד) עשי המלאכה (הפקדים) [המפקדים] בית יהוה ויוציאהו לחרשי העץ ולבנים העשים בית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_329",
+      "chapter_number": 12,
+      "verse_number": 13,
+      "start_char": 27821,
+      "end_char": 27911,
+      "length": 91,
+      "text": "ולגדרים ולחצבי האבן ולקנות עצים ואבני מחצב לחזק את־בדק בית־יהוה ולכל אשר־יצא על־הבית לחזקה׃"
+    },
+    {
+      "uid": "II_Kings_330",
+      "chapter_number": 12,
+      "verse_number": 14,
+      "start_char": 27912,
+      "end_char": 28004,
+      "length": 93,
+      "text": "אך לא יעשה בית יהוה ספות כסף מזמרות מזרקות חצצרות כל־כלי זהב וכלי־כסף מן־הכסף המובא בית־יהוה׃"
+    },
+    {
+      "uid": "II_Kings_331",
+      "chapter_number": 12,
+      "verse_number": 15,
+      "start_char": 28005,
+      "end_char": 28046,
+      "length": 42,
+      "text": "כי־לעשי המלאכה יתנהו וחזקו־בו את־בית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_332",
+      "chapter_number": 12,
+      "verse_number": 16,
+      "start_char": 28047,
+      "end_char": 28123,
+      "length": 77,
+      "text": "ולא יחשבו את־האנשים אשר יתנו את־הכסף על־ידם לתת לעשי המלאכה כי באמנה הם עשים׃"
+    },
+    {
+      "uid": "II_Kings_333",
+      "chapter_number": 12,
+      "verse_number": 17,
+      "start_char": 28124,
+      "end_char": 28171,
+      "length": 48,
+      "text": "כסף אשם וכסף חטאות לא יובא בית יהוה לכהנים יהיו׃"
+    },
+    {
+      "uid": "II_Kings_334",
+      "chapter_number": 12,
+      "verse_number": 18,
+      "start_char": 28172,
+      "end_char": 28243,
+      "length": 72,
+      "text": "אז יעלה חזאל מלך ארם וילחם על־גת וילכדה וישם חזאל פניו לעלות על־ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Kings_335",
+      "chapter_number": 12,
+      "verse_number": 19,
+      "start_char": 28244,
+      "end_char": 28418,
+      "length": 175,
+      "text": "ויקח יהואש מלך־יהודה את כל־הקדשים אשר־הקדישו יהושפט ויהורם ואחזיהו אבתיו מלכי יהודה ואת־קדשיו ואת כל־הזהב הנמצא באצרות בית־יהוה ובית המלך וישלח לחזאל מלך ארם ויעל מעל ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Kings_336",
+      "chapter_number": 12,
+      "verse_number": 20,
+      "start_char": 28419,
+      "end_char": 28490,
+      "length": 72,
+      "text": "ויתר דברי יואש וכל־אשר עשה הלוא־הם כתובים על־ספר דברי הימים למלכי יהודה׃"
+    },
+    {
+      "uid": "II_Kings_337",
+      "chapter_number": 12,
+      "verse_number": 21,
+      "start_char": 28491,
+      "end_char": 28543,
+      "length": 53,
+      "text": "ויקמו עבדיו ויקשרו־קשר ויכו את־יואש בית מלא הירד סלא׃"
+    },
+    {
+      "uid": "II_Kings_338",
+      "chapter_number": 12,
+      "verse_number": 22,
+      "start_char": 28544,
+      "end_char": 28640,
+      "length": 97,
+      "text": "ויוזכר בן־שמעת ויהוזבד בן־שמר׀עבדיו הכהו וימת ויקברו אתו עם־אבתיו בעיר דוד וימלך אמציה בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_339",
+      "chapter_number": 13,
+      "verse_number": 1,
+      "start_char": 28641,
+      "end_char": 28734,
+      "length": 94,
+      "text": "בשנת עשרים ושלש שנה ליואש בן־אחזיהו מלך יהודה מלך יהואחז בן־יהוא על־ישראל בשמרון שבע עשרה שנה׃"
+    },
+    {
+      "uid": "II_Kings_340",
+      "chapter_number": 13,
+      "verse_number": 2,
+      "start_char": 28735,
+      "end_char": 28811,
+      "length": 77,
+      "text": "ויעש הרע בעיני יהוה וילך אחר חטאת ירבעם בן־נבט אשר־החטיא את־ישראל לא־סר ממנה׃"
+    },
+    {
+      "uid": "II_Kings_341",
+      "chapter_number": 13,
+      "verse_number": 3,
+      "start_char": 28812,
+      "end_char": 28884,
+      "length": 73,
+      "text": "ויחר־אף יהוה בישראל ויתנם ביד׀ חזאל מלך־ארם וביד בן־הדד בן־חזאל כל־הימים׃"
+    },
+    {
+      "uid": "II_Kings_342",
+      "chapter_number": 13,
+      "verse_number": 4,
+      "start_char": 28885,
+      "end_char": 28963,
+      "length": 79,
+      "text": "ויחל יהואחז את־פני יהוה וישמע אליו יהוה כי ראה את־לחץ ישראל כי־לחץ אתם מלך ארם׃"
+    },
+    {
+      "uid": "II_Kings_343",
+      "chapter_number": 13,
+      "verse_number": 5,
+      "start_char": 28964,
+      "end_char": 29040,
+      "length": 77,
+      "text": "ויתן יהוה לישראל מושיע ויצאו מתחת יד־ארם וישבו בני־ישראל באהליהם כתמול שלשום׃"
+    },
+    {
+      "uid": "II_Kings_344",
+      "chapter_number": 13,
+      "verse_number": 6,
+      "start_char": 29041,
+      "end_char": 29113,
+      "length": 73,
+      "text": "אך לא־סרו מחטאת בית־ירבעם אשר־החטי את־ישראל בה הלך וגם האשרה עמדה בשמרון׃"
+    },
+    {
+      "uid": "II_Kings_345",
+      "chapter_number": 13,
+      "verse_number": 7,
+      "start_char": 29114,
+      "end_char": 29212,
+      "length": 99,
+      "text": "כי לא השאיר ליהואחז עם כי אם־חמשים פרשים ועשרה רכב ועשרת אלפים רגלי כי אבדם מלך ארם וישמם כעפר לדש׃"
+    },
+    {
+      "uid": "II_Kings_346",
+      "chapter_number": 13,
+      "verse_number": 8,
+      "start_char": 29213,
+      "end_char": 29294,
+      "length": 82,
+      "text": "ויתר דברי יהואחז וכל־אשר עשה וגבורתו הלוא־הם כתובים על־ספר דברי הימים למלכי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_347",
+      "chapter_number": 13,
+      "verse_number": 9,
+      "start_char": 29295,
+      "end_char": 29352,
+      "length": 58,
+      "text": "וישכב יהואחז עם־אבתיו ויקברהו בשמרון וימלך יואש בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_348",
+      "chapter_number": 13,
+      "verse_number": 10,
+      "start_char": 29353,
+      "end_char": 29436,
+      "length": 84,
+      "text": "בשנת שלשים ושבע שנה ליואש מלך יהודה מלך יהואש בן־יהואחז על־ישראל בשמרון שש עשרה שנה׃"
+    },
+    {
+      "uid": "II_Kings_349",
+      "chapter_number": 13,
+      "verse_number": 11,
+      "start_char": 29437,
+      "end_char": 29512,
+      "length": 76,
+      "text": "ויעשה הרע בעיני יהוה לא סר מכל־חטאות ירבעם בן־נבט אשר־החטיא את־ישראל בה הלך׃"
+    },
+    {
+      "uid": "II_Kings_350",
+      "chapter_number": 13,
+      "verse_number": 12,
+      "start_char": 29513,
+      "end_char": 29619,
+      "length": 107,
+      "text": "ויתר דברי יואש וכל־אשר עשה וגבורתו אשר נלחם עם אמציה מלך־יהודה הלא־הם כתובים על־ספר דברי הימים למלכי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_351",
+      "chapter_number": 13,
+      "verse_number": 13,
+      "start_char": 29620,
+      "end_char": 29690,
+      "length": 71,
+      "text": "וישכב יואש עם־אבתיו וירבעם ישב על־כסאו ויקבר יואש בשמרון עם מלכי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_352",
+      "chapter_number": 13,
+      "verse_number": 14,
+      "start_char": 29691,
+      "end_char": 29790,
+      "length": 100,
+      "text": "ואלישע חלה את־חליו אשר ימות בו וירד אליו יואש מלך־ישראל ויבך על־פניו ויאמר אבי׀אבי רכב ישראל ופרשיו׃"
+    },
+    {
+      "uid": "II_Kings_353",
+      "chapter_number": 13,
+      "verse_number": 15,
+      "start_char": 29791,
+      "end_char": 29838,
+      "length": 48,
+      "text": "ויאמר לו אלישע קח קשת וחצים ויקח אליו קשת וחצים׃"
+    },
+    {
+      "uid": "II_Kings_354",
+      "chapter_number": 13,
+      "verse_number": 16,
+      "start_char": 29839,
+      "end_char": 29911,
+      "length": 73,
+      "text": "ויאמר׀ למלך ישראל הרכב ידך על־הקשת וירכב ידו וישם אלישע ידיו על־ידי המלך׃"
+    },
+    {
+      "uid": "II_Kings_355",
+      "chapter_number": 13,
+      "verse_number": 17,
+      "start_char": 29912,
+      "end_char": 30020,
+      "length": 109,
+      "text": "ויאמר פתח החלון קדמה ויפתח ויאמר אלישע ירה ויור ויאמר חץ־תשועה ליהוה וחץ תשועה בארם והכית את־ארם באפק עד־כלה׃"
+    },
+    {
+      "uid": "II_Kings_356",
+      "chapter_number": 13,
+      "verse_number": 18,
+      "start_char": 30021,
+      "end_char": 30085,
+      "length": 65,
+      "text": "ויאמר קח החצים ויקח ויאמר למלך־ישראל הך־ארצה ויך שלש־פעמים ויעמד׃"
+    },
+    {
+      "uid": "II_Kings_357",
+      "chapter_number": 13,
+      "verse_number": 19,
+      "start_char": 30086,
+      "end_char": 30183,
+      "length": 98,
+      "text": "ויקצף עליו איש האלהים ויאמר להכות חמש או־שש פעמים אז הכית את־ארם עד־כלה ועתה שלש פעמים תכה את־ארם׃"
+    },
+    {
+      "uid": "II_Kings_358",
+      "chapter_number": 13,
+      "verse_number": 20,
+      "start_char": 30184,
+      "end_char": 30231,
+      "length": 48,
+      "text": "וימת אלישע ויקברהו וגדודי מואב יבאו בארץ בא שנה׃"
+    },
+    {
+      "uid": "II_Kings_359",
+      "chapter_number": 13,
+      "verse_number": 21,
+      "start_char": 30232,
+      "end_char": 30342,
+      "length": 111,
+      "text": "ויהי הם׀ קברים איש והנה ראו את־הגדוד וישליכו את־האיש בקבר אלישע וילך ויגע האיש בעצמות אלישע ויחי ויקם על־רגליו׃"
+    },
+    {
+      "uid": "II_Kings_360",
+      "chapter_number": 13,
+      "verse_number": 22,
+      "start_char": 30343,
+      "end_char": 30383,
+      "length": 41,
+      "text": "וחזאל מלך ארם לחץ את־ישראל כל ימי יהואחז׃"
+    },
+    {
+      "uid": "II_Kings_361",
+      "chapter_number": 13,
+      "verse_number": 23,
+      "start_char": 30384,
+      "end_char": 30488,
+      "length": 105,
+      "text": "ויחן יהוה אתם וירחמם ויפן אליהם למען בריתו את־אברהם יצחק ויעקב ולא אבה השחיתם ולא־השליכם מעל־פניו עד־עתה׃"
+    },
+    {
+      "uid": "II_Kings_362",
+      "chapter_number": 13,
+      "verse_number": 24,
+      "start_char": 30489,
+      "end_char": 30529,
+      "length": 41,
+      "text": "וימת חזאל מלך־ארם וימלך בן־הדד בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_363",
+      "chapter_number": 13,
+      "verse_number": 25,
+      "start_char": 30530,
+      "end_char": 30652,
+      "length": 123,
+      "text": "וישב יהואש בן־יהואחז ויקח את־הערים מיד בן־הדד בן־חזאל אשר לקח מיד יהואחז אביו במלחמה שלש פעמים הכהו יואש וישב את־ערי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_364",
+      "chapter_number": 14,
+      "verse_number": 1,
+      "start_char": 30653,
+      "end_char": 30716,
+      "length": 64,
+      "text": "בשנת שתים ליואש בן־יואחז מלך ישראל מלך אמציהו בן־יואש מלך יהודה׃"
+    },
+    {
+      "uid": "II_Kings_365",
+      "chapter_number": 14,
+      "verse_number": 2,
+      "start_char": 30717,
+      "end_char": 30811,
+      "length": 95,
+      "text": "בן־עשרים וחמש שנה היה במלכו ועשרים ותשע שנה מלך בירושל͏ם ושם אמו (יהועדין) [יהועדן] מן־ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Kings_366",
+      "chapter_number": 14,
+      "verse_number": 3,
+      "start_char": 30812,
+      "end_char": 30874,
+      "length": 63,
+      "text": "ויעש הישר בעיני יהוה רק לא כדוד אביו ככל אשר־עשה יואש אביו עשה׃"
+    },
+    {
+      "uid": "II_Kings_367",
+      "chapter_number": 14,
+      "verse_number": 4,
+      "start_char": 30875,
+      "end_char": 30919,
+      "length": 45,
+      "text": "רק הבמות לא־סרו עוד העם מזבחים ומקטרים בבמות׃"
+    },
+    {
+      "uid": "II_Kings_368",
+      "chapter_number": 14,
+      "verse_number": 5,
+      "start_char": 30920,
+      "end_char": 30978,
+      "length": 59,
+      "text": "ויהי כאשר חזקה הממלכה בידו ויך את־עבדיו המכים את־המלך אביו׃"
+    },
+    {
+      "uid": "II_Kings_369",
+      "chapter_number": 14,
+      "verse_number": 6,
+      "start_char": 30979,
+      "end_char": 31113,
+      "length": 135,
+      "text": "ואת־בני המכים לא המית ככתוב בספר־תורת־משה אשר־צוה יהוה לאמר לא־יומתו אבות על־בנים ובנים לא־יומתו על־אבות כי אם־איש בחטאו (ימות) [יומת]׃"
+    },
+    {
+      "uid": "II_Kings_370",
+      "chapter_number": 14,
+      "verse_number": 7,
+      "start_char": 31114,
+      "end_char": 31208,
+      "length": 95,
+      "text": "הוא־הכה את־אדום בגי־[מלח] (המלח) עשרת אלפים ותפש את־הסלע במלחמה ויקרא את־שמה יקתאל עד היום הזה׃"
+    },
+    {
+      "uid": "II_Kings_371",
+      "chapter_number": 14,
+      "verse_number": 8,
+      "start_char": 31209,
+      "end_char": 31285,
+      "length": 77,
+      "text": "אז שלח אמציה מלאכים אל־יהואש בן־יהואחז בן־יהוא מלך ישראל לאמר לכה נתראה פנים׃"
+    },
+    {
+      "uid": "II_Kings_372",
+      "chapter_number": 14,
+      "verse_number": 9,
+      "start_char": 31286,
+      "end_char": 31437,
+      "length": 152,
+      "text": "וישלח יהואש מלך־ישראל אל־אמציהו מלך־יהודה לאמר החוח אשר בלבנון שלח אל־הארז אשר בלבנון לאמר תנה־את־בתך לבני לאשה ותעבר חית השדה אשר בלבנון ותרמס את־החוח׃"
+    },
+    {
+      "uid": "II_Kings_373",
+      "chapter_number": 14,
+      "verse_number": 10,
+      "start_char": 31438,
+      "end_char": 31517,
+      "length": 80,
+      "text": "הכה הכית את־אדום ונשאך לבך הכבד ושב בביתך ולמה תתגרה ברעה ונפלתה אתה ויהודה עמך׃"
+    },
+    {
+      "uid": "II_Kings_374",
+      "chapter_number": 14,
+      "verse_number": 11,
+      "start_char": 31518,
+      "end_char": 31607,
+      "length": 90,
+      "text": "ולא־שמע אמציהו ויעל יהואש מלך־ישראל ויתראו פנים הוא ואמציהו מלך־יהודה בבית שמש אשר ליהודה׃"
+    },
+    {
+      "uid": "II_Kings_375",
+      "chapter_number": 14,
+      "verse_number": 12,
+      "start_char": 31608,
+      "end_char": 31646,
+      "length": 39,
+      "text": "וינגף יהודה לפני ישראל וינסו איש לאהלו׃"
+    },
+    {
+      "uid": "II_Kings_376",
+      "chapter_number": 14,
+      "verse_number": 13,
+      "start_char": 31647,
+      "end_char": 31795,
+      "length": 149,
+      "text": "ואת אמציהו מלך־יהודה בן־יהואש בן־אחזיהו תפש יהואש מלך־ישראל בבית שמש (ויבאו) [ויבא] ירושל͏ם ויפרץ בחומת ירושל͏ם בשער אפרים עד־שער הפנה ארבע מאות אמה׃"
+    },
+    {
+      "uid": "II_Kings_377",
+      "chapter_number": 14,
+      "verse_number": 14,
+      "start_char": 31796,
+      "end_char": 31892,
+      "length": 97,
+      "text": "ולקח את־כל־הזהב־והכסף ואת כל־הכלים הנמצאים בית־יהוה ובאצרות בית המלך ואת בני התערבות וישב שמרונה׃"
+    },
+    {
+      "uid": "II_Kings_378",
+      "chapter_number": 14,
+      "verse_number": 15,
+      "start_char": 31893,
+      "end_char": 31998,
+      "length": 106,
+      "text": "ויתר דברי יהואש אשר עשה וגבורתו ואשר נלחם עם אמציהו מלך־יהודה הלא־הם כתובים על־ספר דברי הימים למלכי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_379",
+      "chapter_number": 14,
+      "verse_number": 16,
+      "start_char": 31999,
+      "end_char": 32068,
+      "length": 70,
+      "text": "וישכב יהואש עם־אבתיו ויקבר בשמרון עם מלכי ישראל וימלך ירבעם בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_380",
+      "chapter_number": 14,
+      "verse_number": 17,
+      "start_char": 32069,
+      "end_char": 32146,
+      "length": 78,
+      "text": "ויחי אמציהו בן־יואש מלך יהודה אחרי מות יהואש בן־יהואחז מלך ישראל חמש עשרה שנה׃"
+    },
+    {
+      "uid": "II_Kings_381",
+      "chapter_number": 14,
+      "verse_number": 18,
+      "start_char": 32147,
+      "end_char": 32206,
+      "length": 60,
+      "text": "ויתר דברי אמציהו הלא־הם כתבים על־ספר דברי הימים למלכי יהודה׃"
+    },
+    {
+      "uid": "II_Kings_382",
+      "chapter_number": 14,
+      "verse_number": 19,
+      "start_char": 32207,
+      "end_char": 32271,
+      "length": 65,
+      "text": "ויקשרו עליו קשר בירושל͏ם וינס לכישה וישלחו אחריו לכישה וימתהו שם׃"
+    },
+    {
+      "uid": "II_Kings_383",
+      "chapter_number": 14,
+      "verse_number": 20,
+      "start_char": 32272,
+      "end_char": 32324,
+      "length": 53,
+      "text": "וישאו אתו על־הסוסים ויקבר בירושל͏ם עם־אבתיו בעיר דוד׃"
+    },
+    {
+      "uid": "II_Kings_384",
+      "chapter_number": 14,
+      "verse_number": 21,
+      "start_char": 32325,
+      "end_char": 32398,
+      "length": 74,
+      "text": "ויקחו כל־עם יהודה את־עזריה והוא בן־שש עשרה שנה וימלכו אתו תחת אביו אמציהו׃"
+    },
+    {
+      "uid": "II_Kings_385",
+      "chapter_number": 14,
+      "verse_number": 22,
+      "start_char": 32399,
+      "end_char": 32450,
+      "length": 52,
+      "text": "הוא בנה את־אילת וישבה ליהודה אחרי שכב־המלך עם־אבתיו׃"
+    },
+    {
+      "uid": "II_Kings_386",
+      "chapter_number": 14,
+      "verse_number": 23,
+      "start_char": 32451,
+      "end_char": 32545,
+      "length": 95,
+      "text": "בשנת חמש־עשרה שנה לאמציהו בן־יואש מלך יהודה מלך ירבעם בן־יואש מלך־ישראל בשמרון ארבעים ואחת שנה׃"
+    },
+    {
+      "uid": "II_Kings_387",
+      "chapter_number": 14,
+      "verse_number": 24,
+      "start_char": 32546,
+      "end_char": 32613,
+      "length": 68,
+      "text": "ויעש הרע בעיני יהוה לא סר מכל־חטאות ירבעם בן־נבט אשר החטיא את־ישראל׃"
+    },
+    {
+      "uid": "II_Kings_388",
+      "chapter_number": 14,
+      "verse_number": 25,
+      "start_char": 32614,
+      "end_char": 32728,
+      "length": 115,
+      "text": "הוא השיב את־גבול ישראל מלבוא חמת עד־ים הערבה כדבר יהוה אלהי ישראל אשר דבר ביד־עבדו יונה בן־אמתי הנביא אשר מגת החפר׃"
+    },
+    {
+      "uid": "II_Kings_389",
+      "chapter_number": 14,
+      "verse_number": 26,
+      "start_char": 32729,
+      "end_char": 32797,
+      "length": 69,
+      "text": "כי־ראה יהוה את־עני ישראל מרה מאד ואפס עצור ואפס עזוב ואין עזר לישראל׃"
+    },
+    {
+      "uid": "II_Kings_390",
+      "chapter_number": 14,
+      "verse_number": 27,
+      "start_char": 32798,
+      "end_char": 32865,
+      "length": 68,
+      "text": "ולא־דבר יהוה למחות את־שם ישראל מתחת השמים ויושיעם ביד ירבעם בן־יואש׃"
+    },
+    {
+      "uid": "II_Kings_391",
+      "chapter_number": 14,
+      "verse_number": 28,
+      "start_char": 32866,
+      "end_char": 32994,
+      "length": 129,
+      "text": "ויתר דברי ירבעם וכל־אשר עשה וגבורתו אשר־נלחם ואשר השיב את־דמשק ואת־חמת ליהודה בישראל הלא־הם כתובים על־ספר דברי הימים למלכי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_392",
+      "chapter_number": 14,
+      "verse_number": 29,
+      "start_char": 32995,
+      "end_char": 33051,
+      "length": 57,
+      "text": "וישכב ירבעם עם־אבתיו עם מלכי ישראל וימלך זכריה בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_393",
+      "chapter_number": 15,
+      "verse_number": 1,
+      "start_char": 33052,
+      "end_char": 33117,
+      "length": 66,
+      "text": "בשנת עשרים ושבע שנה לירבעם מלך ישראל מלך עזריה בן־אמציה מלך יהודה׃"
+    },
+    {
+      "uid": "II_Kings_394",
+      "chapter_number": 15,
+      "verse_number": 2,
+      "start_char": 33118,
+      "end_char": 33196,
+      "length": 79,
+      "text": "בן־שש עשרה שנה היה במלכו וחמשים ושתים שנה מלך בירושל͏ם ושם אמו יכליהו מירושל͏ם׃"
+    },
+    {
+      "uid": "II_Kings_395",
+      "chapter_number": 15,
+      "verse_number": 3,
+      "start_char": 33197,
+      "end_char": 33241,
+      "length": 45,
+      "text": "ויעש הישר בעיני יהוה ככל אשר־עשה אמציהו אביו׃"
+    },
+    {
+      "uid": "II_Kings_396",
+      "chapter_number": 15,
+      "verse_number": 4,
+      "start_char": 33242,
+      "end_char": 33286,
+      "length": 45,
+      "text": "רק הבמות לא־סרו עוד העם מזבחים ומקטרים בבמות׃"
+    },
+    {
+      "uid": "II_Kings_397",
+      "chapter_number": 15,
+      "verse_number": 5,
+      "start_char": 33287,
+      "end_char": 33380,
+      "length": 94,
+      "text": "וינגע יהוה את־המלך ויהי מצרע עד־יום מתו וישב בבית החפשית ויותם בן־המלך על־הבית שפט את־עם הארץ׃"
+    },
+    {
+      "uid": "II_Kings_398",
+      "chapter_number": 15,
+      "verse_number": 6,
+      "start_char": 33381,
+      "end_char": 33453,
+      "length": 73,
+      "text": "ויתר דברי עזריהו וכל־אשר עשה הלא־הם כתובים על־ספר דברי הימים למלכי יהודה׃"
+    },
+    {
+      "uid": "II_Kings_399",
+      "chapter_number": 15,
+      "verse_number": 7,
+      "start_char": 33454,
+      "end_char": 33524,
+      "length": 71,
+      "text": "וישכב עזריה עם־אבתיו ויקברו אתו עם־אבתיו בעיר דוד וימלך יותם בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_400",
+      "chapter_number": 15,
+      "verse_number": 8,
+      "start_char": 33525,
+      "end_char": 33609,
+      "length": 85,
+      "text": "בשנת שלשים ושמנה שנה לעזריהו מלך יהודה מלך זכריהו בן־ירבעם על־ישראל בשמרון ששה חדשים׃"
+    },
+    {
+      "uid": "II_Kings_401",
+      "chapter_number": 15,
+      "verse_number": 9,
+      "start_char": 33610,
+      "end_char": 33689,
+      "length": 80,
+      "text": "ויעש הרע בעיני יהוה כאשר עשו אבתיו לא סר מחטאות ירבעם בן־נבט אשר החטיא את־ישראל׃"
+    },
+    {
+      "uid": "II_Kings_402",
+      "chapter_number": 15,
+      "verse_number": 10,
+      "start_char": 33690,
+      "end_char": 33744,
+      "length": 55,
+      "text": "ויקשר עליו שלם בן־יבש ויכהו קבל־עם וימיתהו וימלך תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_403",
+      "chapter_number": 15,
+      "verse_number": 11,
+      "start_char": 33745,
+      "end_char": 33801,
+      "length": 57,
+      "text": "ויתר דברי זכריה הנם כתובים על־ספר דברי הימים למלכי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_404",
+      "chapter_number": 15,
+      "verse_number": 12,
+      "start_char": 33802,
+      "end_char": 33875,
+      "length": 74,
+      "text": "הוא דבר־יהוה אשר דבר אל־יהוא לאמר בני רביעים ישבו לך על־כסא ישראל ויהי־כן׃"
+    },
+    {
+      "uid": "II_Kings_405",
+      "chapter_number": 15,
+      "verse_number": 13,
+      "start_char": 33876,
+      "end_char": 33950,
+      "length": 75,
+      "text": "שלום בן־יביש מלך בשנת שלשים ותשע שנה לעזיה מלך יהודה וימלך ירח־ימים בשמרון׃"
+    },
+    {
+      "uid": "II_Kings_406",
+      "chapter_number": 15,
+      "verse_number": 14,
+      "start_char": 33951,
+      "end_char": 34031,
+      "length": 81,
+      "text": "ויעל מנחם בן־גדי מתרצה ויבא שמרון ויך את־שלום בן־יביש בשמרון וימיתהו וימלך תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_407",
+      "chapter_number": 15,
+      "verse_number": 15,
+      "start_char": 34032,
+      "end_char": 34101,
+      "length": 70,
+      "text": "ויתר דברי שלום וקשרו אשר קשר הנם כתובים על־ספר דברי הימים למלכי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_408",
+      "chapter_number": 15,
+      "verse_number": 16,
+      "start_char": 34102,
+      "end_char": 34184,
+      "length": 83,
+      "text": "אז יכה־מנחם את־תפסח ואת־כל־אשר־בה ואת־גבוליה מתרצה כי לא פתח ויך את כל־ההרותיה בקע׃"
+    },
+    {
+      "uid": "II_Kings_409",
+      "chapter_number": 15,
+      "verse_number": 17,
+      "start_char": 34185,
+      "end_char": 34262,
+      "length": 78,
+      "text": "בשנת שלשים ותשע שנה לעזריה מלך יהודה מלך מנחם בן־גדי על־ישראל עשר שנים בשמרון׃"
+    },
+    {
+      "uid": "II_Kings_410",
+      "chapter_number": 15,
+      "verse_number": 18,
+      "start_char": 34263,
+      "end_char": 34338,
+      "length": 76,
+      "text": "ויעש הרע בעיני יהוה לא סר מעל חטאות ירבעם בן־נבט אשר־החטיא את־ישראל כל־ימיו׃"
+    },
+    {
+      "uid": "II_Kings_411",
+      "chapter_number": 15,
+      "verse_number": 19,
+      "start_char": 34339,
+      "end_char": 34423,
+      "length": 85,
+      "text": "בא פול מלך־אשור על־הארץ ויתן מנחם לפול אלף ככר־כסף להיות ידיו אתו להחזיק הממלכה בידו׃"
+    },
+    {
+      "uid": "II_Kings_412",
+      "chapter_number": 15,
+      "verse_number": 20,
+      "start_char": 34424,
+      "end_char": 34536,
+      "length": 113,
+      "text": "ויצא מנחם את־הכסף על־ישראל על כל־גבורי החיל לתת למלך אשור חמשים שקלים כסף לאיש אחד וישב מלך אשור ולא־עמד שם בארץ׃"
+    },
+    {
+      "uid": "II_Kings_413",
+      "chapter_number": 15,
+      "verse_number": 21,
+      "start_char": 34537,
+      "end_char": 34608,
+      "length": 72,
+      "text": "ויתר דברי מנחם וכל־אשר עשה הלוא־הם כתובים על־ספר דברי הימים למלכי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_414",
+      "chapter_number": 15,
+      "verse_number": 22,
+      "start_char": 34609,
+      "end_char": 34650,
+      "length": 42,
+      "text": "וישכב מנחם עם־אבתיו וימלך פקחיה בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_415",
+      "chapter_number": 15,
+      "verse_number": 23,
+      "start_char": 34651,
+      "end_char": 34722,
+      "length": 72,
+      "text": "בשנת חמשים שנה לעזריה מלך יהודה מלך פקחיה בן־מנחם על־ישראל בשמרון שנתים׃"
+    },
+    {
+      "uid": "II_Kings_416",
+      "chapter_number": 15,
+      "verse_number": 24,
+      "start_char": 34723,
+      "end_char": 34787,
+      "length": 65,
+      "text": "ויעש הרע בעיני יהוה לא סר מחטאות ירבעם בן־נבט אשר החטיא את־ישראל׃"
+    },
+    {
+      "uid": "II_Kings_417",
+      "chapter_number": 15,
+      "verse_number": 25,
+      "start_char": 34788,
+      "end_char": 34919,
+      "length": 132,
+      "text": "ויקשר עליו פקח בן־רמליהו שלישו ויכהו בשמרון בארמון בית־[המלך] (מלך) את־ארגב ואת־האריה ועמו חמשים איש מבני גלעדים וימתהו וימלך תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_418",
+      "chapter_number": 15,
+      "verse_number": 26,
+      "start_char": 34920,
+      "end_char": 34988,
+      "length": 69,
+      "text": "ויתר דברי פקחיה וכל־אשר עשה הנם כתובים על־ספר דברי הימים למלכי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_419",
+      "chapter_number": 15,
+      "verse_number": 27,
+      "start_char": 34989,
+      "end_char": 35070,
+      "length": 82,
+      "text": "בשנת חמשים ושתים שנה לעזריה מלך יהודה מלך פקח בן־רמליהו על־ישראל בשמרון עשרים שנה׃"
+    },
+    {
+      "uid": "II_Kings_420",
+      "chapter_number": 15,
+      "verse_number": 28,
+      "start_char": 35071,
+      "end_char": 35137,
+      "length": 67,
+      "text": "ויעש הרע בעיני יהוה לא סר מן־חטאות ירבעם בן־נבט אשר החטיא את־ישראל׃"
+    },
+    {
+      "uid": "II_Kings_421",
+      "chapter_number": 15,
+      "verse_number": 29,
+      "start_char": 35138,
+      "end_char": 35281,
+      "length": 144,
+      "text": "בימי פקח מלך־ישראל בא תגלת פלאסר מלך אשור ויקח את־עיון ואת־אבל בית־מעכה ואת־ינוח ואת־קדש ואת־חצור ואת־הגלעד ואת־הגלילה כל ארץ נפתלי ויגלם אשורה׃"
+    },
+    {
+      "uid": "II_Kings_422",
+      "chapter_number": 15,
+      "verse_number": 30,
+      "start_char": 35282,
+      "end_char": 35371,
+      "length": 90,
+      "text": "ויקשר־קשר הושע בן־אלה על־פקח בן־רמליהו ויכהו וימיתהו וימלך תחתיו בשנת עשרים ליותם בן־עזיה׃"
+    },
+    {
+      "uid": "II_Kings_423",
+      "chapter_number": 15,
+      "verse_number": 31,
+      "start_char": 35372,
+      "end_char": 35438,
+      "length": 67,
+      "text": "ויתר דברי־פקח וכל־אשר עשה הנם כתובים על־ספר דברי הימים למלכי ישראל׃"
+    },
+    {
+      "uid": "II_Kings_424",
+      "chapter_number": 15,
+      "verse_number": 32,
+      "start_char": 35439,
+      "end_char": 35501,
+      "length": 63,
+      "text": "בשנת שתים לפקח בן־רמליהו מלך ישראל מלך יותם בן־עזיהו מלך יהודה׃"
+    },
+    {
+      "uid": "II_Kings_425",
+      "chapter_number": 15,
+      "verse_number": 33,
+      "start_char": 35502,
+      "end_char": 35577,
+      "length": 76,
+      "text": "בן־עשרים וחמש שנה היה במלכו ושש־עשרה שנה מלך בירושל͏ם ושם אמו ירושא בת־צדוק׃"
+    },
+    {
+      "uid": "II_Kings_426",
+      "chapter_number": 15,
+      "verse_number": 34,
+      "start_char": 35578,
+      "end_char": 35625,
+      "length": 48,
+      "text": "ויעש הישר בעיני יהוה ככל אשר־עשה עזיהו אביו עשה׃"
+    },
+    {
+      "uid": "II_Kings_427",
+      "chapter_number": 15,
+      "verse_number": 35,
+      "start_char": 35626,
+      "end_char": 35701,
+      "length": 76,
+      "text": "רק הבמות לא סרו עוד העם מזבחים ומקטרים בבמות הוא בנה את־שער בית־יהוה העליון׃"
+    },
+    {
+      "uid": "II_Kings_428",
+      "chapter_number": 15,
+      "verse_number": 36,
+      "start_char": 35702,
+      "end_char": 35768,
+      "length": 67,
+      "text": "ויתר דברי יותם אשר עשה הלא־הם כתובים על־ספר דברי הימים למלכי יהודה׃"
+    },
+    {
+      "uid": "II_Kings_429",
+      "chapter_number": 15,
+      "verse_number": 37,
+      "start_char": 35769,
+      "end_char": 35832,
+      "length": 64,
+      "text": "בימים ההם החל יהוה להשליח ביהודה רצין מלך ארם ואת פקח בן־רמליהו׃"
+    },
+    {
+      "uid": "II_Kings_430",
+      "chapter_number": 15,
+      "verse_number": 38,
+      "start_char": 35833,
+      "end_char": 35901,
+      "length": 69,
+      "text": "וישכב יותם עם־אבתיו ויקבר עם־אבתיו בעיר דוד אביו וימלך אחז בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_431",
+      "chapter_number": 16,
+      "verse_number": 1,
+      "start_char": 35902,
+      "end_char": 35960,
+      "length": 59,
+      "text": "בשנת שבע־עשרה שנה לפקח בן־רמליהו מלך אחז בן־יותם מלך יהודה׃"
+    },
+    {
+      "uid": "II_Kings_432",
+      "chapter_number": 16,
+      "verse_number": 2,
+      "start_char": 35961,
+      "end_char": 36049,
+      "length": 89,
+      "text": "בן־עשרים שנה אחז במלכו ושש־עשרה שנה מלך בירושל͏ם ולא־עשה הישר בעיני יהוה אלהיו כדוד אביו׃"
+    },
+    {
+      "uid": "II_Kings_433",
+      "chapter_number": 16,
+      "verse_number": 3,
+      "start_char": 36050,
+      "end_char": 36138,
+      "length": 89,
+      "text": "וילך בדרך מלכי ישראל וגם את־בנו העביר באש כתעבות הגוים אשר הוריש יהוה אתם מפני בני ישראל׃"
+    },
+    {
+      "uid": "II_Kings_434",
+      "chapter_number": 16,
+      "verse_number": 4,
+      "start_char": 36139,
+      "end_char": 36183,
+      "length": 45,
+      "text": "ויזבח ויקטר בבמות ועל־הגבעות ותחת כל־עץ רענן׃"
+    },
+    {
+      "uid": "II_Kings_435",
+      "chapter_number": 16,
+      "verse_number": 5,
+      "start_char": 36184,
+      "end_char": 36272,
+      "length": 89,
+      "text": "אז יעלה רצין מלך־ארם ופקח בן־רמליהו מלך־ישראל ירושל͏ם למלחמה ויצרו על־אחז ולא יכלו להלחם׃"
+    },
+    {
+      "uid": "II_Kings_436",
+      "chapter_number": 16,
+      "verse_number": 6,
+      "start_char": 36273,
+      "end_char": 36384,
+      "length": 112,
+      "text": "בעת ההיא השיב רצין מלך־ארם את־אילת לארם וינשל את־היהודים מאילות (וארמים) [ואדמים] באו אילת וישבו שם עד היום הזה׃"
+    },
+    {
+      "uid": "II_Kings_437",
+      "chapter_number": 16,
+      "verse_number": 7,
+      "start_char": 36385,
+      "end_char": 36492,
+      "length": 108,
+      "text": "וישלח אחז מלאכים אל־תגלת פלסר מלך־אשור לאמר עבדך ובנך אני עלה והושעני מכף מלך־ארם ומכף מלך ישראל הקומים עלי׃"
+    },
+    {
+      "uid": "II_Kings_438",
+      "chapter_number": 16,
+      "verse_number": 8,
+      "start_char": 36493,
+      "end_char": 36570,
+      "length": 78,
+      "text": "ויקח אחז את־הכסף ואת־הזהב הנמצא בית יהוה ובאצרות בית המלך וישלח למלך־אשור שחד׃"
+    },
+    {
+      "uid": "II_Kings_439",
+      "chapter_number": 16,
+      "verse_number": 9,
+      "start_char": 36571,
+      "end_char": 36644,
+      "length": 74,
+      "text": "וישמע אליו מלך אשור ויעל מלך אשור אל־דמשק ויתפשה ויגלה קירה ואת־רצין המית׃"
+    },
+    {
+      "uid": "II_Kings_440",
+      "chapter_number": 16,
+      "verse_number": 10,
+      "start_char": 36645,
+      "end_char": 36778,
+      "length": 134,
+      "text": "וילך המלך אחז לקראת תגלת פלאסר מלך־אשור דומשק וירא את־המזבח אשר בדמשק וישלח המלך אחז אל־אוריה הכהן את־דמות המזבח ואת־תבניתו לכל־מעשהו׃"
+    },
+    {
+      "uid": "II_Kings_441",
+      "chapter_number": 16,
+      "verse_number": 11,
+      "start_char": 36779,
+      "end_char": 36870,
+      "length": 92,
+      "text": "ויבן אוריה הכהן את־המזבח ככל אשר־שלח המלך אחז מדמשק כן עשה אוריה הכהן עד־בוא המלך־אחז מדמשק׃"
+    },
+    {
+      "uid": "II_Kings_442",
+      "chapter_number": 16,
+      "verse_number": 12,
+      "start_char": 36871,
+      "end_char": 36935,
+      "length": 65,
+      "text": "ויבא המלך מדמשק וירא המלך את־המזבח ויקרב המלך על־המזבח ויעל עליו׃"
+    },
+    {
+      "uid": "II_Kings_443",
+      "chapter_number": 16,
+      "verse_number": 13,
+      "start_char": 36936,
+      "end_char": 37007,
+      "length": 72,
+      "text": "ויקטר את־עלתו ואת־מנחתו ויסך את־נסכו ויזרק את־דם־השלמים אשר־לו על־המזבח׃"
+    },
+    {
+      "uid": "II_Kings_444",
+      "chapter_number": 16,
+      "verse_number": 14,
+      "start_char": 37008,
+      "end_char": 37110,
+      "length": 103,
+      "text": "ואת המזבח הנחשת אשר לפני יהוה ויקרב מאת פני הבית מבין המזבח ומבין בית יהוה ויתן אתו על־ירך המזבח צפונה׃"
+    },
+    {
+      "uid": "II_Kings_445",
+      "chapter_number": 16,
+      "verse_number": 15,
+      "start_char": 37111,
+      "end_char": 37315,
+      "length": 205,
+      "text": "(ויצוהו) [ויצוה] המלך־אחז את־אוריה הכהן לאמר על המזבח הגדול הקטר את־עלת־הבקר ואת־מנחת הערב ואת־עלת המלך ואת־מנחתו ואת עלת כל־עם הארץ ומנחתם ונסכיהם וכל־דם עלה וכל־דם־זבח עליו תזרק ומזבח הנחשת יהיה־לי לבקר׃"
+    },
+    {
+      "uid": "II_Kings_446",
+      "chapter_number": 16,
+      "verse_number": 16,
+      "start_char": 37316,
+      "end_char": 37352,
+      "length": 37,
+      "text": "ויעש אוריה הכהן ככל אשר־צוה המלך אחז׃"
+    },
+    {
+      "uid": "II_Kings_447",
+      "chapter_number": 16,
+      "verse_number": 17,
+      "start_char": 37353,
+      "end_char": 37475,
+      "length": 123,
+      "text": "ויקצץ המלך אחז את־המסגרות המכונת ויסר מעליהם (ואת) [את־]הכיר ואת־הים הורד מעל הבקר הנחשת אשר תחתיה ויתן אתו על מרצפת אבנים׃"
+    },
+    {
+      "uid": "II_Kings_448",
+      "chapter_number": 16,
+      "verse_number": 18,
+      "start_char": 37476,
+      "end_char": 37560,
+      "length": 85,
+      "text": "ואת־[מוסך] (מיסך) השבת אשר־בנו בבית ואת־מבוא המלך החיצונה הסב בית יהוה מפני מלך אשור׃"
+    },
+    {
+      "uid": "II_Kings_449",
+      "chapter_number": 16,
+      "verse_number": 19,
+      "start_char": 37561,
+      "end_char": 37626,
+      "length": 66,
+      "text": "ויתר דברי אחז אשר עשה הלא־הם כתובים על־ספר דברי הימים למלכי יהודה׃"
+    },
+    {
+      "uid": "II_Kings_450",
+      "chapter_number": 16,
+      "verse_number": 20,
+      "start_char": 37627,
+      "end_char": 37692,
+      "length": 66,
+      "text": "וישכב אחז עם־אבתיו ויקבר עם־אבתיו בעיר דוד וימלך חזקיהו בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_451",
+      "chapter_number": 17,
+      "verse_number": 1,
+      "start_char": 37693,
+      "end_char": 37763,
+      "length": 71,
+      "text": "בשנת שתים עשרה לאחז מלך יהודה מלך הושע בן־אלה בשמרון על־ישראל תשע שנים׃"
+    },
+    {
+      "uid": "II_Kings_452",
+      "chapter_number": 17,
+      "verse_number": 2,
+      "start_char": 37764,
+      "end_char": 37815,
+      "length": 52,
+      "text": "ויעש הרע בעיני יהוה רק לא כמלכי ישראל אשר היו לפניו׃"
+    },
+    {
+      "uid": "II_Kings_453",
+      "chapter_number": 17,
+      "verse_number": 3,
+      "start_char": 37816,
+      "end_char": 37871,
+      "length": 56,
+      "text": "עליו עלה שלמנאסר מלך אשור ויהי־לו הושע עבד וישב לו מנחה׃"
+    },
+    {
+      "uid": "II_Kings_454",
+      "chapter_number": 17,
+      "verse_number": 4,
+      "start_char": 37872,
+      "end_char": 37995,
+      "length": 124,
+      "text": "וימצא מלך־אשור בהושע קשר אשר שלח מלאכים אל־סוא מלך־מצרים ולא־העלה מנחה למלך אשור כשנה בשנה ויעצרהו מלך אשור ויאסרהו בית כלא׃"
+    },
+    {
+      "uid": "II_Kings_455",
+      "chapter_number": 17,
+      "verse_number": 5,
+      "start_char": 37996,
+      "end_char": 38048,
+      "length": 53,
+      "text": "ויעל מלך־אשור בכל־הארץ ויעל שמרון ויצר עליה שלש שנים׃"
+    },
+    {
+      "uid": "II_Kings_456",
+      "chapter_number": 17,
+      "verse_number": 6,
+      "start_char": 38049,
+      "end_char": 38148,
+      "length": 100,
+      "text": "בשנת התשעית להושע לכד מלך־אשור את־שמרון ויגל את־ישראל אשורה וישב אותם בחלח ובחבור נהר גוזן וערי מדי׃"
+    },
+    {
+      "uid": "II_Kings_457",
+      "chapter_number": 17,
+      "verse_number": 7,
+      "start_char": 38149,
+      "end_char": 38247,
+      "length": 99,
+      "text": "ויהי כי־חטאו בני־ישראל ליהוה אלהיהם המעלה אתם מארץ מצרים מתחת יד פרעה מלך־מצרים וייראו אלהים אחרים׃"
+    },
+    {
+      "uid": "II_Kings_458",
+      "chapter_number": 17,
+      "verse_number": 8,
+      "start_char": 38248,
+      "end_char": 38315,
+      "length": 68,
+      "text": "וילכו בחקות הגוים אשר הוריש יהוה מפני בני ישראל ומלכי ישראל אשר עשו׃"
+    },
+    {
+      "uid": "II_Kings_459",
+      "chapter_number": 17,
+      "verse_number": 9,
+      "start_char": 38316,
+      "end_char": 38413,
+      "length": 98,
+      "text": "ויחפאו בני־ישראל דברים אשר לא־כן על־יהוה אלהיהם ויבנו להם במות בכל־עריהם ממגדל נוצרים עד־עיר מבצר׃"
+    },
+    {
+      "uid": "II_Kings_460",
+      "chapter_number": 17,
+      "verse_number": 10,
+      "start_char": 38414,
+      "end_char": 38468,
+      "length": 55,
+      "text": "ויצבו להם מצבות ואשרים על כל־גבעה גבהה ותחת כל־עץ רענן׃"
+    },
+    {
+      "uid": "II_Kings_461",
+      "chapter_number": 17,
+      "verse_number": 11,
+      "start_char": 38469,
+      "end_char": 38546,
+      "length": 78,
+      "text": "ויקטרו־שם בכל־במות כגוים אשר־הגלה יהוה מפניהם ויעשו דברים רעים להכעיס את־יהוה׃"
+    },
+    {
+      "uid": "II_Kings_462",
+      "chapter_number": 17,
+      "verse_number": 12,
+      "start_char": 38547,
+      "end_char": 38597,
+      "length": 51,
+      "text": "ויעבדו הגללים אשר אמר יהוה להם לא תעשו את־הדבר הזה׃"
+    },
+    {
+      "uid": "II_Kings_463",
+      "chapter_number": 17,
+      "verse_number": 13,
+      "start_char": 38598,
+      "end_char": 38757,
+      "length": 160,
+      "text": "ויעד יהוה בישראל וביהודה ביד כל־[נביאי] (נביאו) כל־חזה לאמר שבו מדרכיכם הרעים ושמרו מצותי חקותי ככל־התורה אשר צויתי את־אבתיכם ואשר שלחתי אליכם ביד עבדי הנביאים׃"
+    },
+    {
+      "uid": "II_Kings_464",
+      "chapter_number": 17,
+      "verse_number": 14,
+      "start_char": 38758,
+      "end_char": 38818,
+      "length": 61,
+      "text": "ולא שמעו ויקשו את־ערפם כערף אבותם אשר לא האמינו ביהוה אלהיהם׃"
+    },
+    {
+      "uid": "II_Kings_465",
+      "chapter_number": 17,
+      "verse_number": 15,
+      "start_char": 38819,
+      "end_char": 38961,
+      "length": 143,
+      "text": "וימאסו את־חקיו ואת־בריתו אשר כרת את־אבותם ואת עדותיו אשר העיד בם וילכו אחרי ההבל ויהבלו ואחרי הגוים אשר סביבתם אשר צוה יהוה אתם לבלתי עשות כהם׃"
+    },
+    {
+      "uid": "II_Kings_466",
+      "chapter_number": 17,
+      "verse_number": 16,
+      "start_char": 38962,
+      "end_char": 39074,
+      "length": 113,
+      "text": "ויעזבו את־כל־מצות יהוה אלהיהם ויעשו להם מסכה (שנים) [שני] עגלים ויעשו אשירה וישתחוו לכל־צבא השמים ויעבדו את־הבעל׃"
+    },
+    {
+      "uid": "II_Kings_467",
+      "chapter_number": 17,
+      "verse_number": 17,
+      "start_char": 39075,
+      "end_char": 39164,
+      "length": 90,
+      "text": "ויעבירו את־בניהם ואת־בנותיהם באש ויקסמו קסמים וינחשו ויתמכרו לעשות הרע בעיני יהוה להכעיסו׃"
+    },
+    {
+      "uid": "II_Kings_468",
+      "chapter_number": 17,
+      "verse_number": 18,
+      "start_char": 39165,
+      "end_char": 39228,
+      "length": 64,
+      "text": "ויתאנף יהוה מאד בישראל ויסרם מעל פניו לא נשאר רק שבט יהודה לבדו׃"
+    },
+    {
+      "uid": "II_Kings_469",
+      "chapter_number": 17,
+      "verse_number": 19,
+      "start_char": 39229,
+      "end_char": 39290,
+      "length": 62,
+      "text": "גם־יהודה לא שמר את־מצות יהוה אלהיהם וילכו בחקות ישראל אשר עשו׃"
+    },
+    {
+      "uid": "II_Kings_470",
+      "chapter_number": 17,
+      "verse_number": 20,
+      "start_char": 39291,
+      "end_char": 39356,
+      "length": 66,
+      "text": "וימאס יהוה בכל־זרע ישראל ויענם ויתנם ביד־שסים עד אשר השליכם מפניו׃"
+    },
+    {
+      "uid": "II_Kings_471",
+      "chapter_number": 17,
+      "verse_number": 21,
+      "start_char": 39357,
+      "end_char": 39464,
+      "length": 108,
+      "text": "כי־קרע ישראל מעל בית דוד וימליכו את־ירבעם בן־נבט (וידא) [וידח] ירבעם את־ישראל מאחרי יהוה והחטיאם חטאה גדולה׃"
+    },
+    {
+      "uid": "II_Kings_472",
+      "chapter_number": 17,
+      "verse_number": 22,
+      "start_char": 39465,
+      "end_char": 39516,
+      "length": 52,
+      "text": "וילכו בני ישראל בכל־חטאות ירבעם אשר עשה לא־סרו ממנה׃"
+    },
+    {
+      "uid": "II_Kings_473",
+      "chapter_number": 17,
+      "verse_number": 23,
+      "start_char": 39517,
+      "end_char": 39620,
+      "length": 104,
+      "text": "עד אשר־הסיר יהוה את־ישראל מעל פניו כאשר דבר ביד כל־עבדיו הנביאים ויגל ישראל מעל אדמתו אשורה עד היום הזה׃"
+    },
+    {
+      "uid": "II_Kings_474",
+      "chapter_number": 17,
+      "verse_number": 24,
+      "start_char": 39621,
+      "end_char": 39723,
+      "length": 103,
+      "text": "ויבא מלך־אשור מבבל ומכותה ומעוא ומחמת וספרוים וישב בערי שמרון תחת בני ישראל וירשו את־שמרון וישבו בעריה׃"
+    },
+    {
+      "uid": "II_Kings_475",
+      "chapter_number": 17,
+      "verse_number": 25,
+      "start_char": 39724,
+      "end_char": 39799,
+      "length": 76,
+      "text": "ויהי בתחלת שבתם שם לא יראו את־יהוה וישלח יהוה בהם את־האריות ויהיו הרגים בהם׃"
+    },
+    {
+      "uid": "II_Kings_476",
+      "chapter_number": 17,
+      "verse_number": 26,
+      "start_char": 39800,
+      "end_char": 39950,
+      "length": 151,
+      "text": "ויאמרו למלך אשור לאמר הגוים אשר הגלית ותושב בערי שמרון לא ידעו את־משפט אלהי הארץ וישלח־בם את־האריות והנם ממיתים אותם כאשר אינם ידעים את־משפט אלהי הארץ׃"
+    },
+    {
+      "uid": "II_Kings_477",
+      "chapter_number": 17,
+      "verse_number": 27,
+      "start_char": 39951,
+      "end_char": 40044,
+      "length": 94,
+      "text": "ויצו מלך־אשור לאמר הליכו שמה אחד מהכהנים אשר הגליתם משם וילכו וישבו שם וירם את־משפט אלהי הארץ׃"
+    },
+    {
+      "uid": "II_Kings_478",
+      "chapter_number": 17,
+      "verse_number": 28,
+      "start_char": 40045,
+      "end_char": 40122,
+      "length": 78,
+      "text": "ויבא אחד מהכהנים אשר הגלו משמרון וישב בבית־אל ויהי מורה אתם איך ייראו את־יהוה׃"
+    },
+    {
+      "uid": "II_Kings_479",
+      "chapter_number": 17,
+      "verse_number": 29,
+      "start_char": 40123,
+      "end_char": 40213,
+      "length": 91,
+      "text": "ויהיו עשים גוי גוי אלהיו ויניחו׀ בבית הבמות אשר עשו השמרנים גוי גוי בעריהם אשר הם ישבים שם׃"
+    },
+    {
+      "uid": "II_Kings_480",
+      "chapter_number": 17,
+      "verse_number": 30,
+      "start_char": 40214,
+      "end_char": 40285,
+      "length": 72,
+      "text": "ואנשי בבל עשו את־סכות בנות ואנשי־כות עשו את־נרגל ואנשי חמת עשו את־אשימא׃"
+    },
+    {
+      "uid": "II_Kings_481",
+      "chapter_number": 17,
+      "verse_number": 31,
+      "start_char": 40286,
+      "end_char": 40383,
+      "length": 98,
+      "text": "והעוים עשו נבחז ואת־תרתק והספרוים שרפים את־בניהם באש לאדרמלך וענמלך (אלה) [אלהי] (ספרים) [ספרוים]׃"
+    },
+    {
+      "uid": "II_Kings_482",
+      "chapter_number": 17,
+      "verse_number": 32,
+      "start_char": 40384,
+      "end_char": 40456,
+      "length": 73,
+      "text": "ויהיו יראים את־יהוה ויעשו להם מקצותם כהני במות ויהיו עשים להם בבית הבמות׃"
+    },
+    {
+      "uid": "II_Kings_483",
+      "chapter_number": 17,
+      "verse_number": 33,
+      "start_char": 40457,
+      "end_char": 40524,
+      "length": 68,
+      "text": "את־יהוה היו יראים ואת־אלהיהם היו עבדים כמשפט הגוים אשר־הגלו אתם משם׃"
+    },
+    {
+      "uid": "II_Kings_484",
+      "chapter_number": 17,
+      "verse_number": 34,
+      "start_char": 40525,
+      "end_char": 40660,
+      "length": 136,
+      "text": "עד היום הזה הם עשים כמשפטים הראשנים אינם יראים את־יהוה ואינם עשים כחקתם וכמשפטם וכתורה וכמצוה אשר צוה יהוה את־בני יעקב אשר־שם שמו ישראל׃"
+    },
+    {
+      "uid": "II_Kings_485",
+      "chapter_number": 17,
+      "verse_number": 35,
+      "start_char": 40661,
+      "end_char": 40752,
+      "length": 92,
+      "text": "ויכרת יהוה אתם ברית ויצום לאמר לא תיראו אלהים אחרים ולא־תשתחוו להם ולא תעבדום ולא תזבחו להם׃"
+    },
+    {
+      "uid": "II_Kings_486",
+      "chapter_number": 17,
+      "verse_number": 36,
+      "start_char": 40753,
+      "end_char": 40844,
+      "length": 92,
+      "text": "כי אם־את־יהוה אשר העלה אתכם מארץ מצרים בכח גדול ובזרוע נטויה אתו תיראו ולו תשתחוו ולו תזבחו׃"
+    },
+    {
+      "uid": "II_Kings_487",
+      "chapter_number": 17,
+      "verse_number": 37,
+      "start_char": 40845,
+      "end_char": 40936,
+      "length": 92,
+      "text": "ואת־החקים ואת־המשפטים והתורה והמצוה אשר כתב לכם תשמרון לעשות כל־הימים ולא תיראו אלהים אחרים׃"
+    },
+    {
+      "uid": "II_Kings_488",
+      "chapter_number": 17,
+      "verse_number": 38,
+      "start_char": 40937,
+      "end_char": 40988,
+      "length": 52,
+      "text": "והברית אשר־כרתי אתכם לא תשכחו ולא תיראו אלהים אחרים׃"
+    },
+    {
+      "uid": "II_Kings_489",
+      "chapter_number": 17,
+      "verse_number": 39,
+      "start_char": 40989,
+      "end_char": 41044,
+      "length": 56,
+      "text": "כי אם־את־יהוה אלהיכם תיראו והוא יציל אתכם מיד כל־איביכם׃"
+    },
+    {
+      "uid": "II_Kings_490",
+      "chapter_number": 17,
+      "verse_number": 40,
+      "start_char": 41045,
+      "end_char": 41081,
+      "length": 37,
+      "text": "ולא שמעו כי אם־כמשפטם הראשון הם עשים׃"
+    },
+    {
+      "uid": "II_Kings_491",
+      "chapter_number": 17,
+      "verse_number": 41,
+      "start_char": 41082,
+      "end_char": 41190,
+      "length": 109,
+      "text": "ויהיו׀ הגוים האלה יראים את־יהוה ואת־פסיליהם היו עבדים גם־בניהם׀ ובני בניהם כאשר עשו אבתם הם עשים עד היום הזה׃"
+    },
+    {
+      "uid": "II_Kings_492",
+      "chapter_number": 18,
+      "verse_number": 1,
+      "start_char": 41191,
+      "end_char": 41254,
+      "length": 64,
+      "text": "ויהי בשנת שלש להושע בן־אלה מלך ישראל מלך חזקיה בן־אחז מלך יהודה׃"
+    },
+    {
+      "uid": "II_Kings_493",
+      "chapter_number": 18,
+      "verse_number": 2,
+      "start_char": 41255,
+      "end_char": 41332,
+      "length": 78,
+      "text": "בן־עשרים וחמש שנה היה במלכו ועשרים ותשע שנה מלך בירושל͏ם ושם אמו אבי בת־זכריה׃"
+    },
+    {
+      "uid": "II_Kings_494",
+      "chapter_number": 18,
+      "verse_number": 3,
+      "start_char": 41333,
+      "end_char": 41374,
+      "length": 42,
+      "text": "ויעש הישר בעיני יהוה ככל אשר־עשה דוד אביו׃"
+    },
+    {
+      "uid": "II_Kings_495",
+      "chapter_number": 18,
+      "verse_number": 4,
+      "start_char": 41375,
+      "end_char": 41504,
+      "length": 130,
+      "text": "הוא׀ הסיר את־הבמות ושבר את־המצבת וכרת את־האשרה וכתת נחש הנחשת אשר־עשה משה כי עד־הימים ההמה היו בני־ישראל מקטרים לו ויקרא־לו נחשתן׃"
+    },
+    {
+      "uid": "II_Kings_496",
+      "chapter_number": 18,
+      "verse_number": 5,
+      "start_char": 41505,
+      "end_char": 41574,
+      "length": 70,
+      "text": "ביהוה אלהי־ישראל בטח ואחריו לא־היה כמהו בכל מלכי יהודה ואשר היו לפניו׃"
+    },
+    {
+      "uid": "II_Kings_497",
+      "chapter_number": 18,
+      "verse_number": 6,
+      "start_char": 41575,
+      "end_char": 41632,
+      "length": 58,
+      "text": "וידבק ביהוה לא־סר מאחריו וישמר מצותיו אשר־צוה יהוה את־משה׃"
+    },
+    {
+      "uid": "II_Kings_498",
+      "chapter_number": 18,
+      "verse_number": 7,
+      "start_char": 41633,
+      "end_char": 41689,
+      "length": 57,
+      "text": "והיה יהוה עמו בכל אשר־יצא ישכיל וימרד במלך־אשור ולא עבדו׃"
+    },
+    {
+      "uid": "II_Kings_499",
+      "chapter_number": 18,
+      "verse_number": 8,
+      "start_char": 41690,
+      "end_char": 41750,
+      "length": 61,
+      "text": "הוא־הכה את־פלשתים עד־עזה ואת־גבוליה ממגדל נוצרים עד־עיר מבצר׃"
+    },
+    {
+      "uid": "II_Kings_500",
+      "chapter_number": 18,
+      "verse_number": 9,
+      "start_char": 41751,
+      "end_char": 41860,
+      "length": 110,
+      "text": "ויהי בשנה הרביעית למלך חזקיהו היא השנה השביעית להושע בן־אלה מלך ישראל עלה שלמנאסר מלך־אשור על־שמרון ויצר עליה׃"
+    },
+    {
+      "uid": "II_Kings_501",
+      "chapter_number": 18,
+      "verse_number": 10,
+      "start_char": 41861,
+      "end_char": 41936,
+      "length": 76,
+      "text": "וילכדה מקצה שלש שנים בשנת־שש לחזקיה היא שנת־תשע להושע מלך ישראל נלכדה שמרון׃"
+    },
+    {
+      "uid": "II_Kings_502",
+      "chapter_number": 18,
+      "verse_number": 11,
+      "start_char": 41937,
+      "end_char": 42001,
+      "length": 65,
+      "text": "ויגל מלך־אשור את־ישראל אשורה וינחם בחלח ובחבור נהר גוזן וערי מדי׃"
+    },
+    {
+      "uid": "II_Kings_503",
+      "chapter_number": 18,
+      "verse_number": 12,
+      "start_char": 42002,
+      "end_char": 42094,
+      "length": 93,
+      "text": "על׀ אשר לא־שמעו בקול יהוה אלהיהם ויעברו את־בריתו את כל־אשר צוה משה עבד יהוה ולא שמעו ולא עשו׃"
+    },
+    {
+      "uid": "II_Kings_504",
+      "chapter_number": 18,
+      "verse_number": 13,
+      "start_char": 42095,
+      "end_char": 42171,
+      "length": 77,
+      "text": "ובארבע עשרה שנה למלך חזקיה עלה סנחריב מלך־אשור על כל־ערי יהודה הבצרות ויתפשם׃"
+    },
+    {
+      "uid": "II_Kings_505",
+      "chapter_number": 18,
+      "verse_number": 14,
+      "start_char": 42172,
+      "end_char": 42315,
+      "length": 144,
+      "text": "וישלח חזקיה מלך־יהודה אל־מלך־אשור׀לכישה׀לאמר׀חטאתי שוב מעלי את אשר־תתן עלי אשא וישם מלך־אשור על־חזקיה מלך־יהודה שלש מאות ככר־כסף ושלשים ככר זהב׃"
+    },
+    {
+      "uid": "II_Kings_506",
+      "chapter_number": 18,
+      "verse_number": 15,
+      "start_char": 42316,
+      "end_char": 42369,
+      "length": 54,
+      "text": "ויתן חזקיה את־כל־הכסף הנמצא בית־יהוה ובאצרות בית המלך׃"
+    },
+    {
+      "uid": "II_Kings_507",
+      "chapter_number": 18,
+      "verse_number": 16,
+      "start_char": 42370,
+      "end_char": 42458,
+      "length": 89,
+      "text": "בעת ההיא קצץ חזקיה את־דלתות היכל יהוה ואת־האמנות אשר צפה חזקיה מלך יהודה ויתנם למלך אשור׃"
+    },
+    {
+      "uid": "II_Kings_508",
+      "chapter_number": 18,
+      "verse_number": 17,
+      "start_char": 42459,
+      "end_char": 42621,
+      "length": 163,
+      "text": "וישלח מלך־אשור את־תרתן ואת־רב־סריס׀ ואת־רבשקה מן־לכיש אל־המלך חזקיהו בחיל כבד ירושל͏ם ויעלו ויבאו ירושל͏ם ויעלו ויבאו ויעמדו בתעלת הברכה העליונה אשר במסלת שדה כבס׃"
+    },
+    {
+      "uid": "II_Kings_509",
+      "chapter_number": 18,
+      "verse_number": 18,
+      "start_char": 42622,
+      "end_char": 42706,
+      "length": 85,
+      "text": "ויקראו אל־המלך ויצא אלהם אליקים בן־חלקיהו אשר על־הבית ושבנה הספר ויואח בן־אסף המזכיר׃"
+    },
+    {
+      "uid": "II_Kings_510",
+      "chapter_number": 18,
+      "verse_number": 19,
+      "start_char": 42707,
+      "end_char": 42792,
+      "length": 86,
+      "text": "ויאמר אליהם רבשקה אמרו־נא אל־חזקיהו כה־אמר המלך הגדול מלך אשור מה הבטחון הזה אשר בטחת׃"
+    },
+    {
+      "uid": "II_Kings_511",
+      "chapter_number": 18,
+      "verse_number": 20,
+      "start_char": 42793,
+      "end_char": 42854,
+      "length": 62,
+      "text": "אמרת אך־דבר־שפתים עצה וגבורה למלחמה עתה על־מי בטחת כי מרדת בי׃"
+    },
+    {
+      "uid": "II_Kings_512",
+      "chapter_number": 18,
+      "verse_number": 21,
+      "start_char": 42855,
+      "end_char": 42970,
+      "length": 116,
+      "text": "עתה הנה בטחת לך על־משענת הקנה הרצוץ הזה על־מצרים אשר יסמך איש עליו ובא בכפו ונקבה כן פרעה מלך־מצרים לכל־הבטחים עליו׃"
+    },
+    {
+      "uid": "II_Kings_513",
+      "chapter_number": 18,
+      "verse_number": 22,
+      "start_char": 42971,
+      "end_char": 43106,
+      "length": 136,
+      "text": "וכי־תאמרון אלי אל־יהוה אלהינו בטחנו הלוא־הוא אשר הסיר חזקיהו את־במתיו ואת־מזבחתיו ויאמר ליהודה ולירושל͏ם לפני המזבח הזה תשתחוו בירושל͏ם׃"
+    },
+    {
+      "uid": "II_Kings_514",
+      "chapter_number": 18,
+      "verse_number": 23,
+      "start_char": 43107,
+      "end_char": 43188,
+      "length": 82,
+      "text": "ועתה התערב נא את־אדני את־מלך אשור ואתנה לך אלפים סוסים אם־תוכל לתת לך רכבים עליהם׃"
+    },
+    {
+      "uid": "II_Kings_515",
+      "chapter_number": 18,
+      "verse_number": 24,
+      "start_char": 43189,
+      "end_char": 43261,
+      "length": 73,
+      "text": "ואיך תשיב את פני פחת אחד עבדי אדני הקטנים ותבטח לך על־מצרים לרכב ולפרשים׃"
+    },
+    {
+      "uid": "II_Kings_516",
+      "chapter_number": 18,
+      "verse_number": 25,
+      "start_char": 43262,
+      "end_char": 43342,
+      "length": 81,
+      "text": "עתה המבלעדי יהוה עליתי על־המקום הזה להשחתו יהוה אמר אלי עלה על־הארץ הזאת והשחיתה׃"
+    },
+    {
+      "uid": "II_Kings_517",
+      "chapter_number": 18,
+      "verse_number": 26,
+      "start_char": 43343,
+      "end_char": 43466,
+      "length": 124,
+      "text": "ויאמר אליקים בן־חלקיהו ושבנה ויואח אל־רבשקה דבר־נא אל־עבדיך ארמית כי שמעים אנחנו ואל־תדבר עמנו יהודית באזני העם אשר על־החמה׃"
+    },
+    {
+      "uid": "II_Kings_518",
+      "chapter_number": 18,
+      "verse_number": 27,
+      "start_char": 43467,
+      "end_char": 43621,
+      "length": 155,
+      "text": "ויאמר אליהם רבשקה העל אדניך ואליך שלחני אדני לדבר את־הדברים האלה הלא על־האנשים הישבים על־החמה לאכל את־[צואתם] (חריהם) ולשתות את־[מימי רגליהם] (שניהם) עמכם׃"
+    },
+    {
+      "uid": "II_Kings_519",
+      "chapter_number": 18,
+      "verse_number": 28,
+      "start_char": 43622,
+      "end_char": 43697,
+      "length": 76,
+      "text": "ויעמד רבשקה ויקרא בקול־גדול יהודית וידבר ויאמר שמעו דבר־המלך הגדול מלך אשור׃"
+    },
+    {
+      "uid": "II_Kings_520",
+      "chapter_number": 18,
+      "verse_number": 29,
+      "start_char": 43698,
+      "end_char": 43754,
+      "length": 57,
+      "text": "כה אמר המלך אל־ישא לכם חזקיהו כי־לא יוכל להציל אתכם מידו׃"
+    },
+    {
+      "uid": "II_Kings_521",
+      "chapter_number": 18,
+      "verse_number": 30,
+      "start_char": 43755,
+      "end_char": 43839,
+      "length": 85,
+      "text": "ואל־יבטח אתכם חזקיהו אל־יהוה לאמר הצל יצילנו יהוה ולא תנתן את־העיר הזאת ביד מלך אשור׃"
+    },
+    {
+      "uid": "II_Kings_522",
+      "chapter_number": 18,
+      "verse_number": 31,
+      "start_char": 43840,
+      "end_char": 43941,
+      "length": 102,
+      "text": "אל־תשמעו אל־חזקיהו כי כה אמר מלך אשור עשו־אתי ברכה וצאו אלי ואכלו איש־גפנו ואיש תאנתו ושתו איש מי־ברו׃"
+    },
+    {
+      "uid": "II_Kings_523",
+      "chapter_number": 18,
+      "verse_number": 32,
+      "start_char": 43942,
+      "end_char": 44086,
+      "length": 145,
+      "text": "עד־באי ולקחתי אתכם אל־ארץ כארצכם ארץ דגן ותירוש ארץ לחם וכרמים ארץ זית יצהר ודבש וחיו ולא תמתו ואל־תשמעו אל־חזקיהו כי־יסית אתכם לאמר יהוה יצילנו׃"
+    },
+    {
+      "uid": "II_Kings_524",
+      "chapter_number": 18,
+      "verse_number": 33,
+      "start_char": 44087,
+      "end_char": 44133,
+      "length": 47,
+      "text": "ההצל הצילו אלהי הגוים איש את־ארצו מיד מלך אשור׃"
+    },
+    {
+      "uid": "II_Kings_525",
+      "chapter_number": 18,
+      "verse_number": 34,
+      "start_char": 44134,
+      "end_char": 44200,
+      "length": 67,
+      "text": "איה אלהי חמת וארפד איה אלהי ספרוים הנע ועוה כי־הצילו את־שמרון מידי׃"
+    },
+    {
+      "uid": "II_Kings_526",
+      "chapter_number": 18,
+      "verse_number": 35,
+      "start_char": 44201,
+      "end_char": 44271,
+      "length": 71,
+      "text": "מי בכל־אלהי הארצות אשר־הצילו את־ארצם מידי כי־יציל יהוה את־ירושל͏ם מידי׃"
+    },
+    {
+      "uid": "II_Kings_527",
+      "chapter_number": 18,
+      "verse_number": 36,
+      "start_char": 44272,
+      "end_char": 44330,
+      "length": 59,
+      "text": "והחרישו העם ולא־ענו אתו דבר כי־מצות המלך היא לאמר לא תענהו׃"
+    },
+    {
+      "uid": "II_Kings_528",
+      "chapter_number": 18,
+      "verse_number": 37,
+      "start_char": 44331,
+      "end_char": 44436,
+      "length": 106,
+      "text": "ויבא אליקים בן־חלקיה אשר־על־הבית ושבנא הספר ויואח בן־אסף המזכיר אל־חזקיהו קרועי בגדים ויגדו לו דברי רבשקה׃"
+    },
+    {
+      "uid": "II_Kings_529",
+      "chapter_number": 19,
+      "verse_number": 1,
+      "start_char": 44437,
+      "end_char": 44497,
+      "length": 61,
+      "text": "ויהי כשמע המלך חזקיהו ויקרע את־בגדיו ויתכס בשק ויבא בית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_530",
+      "chapter_number": 19,
+      "verse_number": 2,
+      "start_char": 44498,
+      "end_char": 44589,
+      "length": 92,
+      "text": "וישלח את־אליקים אשר־על־הבית ושבנא הספר ואת זקני הכהנים מתכסים בשקים אל־ישעיהו הנביא בן־אמוץ׃"
+    },
+    {
+      "uid": "II_Kings_531",
+      "chapter_number": 19,
+      "verse_number": 3,
+      "start_char": 44590,
+      "end_char": 44678,
+      "length": 89,
+      "text": "ויאמרו אליו כה אמר חזקיהו יום־צרה ותוכחה ונאצה היום הזה כי באו בנים עד־משבר וכח אין ללדה׃"
+    },
+    {
+      "uid": "II_Kings_532",
+      "chapter_number": 19,
+      "verse_number": 4,
+      "start_char": 44679,
+      "end_char": 44817,
+      "length": 139,
+      "text": "אולי ישמע יהוה אלהיך את׀ כל־דברי רבשקה אשר שלחו מלך־אשור׀אדניו לחרף אלהים חי והוכיח בדברים אשר שמע יהוה אלהיך ונשאת תפלה בעד השארית הנמצאה׃"
+    },
+    {
+      "uid": "II_Kings_533",
+      "chapter_number": 19,
+      "verse_number": 5,
+      "start_char": 44818,
+      "end_char": 44850,
+      "length": 33,
+      "text": "ויבאו עבדי המלך חזקיהו אל־ישעיהו׃"
+    },
+    {
+      "uid": "II_Kings_534",
+      "chapter_number": 19,
+      "verse_number": 6,
+      "start_char": 44851,
+      "end_char": 44956,
+      "length": 106,
+      "text": "ויאמר להם ישעיהו כה תאמרון אל־אדניכם כה׀ אמר יהוה אל־תירא מפני הדברים אשר שמעת אשר גדפו נערי מלך־אשור אתי׃"
+    },
+    {
+      "uid": "II_Kings_535",
+      "chapter_number": 19,
+      "verse_number": 7,
+      "start_char": 44957,
+      "end_char": 45012,
+      "length": 56,
+      "text": "הנני נתן בו רוח ושמע שמועה ושב לארצו והפלתיו בחרב בארצו׃"
+    },
+    {
+      "uid": "II_Kings_536",
+      "chapter_number": 19,
+      "verse_number": 8,
+      "start_char": 45013,
+      "end_char": 45074,
+      "length": 62,
+      "text": "וישב רבשקה וימצא את־מלך אשור נלחם על־לבנה כי שמע כי נסע מלכיש׃"
+    },
+    {
+      "uid": "II_Kings_537",
+      "chapter_number": 19,
+      "verse_number": 9,
+      "start_char": 45075,
+      "end_char": 45153,
+      "length": 79,
+      "text": "וישמע אל־תרהקה מלך־כוש לאמר הנה יצא להלחם אתך וישב וישלח מלאכים אל־חזקיהו לאמר׃"
+    },
+    {
+      "uid": "II_Kings_538",
+      "chapter_number": 19,
+      "verse_number": 10,
+      "start_char": 45154,
+      "end_char": 45251,
+      "length": 98,
+      "text": "כה תאמרון אל־חזקיהו מלך־יהודה לאמר אל־ישאך אלהיך אשר אתה בטח בו לאמר לא תנתן ירושל͏ם ביד מלך אשור׃"
+    },
+    {
+      "uid": "II_Kings_539",
+      "chapter_number": 19,
+      "verse_number": 11,
+      "start_char": 45252,
+      "end_char": 45315,
+      "length": 64,
+      "text": "הנה׀ אתה שמעת את אשר עשו מלכי אשור לכל־הארצות להחרימם ואתה תנצל׃"
+    },
+    {
+      "uid": "II_Kings_540",
+      "chapter_number": 19,
+      "verse_number": 12,
+      "start_char": 45316,
+      "end_char": 45393,
+      "length": 78,
+      "text": "ההצילו אתם אלהי הגוים אשר שחתו אבותי את־גוזן ואת־חרן ורצף ובני־עדן אשר בתלאשר׃"
+    },
+    {
+      "uid": "II_Kings_541",
+      "chapter_number": 19,
+      "verse_number": 13,
+      "start_char": 45394,
+      "end_char": 45441,
+      "length": 48,
+      "text": "איו מלך־חמת ומלך ארפד ומלך לעיר ספרוים הנע ועוה׃"
+    },
+    {
+      "uid": "II_Kings_542",
+      "chapter_number": 19,
+      "verse_number": 14,
+      "start_char": 45442,
+      "end_char": 45521,
+      "length": 80,
+      "text": "ויקח חזקיהו את־הספרים מיד המלאכים ויקראם ויעל בית יהוה ויפרשהו חזקיהו לפני יהוה׃"
+    },
+    {
+      "uid": "II_Kings_543",
+      "chapter_number": 19,
+      "verse_number": 15,
+      "start_char": 45522,
+      "end_char": 45641,
+      "length": 120,
+      "text": "ויתפלל חזקיהו לפני יהוה ויאמר יהוה אלהי ישראל ישב הכרבים אתה־הוא האלהים לבדך לכל ממלכות הארץ אתה עשית את־השמים ואת־הארץ׃"
+    },
+    {
+      "uid": "II_Kings_544",
+      "chapter_number": 19,
+      "verse_number": 16,
+      "start_char": 45642,
+      "end_char": 45723,
+      "length": 82,
+      "text": "הטה יהוה׀אזנך ושמע פקח יהוה עיניך וראה ושמע את דברי סנחריב אשר שלחו לחרף אלהים חי׃"
+    },
+    {
+      "uid": "II_Kings_545",
+      "chapter_number": 19,
+      "verse_number": 17,
+      "start_char": 45724,
+      "end_char": 45768,
+      "length": 45,
+      "text": "אמנם יהוה החריבו מלכי אשור את־הגוים ואת־ארצם׃"
+    },
+    {
+      "uid": "II_Kings_546",
+      "chapter_number": 19,
+      "verse_number": 18,
+      "start_char": 45769,
+      "end_char": 45839,
+      "length": 71,
+      "text": "ונתנו את־אלהיהם באש כי לא אלהים המה כי אם־מעשה ידי־אדם עץ ואבן ויאבדום׃"
+    },
+    {
+      "uid": "II_Kings_547",
+      "chapter_number": 19,
+      "verse_number": 19,
+      "start_char": 45840,
+      "end_char": 45916,
+      "length": 77,
+      "text": "ועתה יהוה אלהינו הושיענו נא מידו וידעו כל־ממלכות הארץ כי אתה יהוה אלהים לבדך׃"
+    },
+    {
+      "uid": "II_Kings_548",
+      "chapter_number": 19,
+      "verse_number": 20,
+      "start_char": 45917,
+      "end_char": 46014,
+      "length": 98,
+      "text": "וישלח ישעיהו בן־אמוץ אל־חזקיהו לאמר כה־אמר יהוה אלהי ישראל אשר התפללת אלי אל־סנחרב מלך־אשור שמעתי׃"
+    },
+    {
+      "uid": "II_Kings_549",
+      "chapter_number": 19,
+      "verse_number": 21,
+      "start_char": 46015,
+      "end_char": 46096,
+      "length": 82,
+      "text": "זה הדבר אשר־דבר יהוה עליו בזה לך לעגה לך בתולת בת־ציון אחריך ראש הניעה בת ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Kings_550",
+      "chapter_number": 19,
+      "verse_number": 22,
+      "start_char": 46097,
+      "end_char": 46161,
+      "length": 65,
+      "text": "את־מי חרפת וגדפת ועל־מי הרימות קול ותשא מרום עיניך על־קדוש ישראל׃"
+    },
+    {
+      "uid": "II_Kings_551",
+      "chapter_number": 19,
+      "verse_number": 23,
+      "start_char": 46162,
+      "end_char": 46293,
+      "length": 132,
+      "text": "ביד מלאכיך חרפת׀אדני ותאמר (ברכב) [ברב] רכבי אני עליתי מרום הרים ירכתי לבנון ואכרת קומת ארזיו מבחור ברשיו ואבואה מלון קצה יער כרמלו׃"
+    },
+    {
+      "uid": "II_Kings_552",
+      "chapter_number": 19,
+      "verse_number": 24,
+      "start_char": 46294,
+      "end_char": 46346,
+      "length": 53,
+      "text": "אני קרתי ושתיתי מים זרים ואחרב בכף־פעמי כל יארי מצור׃"
+    },
+    {
+      "uid": "II_Kings_553",
+      "chapter_number": 19,
+      "verse_number": 25,
+      "start_char": 46347,
+      "end_char": 46434,
+      "length": 88,
+      "text": "הלא־שמעת למרחוק אתה עשיתי למימי קדם ויצרתיה עתה הביאתיה ותהי להשות גלים נצים ערים בצרות׃"
+    },
+    {
+      "uid": "II_Kings_554",
+      "chapter_number": 19,
+      "verse_number": 26,
+      "start_char": 46435,
+      "end_char": 46506,
+      "length": 72,
+      "text": "וישביהן קצרי־יד חתו ויבשו היו עשב שדה וירק דשא חציר גגות ושדפה לפני קמה׃"
+    },
+    {
+      "uid": "II_Kings_555",
+      "chapter_number": 19,
+      "verse_number": 27,
+      "start_char": 46507,
+      "end_char": 46544,
+      "length": 38,
+      "text": "ושבתך וצאתך ובאך ידעתי ואת התרגזך אלי׃"
+    },
+    {
+      "uid": "II_Kings_556",
+      "chapter_number": 19,
+      "verse_number": 28,
+      "start_char": 46545,
+      "end_char": 46628,
+      "length": 84,
+      "text": "יען התרגזך אלי ושאננך עלה באזני ושמתי חחי באפך ומתגי בשפתיך והשבתיך בדרך אשר־באת בה׃"
+    },
+    {
+      "uid": "II_Kings_557",
+      "chapter_number": 19,
+      "verse_number": 29,
+      "start_char": 46629,
+      "end_char": 46720,
+      "length": 92,
+      "text": "וזה־לך האות אכול השנה ספיח ובשנה השנית סחיש ובשנה השלישית זרעו וקצרו ונטעו כרמים ואכלו פרים׃"
+    },
+    {
+      "uid": "II_Kings_558",
+      "chapter_number": 19,
+      "verse_number": 30,
+      "start_char": 46721,
+      "end_char": 46773,
+      "length": 53,
+      "text": "ויספה פליטת בית־יהודה הנשארה שרש למטה ועשה פרי למעלה׃"
+    },
+    {
+      "uid": "II_Kings_559",
+      "chapter_number": 19,
+      "verse_number": 31,
+      "start_char": 46774,
+      "end_char": 46838,
+      "length": 65,
+      "text": "כי מירושל͏ם תצא שארית ופליטה מהר ציון קנאת יהוה [צבאות] תעשה־זאת׃"
+    },
+    {
+      "uid": "II_Kings_560",
+      "chapter_number": 19,
+      "verse_number": 32,
+      "start_char": 46839,
+      "end_char": 46935,
+      "length": 97,
+      "text": "לכן כה־אמר יהוה אל־מלך אשור לא יבא אל־העיר הזאת ולא־יורה שם חץ ולא־יקדמנה מגן ולא־ישפך עליה סללה׃"
+    },
+    {
+      "uid": "II_Kings_561",
+      "chapter_number": 19,
+      "verse_number": 33,
+      "start_char": 46936,
+      "end_char": 46986,
+      "length": 51,
+      "text": "בדרך אשר־יבא בה ישוב ואל־העיר הזאת לא יבא נאם־יהוה׃"
+    },
+    {
+      "uid": "II_Kings_562",
+      "chapter_number": 19,
+      "verse_number": 34,
+      "start_char": 46987,
+      "end_char": 47035,
+      "length": 49,
+      "text": "וגנותי אל־העיר הזאת להושיעה למעני ולמען דוד עבדי׃"
+    },
+    {
+      "uid": "II_Kings_563",
+      "chapter_number": 19,
+      "verse_number": 35,
+      "start_char": 47036,
+      "end_char": 47136,
+      "length": 101,
+      "text": "ויהי בלילה ההוא ויצא׀ מלאך יהוה ויך במחנה אשור מאה שמונים וחמשה אלף וישכימו בבקר והנה כלם פגרים מתים׃"
+    },
+    {
+      "uid": "II_Kings_564",
+      "chapter_number": 19,
+      "verse_number": 36,
+      "start_char": 47137,
+      "end_char": 47179,
+      "length": 43,
+      "text": "ויסע וילך וישב סנחריב מלך־אשור וישב בנינוה׃"
+    },
+    {
+      "uid": "II_Kings_565",
+      "chapter_number": 19,
+      "verse_number": 37,
+      "start_char": 47180,
+      "end_char": 47287,
+      "length": 108,
+      "text": "ויהי הוא משתחוה בית׀ נסרך אלהיו ואדרמלך ושראצר [בניו] הכהו בחרב והמה נמלטו ארץ אררט וימלך אסר־חדן בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_566",
+      "chapter_number": 20,
+      "verse_number": 1,
+      "start_char": 47288,
+      "end_char": 47395,
+      "length": 108,
+      "text": "בימים ההם חלה חזקיהו למות ויבא אליו ישעיהו בן־אמוץ הנביא ויאמר אליו כה־אמר יהוה צו לביתך כי מת אתה ולא תחיה׃"
+    },
+    {
+      "uid": "II_Kings_567",
+      "chapter_number": 20,
+      "verse_number": 2,
+      "start_char": 47396,
+      "end_char": 47436,
+      "length": 41,
+      "text": "ויסב את־פניו אל־הקיר ויתפלל אל־יהוה לאמר׃"
+    },
+    {
+      "uid": "II_Kings_568",
+      "chapter_number": 20,
+      "verse_number": 3,
+      "start_char": 47437,
+      "end_char": 47528,
+      "length": 92,
+      "text": "אנה יהוה זכר־נא את אשר התהלכתי לפניך באמת ובלבב שלם והטוב בעיניך עשיתי ויבך חזקיהו בכי גדול׃"
+    },
+    {
+      "uid": "II_Kings_569",
+      "chapter_number": 20,
+      "verse_number": 4,
+      "start_char": 47529,
+      "end_char": 47591,
+      "length": 63,
+      "text": "ויהי ישעיהו לא יצא (העיר) [חצר] התיכנה ודבר־יהוה היה אליו לאמר׃"
+    },
+    {
+      "uid": "II_Kings_570",
+      "chapter_number": 20,
+      "verse_number": 5,
+      "start_char": 47592,
+      "end_char": 47714,
+      "length": 123,
+      "text": "שוב ואמרת אל־חזקיהו נגיד־עמי כה־אמר יהוה אלהי דוד אביך שמעתי את־תפלתך ראיתי את־דמעתך הנני רפא לך ביום השלישי תעלה בית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_571",
+      "chapter_number": 20,
+      "verse_number": 6,
+      "start_char": 47715,
+      "end_char": 47817,
+      "length": 103,
+      "text": "והספתי על־ימיך חמש עשרה שנה ומכף מלך־אשור אצילך ואת העיר הזאת וגנותי על־העיר הזאת למעני ולמען דוד עבדי׃"
+    },
+    {
+      "uid": "II_Kings_572",
+      "chapter_number": 20,
+      "verse_number": 7,
+      "start_char": 47818,
+      "end_char": 47872,
+      "length": 55,
+      "text": "ויאמר ישעיהו קחו דבלת תאנים ויקחו וישימו על־השחין ויחי׃"
+    },
+    {
+      "uid": "II_Kings_573",
+      "chapter_number": 20,
+      "verse_number": 8,
+      "start_char": 47873,
+      "end_char": 47946,
+      "length": 74,
+      "text": "ויאמר חזקיהו אל־ישעיהו מה אות כי־ירפא יהוה לי ועליתי ביום השלישי בית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_574",
+      "chapter_number": 20,
+      "verse_number": 9,
+      "start_char": 47947,
+      "end_char": 48044,
+      "length": 98,
+      "text": "ויאמר ישעיהו זה־לך האות מאת יהוה כי יעשה יהוה את־הדבר אשר דבר הלך הצל עשר מעלות אם־ישוב עשר מעלות׃"
+    },
+    {
+      "uid": "II_Kings_575",
+      "chapter_number": 20,
+      "verse_number": 10,
+      "start_char": 48045,
+      "end_char": 48114,
+      "length": 70,
+      "text": "ויאמר יחזקיהו נקל לצל לנטות עשר מעלות לא כי ישוב הצל אחרנית עשר מעלות׃"
+    },
+    {
+      "uid": "II_Kings_576",
+      "chapter_number": 20,
+      "verse_number": 11,
+      "start_char": 48115,
+      "end_char": 48197,
+      "length": 83,
+      "text": "ויקרא ישעיהו הנביא אל־יהוה וישב את־הצל במעלות אשר ירדה במעלות אחז אחרנית עשר מעלות׃"
+    },
+    {
+      "uid": "II_Kings_577",
+      "chapter_number": 20,
+      "verse_number": 12,
+      "start_char": 48198,
+      "end_char": 48282,
+      "length": 85,
+      "text": "בעת ההיא שלח בראדך בלאדן בן־בלאדן מלך־בבל ספרים ומנחה אל־חזקיהו כי שמע כי חלה חזקיהו׃"
+    },
+    {
+      "uid": "II_Kings_578",
+      "chapter_number": 20,
+      "verse_number": 13,
+      "start_char": 48283,
+      "end_char": 48450,
+      "length": 168,
+      "text": "וישמע עליהם חזקיהו ויראם את־כל־בית נכתה את־הכסף ואת־הזהב ואת־הבשמים ואת׀ שמן הטוב ואת בית כליו ואת כל־אשר נמצא באוצרתיו לא־היה דבר אשר לא־הראם חזקיהו בביתו ובכל־ממשלתו׃"
+    },
+    {
+      "uid": "II_Kings_579",
+      "chapter_number": 20,
+      "verse_number": 14,
+      "start_char": 48451,
+      "end_char": 48564,
+      "length": 114,
+      "text": "ויבא ישעיהו הנביא אל־המלך חזקיהו ויאמר אליו מה אמרו׀ האנשים האלה ומאין יבאו אליך ויאמר חזקיהו מארץ רחוקה באו מבבל׃"
+    },
+    {
+      "uid": "II_Kings_580",
+      "chapter_number": 20,
+      "verse_number": 15,
+      "start_char": 48565,
+      "end_char": 48648,
+      "length": 84,
+      "text": "ויאמר מה ראו בביתך ויאמר חזקיהו את כל־אשר בביתי ראו לא־היה דבר אשר לא־הראיתם באצרתי׃"
+    },
+    {
+      "uid": "II_Kings_581",
+      "chapter_number": 20,
+      "verse_number": 16,
+      "start_char": 48649,
+      "end_char": 48684,
+      "length": 36,
+      "text": "ויאמר ישעיהו אל־חזקיהו שמע דבר־יהוה׃"
+    },
+    {
+      "uid": "II_Kings_582",
+      "chapter_number": 20,
+      "verse_number": 17,
+      "start_char": 48685,
+      "end_char": 48771,
+      "length": 87,
+      "text": "הנה ימים באים ונשא׀ כל־אשר בביתך ואשר אצרו אבתיך עד־היום הזה בבלה לא־יותר דבר אמר יהוה׃"
+    },
+    {
+      "uid": "II_Kings_583",
+      "chapter_number": 20,
+      "verse_number": 18,
+      "start_char": 48772,
+      "end_char": 48840,
+      "length": 69,
+      "text": "ומבניך אשר יצאו ממך אשר תוליד (יקח) [יקחו] והיו סריסים בהיכל מלך בבל׃"
+    },
+    {
+      "uid": "II_Kings_584",
+      "chapter_number": 20,
+      "verse_number": 19,
+      "start_char": 48841,
+      "end_char": 48919,
+      "length": 79,
+      "text": "ויאמר חזקיהו אל־ישעיהו טוב דבר־יהוה אשר דברת ויאמר הלוא אם־שלום ואמת יהיה בימי׃"
+    },
+    {
+      "uid": "II_Kings_585",
+      "chapter_number": 20,
+      "verse_number": 20,
+      "start_char": 48920,
+      "end_char": 49038,
+      "length": 119,
+      "text": "ויתר דברי חזקיהו וכל־גבורתו ואשר עשה את־הברכה ואת־התעלה ויבא את־המים העירה הלא־הם כתובים על־ספר דברי הימים למלכי יהודה׃"
+    },
+    {
+      "uid": "II_Kings_586",
+      "chapter_number": 20,
+      "verse_number": 21,
+      "start_char": 49039,
+      "end_char": 49081,
+      "length": 43,
+      "text": "וישכב חזקיהו עם־אבתיו וימלך מנשה בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_587",
+      "chapter_number": 21,
+      "verse_number": 1,
+      "start_char": 49082,
+      "end_char": 49154,
+      "length": 73,
+      "text": "בן־שתים עשרה שנה מנשה במלכו וחמשים וחמש שנה מלך בירושל͏ם ושם אמו חפצי־בה׃"
+    },
+    {
+      "uid": "II_Kings_588",
+      "chapter_number": 21,
+      "verse_number": 2,
+      "start_char": 49155,
+      "end_char": 49217,
+      "length": 63,
+      "text": "ויעש הרע בעיני יהוה כתועבת הגוים אשר הוריש יהוה מפני בני ישראל׃"
+    },
+    {
+      "uid": "II_Kings_589",
+      "chapter_number": 21,
+      "verse_number": 3,
+      "start_char": 49218,
+      "end_char": 49337,
+      "length": 120,
+      "text": "וישב ויבן את־הבמות אשר אבד חזקיהו אביו ויקם מזבחת לבעל ויעש אשרה כאשר עשה אחאב מלך ישראל וישתחו לכל־צבא השמים ויעבד אתם׃"
+    },
+    {
+      "uid": "II_Kings_590",
+      "chapter_number": 21,
+      "verse_number": 4,
+      "start_char": 49338,
+      "end_char": 49392,
+      "length": 55,
+      "text": "ובנה מזבחת בבית יהוה אשר אמר יהוה בירושל͏ם אשים את־שמי׃"
+    },
+    {
+      "uid": "II_Kings_591",
+      "chapter_number": 21,
+      "verse_number": 5,
+      "start_char": 49393,
+      "end_char": 49438,
+      "length": 46,
+      "text": "ויבן מזבחות לכל־צבא השמים בשתי חצרות בית־יהוה׃"
+    },
+    {
+      "uid": "II_Kings_592",
+      "chapter_number": 21,
+      "verse_number": 6,
+      "start_char": 49439,
+      "end_char": 49517,
+      "length": 79,
+      "text": "והעביר את־בנו באש ועונן ונחש ועשה אוב וידענים הרבה לעשות הרע בעיני יהוה להכעיס׃"
+    },
+    {
+      "uid": "II_Kings_593",
+      "chapter_number": 21,
+      "verse_number": 7,
+      "start_char": 49518,
+      "end_char": 49643,
+      "length": 126,
+      "text": "וישם את־פסל האשרה אשר עשה בבית אשר אמר יהוה אל־דוד ואל־שלמה בנו בבית הזה ובירושל͏ם אשר בחרתי מכל שבטי ישראל אשים את־שמי לעולם׃"
+    },
+    {
+      "uid": "II_Kings_594",
+      "chapter_number": 21,
+      "verse_number": 8,
+      "start_char": 49644,
+      "end_char": 49759,
+      "length": 116,
+      "text": "ולא אסיף להניד רגל ישראל מן־האדמה אשר נתתי לאבותם רק׀ אם־ישמרו לעשות ככל אשר צויתים ולכל־התורה אשר־צוה אתם עבדי משה׃"
+    },
+    {
+      "uid": "II_Kings_595",
+      "chapter_number": 21,
+      "verse_number": 9,
+      "start_char": 49760,
+      "end_char": 49831,
+      "length": 72,
+      "text": "ולא שמעו ויתעם מנשה לעשות את־הרע מן־הגוים אשר השמיד יהוה מפני בני ישראל׃"
+    },
+    {
+      "uid": "II_Kings_596",
+      "chapter_number": 21,
+      "verse_number": 10,
+      "start_char": 49832,
+      "end_char": 49865,
+      "length": 34,
+      "text": "וידבר יהוה ביד־עבדיו הנביאים לאמר׃"
+    },
+    {
+      "uid": "II_Kings_597",
+      "chapter_number": 21,
+      "verse_number": 11,
+      "start_char": 49866,
+      "end_char": 49962,
+      "length": 97,
+      "text": "יען אשר עשה מנשה מלך־יהודה התעבות האלה הרע מכל אשר־עשו האמרי אשר לפניו ויחטא גם־את־יהודה בגלוליו׃"
+    },
+    {
+      "uid": "II_Kings_598",
+      "chapter_number": 21,
+      "verse_number": 12,
+      "start_char": 49963,
+      "end_char": 50059,
+      "length": 97,
+      "text": "לכן כה־אמר יהוה אלהי ישראל הנני מביא רעה על־ירושל͏ם ויהודה אשר כל־[שמעה] (שמעיו) תצלנה שתי אזניו׃"
+    },
+    {
+      "uid": "II_Kings_599",
+      "chapter_number": 21,
+      "verse_number": 13,
+      "start_char": 50060,
+      "end_char": 50162,
+      "length": 103,
+      "text": "ונטיתי על־ירושל͏ם את קו שמרון ואת־משקלת בית אחאב ומחיתי את־ירושל͏ם כאשר־ימחה את־הצלחת מחה והפך על־פניה׃"
+    },
+    {
+      "uid": "II_Kings_600",
+      "chapter_number": 21,
+      "verse_number": 14,
+      "start_char": 50163,
+      "end_char": 50229,
+      "length": 67,
+      "text": "ונטשתי את שארית נחלתי ונתתים ביד איביהם והיו לבז ולמשסה לכל־איביהם׃"
+    },
+    {
+      "uid": "II_Kings_601",
+      "chapter_number": 21,
+      "verse_number": 15,
+      "start_char": 50230,
+      "end_char": 50314,
+      "length": 85,
+      "text": "יען אשר עשו את־הרע בעיני ויהיו מכעסים אתי מן־היום אשר יצאו אבותם ממצרים ועד היום הזה׃"
+    },
+    {
+      "uid": "II_Kings_602",
+      "chapter_number": 21,
+      "verse_number": 16,
+      "start_char": 50315,
+      "end_char": 50423,
+      "length": 109,
+      "text": "וגם דם נקי שפך מנשה הרבה מאד עד אשר־מלא את־ירושל͏ם פה לפה לבד מחטאתו אשר החטיא את־יהודה לעשות הרע בעיני יהוה׃"
+    },
+    {
+      "uid": "II_Kings_603",
+      "chapter_number": 21,
+      "verse_number": 17,
+      "start_char": 50424,
+      "end_char": 50509,
+      "length": 86,
+      "text": "ויתר דברי מנשה וכל־אשר עשה וחטאתו אשר חטא הלא־הם כתובים על־ספר דברי הימים למלכי יהודה׃"
+    },
+    {
+      "uid": "II_Kings_604",
+      "chapter_number": 21,
+      "verse_number": 18,
+      "start_char": 50510,
+      "end_char": 50573,
+      "length": 64,
+      "text": "וישכב מנשה עם־אבתיו ויקבר בגן־ביתו בגן־עזא וימלך אמון בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_605",
+      "chapter_number": 21,
+      "verse_number": 19,
+      "start_char": 50574,
+      "end_char": 50657,
+      "length": 84,
+      "text": "בן־עשרים ושתים שנה אמון במלכו ושתים שנים מלך בירושל͏ם ושם אמו משלמת בת־חרוץ מן־יטבה׃"
+    },
+    {
+      "uid": "II_Kings_606",
+      "chapter_number": 21,
+      "verse_number": 20,
+      "start_char": 50658,
+      "end_char": 50696,
+      "length": 39,
+      "text": "ויעש הרע בעיני יהוה כאשר עשה מנשה אביו׃"
+    },
+    {
+      "uid": "II_Kings_607",
+      "chapter_number": 21,
+      "verse_number": 21,
+      "start_char": 50697,
+      "end_char": 50763,
+      "length": 67,
+      "text": "וילך בכל־הדרך אשר־הלך אביו ויעבד את־הגללים אשר עבד אביו וישתחו להם׃"
+    },
+    {
+      "uid": "II_Kings_608",
+      "chapter_number": 21,
+      "verse_number": 22,
+      "start_char": 50764,
+      "end_char": 50806,
+      "length": 43,
+      "text": "ויעזב את־יהוה אלהי אבתיו ולא הלך בדרך יהוה׃"
+    },
+    {
+      "uid": "II_Kings_609",
+      "chapter_number": 21,
+      "verse_number": 23,
+      "start_char": 50807,
+      "end_char": 50849,
+      "length": 43,
+      "text": "ויקשרו עבדי־אמון עליו וימיתו את־המלך בביתו׃"
+    },
+    {
+      "uid": "II_Kings_610",
+      "chapter_number": 21,
+      "verse_number": 24,
+      "start_char": 50850,
+      "end_char": 50923,
+      "length": 74,
+      "text": "ויך עם־הארץ את כל־הקשרים על־המלך אמון וימליכו עם־הארץ את־יאשיהו בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_611",
+      "chapter_number": 21,
+      "verse_number": 25,
+      "start_char": 50924,
+      "end_char": 50990,
+      "length": 67,
+      "text": "ויתר דברי אמון אשר עשה הלא־הם כתובים על־ספר דברי הימים למלכי יהודה׃"
+    },
+    {
+      "uid": "II_Kings_612",
+      "chapter_number": 21,
+      "verse_number": 26,
+      "start_char": 50991,
+      "end_char": 51038,
+      "length": 48,
+      "text": "ויקבר אתו בקברתו בגן־עזא וימלך יאשיהו בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_613",
+      "chapter_number": 22,
+      "verse_number": 1,
+      "start_char": 51039,
+      "end_char": 51120,
+      "length": 82,
+      "text": "בן־שמנה שנה יאשיהו במלכו ושלשים ואחת שנה מלך בירושל͏ם ושם אמו ידידה בת־עדיה מבצקת׃"
+    },
+    {
+      "uid": "II_Kings_614",
+      "chapter_number": 22,
+      "verse_number": 2,
+      "start_char": 51121,
+      "end_char": 51182,
+      "length": 62,
+      "text": "ויעש הישר בעיני יהוה וילך בכל־דרך דוד אביו ולא־סר ימין ושמאול׃"
+    },
+    {
+      "uid": "II_Kings_615",
+      "chapter_number": 22,
+      "verse_number": 3,
+      "start_char": 51183,
+      "end_char": 51267,
+      "length": 85,
+      "text": "ויהי בשמנה עשרה שנה למלך יאשיהו שלח המלך את־שפן בן־אצליהו בן־משלם הספר בית יהוה לאמר׃"
+    },
+    {
+      "uid": "II_Kings_616",
+      "chapter_number": 22,
+      "verse_number": 4,
+      "start_char": 51268,
+      "end_char": 51346,
+      "length": 79,
+      "text": "עלה אל־חלקיהו הכהן הגדול ויתם את־הכסף המובא בית יהוה אשר אספו שמרי הסף מאת העם׃"
+    },
+    {
+      "uid": "II_Kings_617",
+      "chapter_number": 22,
+      "verse_number": 5,
+      "start_char": 51347,
+      "end_char": 51457,
+      "length": 111,
+      "text": "(ויתנה) [ויתנוהו] על־יד עשי המלאכה המפקדים (בבית) [בית] יהוה ויתנו אתו לעשי המלאכה אשר בבית יהוה לחזק בדק הבית׃"
+    },
+    {
+      "uid": "II_Kings_618",
+      "chapter_number": 22,
+      "verse_number": 6,
+      "start_char": 51458,
+      "end_char": 51515,
+      "length": 58,
+      "text": "לחרשים ולבנים ולגדרים ולקנות עצים ואבני מחצב לחזק את־הבית׃"
+    },
+    {
+      "uid": "II_Kings_619",
+      "chapter_number": 22,
+      "verse_number": 7,
+      "start_char": 51516,
+      "end_char": 51565,
+      "length": 50,
+      "text": "אך לא־יחשב אתם הכסף הנתן על־ידם כי באמונה הם עשים׃"
+    },
+    {
+      "uid": "II_Kings_620",
+      "chapter_number": 22,
+      "verse_number": 8,
+      "start_char": 51566,
+      "end_char": 51661,
+      "length": 96,
+      "text": "ויאמר חלקיהו הכהן הגדול על־שפן הספר ספר התורה מצאתי בבית יהוה ויתן חלקיה את־הספר אל־שפן ויקראהו׃"
+    },
+    {
+      "uid": "II_Kings_621",
+      "chapter_number": 22,
+      "verse_number": 9,
+      "start_char": 51662,
+      "end_char": 51778,
+      "length": 117,
+      "text": "ויבא שפן הספר אל־המלך וישב את־המלך דבר ויאמר התיכו עבדיך את־הכסף הנמצא בבית ויתנהו על־יד עשי המלאכה המפקדים בית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_622",
+      "chapter_number": 22,
+      "verse_number": 10,
+      "start_char": 51779,
+      "end_char": 51846,
+      "length": 68,
+      "text": "ויגד שפן הספר למלך לאמר ספר נתן לי חלקיה הכהן ויקראהו שפן לפני המלך׃"
+    },
+    {
+      "uid": "II_Kings_623",
+      "chapter_number": 22,
+      "verse_number": 11,
+      "start_char": 51847,
+      "end_char": 51894,
+      "length": 48,
+      "text": "ויהי כשמע המלך את־דברי ספר התורה ויקרע את־בגדיו׃"
+    },
+    {
+      "uid": "II_Kings_624",
+      "chapter_number": 22,
+      "verse_number": 12,
+      "start_char": 51895,
+      "end_char": 51991,
+      "length": 97,
+      "text": "ויצו המלך את־חלקיה הכהן ואת־אחיקם בן־שפן ואת־עכבור בן־מיכיה ואת׀ שפן הספר ואת עשיה עבד־המלך לאמר׃"
+    },
+    {
+      "uid": "II_Kings_625",
+      "chapter_number": 22,
+      "verse_number": 13,
+      "start_char": 51992,
+      "end_char": 52155,
+      "length": 164,
+      "text": "לכו דרשו את־יהוה בעדי ובעד־העם ובעד כל־יהודה על־דברי הספר הנמצא הזה כי־גדולה חמת יהוה אשר־היא נצתה בנו על אשר לא־שמעו אבתינו על־דברי הספר הזה לעשות ככל־הכתוב עלינו׃"
+    },
+    {
+      "uid": "II_Kings_626",
+      "chapter_number": 22,
+      "verse_number": 14,
+      "start_char": 52156,
+      "end_char": 52285,
+      "length": 130,
+      "text": "וילך חלקיהו הכהן ואחיקם ועכבור ושפן ועשיה אל־חלדה הנביאה אשת׀ שלם בן־תקוה בן־חרחס שמר הבגדים והיא ישבת בירושל͏ם במשנה וידברו אליה׃"
+    },
+    {
+      "uid": "II_Kings_627",
+      "chapter_number": 22,
+      "verse_number": 15,
+      "start_char": 52286,
+      "end_char": 52347,
+      "length": 62,
+      "text": "ותאמר אליהם כה־אמר יהוה אלהי ישראל אמרו לאיש אשר־שלח אתכם אלי׃"
+    },
+    {
+      "uid": "II_Kings_628",
+      "chapter_number": 22,
+      "verse_number": 16,
+      "start_char": 52348,
+      "end_char": 52430,
+      "length": 83,
+      "text": "כה אמר יהוה הנני מביא רעה אל־המקום הזה ועל־ישביו את כל־דברי הספר אשר קרא מלך יהודה׃"
+    },
+    {
+      "uid": "II_Kings_629",
+      "chapter_number": 22,
+      "verse_number": 17,
+      "start_char": 52431,
+      "end_char": 52524,
+      "length": 94,
+      "text": "תחת׀ אשר עזבוני ויקטרו לאלהים אחרים למען הכעיסני בכל מעשה ידיהם ונצתה חמתי במקום הזה ולא תכבה׃"
+    },
+    {
+      "uid": "II_Kings_630",
+      "chapter_number": 22,
+      "verse_number": 18,
+      "start_char": 52525,
+      "end_char": 52614,
+      "length": 90,
+      "text": "ואל־מלך יהודה השלח אתכם לדרש את־יהוה כה תאמרו אליו כה־אמר יהוה אלהי ישראל הדברים אשר שמעת׃"
+    },
+    {
+      "uid": "II_Kings_631",
+      "chapter_number": 22,
+      "verse_number": 19,
+      "start_char": 52615,
+      "end_char": 52750,
+      "length": 136,
+      "text": "יען רך־לבבך ותכנע׀ מפני יהוה בשמעך אשר דברתי על־המקום הזה ועל־ישביו להיות לשמה ולקללה ותקרע את־בגדיך ותבכה לפני וגם אנכי שמעתי נאם־יהוה׃"
+    },
+    {
+      "uid": "II_Kings_632",
+      "chapter_number": 22,
+      "verse_number": 20,
+      "start_char": 52751,
+      "end_char": 52866,
+      "length": 116,
+      "text": "לכן הנני אספך על־אבתיך ונאספת אל־קברתיך בשלום ולא־תראינה עיניך בכל הרעה אשר־אני מביא על־המקום הזה וישבו את־המלך דבר׃"
+    },
+    {
+      "uid": "II_Kings_633",
+      "chapter_number": 23,
+      "verse_number": 1,
+      "start_char": 52867,
+      "end_char": 52912,
+      "length": 46,
+      "text": "וישלח המלך ויאספו אליו כל־זקני יהודה וירושל͏ם׃"
+    },
+    {
+      "uid": "II_Kings_634",
+      "chapter_number": 23,
+      "verse_number": 2,
+      "start_char": 52913,
+      "end_char": 53057,
+      "length": 145,
+      "text": "ויעל המלך בית־יהוה וכל־איש יהודה וכל־ישבי ירושל͏ם אתו והכהנים והנביאים וכל־העם למקטן ועד־גדול ויקרא באזניהם את־כל־דברי ספר הברית הנמצא בבית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_635",
+      "chapter_number": 23,
+      "verse_number": 3,
+      "start_char": 53058,
+      "end_char": 53230,
+      "length": 173,
+      "text": "ויעמד המלך על־העמוד ויכרת את־הברית׀ לפני יהוה ללכת אחר יהוה ולשמר מצותיו ואת־עדותיו ואת־חקתיו בכל־לב ובכל־נפש להקים את־דברי הברית הזאת הכתבים על־הספר הזה ויעמד כל־העם בברית׃"
+    },
+    {
+      "uid": "II_Kings_636",
+      "chapter_number": 23,
+      "verse_number": 4,
+      "start_char": 53231,
+      "end_char": 53407,
+      "length": 177,
+      "text": "ויצו המלך את־חלקיהו הכהן הגדול ואת־כהני המשנה ואת־שמרי הסף להוציא מהיכל יהוה את כל־הכלים העשוים לבעל ולאשרה ולכל צבא השמים וישרפם מחוץ לירושל͏ם בשדמות קדרון ונשא את־עפרם בית־אל׃"
+    },
+    {
+      "uid": "II_Kings_637",
+      "chapter_number": 23,
+      "verse_number": 5,
+      "start_char": 53408,
+      "end_char": 53532,
+      "length": 125,
+      "text": "והשבית את־הכמרים אשר נתנו מלכי יהודה ויקטר בבמות בערי יהודה ומסבי ירושל͏ם ואת־המקטרים לבעל לשמש ולירח ולמזלות ולכל צבא השמים׃"
+    },
+    {
+      "uid": "II_Kings_638",
+      "chapter_number": 23,
+      "verse_number": 6,
+      "start_char": 53533,
+      "end_char": 53643,
+      "length": 111,
+      "text": "ויצא את־האשרה מבית יהוה מחוץ לירושל͏ם אל־נחל קדרון וישרף אתה בנחל קדרון וידק לעפר וישלך את־עפרה על־קבר בני העם׃"
+    },
+    {
+      "uid": "II_Kings_639",
+      "chapter_number": 23,
+      "verse_number": 7,
+      "start_char": 53644,
+      "end_char": 53706,
+      "length": 63,
+      "text": "ויתץ את־בתי הקדשים אשר בבית יהוה אשר הנשים ארגות שם בתים לאשרה׃"
+    },
+    {
+      "uid": "II_Kings_640",
+      "chapter_number": 23,
+      "verse_number": 8,
+      "start_char": 53707,
+      "end_char": 53859,
+      "length": 153,
+      "text": "ויבא את־כל־הכהנים מערי יהודה ויטמא את־הבמות אשר קטרו־שמה הכהנים מגבע עד־באר שבע ונתץ את־במות השערים אשר־פתח שער יהושע שר־העיר אשר־על־שמאול איש בשער העיר׃"
+    },
+    {
+      "uid": "II_Kings_641",
+      "chapter_number": 23,
+      "verse_number": 9,
+      "start_char": 53860,
+      "end_char": 53930,
+      "length": 71,
+      "text": "אך לא יעלו כהני הבמות אל־מזבח יהוה בירושל͏ם כי אם־אכלו מצות בתוך אחיהם׃"
+    },
+    {
+      "uid": "II_Kings_642",
+      "chapter_number": 23,
+      "verse_number": 10,
+      "start_char": 53931,
+      "end_char": 54007,
+      "length": 77,
+      "text": "וטמא את־התפת אשר בגי (בני) [בן־]הנם לבלתי להעביר איש את־בנו ואת־בתו באש למלך׃"
+    },
+    {
+      "uid": "II_Kings_643",
+      "chapter_number": 23,
+      "verse_number": 11,
+      "start_char": 54008,
+      "end_char": 54119,
+      "length": 112,
+      "text": "וישבת את־הסוסים אשר נתנו מלכי יהודה לשמש מבא בית־יהוה אל־לשכת נתן־מלך הסריס אשר בפרורים ואת־מרכבות השמש שרף באש׃"
+    },
+    {
+      "uid": "II_Kings_644",
+      "chapter_number": 23,
+      "verse_number": 12,
+      "start_char": 54120,
+      "end_char": 54262,
+      "length": 143,
+      "text": "ואת־המזבחות אשר על־הגג עלית אחז אשר־עשו׀ מלכי יהודה ואת־המזבחות אשר־עשה מנשה בשתי חצרות בית־יהוה נתץ המלך וירץ משם והשליך את־עפרם אל־נחל קדרון׃"
+    },
+    {
+      "uid": "II_Kings_645",
+      "chapter_number": 23,
+      "verse_number": 13,
+      "start_char": 54263,
+      "end_char": 54402,
+      "length": 140,
+      "text": "ואת־הבמות אשר׀ על־פני ירושל͏ם אשר מימין להר־המשחית אשר בנה שלמה מלך־ישראל לעשתרת׀ שקץ צידנים ולכמוש שקץ מואב ולמלכם תועבת בני־עמון טמא המלך׃"
+    },
+    {
+      "uid": "II_Kings_646",
+      "chapter_number": 23,
+      "verse_number": 14,
+      "start_char": 54403,
+      "end_char": 54458,
+      "length": 56,
+      "text": "ושבר את־המצבות ויכרת את־האשרים וימלא את־מקומם עצמות אדם׃"
+    },
+    {
+      "uid": "II_Kings_647",
+      "chapter_number": 23,
+      "verse_number": 15,
+      "start_char": 54459,
+      "end_char": 54591,
+      "length": 133,
+      "text": "וגם את־המזבח אשר בבית־אל הבמה אשר עשה ירבעם בן־נבט אשר החטיא את־ישראל גם את־המזבח ההוא ואת־הבמה נתץ וישרף את־הבמה הדק לעפר ושרף אשרה׃"
+    },
+    {
+      "uid": "II_Kings_648",
+      "chapter_number": 23,
+      "verse_number": 16,
+      "start_char": 54592,
+      "end_char": 54735,
+      "length": 144,
+      "text": "ויפן יאשיהו וירא את־הקברים אשר־שם בהר וישלח ויקח את־העצמות מן־הקברים וישרף על־המזבח ויטמאהו כדבר יהוה אשר קרא איש האלהים אשר קרא את־הדברים האלה׃"
+    },
+    {
+      "uid": "II_Kings_649",
+      "chapter_number": 23,
+      "verse_number": 17,
+      "start_char": 54736,
+      "end_char": 54864,
+      "length": 129,
+      "text": "ויאמר מה הציון הלז אשר אני ראה ויאמרו אליו אנשי העיר הקבר איש־האלהים אשר־בא מיהודה ויקרא את־הדברים האלה אשר עשית על המזבח בית־אל׃"
+    },
+    {
+      "uid": "II_Kings_650",
+      "chapter_number": 23,
+      "verse_number": 18,
+      "start_char": 54865,
+      "end_char": 54942,
+      "length": 78,
+      "text": "ויאמר הניחו לו איש אל־ינע עצמותיו וימלטו עצמותיו את עצמות הנביא אשר־בא משמרון׃"
+    },
+    {
+      "uid": "II_Kings_651",
+      "chapter_number": 23,
+      "verse_number": 19,
+      "start_char": 54943,
+      "end_char": 55052,
+      "length": 110,
+      "text": "וגם את־כל־בתי הבמות אשר׀ בערי שמרון אשר עשו מלכי ישראל להכעיס הסיר יאשיהו ויעש להם ככל־המעשים אשר עשה בבית־אל׃"
+    },
+    {
+      "uid": "II_Kings_652",
+      "chapter_number": 23,
+      "verse_number": 20,
+      "start_char": 55053,
+      "end_char": 55131,
+      "length": 79,
+      "text": "ויזבח את־כל־כהני הבמות אשר־שם על־המזבחות וישרף את־עצמות אדם עליהם וישב ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Kings_653",
+      "chapter_number": 23,
+      "verse_number": 21,
+      "start_char": 55132,
+      "end_char": 55200,
+      "length": 69,
+      "text": "ויצו המלך את־כל־העם לאמר עשו פסח ליהוה אלהיכם ככתוב על ספר הברית הזה׃"
+    },
+    {
+      "uid": "II_Kings_654",
+      "chapter_number": 23,
+      "verse_number": 22,
+      "start_char": 55201,
+      "end_char": 55281,
+      "length": 81,
+      "text": "כי לא נעשה כפסח הזה מימי השפטים אשר שפטו את־ישראל וכל ימי מלכי ישראל ומלכי יהודה׃"
+    },
+    {
+      "uid": "II_Kings_655",
+      "chapter_number": 23,
+      "verse_number": 23,
+      "start_char": 55282,
+      "end_char": 55343,
+      "length": 62,
+      "text": "כי אם־בשמנה עשרה שנה למלך יאשיהו נעשה הפסח הזה ליהוה בירושל͏ם׃"
+    },
+    {
+      "uid": "II_Kings_656",
+      "chapter_number": 23,
+      "verse_number": 24,
+      "start_char": 55344,
+      "end_char": 55513,
+      "length": 170,
+      "text": "וגם את־האבות ואת־הידענים ואת־התרפים ואת־הגללים ואת כל־השקצים אשר נראו בארץ יהודה ובירושל͏ם בער יאשיהו למען הקים את־דברי התורה הכתבים על־הספר אשר מצא חלקיהו הכהן בית יהוה׃"
+    },
+    {
+      "uid": "II_Kings_657",
+      "chapter_number": 23,
+      "verse_number": 25,
+      "start_char": 55514,
+      "end_char": 55611,
+      "length": 98,
+      "text": "וכמהו לא־היה לפניו מלך אשר־שב אל־יהוה בכל־לבבו ובכל־נפשו ובכל־מאדו ככל תורת משה ואחריו לא־קם כמהו׃"
+    },
+    {
+      "uid": "II_Kings_658",
+      "chapter_number": 23,
+      "verse_number": 26,
+      "start_char": 55612,
+      "end_char": 55690,
+      "length": 79,
+      "text": "אך׀ לא־שב יהוה מחרון אפו הגדול אשר־חרה אפו ביהודה על כל־הכעסים אשר הכעיסו מנשה׃"
+    },
+    {
+      "uid": "II_Kings_659",
+      "chapter_number": 23,
+      "verse_number": 27,
+      "start_char": 55691,
+      "end_char": 55818,
+      "length": 128,
+      "text": "ויאמר יהוה גם את־יהודה אסיר מעל פני כאשר הסרתי את־ישראל ומאסתי את־העיר הזאת אשר־בחרתי את־ירושל͏ם ואת־הבית אשר אמרתי יהיה שמי שם׃"
+    },
+    {
+      "uid": "II_Kings_660",
+      "chapter_number": 23,
+      "verse_number": 28,
+      "start_char": 55819,
+      "end_char": 55891,
+      "length": 73,
+      "text": "ויתר דברי יאשיהו וכל־אשר עשה הלא־הם כתובים על־ספר דברי הימים למלכי יהודה׃"
+    },
+    {
+      "uid": "II_Kings_661",
+      "chapter_number": 23,
+      "verse_number": 29,
+      "start_char": 55892,
+      "end_char": 55991,
+      "length": 100,
+      "text": "בימיו עלה פרעה נכה מלך־מצרים על־מלך אשור על־נהר־פרת וילך המלך יאשיהו לקראתו וימיתהו במגדו כראתו אתו׃"
+    },
+    {
+      "uid": "II_Kings_662",
+      "chapter_number": 23,
+      "verse_number": 30,
+      "start_char": 55992,
+      "end_char": 56109,
+      "length": 118,
+      "text": "וירכבהו עבדיו מת ממגדו ויבאהו ירושל͏ם ויקברהו בקברתו ויקח עם־הארץ את־יהואחז בן־יאשיהו וימשחו אתו וימליכו אתו תחת אביו׃"
+    },
+    {
+      "uid": "II_Kings_663",
+      "chapter_number": 23,
+      "verse_number": 31,
+      "start_char": 56110,
+      "end_char": 56195,
+      "length": 86,
+      "text": "בן־עשרים ושלש שנה יהואחז במלכו ושלשה חדשים מלך בירושל͏ם ושם אמו חמוטל בת־ירמיהו מלבנה׃"
+    },
+    {
+      "uid": "II_Kings_664",
+      "chapter_number": 23,
+      "verse_number": 32,
+      "start_char": 56196,
+      "end_char": 56233,
+      "length": 38,
+      "text": "ויעש הרע בעיני יהוה ככל אשר־עשו אבתיו׃"
+    },
+    {
+      "uid": "II_Kings_665",
+      "chapter_number": 23,
+      "verse_number": 33,
+      "start_char": 56234,
+      "end_char": 56326,
+      "length": 93,
+      "text": "ויאסרהו פרעה נכה ברבלה בארץ חמת (במלך) [ממלך] בירושל͏ם ויתן־ענש על־הארץ מאה ככר־כסף וככר זהב׃"
+    },
+    {
+      "uid": "II_Kings_666",
+      "chapter_number": 23,
+      "verse_number": 34,
+      "start_char": 56327,
+      "end_char": 56431,
+      "length": 105,
+      "text": "וימלך פרעה נכה את־אליקים בן־יאשיהו תחת יאשיהו אביו ויסב את־שמו יהויקים ואת־יהואחז לקח ויבא מצרים וימת שם׃"
+    },
+    {
+      "uid": "II_Kings_667",
+      "chapter_number": 23,
+      "verse_number": 35,
+      "start_char": 56432,
+      "end_char": 56557,
+      "length": 126,
+      "text": "והכסף והזהב נתן יהויקים לפרעה אך העריך את־הארץ לתת את־הכסף על־פי פרעה איש כערכו נגש את־הכסף ואת־הזהב את־עם הארץ לתת לפרעה נכה׃"
+    },
+    {
+      "uid": "II_Kings_668",
+      "chapter_number": 23,
+      "verse_number": 36,
+      "start_char": 56558,
+      "end_char": 56656,
+      "length": 99,
+      "text": "בן־עשרים וחמש שנה יהויקים במלכו ואחת עשרה שנה מלך בירושל͏ם ושם אמו (זבידה) [זבודה] בת־פדיה מן־רומה׃"
+    },
+    {
+      "uid": "II_Kings_669",
+      "chapter_number": 23,
+      "verse_number": 37,
+      "start_char": 56657,
+      "end_char": 56694,
+      "length": 38,
+      "text": "ויעש הרע בעיני יהוה ככל אשר־עשו אבתיו׃"
+    },
+    {
+      "uid": "II_Kings_670",
+      "chapter_number": 24,
+      "verse_number": 1,
+      "start_char": 56695,
+      "end_char": 56764,
+      "length": 70,
+      "text": "בימיו עלה נבכדנאצר מלך בבל ויהי־לו יהויקים עבד שלש שנים וישב וימרד־בו׃"
+    },
+    {
+      "uid": "II_Kings_671",
+      "chapter_number": 24,
+      "verse_number": 2,
+      "start_char": 56765,
+      "end_char": 56900,
+      "length": 136,
+      "text": "וישלח יהוה׀בו את־גדודי כשדים ואת־גדודי ארם ואת׀ גדודי מואב ואת גדודי בני־עמון וישלחם ביהודה להאבידו כדבר יהוה אשר דבר ביד עבדיו הנביאים׃"
+    },
+    {
+      "uid": "II_Kings_672",
+      "chapter_number": 24,
+      "verse_number": 3,
+      "start_char": 56901,
+      "end_char": 56965,
+      "length": 65,
+      "text": "אך׀ על־פי יהוה היתה ביהודה להסיר מעל פניו בחטאת מנשה ככל אשר עשה׃"
+    },
+    {
+      "uid": "II_Kings_673",
+      "chapter_number": 24,
+      "verse_number": 4,
+      "start_char": 56966,
+      "end_char": 57027,
+      "length": 62,
+      "text": "וגם דם־הנקי אשר שפך וימלא את־ירושל͏ם דם נקי ולא־אבה יהוה לסלח׃"
+    },
+    {
+      "uid": "II_Kings_674",
+      "chapter_number": 24,
+      "verse_number": 5,
+      "start_char": 57028,
+      "end_char": 57101,
+      "length": 74,
+      "text": "ויתר דברי יהויקים וכל־אשר עשה הלא־הם כתובים על־ספר דברי הימים למלכי יהודה׃"
+    },
+    {
+      "uid": "II_Kings_675",
+      "chapter_number": 24,
+      "verse_number": 6,
+      "start_char": 57102,
+      "end_char": 57148,
+      "length": 47,
+      "text": "וישכב יהויקים עם־אבתיו וימלך יהויכין בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Kings_676",
+      "chapter_number": 24,
+      "verse_number": 7,
+      "start_char": 57149,
+      "end_char": 57242,
+      "length": 94,
+      "text": "ולא־הסיף עוד מלך מצרים לצאת מארצו כי־לקח מלך בבל מנחל מצרים עד־נהר־פרת כל אשר היתה למלך מצרים׃"
+    },
+    {
+      "uid": "II_Kings_677",
+      "chapter_number": 24,
+      "verse_number": 8,
+      "start_char": 57243,
+      "end_char": 57330,
+      "length": 88,
+      "text": "בן־שמנה עשרה שנה יהויכין במלכו ושלשה חדשים מלך בירושל͏ם ושם אמו נחשתא בת־אלנתן מירושל͏ם׃"
+    },
+    {
+      "uid": "II_Kings_678",
+      "chapter_number": 24,
+      "verse_number": 9,
+      "start_char": 57331,
+      "end_char": 57367,
+      "length": 37,
+      "text": "ויעש הרע בעיני יהוה ככל אשר־עשה אביו׃"
+    },
+    {
+      "uid": "II_Kings_679",
+      "chapter_number": 24,
+      "verse_number": 10,
+      "start_char": 57368,
+      "end_char": 57434,
+      "length": 67,
+      "text": "בעת ההיא (עלה) [עלו] עבדי נבכדנאצר מלך־בבל ירושל͏ם ותבא העיר במצור׃"
+    },
+    {
+      "uid": "II_Kings_680",
+      "chapter_number": 24,
+      "verse_number": 11,
+      "start_char": 57435,
+      "end_char": 57481,
+      "length": 47,
+      "text": "ויבא נבכדנאצר מלך־בבל על־העיר ועבדיו צרים עליה׃"
+    },
+    {
+      "uid": "II_Kings_681",
+      "chapter_number": 24,
+      "verse_number": 12,
+      "start_char": 57482,
+      "end_char": 57578,
+      "length": 97,
+      "text": "ויצא יהויכין מלך־יהודה על־מלך בבל הוא ואמו ועבדיו ושריו וסריסיו ויקח אתו מלך בבל בשנת שמנה למלכו׃"
+    },
+    {
+      "uid": "II_Kings_682",
+      "chapter_number": 24,
+      "verse_number": 13,
+      "start_char": 57579,
+      "end_char": 57696,
+      "length": 118,
+      "text": "ויוצא משם את־כל־אוצרות בית יהוה ואוצרות בית המלך ויקצץ את־כל־כלי הזהב אשר עשה שלמה מלך־ישראל בהיכל יהוה כאשר דבר יהוה׃"
+    },
+    {
+      "uid": "II_Kings_683",
+      "chapter_number": 24,
+      "verse_number": 14,
+      "start_char": 57697,
+      "end_char": 57814,
+      "length": 118,
+      "text": "והגלה את־כל־ירושל͏ם ואת־כל־השרים ואת׀ כל־גבורי החיל (עשרה) [עשרת] אלפים גולה וכל־החרש והמסגר לא נשאר זולת דלת עם־הארץ׃"
+    },
+    {
+      "uid": "II_Kings_684",
+      "chapter_number": 24,
+      "verse_number": 15,
+      "start_char": 57815,
+      "end_char": 57919,
+      "length": 105,
+      "text": "ויגל את־יהויכין בבלה ואת־אם המלך ואת־נשי המלך ואת־סריסיו ואת (אולי) [אילי] הארץ הוליך גולה מירושל͏ם בבלה׃"
+    },
+    {
+      "uid": "II_Kings_685",
+      "chapter_number": 24,
+      "verse_number": 16,
+      "start_char": 57920,
+      "end_char": 58010,
+      "length": 91,
+      "text": "ואת כל־אנשי החיל שבעת אלפים והחרש והמסגר אלף הכל גבורים עשי מלחמה ויביאם מלך־בבל גולה בבלה׃"
+    },
+    {
+      "uid": "II_Kings_686",
+      "chapter_number": 24,
+      "verse_number": 17,
+      "start_char": 58011,
+      "end_char": 58062,
+      "length": 52,
+      "text": "וימלך מלך־בבל את־מתניה דדו תחתיו ויסב את־שמו צדקיהו׃"
+    },
+    {
+      "uid": "II_Kings_687",
+      "chapter_number": 24,
+      "verse_number": 18,
+      "start_char": 58063,
+      "end_char": 58160,
+      "length": 98,
+      "text": "בן־עשרים ואחת שנה צדקיהו במלכו ואחת עשרה שנה מלך בירושל͏ם ושם אמו (חמיטל) [חמוטל] בת־ירמיהו מלבנה׃"
+    },
+    {
+      "uid": "II_Kings_688",
+      "chapter_number": 24,
+      "verse_number": 19,
+      "start_char": 58161,
+      "end_char": 58200,
+      "length": 40,
+      "text": "ויעש הרע בעיני יהוה ככל אשר־עשה יהויקים׃"
+    },
+    {
+      "uid": "II_Kings_689",
+      "chapter_number": 24,
+      "verse_number": 20,
+      "start_char": 58201,
+      "end_char": 58281,
+      "length": 81,
+      "text": "כי׀ על־אף יהוה היתה בירושל͏ם וביהודה עד־השלכו אתם מעל פניו וימרד צדקיהו במלך בבל׃"
+    },
+    {
+      "uid": "II_Kings_690",
+      "chapter_number": 25,
+      "verse_number": 1,
+      "start_char": 58282,
+      "end_char": 58402,
+      "length": 121,
+      "text": "ויהי בשנת התשיעית למלכו בחדש העשירי בעשור לחדש בא נבכדנאצר מלך־בבל הוא וכל־חילו על־ירושל͏ם ויחן עליה ויבנו עליה דיק סביב׃"
+    },
+    {
+      "uid": "II_Kings_691",
+      "chapter_number": 25,
+      "verse_number": 2,
+      "start_char": 58403,
+      "end_char": 58447,
+      "length": 45,
+      "text": "ותבא העיר במצור עד עשתי עשרה שנה למלך צדקיהו׃"
+    },
+    {
+      "uid": "II_Kings_692",
+      "chapter_number": 25,
+      "verse_number": 3,
+      "start_char": 58448,
+      "end_char": 58495,
+      "length": 48,
+      "text": "בתשעה לחדש ויחזק הרעב בעיר ולא־היה לחם לעם הארץ׃"
+    },
+    {
+      "uid": "II_Kings_693",
+      "chapter_number": 25,
+      "verse_number": 4,
+      "start_char": 58496,
+      "end_char": 58598,
+      "length": 103,
+      "text": "ותבקע העיר וכל־אנשי המלחמה׀הלילה דרך שער׀ בין החמתים אשר על־גן המלך וכשדים על־העיר סביב וילך דרך הערבה׃"
+    },
+    {
+      "uid": "II_Kings_694",
+      "chapter_number": 25,
+      "verse_number": 5,
+      "start_char": 58599,
+      "end_char": 58666,
+      "length": 68,
+      "text": "וירדפו חיל־כשדים אחר המלך וישגו אתו בערבות ירחו וכל־חילו נפצו מעליו׃"
+    },
+    {
+      "uid": "II_Kings_695",
+      "chapter_number": 25,
+      "verse_number": 6,
+      "start_char": 58667,
+      "end_char": 58724,
+      "length": 58,
+      "text": "ויתפשו את־המלך ויעלו אתו אל־מלך בבל רבלתה וידברו אתו משפט׃"
+    },
+    {
+      "uid": "II_Kings_696",
+      "chapter_number": 25,
+      "verse_number": 7,
+      "start_char": 58725,
+      "end_char": 58798,
+      "length": 74,
+      "text": "ואת־בני צדקיהו שחטו לעיניו ואת־עיני צדקיהו עור ויאסרהו בנחשתים ויבאהו בבל׃"
+    },
+    {
+      "uid": "II_Kings_697",
+      "chapter_number": 25,
+      "verse_number": 8,
+      "start_char": 58799,
+      "end_char": 58906,
+      "length": 108,
+      "text": "ובחדש החמישי בשבעה לחדש היא שנת תשע־עשרה שנה למלך נבכדנאצר מלך־בבל בא נבוזראדן רב־טבחים עבד מלך־בבל ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Kings_698",
+      "chapter_number": 25,
+      "verse_number": 9,
+      "start_char": 58907,
+      "end_char": 58980,
+      "length": 74,
+      "text": "וישרף את־בית־יהוה ואת־בית המלך ואת כל־בתי ירושל͏ם ואת־כל־בית גדול שרף באש׃"
+    },
+    {
+      "uid": "II_Kings_699",
+      "chapter_number": 25,
+      "verse_number": 10,
+      "start_char": 58981,
+      "end_char": 59033,
+      "length": 53,
+      "text": "ואת־חומת ירושל͏ם סביב נתצו כל־חיל כשדים אשר רב־טבחים׃"
+    },
+    {
+      "uid": "II_Kings_700",
+      "chapter_number": 25,
+      "verse_number": 11,
+      "start_char": 59034,
+      "end_char": 59127,
+      "length": 94,
+      "text": "ואת יתר העם הנשארים בעיר ואת־הנפלים אשר נפלו על־המלך בבל ואת יתר ההמון הגלה נבוזראדן רב־טבחים׃"
+    },
+    {
+      "uid": "II_Kings_701",
+      "chapter_number": 25,
+      "verse_number": 12,
+      "start_char": 59128,
+      "end_char": 59168,
+      "length": 41,
+      "text": "ומדלת הארץ השאיר רב־טבחים לכרמים וליגבים׃"
+    },
+    {
+      "uid": "II_Kings_702",
+      "chapter_number": 25,
+      "verse_number": 13,
+      "start_char": 59169,
+      "end_char": 59266,
+      "length": 98,
+      "text": "ואת־עמודי הנחשת אשר בית־יהוה ואת־המכנות ואת־ים הנחשת אשר בבית־יהוה שברו כשדים וישאו את־נחשתם בבלה׃"
+    },
+    {
+      "uid": "II_Kings_703",
+      "chapter_number": 25,
+      "verse_number": 14,
+      "start_char": 59267,
+      "end_char": 59343,
+      "length": 77,
+      "text": "ואת־הסירת ואת־היעים ואת־המזמרות ואת־הכפות ואת כל־כלי הנחשת אשר ישרתו־בם לקחו׃"
+    },
+    {
+      "uid": "II_Kings_704",
+      "chapter_number": 25,
+      "verse_number": 15,
+      "start_char": 59344,
+      "end_char": 59404,
+      "length": 61,
+      "text": "ואת־המחתות ואת־המזרקות אשר זהב זהב ואשר־כסף כסף לקח רב־טבחים׃"
+    },
+    {
+      "uid": "II_Kings_705",
+      "chapter_number": 25,
+      "verse_number": 16,
+      "start_char": 59405,
+      "end_char": 59490,
+      "length": 86,
+      "text": "העמודים׀ שנים הים האחד והמכנות אשר־עשה שלמה לבית יהוה לא־היה משקל לנחשת כל־הכלים האלה׃"
+    },
+    {
+      "uid": "II_Kings_706",
+      "chapter_number": 25,
+      "verse_number": 17,
+      "start_char": 59491,
+      "end_char": 59628,
+      "length": 138,
+      "text": "שמנה עשרה אמה קומת׀ העמוד האחד וכתרת עליו׀נחשת וקומת הכתרת שלש (אמה) [אמות] ושבכה ורמנים על־הכתרת סביב הכל נחשת וכאלה לעמוד השני על־השבכה׃"
+    },
+    {
+      "uid": "II_Kings_707",
+      "chapter_number": 25,
+      "verse_number": 18,
+      "start_char": 59629,
+      "end_char": 59697,
+      "length": 69,
+      "text": "ויקח רב־טבחים את־שריה כהן הראש ואת־צפניהו כהן משנה ואת־שלשת שמרי הסף׃"
+    },
+    {
+      "uid": "II_Kings_708",
+      "chapter_number": 25,
+      "verse_number": 19,
+      "start_char": 59698,
+      "end_char": 59855,
+      "length": 158,
+      "text": "ומן־העיר לקח סריס אחד אשר־הוא פקיד׀ על־אנשי המלחמה וחמשה אנשים מראי פני־המלך אשר נמצאו בעיר ואת הספר שר הצבא המצבא את־עם הארץ וששים איש מעם הארץ הנמצאים בעיר׃"
+    },
+    {
+      "uid": "II_Kings_709",
+      "chapter_number": 25,
+      "verse_number": 20,
+      "start_char": 59856,
+      "end_char": 59908,
+      "length": 53,
+      "text": "ויקח אתם נבוזראדן רב־טבחים וילך אתם על־מלך בבל רבלתה׃"
+    },
+    {
+      "uid": "II_Kings_710",
+      "chapter_number": 25,
+      "verse_number": 21,
+      "start_char": 59909,
+      "end_char": 59967,
+      "length": 59,
+      "text": "ויך אתם מלך בבל וימיתם ברבלה בארץ חמת ויגל יהודה מעל אדמתו׃"
+    },
+    {
+      "uid": "II_Kings_711",
+      "chapter_number": 25,
+      "verse_number": 22,
+      "start_char": 59968,
+      "end_char": 60055,
+      "length": 88,
+      "text": "והעם הנשאר בארץ יהודה אשר השאיר נבוכדנאצר מלך בבל ויפקד עליהם את־גדליהו בן־אחיקם בן־שפן׃"
+    },
+    {
+      "uid": "II_Kings_712",
+      "chapter_number": 25,
+      "verse_number": 23,
+      "start_char": 60056,
+      "end_char": 60221,
+      "length": 166,
+      "text": "וישמעו כל־שרי החילים המה והאנשים כי־הפקיד מלך־בבל את־גדליהו ויבאו אל־גדליהו המצפה וישמעאל בן־נתניה ויוחנן בן־קרח ושריה בן־תנחמת הנטפתי ויאזניהו בן־המעכתי המה ואנשיהם׃"
+    },
+    {
+      "uid": "II_Kings_713",
+      "chapter_number": 25,
+      "verse_number": 24,
+      "start_char": 60222,
+      "end_char": 60314,
+      "length": 93,
+      "text": "וישבע להם גדליהו ולאנשיהם ויאמר להם אל־תיראו מעבדי הכשדים שבו בארץ ועבדו את־מלך בבל ויטב לכם׃"
+    },
+    {
+      "uid": "II_Kings_714",
+      "chapter_number": 25,
+      "verse_number": 25,
+      "start_char": 60315,
+      "end_char": 60450,
+      "length": 136,
+      "text": "ויהי׀ בחדש השביעי בא ישמעאל בן־נתניה בן־אלישמע מזרע המלוכה ועשרה אנשים אתו ויכו את־גדליהו וימת ואת־היהודים ואת־הכשדים אשר־היו אתו במצפה׃"
+    },
+    {
+      "uid": "II_Kings_715",
+      "chapter_number": 25,
+      "verse_number": 26,
+      "start_char": 60451,
+      "end_char": 60520,
+      "length": 70,
+      "text": "ויקמו כל־העם מקטן ועד־גדול ושרי החילים ויבאו מצרים כי יראו מפני כשדים׃"
+    },
+    {
+      "uid": "II_Kings_716",
+      "chapter_number": 25,
+      "verse_number": 27,
+      "start_char": 60521,
+      "end_char": 60663,
+      "length": 143,
+      "text": "ויהי בשלשים ושבע שנה לגלות יהויכין מלך־יהודה בשנים עשר חדש בעשרים ושבעה לחדש נשא אויל מרדך מלך בבל בשנת מלכו את־ראש יהויכין מלך־יהודה מבית כלא׃"
+    },
+    {
+      "uid": "II_Kings_717",
+      "chapter_number": 25,
+      "verse_number": 28,
+      "start_char": 60664,
+      "end_char": 60719,
+      "length": 56,
+      "text": "וידבר אתו טבות ויתן את־כסאו מעל כסא המלכים אשר אתו בבבל׃"
+    },
+    {
+      "uid": "II_Kings_718",
+      "chapter_number": 25,
+      "verse_number": 29,
+      "start_char": 60720,
+      "end_char": 60769,
+      "length": 50,
+      "text": "ושנא את בגדי כלאו ואכל לחם תמיד לפניו כל־ימי חייו׃"
+    },
+    {
+      "uid": "II_Kings_719",
+      "chapter_number": 25,
+      "verse_number": 30,
+      "start_char": 60770,
+      "end_char": 60828,
+      "length": 59,
+      "text": "וארחתו ארחת תמיד נתנה־לו מאת המלך דבר־יום ביומו כל ימי חיו׃"
+    }
+  ]
+}

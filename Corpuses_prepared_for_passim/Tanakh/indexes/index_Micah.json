@@ -1,0 +1,958 @@
+{
+  "title": "Micah",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Micah_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 91,
+      "length": 91,
+      "text": "דבר־יהוה׀ אשר היה אל־מיכה המרשתי בימי יותם אחז יחזקיה מלכי יהודה אשר־חזה על־שמרון וירושל͏ם׃"
+    },
+    {
+      "uid": "Micah_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 92,
+      "end_char": 161,
+      "length": 70,
+      "text": "שמעו עמים כלם הקשיבי ארץ ומלאה ויהי אדני יהוה בכם לעד אדני מהיכל קדשו׃"
+    },
+    {
+      "uid": "Micah_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 162,
+      "end_char": 216,
+      "length": 55,
+      "text": "כי־הנה יהוה יצא ממקומו וירד ודרך על־[במתי] (במותי) ארץ׃"
+    },
+    {
+      "uid": "Micah_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 217,
+      "end_char": 281,
+      "length": 65,
+      "text": "ונמסו ההרים תחתיו והעמקים יתבקעו כדונג מפני האש כמים מגרים במורד׃"
+    },
+    {
+      "uid": "Micah_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 282,
+      "end_char": 367,
+      "length": 86,
+      "text": "בפשע יעקב כל־זאת ובחטאות בית ישראל מי־פשע יעקב הלוא שמרון ומי במות יהודה הלוא ירושל͏ם׃"
+    },
+    {
+      "uid": "Micah_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 368,
+      "end_char": 427,
+      "length": 60,
+      "text": "ושמתי שמרון לעי השדה למטעי כרם והגרתי לגי אבניה ויסדיה אגלה׃"
+    },
+    {
+      "uid": "Micah_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 428,
+      "end_char": 523,
+      "length": 96,
+      "text": "וכל־פסיליה יכתו וכל־אתנניה ישרפו באש וכל־עצביה אשים שממה כי מאתנן זונה קבצה ועד־אתנן זונה ישובו׃"
+    },
+    {
+      "uid": "Micah_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 524,
+      "end_char": 602,
+      "length": 79,
+      "text": "על־זאת אספדה ואילילה אילכה (שילל) [שולל] וערום אעשה מספד כתנים ואבל כבנות יענה׃"
+    },
+    {
+      "uid": "Micah_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 603,
+      "end_char": 660,
+      "length": 58,
+      "text": "כי אנושה מכותיה כי־באה עד־יהודה נגע עד־שער עמי עד־ירושל͏ם׃"
+    },
+    {
+      "uid": "Micah_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 661,
+      "end_char": 719,
+      "length": 59,
+      "text": "בגת אל־תגידו בכו אל־תבכו בבית לעפרה עפר (התפלשתי) [התפלשי]׃"
+    },
+    {
+      "uid": "Micah_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 720,
+      "end_char": 795,
+      "length": 76,
+      "text": "עברי לכם יושבת שפיר עריה־בשת לא יצאה יושבת צאנן מספד בית האצל יקח מכם עמדתו׃"
+    },
+    {
+      "uid": "Micah_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 796,
+      "end_char": 850,
+      "length": 55,
+      "text": "כי־חלה לטוב יושבת מרות כי־ירד רע מאת יהוה לשער ירושל͏ם׃"
+    },
+    {
+      "uid": "Micah_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 851,
+      "end_char": 924,
+      "length": 74,
+      "text": "רתם המרכבה לרכש יושבת לכיש ראשית חטאת היא לבת־ציון כי־בך נמצאו פשעי ישראל׃"
+    },
+    {
+      "uid": "Micah_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 925,
+      "end_char": 980,
+      "length": 56,
+      "text": "לכן תתני שלוחים על מורשת גת בתי אכזיב לאכזב למלכי ישראל׃"
+    },
+    {
+      "uid": "Micah_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 981,
+      "end_char": 1030,
+      "length": 50,
+      "text": "עד הירש אבי לך יושבת מרשה עד־עדלם יבוא כבוד ישראל׃"
+    },
+    {
+      "uid": "Micah_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 1031,
+      "end_char": 1083,
+      "length": 53,
+      "text": "קרחי וגזי על־בני תענוגיך הרחבי קרחתך כנשר כי גלו ממך׃"
+    },
+    {
+      "uid": "Micah_17",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 1084,
+      "end_char": 1146,
+      "length": 63,
+      "text": "הוי חשבי־און ופעלי רע על־משכבותם באור הבקר יעשוה כי יש־לאל ידם׃"
+    },
+    {
+      "uid": "Micah_18",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1147,
+      "end_char": 1203,
+      "length": 57,
+      "text": "וחמדו שדות וגזלו ובתים ונשאו ועשקו גבר וביתו ואיש ונחלתו׃"
+    },
+    {
+      "uid": "Micah_19",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1204,
+      "end_char": 1301,
+      "length": 98,
+      "text": "לכן כה אמר יהוה הנני חשב על־המשפחה הזאת רעה אשר לא־תמישו משם צוארתיכם ולא תלכו רומה כי עת רעה היא׃"
+    },
+    {
+      "uid": "Micah_20",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 1302,
+      "end_char": 1396,
+      "length": 95,
+      "text": "ביום ההוא ישא עליכם משל ונהה נהי נהיה אמר שדוד נשדנו חלק עמי ימיר איך ימיש לי לשובב שדינו יחלק׃"
+    },
+    {
+      "uid": "Micah_21",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1397,
+      "end_char": 1437,
+      "length": 41,
+      "text": "לכן לא־יהיה לך משליך חבל בגורל בקהל יהוה׃"
+    },
+    {
+      "uid": "Micah_22",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1438,
+      "end_char": 1478,
+      "length": 41,
+      "text": "אל־תטפו יטיפון לא־יטפו לאלה לא יסג כלמות׃"
+    },
+    {
+      "uid": "Micah_23",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1479,
+      "end_char": 1550,
+      "length": 72,
+      "text": "האמור בית־יעקב הקצר רוח יהוה אם־אלה מעלליו הלוא דברי ייטיבו עם הישר הלך׃"
+    },
+    {
+      "uid": "Micah_24",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1551,
+      "end_char": 1616,
+      "length": 66,
+      "text": "ואתמול עמי לאויב יקומם ממול שלמה אדר תפשטון מעברים בטח שובי מלחמה׃"
+    },
+    {
+      "uid": "Micah_25",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1617,
+      "end_char": 1669,
+      "length": 53,
+      "text": "נשי עמי תגרשון מבית תענגיה מעל עלליה תקחו הדרי לעולם׃"
+    },
+    {
+      "uid": "Micah_26",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 1670,
+      "end_char": 1722,
+      "length": 53,
+      "text": "קומו ולכו כי לא־זאת המנוחה בעבור טמאה תחבל וחבל נמרץ׃"
+    },
+    {
+      "uid": "Micah_27",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 1723,
+      "end_char": 1782,
+      "length": 60,
+      "text": "לו־איש הלך רוח ושקר כזב אטף לך ליין ולשכר והיה מטיף העם הזה׃"
+    },
+    {
+      "uid": "Micah_28",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 1783,
+      "end_char": 1870,
+      "length": 88,
+      "text": "אסף אאסף יעקב כלך קבץ אקבץ שארית ישראל יחד אשימנו כצאן בצרה כעדר בתוך הדברו תהימנה מאדם׃"
+    },
+    {
+      "uid": "Micah_29",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 1871,
+      "end_char": 1941,
+      "length": 71,
+      "text": "עלה הפרץ לפניהם פרצו ויעברו שער ויצאו בו ויעבר מלכם לפניהם ויהוה בראשם׃"
+    },
+    {
+      "uid": "Micah_30",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 1942,
+      "end_char": 2004,
+      "length": 63,
+      "text": "ואמר שמעו־נא ראשי יעקב וקציני בית ישראל הלוא לכם לדעת את־המשפט׃"
+    },
+    {
+      "uid": "Micah_31",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 2005,
+      "end_char": 2064,
+      "length": 60,
+      "text": "שנאי טוב ואהבי (רעה) [רע] גזלי עורם מעליהם ושארם מעל עצמותם׃"
+    },
+    {
+      "uid": "Micah_32",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 2065,
+      "end_char": 2151,
+      "length": 87,
+      "text": "ואשר אכלו שאר עמי ועורם מעליהם הפשיטו ואת־עצמתיהם פצחו ופרשו כאשר בסיר וכבשר בתוך קלחת׃"
+    },
+    {
+      "uid": "Micah_33",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 2152,
+      "end_char": 2224,
+      "length": 73,
+      "text": "אז יזעקו אל־יהוה ולא יענה אותם ויסתר פניו מהם בעת ההיא כאשר הרעו מעלליהם׃"
+    },
+    {
+      "uid": "Micah_34",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 2225,
+      "end_char": 2323,
+      "length": 99,
+      "text": "כה אמר יהוה על־הנביאים המתעים את־עמי הנשכים בשניהם וקראו שלום ואשר לא־יתן על־פיהם וקדשו עליו מלחמה׃"
+    },
+    {
+      "uid": "Micah_35",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 2324,
+      "end_char": 2394,
+      "length": 71,
+      "text": "לכן לילה לכם מחזון וחשכה לכם מקסם ובאה השמש על־הנביאים וקדר עליהם היום׃"
+    },
+    {
+      "uid": "Micah_36",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 2395,
+      "end_char": 2452,
+      "length": 58,
+      "text": "ובשו החזים וחפרו הקסמים ועטו על־שפם כלם כי אין מענה אלהים׃"
+    },
+    {
+      "uid": "Micah_37",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 2453,
+      "end_char": 2528,
+      "length": 76,
+      "text": "ואולם אנכי מלאתי כח את־רוח יהוה ומשפט וגבורה להגיד ליעקב פשעו ולישראל חטאתו׃"
+    },
+    {
+      "uid": "Micah_38",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 2529,
+      "end_char": 2603,
+      "length": 75,
+      "text": "שמעו־נא זאת ראשי בית יעקב וקציני בית ישראל המתעבים משפט ואת כל־הישרה יעקשו׃"
+    },
+    {
+      "uid": "Micah_39",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 2604,
+      "end_char": 2633,
+      "length": 30,
+      "text": "בנה ציון בדמים וירושל͏ם בעולה׃"
+    },
+    {
+      "uid": "Micah_40",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 2634,
+      "end_char": 2743,
+      "length": 110,
+      "text": "ראשיה׀ בשחד ישפטו וכהניה במחיר יורו ונביאיה בכסף יקסמו ועל־יהוה ישענו לאמר הלוא יהוה בקרבנו לא־תבוא עלינו רעה׃"
+    },
+    {
+      "uid": "Micah_41",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 2744,
+      "end_char": 2806,
+      "length": 63,
+      "text": "לכן בגללכם ציון שדה תחרש וירושל͏ם עיין תהיה והר הבית לבמות יער׃"
+    },
+    {
+      "uid": "Micah_42",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 2807,
+      "end_char": 2890,
+      "length": 84,
+      "text": "והיה׀ באחרית הימים יהיה הר בית־יהוה נכון בראש ההרים ונשא הוא מגבעות ונהרו עליו עמים׃"
+    },
+    {
+      "uid": "Micah_43",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 2891,
+      "end_char": 3017,
+      "length": 127,
+      "text": "והלכו גוים רבים ואמרו לכו׀ ונעלה אל־הר־יהוה ואל־בית אלהי יעקב ויורנו מדרכיו ונלכה בארחתיו כי מציון תצא תורה ודבר־יהוה מירושל͏ם׃"
+    },
+    {
+      "uid": "Micah_44",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 3018,
+      "end_char": 3145,
+      "length": 128,
+      "text": "ושפט בין עמים רבים והוכיח לגוים עצמים עד־רחוק וכתתו חרבתיהם לאתים וחניתתיהם למזמרות לא־ישאו גוי אל־גוי חרב ולא־ילמדון עוד מלחמה׃"
+    },
+    {
+      "uid": "Micah_45",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 3146,
+      "end_char": 3207,
+      "length": 62,
+      "text": "וישבו איש תחת גפנו ותחת תאנתו ואין מחריד כי־פי יהוה צבאות דבר׃"
+    },
+    {
+      "uid": "Micah_46",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 3208,
+      "end_char": 3275,
+      "length": 68,
+      "text": "כי כל־העמים ילכו איש בשם אלהיו ואנחנו נלך בשם־יהוה אלהינו לעולם ועד׃"
+    },
+    {
+      "uid": "Micah_47",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 3276,
+      "end_char": 3329,
+      "length": 54,
+      "text": "ביום ההוא נאם־יהוה אספה הצלעה והנדחה אקבצה ואשר הרעתי׃"
+    },
+    {
+      "uid": "Micah_48",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 3330,
+      "end_char": 3408,
+      "length": 79,
+      "text": "ושמתי את־הצלעה לשארית והנהלאה לגוי עצום ומלך יהוה עליהם בהר ציון מעתה ועד־עולם׃"
+    },
+    {
+      "uid": "Micah_49",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 3409,
+      "end_char": 3481,
+      "length": 73,
+      "text": "ואתה מגדל־עדר עפל בת־ציון עדיך תאתה ובאה הממשלה הראשנה ממלכת לבת ירושל͏ם׃"
+    },
+    {
+      "uid": "Micah_50",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 3482,
+      "end_char": 3544,
+      "length": 63,
+      "text": "עתה למה תריעי רע המלך אין־בך אם־יועצך אבד כי־החזיקך חיל כיולדה׃"
+    },
+    {
+      "uid": "Micah_51",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 3545,
+      "end_char": 3643,
+      "length": 99,
+      "text": "חולי וגחי בת־ציון כיולדה כי־עתה תצאי מקריה ושכנת בשדה ובאת עד־בבל שם תנצלי שם יגאלך יהוה מכף איביך׃"
+    },
+    {
+      "uid": "Micah_52",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 3644,
+      "end_char": 3699,
+      "length": 56,
+      "text": "ועתה נאספו עליך גוים רבים האמרים תחנף ותחז בציון עינינו׃"
+    },
+    {
+      "uid": "Micah_53",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 3700,
+      "end_char": 3758,
+      "length": 59,
+      "text": "והמה לא ידעו מחשבות יהוה ולא הבינו עצתו כי קבצם כעמיר גרנה׃"
+    },
+    {
+      "uid": "Micah_54",
+      "chapter_number": 4,
+      "verse_number": 13,
+      "start_char": 3759,
+      "end_char": 3870,
+      "length": 112,
+      "text": "קומי ודושי בת־ציון כי־קרנך אשים ברזל ופרסתיך אשים נחושה והדקות עמים רבים והחרמתי ליהוה בצעם וחילם לאדון כל־הארץ׃"
+    },
+    {
+      "uid": "Micah_55",
+      "chapter_number": 4,
+      "verse_number": 14,
+      "start_char": 3871,
+      "end_char": 3933,
+      "length": 63,
+      "text": "עתה תתגדדי בת־גדוד מצור שם עלינו בשבט יכו על־הלחי את שפט ישראל׃"
+    },
+    {
+      "uid": "Micah_56",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 3934,
+      "end_char": 4028,
+      "length": 95,
+      "text": "ואתה בית־לחם אפרתה צעיר להיות באלפי יהודה ממך לי יצא להיות מושל בישראל ומוצאתיו מקדם מימי עולם׃"
+    },
+    {
+      "uid": "Micah_57",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 4029,
+      "end_char": 4084,
+      "length": 56,
+      "text": "לכן יתנם עד־עת יולדה ילדה ויתר אחיו ישובון על־בני ישראל׃"
+    },
+    {
+      "uid": "Micah_58",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 4085,
+      "end_char": 4153,
+      "length": 69,
+      "text": "ועמד ורעה בעז יהוה בגאון שם יהוה אלהיו וישבו כי־עתה יגדל עד־אפסי־ארץ׃"
+    },
+    {
+      "uid": "Micah_59",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 4154,
+      "end_char": 4245,
+      "length": 92,
+      "text": "והיה זה שלום אשור׀ כי־יבוא בארצנו וכי ידרך בארמנותינו והקמנו עליו שבעה רעים ושמנה נסיכי אדם׃"
+    },
+    {
+      "uid": "Micah_60",
+      "chapter_number": 5,
+      "verse_number": 5,
+      "start_char": 4246,
+      "end_char": 4331,
+      "length": 86,
+      "text": "ורעו את־ארץ אשור בחרב ואת־ארץ נמרד בפתחיה והציל מאשור כי־יבוא בארצנו וכי ידרך בגבולנו׃"
+    },
+    {
+      "uid": "Micah_61",
+      "chapter_number": 5,
+      "verse_number": 6,
+      "start_char": 4332,
+      "end_char": 4427,
+      "length": 96,
+      "text": "והיה׀ שארית יעקב בקרב עמים רבים כטל מאת יהוה כרביבים עלי־עשב אשר לא־יקוה לאיש ולא ייחל לבני אדם׃"
+    },
+    {
+      "uid": "Micah_62",
+      "chapter_number": 5,
+      "verse_number": 7,
+      "start_char": 4428,
+      "end_char": 4528,
+      "length": 101,
+      "text": "והיה שארית יעקב בגוים בקרב עמים רבים כאריה בבהמות יער ככפיר בעדרי־צאן אשר אם־עבר ורמס וטרף ואין מציל׃"
+    },
+    {
+      "uid": "Micah_63",
+      "chapter_number": 5,
+      "verse_number": 8,
+      "start_char": 4529,
+      "end_char": 4560,
+      "length": 32,
+      "text": "תרם ידך על־צריך וכל־איביך יכרתו׃"
+    },
+    {
+      "uid": "Micah_64",
+      "chapter_number": 5,
+      "verse_number": 9,
+      "start_char": 4561,
+      "end_char": 4619,
+      "length": 59,
+      "text": "והיה ביום־ההוא נאם־יהוה והכרתי סוסיך מקרבך והאבדתי מרכבתיך׃"
+    },
+    {
+      "uid": "Micah_65",
+      "chapter_number": 5,
+      "verse_number": 10,
+      "start_char": 4620,
+      "end_char": 4652,
+      "length": 33,
+      "text": "והכרתי ערי ארצך והרסתי כל־מבצריך׃"
+    },
+    {
+      "uid": "Micah_66",
+      "chapter_number": 5,
+      "verse_number": 11,
+      "start_char": 4653,
+      "end_char": 4690,
+      "length": 38,
+      "text": "והכרתי כשפים מידך ומעוננים לא יהיו־לך׃"
+    },
+    {
+      "uid": "Micah_67",
+      "chapter_number": 5,
+      "verse_number": 12,
+      "start_char": 4691,
+      "end_char": 4745,
+      "length": 55,
+      "text": "והכרתי פסיליך ומצבותיך מקרבך ולא־תשתחוה עוד למעשה ידיך׃"
+    },
+    {
+      "uid": "Micah_68",
+      "chapter_number": 5,
+      "verse_number": 13,
+      "start_char": 4746,
+      "end_char": 4778,
+      "length": 33,
+      "text": "ונתשתי אשיריך מקרבך והשמדתי עריך׃"
+    },
+    {
+      "uid": "Micah_69",
+      "chapter_number": 5,
+      "verse_number": 14,
+      "start_char": 4779,
+      "end_char": 4820,
+      "length": 42,
+      "text": "ועשיתי באף ובחמה נקם את־הגוים אשר לא שמעו׃"
+    },
+    {
+      "uid": "Micah_70",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 4821,
+      "end_char": 4881,
+      "length": 61,
+      "text": "שמעו־נא את אשר־יהוה אמר קום ריב את־ההרים ותשמענה הגבעות קולך׃"
+    },
+    {
+      "uid": "Micah_71",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 4882,
+      "end_char": 4957,
+      "length": 76,
+      "text": "שמעו הרים את־ריב יהוה והאתנים מוסדי ארץ כי ריב ליהוה עם־עמו ועם־ישראל יתוכח׃"
+    },
+    {
+      "uid": "Micah_72",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 4958,
+      "end_char": 4991,
+      "length": 34,
+      "text": "עמי מה־עשיתי לך ומה הלאתיך ענה בי׃"
+    },
+    {
+      "uid": "Micah_73",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 4992,
+      "end_char": 5061,
+      "length": 70,
+      "text": "כי העלתיך מארץ מצרים ומבית עבדים פדיתיך ואשלח לפניך את־משה אהרן ומרים׃"
+    },
+    {
+      "uid": "Micah_74",
+      "chapter_number": 6,
+      "verse_number": 5,
+      "start_char": 5062,
+      "end_char": 5155,
+      "length": 94,
+      "text": "עמי זכר־נא מה־יעץ בלק מלך מואב ומה־ענה אתו בלעם בן־בעור מן־השטים עד־הגלגל למען דעת צדקות יהוה׃"
+    },
+    {
+      "uid": "Micah_75",
+      "chapter_number": 6,
+      "verse_number": 6,
+      "start_char": 5156,
+      "end_char": 5214,
+      "length": 59,
+      "text": "במה אקדם יהוה אכף לאלהי מרום האקדמנו בעולות בעגלים בני שנה׃"
+    },
+    {
+      "uid": "Micah_76",
+      "chapter_number": 6,
+      "verse_number": 7,
+      "start_char": 5215,
+      "end_char": 5288,
+      "length": 74,
+      "text": "הירצה יהוה באלפי אילים ברבבות נחלי־שמן האתן בכורי פשעי פרי בטני חטאת נפשי׃"
+    },
+    {
+      "uid": "Micah_77",
+      "chapter_number": 6,
+      "verse_number": 8,
+      "start_char": 5289,
+      "end_char": 5370,
+      "length": 82,
+      "text": "הגיד לך אדם מה־טוב ומה־יהוה דורש ממך כי אם־עשות משפט ואהבת חסד והצנע לכת עם־אלהיך׃"
+    },
+    {
+      "uid": "Micah_78",
+      "chapter_number": 6,
+      "verse_number": 9,
+      "start_char": 5371,
+      "end_char": 5423,
+      "length": 53,
+      "text": "קול יהוה לעיר יקרא ותושיה יראה שמך שמעו מטה ומי יעדה׃"
+    },
+    {
+      "uid": "Micah_79",
+      "chapter_number": 6,
+      "verse_number": 10,
+      "start_char": 5424,
+      "end_char": 5466,
+      "length": 43,
+      "text": "עוד האש בית רשע אצרות רשע ואיפת רזון זעומה׃"
+    },
+    {
+      "uid": "Micah_80",
+      "chapter_number": 6,
+      "verse_number": 11,
+      "start_char": 5467,
+      "end_char": 5499,
+      "length": 33,
+      "text": "האזכה במאזני רשע ובכיס אבני מרמה׃"
+    },
+    {
+      "uid": "Micah_81",
+      "chapter_number": 6,
+      "verse_number": 12,
+      "start_char": 5500,
+      "end_char": 5553,
+      "length": 54,
+      "text": "אשר עשיריה מלאו חמס וישביה דברו־שקר ולשונם רמיה בפיהם׃"
+    },
+    {
+      "uid": "Micah_82",
+      "chapter_number": 6,
+      "verse_number": 13,
+      "start_char": 5554,
+      "end_char": 5588,
+      "length": 35,
+      "text": "וגם־אני החליתי הכותך השמם על־חטאתך׃"
+    },
+    {
+      "uid": "Micah_83",
+      "chapter_number": 6,
+      "verse_number": 14,
+      "start_char": 5589,
+      "end_char": 5652,
+      "length": 64,
+      "text": "אתה תאכל ולא תשבע וישחך בקרבך ותסג ולא תפליט ואשר תפלט לחרב אתן׃"
+    },
+    {
+      "uid": "Micah_84",
+      "chapter_number": 6,
+      "verse_number": 15,
+      "start_char": 5653,
+      "end_char": 5717,
+      "length": 65,
+      "text": "אתה תזרע ולא תקצור אתה תדרך־זית ולא־תסוך שמן ותירוש ולא תשתה־יין׃"
+    },
+    {
+      "uid": "Micah_85",
+      "chapter_number": 6,
+      "verse_number": 16,
+      "start_char": 5718,
+      "end_char": 5812,
+      "length": 95,
+      "text": "וישתמר חקות עמרי וכל מעשה בית־אחאב ותלכו במעצותם למען תתי אתך לשמה וישביה לשרקה וחרפת עמי תשאו׃"
+    },
+    {
+      "uid": "Micah_86",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 5813,
+      "end_char": 5882,
+      "length": 70,
+      "text": "אללי לי כי הייתי כאספי־קיץ כעללת בציר אין־אשכול לאכול בכורה אותה נפשי׃"
+    },
+    {
+      "uid": "Micah_87",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 5883,
+      "end_char": 5952,
+      "length": 70,
+      "text": "אבד חסיד מן־הארץ וישר באדם אין כלם לדמים יארבו איש את־אחיהו יצודו חרם׃"
+    },
+    {
+      "uid": "Micah_88",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 5953,
+      "end_char": 6023,
+      "length": 71,
+      "text": "על־הרע כפים להיטיב השר שאל והשפט בשלום והגדול דבר הות נפשו הוא ויעבתוה׃"
+    },
+    {
+      "uid": "Micah_89",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 6024,
+      "end_char": 6080,
+      "length": 57,
+      "text": "טובם כחדק ישר ממסוכה יום מצפיך פקדתך באה עתה תהיה מבוכתם׃"
+    },
+    {
+      "uid": "Micah_90",
+      "chapter_number": 7,
+      "verse_number": 5,
+      "start_char": 6081,
+      "end_char": 6133,
+      "length": 53,
+      "text": "אל־תאמינו ברע אל־תבטחו באלוף משכבת חיקך שמר פתחי־פיך׃"
+    },
+    {
+      "uid": "Micah_91",
+      "chapter_number": 7,
+      "verse_number": 6,
+      "start_char": 6134,
+      "end_char": 6188,
+      "length": 55,
+      "text": "כי־בן מנבל אב בת קמה באמה כלה בחמתה איבי איש אנשי ביתו׃"
+    },
+    {
+      "uid": "Micah_92",
+      "chapter_number": 7,
+      "verse_number": 7,
+      "start_char": 6189,
+      "end_char": 6234,
+      "length": 46,
+      "text": "ואני ביהוה אצפה אוחילה לאלהי ישעי ישמעני אלהי׃"
+    },
+    {
+      "uid": "Micah_93",
+      "chapter_number": 7,
+      "verse_number": 8,
+      "start_char": 6235,
+      "end_char": 6290,
+      "length": 56,
+      "text": "אל־תשמחי איבתי לי כי נפלתי קמתי כי־אשב בחשך יהוה אור לי׃"
+    },
+    {
+      "uid": "Micah_94",
+      "chapter_number": 7,
+      "verse_number": 9,
+      "start_char": 6291,
+      "end_char": 6368,
+      "length": 78,
+      "text": "זעף יהוה אשא כי חטאתי לו עד אשר יריב ריבי ועשה משפטי יוציאני לאור אראה בצדקתו׃"
+    },
+    {
+      "uid": "Micah_95",
+      "chapter_number": 7,
+      "verse_number": 10,
+      "start_char": 6369,
+      "end_char": 6456,
+      "length": 88,
+      "text": "ותרא איבתי ותכסה בושה האמרה אלי איו יהוה אלהיך עיני תראינה בה עתה תהיה למרמס כטיט חוצות׃"
+    },
+    {
+      "uid": "Micah_96",
+      "chapter_number": 7,
+      "verse_number": 11,
+      "start_char": 6457,
+      "end_char": 6489,
+      "length": 33,
+      "text": "יום לבנות גדריך יום ההוא ירחק־חק׃"
+    },
+    {
+      "uid": "Micah_97",
+      "chapter_number": 7,
+      "verse_number": 12,
+      "start_char": 6490,
+      "end_char": 6563,
+      "length": 74,
+      "text": "יום הוא ועדיך יבוא למני אשור וערי מצור ולמני מצור ועד־נהר וים מים והר ההר׃"
+    },
+    {
+      "uid": "Micah_98",
+      "chapter_number": 7,
+      "verse_number": 13,
+      "start_char": 6564,
+      "end_char": 6602,
+      "length": 39,
+      "text": "והיתה הארץ לשממה על־ישביה מפרי מעלליהם׃"
+    },
+    {
+      "uid": "Micah_99",
+      "chapter_number": 7,
+      "verse_number": 14,
+      "start_char": 6603,
+      "end_char": 6675,
+      "length": 73,
+      "text": "רעה עמך בשבטך צאן נחלתך שכני לבדד יער בתוך כרמל ירעו בשן וגלעד כימי עולם׃"
+    },
+    {
+      "uid": "Micah_100",
+      "chapter_number": 7,
+      "verse_number": 15,
+      "start_char": 6676,
+      "end_char": 6709,
+      "length": 34,
+      "text": "כימי צאתך מארץ מצרים אראנו נפלאות׃"
+    },
+    {
+      "uid": "Micah_101",
+      "chapter_number": 7,
+      "verse_number": 16,
+      "start_char": 6710,
+      "end_char": 6765,
+      "length": 56,
+      "text": "יראו גוים ויבשו מכל גבורתם ישימו יד על־פה אזניהם תחרשנה׃"
+    },
+    {
+      "uid": "Micah_102",
+      "chapter_number": 7,
+      "verse_number": 17,
+      "start_char": 6766,
+      "end_char": 6837,
+      "length": 72,
+      "text": "ילחכו עפר כנחש כזחלי ארץ ירגזו ממסגרתיהם אל־יהוה אלהינו יפחדו ויראו ממך׃"
+    },
+    {
+      "uid": "Micah_103",
+      "chapter_number": 7,
+      "verse_number": 18,
+      "start_char": 6838,
+      "end_char": 6913,
+      "length": 76,
+      "text": "מי־אל כמוך נשא עון ועבר על־פשע לשארית נחלתו לא־החזיק לעד אפו כי־חפץ חסד הוא׃"
+    },
+    {
+      "uid": "Micah_104",
+      "chapter_number": 7,
+      "verse_number": 19,
+      "start_char": 6914,
+      "end_char": 6965,
+      "length": 52,
+      "text": "ישוב ירחמנו יכבש עונתינו ותשליך במצלות ים כל־חטאותם׃"
+    },
+    {
+      "uid": "Micah_105",
+      "chapter_number": 7,
+      "verse_number": 20,
+      "start_char": 6966,
+      "end_char": 7017,
+      "length": 52,
+      "text": "תתן אמת ליעקב חסד לאברהם אשר־נשבעת לאבתינו מימי קדם׃"
+    }
+  ]
+}

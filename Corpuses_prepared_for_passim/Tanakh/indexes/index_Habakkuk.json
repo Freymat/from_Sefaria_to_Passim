@@ -1,0 +1,517 @@
+{
+  "title": "Habakkuk",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Habakkuk_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 25,
+      "length": 25,
+      "text": "המשא אשר חזה חבקוק הנביא׃"
+    },
+    {
+      "uid": "Habakkuk_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 26,
+      "end_char": 76,
+      "length": 51,
+      "text": "עד־אנה יהוה שועתי ולא תשמע אזעק אליך חמס ולא תושיע׃"
+    },
+    {
+      "uid": "Habakkuk_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 77,
+      "end_char": 134,
+      "length": 58,
+      "text": "למה תראני און ועמל תביט ושד וחמס לנגדי ויהי ריב ומדון ישא׃"
+    },
+    {
+      "uid": "Habakkuk_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 135,
+      "end_char": 210,
+      "length": 76,
+      "text": "על־כן תפוג תורה ולא־יצא לנצח משפט כי רשע מכתיר את־הצדיק על־כן יצא משפט מעקל׃"
+    },
+    {
+      "uid": "Habakkuk_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 211,
+      "end_char": 275,
+      "length": 65,
+      "text": "ראו בגוים והביטו והתמהו תמהו כי־פעל פעל בימיכם לא תאמינו כי יספר׃"
+    },
+    {
+      "uid": "Habakkuk_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 276,
+      "end_char": 349,
+      "length": 74,
+      "text": "כי־הנני מקים את־הכשדים הגוי המר והנמהר ההולך למרחבי־ארץ לרשת משכנות לא־לו׃"
+    },
+    {
+      "uid": "Habakkuk_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 350,
+      "end_char": 384,
+      "length": 35,
+      "text": "אים ונורא הוא ממנו משפטו ושאתו יצא׃"
+    },
+    {
+      "uid": "Habakkuk_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 385,
+      "end_char": 465,
+      "length": 81,
+      "text": "וקלו מנמרים סוסיו וחדו מזאבי ערב ופשו פרשיו ופרשיו מרחוק יבאו יעפו כנשר חש לאכול׃"
+    },
+    {
+      "uid": "Habakkuk_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 466,
+      "end_char": 511,
+      "length": 46,
+      "text": "כלה לחמס יבוא מגמת פניהם קדימה ויאסף כחול שבי׃"
+    },
+    {
+      "uid": "Habakkuk_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 512,
+      "end_char": 579,
+      "length": 68,
+      "text": "והוא במלכים יתקלס ורזנים משחק לו הוא לכל־מבצר ישחק ויצבר עפר וילכדה׃"
+    },
+    {
+      "uid": "Habakkuk_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 580,
+      "end_char": 614,
+      "length": 35,
+      "text": "אז חלף רוח ויעבר ואשם זו כחו לאלהו׃"
+    },
+    {
+      "uid": "Habakkuk_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 615,
+      "end_char": 685,
+      "length": 71,
+      "text": "הלוא אתה מקדם יהוה אלהי קדשי לא נמות יהוה למשפט שמתו וצור להוכיח יסדתו׃"
+    },
+    {
+      "uid": "Habakkuk_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 686,
+      "end_char": 767,
+      "length": 82,
+      "text": "טהור עינים מראות רע והביט אל־עמל לא תוכל למה תביט בוגדים תחריש בבלע רשע צדיק ממנו׃"
+    },
+    {
+      "uid": "Habakkuk_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 768,
+      "end_char": 801,
+      "length": 34,
+      "text": "ותעשה אדם כדגי הים כרמש לא־משל בו׃"
+    },
+    {
+      "uid": "Habakkuk_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 802,
+      "end_char": 860,
+      "length": 59,
+      "text": "כלה בחכה העלה יגרהו בחרמו ויאספהו במכמרתו על־כן ישמח ויגיל׃"
+    },
+    {
+      "uid": "Habakkuk_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 861,
+      "end_char": 920,
+      "length": 60,
+      "text": "על־כן יזבח לחרמו ויקטר למכמרתו כי בהמה שמן חלקו ומאכלו בראה׃"
+    },
+    {
+      "uid": "Habakkuk_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 921,
+      "end_char": 962,
+      "length": 42,
+      "text": "העל כן יריק חרמו ותמיד להרג גוים לא יחמול׃"
+    },
+    {
+      "uid": "Habakkuk_18",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 963,
+      "end_char": 1036,
+      "length": 74,
+      "text": "על־משמרתי אעמדה ואתיצבה על־מצור ואצפה לראות מה־ידבר־בי ומה אשיב על־תוכחתי׃"
+    },
+    {
+      "uid": "Habakkuk_19",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1037,
+      "end_char": 1095,
+      "length": 59,
+      "text": "ויענני יהוה ויאמר כתב חזון ובאר על־הלחות למען ירוץ קורא בו׃"
+    },
+    {
+      "uid": "Habakkuk_20",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1096,
+      "end_char": 1166,
+      "length": 71,
+      "text": "כי עוד חזון למועד ויפח לקץ ולא יכזב אם־יתמהמה חכה־לו כי־בא יבא לא יאחר׃"
+    },
+    {
+      "uid": "Habakkuk_21",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 1167,
+      "end_char": 1210,
+      "length": 44,
+      "text": "הנה עפלה לא־ישרה נפשו בו וצדיק באמונתו יחיה׃"
+    },
+    {
+      "uid": "Habakkuk_22",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1211,
+      "end_char": 1324,
+      "length": 114,
+      "text": "ואף כי־היין בגד גבר יהיר ולא ינוה אשר הרחיב כשאול נפשו והוא כמות ולא ישבע ויאסף אליו כל־הגוים ויקבץ אליו כל־העמים׃"
+    },
+    {
+      "uid": "Habakkuk_23",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1325,
+      "end_char": 1414,
+      "length": 90,
+      "text": "הלוא־אלה כלם עליו משל ישאו ומליצה חידות לו ויאמר הוי המרבה לא־לו עד־מתי ומכביד עליו עבטיט׃"
+    },
+    {
+      "uid": "Habakkuk_24",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1415,
+      "end_char": 1466,
+      "length": 52,
+      "text": "הלוא פתע יקומו נשכיך ויקצו מזעזעיך והיית למשסות למו׃"
+    },
+    {
+      "uid": "Habakkuk_25",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1467,
+      "end_char": 1541,
+      "length": 75,
+      "text": "כי־אתה שלות גוים רבים ישלוך כל־יתר עמים מדמי אדם וחמס־ארץ קריה וכל־ישבי בה׃"
+    },
+    {
+      "uid": "Habakkuk_26",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1542,
+      "end_char": 1590,
+      "length": 49,
+      "text": "הוי בצע בצע רע לביתו לשום במרום קנו להנצל מכף־רע׃"
+    },
+    {
+      "uid": "Habakkuk_27",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 1591,
+      "end_char": 1631,
+      "length": 41,
+      "text": "יעצת בשת לביתך קצות־עמים רבים וחוטא נפשך׃"
+    },
+    {
+      "uid": "Habakkuk_28",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 1632,
+      "end_char": 1664,
+      "length": 33,
+      "text": "כי־אבן מקיר תזעק וכפיס מעץ יעננה׃"
+    },
+    {
+      "uid": "Habakkuk_29",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 1665,
+      "end_char": 1699,
+      "length": 35,
+      "text": "הוי בנה עיר בדמים וכונן קריה בעולה׃"
+    },
+    {
+      "uid": "Habakkuk_30",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 1700,
+      "end_char": 1762,
+      "length": 63,
+      "text": "הלוא הנה מאת יהוה צבאות וייגעו עמים בדי־אש ולאמים בדי־ריק יעפו׃"
+    },
+    {
+      "uid": "Habakkuk_31",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 1763,
+      "end_char": 1809,
+      "length": 47,
+      "text": "כי תמלא הארץ לדעת את־כבוד יהוה כמים יכסו על־ים׃"
+    },
+    {
+      "uid": "Habakkuk_32",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 1810,
+      "end_char": 1862,
+      "length": 53,
+      "text": "הוי משקה רעהו מספח חמתך ואף שכר למען הביט על־מעוריהם׃"
+    },
+    {
+      "uid": "Habakkuk_33",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 1863,
+      "end_char": 1936,
+      "length": 74,
+      "text": "שבעת קלון מכבוד שתה גם־אתה והערל תסוב עליך כוס ימין יהוה וקיקלון על־כבודך׃"
+    },
+    {
+      "uid": "Habakkuk_34",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 1937,
+      "end_char": 2005,
+      "length": 69,
+      "text": "כי חמס לבנון יכסך ושד בהמות יחיתן מדמי אדם וחמס־ארץ קריה וכל־ישבי בה׃"
+    },
+    {
+      "uid": "Habakkuk_35",
+      "chapter_number": 2,
+      "verse_number": 18,
+      "start_char": 2006,
+      "end_char": 2086,
+      "length": 81,
+      "text": "מה־הועיל פסל כי פסלו יצרו מסכה ומורה שקר כי בטח יצר יצרו עליו לעשות אלילים אלמים׃"
+    },
+    {
+      "uid": "Habakkuk_36",
+      "chapter_number": 2,
+      "verse_number": 19,
+      "start_char": 2087,
+      "end_char": 2168,
+      "length": 82,
+      "text": "הוי אמר לעץ הקיצה עורי לאבן דומם הוא יורה הנה־הוא תפוש זהב וכסף וכל־רוח אין בקרבו׃"
+    },
+    {
+      "uid": "Habakkuk_37",
+      "chapter_number": 2,
+      "verse_number": 20,
+      "start_char": 2169,
+      "end_char": 2202,
+      "length": 34,
+      "text": "ויהוה בהיכל קדשו הס מפניו כל־הארץ׃"
+    },
+    {
+      "uid": "Habakkuk_38",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 2203,
+      "end_char": 2230,
+      "length": 28,
+      "text": "תפלה לחבקוק הנביא על שגינות׃"
+    },
+    {
+      "uid": "Habakkuk_39",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 2231,
+      "end_char": 2309,
+      "length": 79,
+      "text": "יהוה שמעתי שמעך יראתי יהוה פעלך בקרב שנים חייהו בקרב שנים תודיע ברגז רחם תזכור׃"
+    },
+    {
+      "uid": "Habakkuk_40",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 2310,
+      "end_char": 2375,
+      "length": 66,
+      "text": "אלוה מתימן יבוא וקדוש מהר־פארן סלה כסה שמים הודו ותהלתו מלאה הארץ׃"
+    },
+    {
+      "uid": "Habakkuk_41",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 2376,
+      "end_char": 2418,
+      "length": 43,
+      "text": "ונגה כאור תהיה קרנים מידו לו ושם חביון עזה׃"
+    },
+    {
+      "uid": "Habakkuk_42",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 2419,
+      "end_char": 2448,
+      "length": 30,
+      "text": "לפניו ילך דבר ויצא רשף לרגליו׃"
+    },
+    {
+      "uid": "Habakkuk_43",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 2449,
+      "end_char": 2523,
+      "length": 75,
+      "text": "עמד׀ וימדד ארץ ראה ויתר גוים ויתפצצו הררי־עד שחו גבעות עולם הליכות עולם לו׃"
+    },
+    {
+      "uid": "Habakkuk_44",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 2524,
+      "end_char": 2570,
+      "length": 47,
+      "text": "תחת און ראיתי אהלי כושן ירגזון יריעות ארץ מדין׃"
+    },
+    {
+      "uid": "Habakkuk_45",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 2571,
+      "end_char": 2645,
+      "length": 75,
+      "text": "הבנהרים חרה יהוה אם בנהרים אפך אם־בים עברתך כי תרכב על־סוסיך מרכבתיך ישועה׃"
+    },
+    {
+      "uid": "Habakkuk_46",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 2646,
+      "end_char": 2694,
+      "length": 49,
+      "text": "עריה תעור קשתך שבעות מטות אמר סלה נהרות תבקע־ארץ׃"
+    },
+    {
+      "uid": "Habakkuk_47",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 2695,
+      "end_char": 2750,
+      "length": 56,
+      "text": "ראוך יחילו הרים זרם מים עבר נתן תהום קולו רום ידיהו נשא׃"
+    },
+    {
+      "uid": "Habakkuk_48",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 2751,
+      "end_char": 2798,
+      "length": 48,
+      "text": "שמש ירח עמד זבלה לאור חציך יהלכו לנגה ברק חניתך׃"
+    },
+    {
+      "uid": "Habakkuk_49",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 2799,
+      "end_char": 2826,
+      "length": 28,
+      "text": "בזעם תצעד־ארץ באף תדוש גוים׃"
+    },
+    {
+      "uid": "Habakkuk_50",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 2827,
+      "end_char": 2894,
+      "length": 68,
+      "text": "יצאת לישע עמך לישע את־משיחך מחצת ראש מבית רשע ערות יסוד עד־צואר סלה׃"
+    },
+    {
+      "uid": "Habakkuk_51",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 2895,
+      "end_char": 2954,
+      "length": 60,
+      "text": "נקבת במטיו ראש פרזו יסערו להפיצני עליצתם כמו־לאכל עני במסתר׃"
+    },
+    {
+      "uid": "Habakkuk_52",
+      "chapter_number": 3,
+      "verse_number": 15,
+      "start_char": 2955,
+      "end_char": 2982,
+      "length": 28,
+      "text": "דרכת בים סוסיך חמר מים רבים׃"
+    },
+    {
+      "uid": "Habakkuk_53",
+      "chapter_number": 3,
+      "verse_number": 16,
+      "start_char": 2983,
+      "end_char": 3076,
+      "length": 94,
+      "text": "שמעתי׀ ותרגז בטני לקול צללו שפתי יבוא רקב בעצמי ותחתי ארגז אשר אנוח ליום צרה לעלות לעם יגודנו׃"
+    },
+    {
+      "uid": "Habakkuk_54",
+      "chapter_number": 3,
+      "verse_number": 17,
+      "start_char": 3077,
+      "end_char": 3170,
+      "length": 94,
+      "text": "כי־תאנה לא־תפרח ואין יבול בגפנים כחש מעשה־זית ושדמות לא־עשה אכל גזר ממכלה צאן ואין בקר ברפתים׃"
+    },
+    {
+      "uid": "Habakkuk_55",
+      "chapter_number": 3,
+      "verse_number": 18,
+      "start_char": 3171,
+      "end_char": 3205,
+      "length": 35,
+      "text": "ואני ביהוה אעלוזה אגילה באלהי ישעי׃"
+    },
+    {
+      "uid": "Habakkuk_56",
+      "chapter_number": 3,
+      "verse_number": 19,
+      "start_char": 3206,
+      "end_char": 3269,
+      "length": 64,
+      "text": "יהוה אדני חילי וישם רגלי כאילות ועל במותי ידרכני למנצח בנגינותי׃"
+    }
+  ]
+}

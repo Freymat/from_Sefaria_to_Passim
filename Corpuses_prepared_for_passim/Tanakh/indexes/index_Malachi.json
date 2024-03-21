@@ -1,0 +1,508 @@
+{
+  "title": "Malachi",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Malachi_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 32,
+      "length": 32,
+      "text": "משא דבר־יהוה אל־ישראל ביד מלאכי׃"
+    },
+    {
+      "uid": "Malachi_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 33,
+      "end_char": 110,
+      "length": 78,
+      "text": "אהבתי אתכם אמר יהוה ואמרתם במה אהבתנו הלוא־אח עשו ליעקב נאם־יהוה ואהב את־יעקב׃"
+    },
+    {
+      "uid": "Malachi_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 111,
+      "end_char": 164,
+      "length": 54,
+      "text": "ואת־עשו שנאתי ואשים את־הריו שממה ואת־נחלתו לתנות מדבר׃"
+    },
+    {
+      "uid": "Malachi_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 165,
+      "end_char": 285,
+      "length": 121,
+      "text": "כי־תאמר אדום רששנו ונשוב ונבנה חרבות כה אמר יהוה צבאות המה יבנו ואני אהרוס וקראו להם גבול רשעה והעם אשר־זעם יהוה עד־עולם׃"
+    },
+    {
+      "uid": "Malachi_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 286,
+      "end_char": 337,
+      "length": 52,
+      "text": "ועיניכם תראינה ואתם תאמרו יגדל יהוה מעל לגבול ישראל׃"
+    },
+    {
+      "uid": "Malachi_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 338,
+      "end_char": 465,
+      "length": 128,
+      "text": "בן יכבד אב ועבד אדניו ואם־אב אני איה כבודי ואם־אדונים אני איה מוראי אמר׀ יהוה צבאות לכם הכהנים בוזי שמי ואמרתם במה בזינו את־שמך׃"
+    },
+    {
+      "uid": "Malachi_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 466,
+      "end_char": 534,
+      "length": 69,
+      "text": "מגישים על־מזבחי לחם מגאל ואמרתם במה גאלנוך באמרכם שלחן יהוה נבזה הוא׃"
+    },
+    {
+      "uid": "Malachi_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 535,
+      "end_char": 638,
+      "length": 104,
+      "text": "וכי־תגישון עור לזבח אין רע וכי תגישו פסח וחלה אין רע הקריבהו נא לפחתך הירצך או הישא פניך אמר יהוה צבאות׃"
+    },
+    {
+      "uid": "Malachi_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 639,
+      "end_char": 708,
+      "length": 70,
+      "text": "ועתה חלו־נא פני־אל ויחננו מידכם היתה זאת הישא מכם פנים אמר יהוה צבאות׃"
+    },
+    {
+      "uid": "Malachi_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 709,
+      "end_char": 800,
+      "length": 92,
+      "text": "מי גם־בכם ויסגר דלתים ולא־תאירו מזבחי חנם אין־לי חפץ בכם אמר יהוה צבאות ומנחה לא־ארצה מידכם׃"
+    },
+    {
+      "uid": "Malachi_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 801,
+      "end_char": 907,
+      "length": 107,
+      "text": "כי ממזרח־שמש ועד־מבואו גדול שמי בגוים ובכל־מקום מקטר מגש לשמי ומנחה טהורה כי־גדול שמי בגוים אמר יהוה צבאות׃"
+    },
+    {
+      "uid": "Malachi_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 908,
+      "end_char": 966,
+      "length": 59,
+      "text": "ואתם מחללים אותו באמרכם שלחן אדני מגאל הוא וניבו נבזה אכלו׃"
+    },
+    {
+      "uid": "Malachi_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 967,
+      "end_char": 1083,
+      "length": 117,
+      "text": "ואמרתם הנה מתלאה והפחתם אותו אמר יהוה צבאות והבאתם גזול ואת־הפסח ואת־החולה והבאתם את־המנחה הארצה אותה מידכם אמר יהוה׃"
+    },
+    {
+      "uid": "Malachi_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 1084,
+      "end_char": 1176,
+      "length": 93,
+      "text": "וארור נוכל ויש בעדרו זכר ונדר וזבח משחת לאדני כי מלך גדול אני אמר יהוה צבאות ושמי נורא בגוים׃"
+    },
+    {
+      "uid": "Malachi_15",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 1177,
+      "end_char": 1205,
+      "length": 29,
+      "text": "ועתה אליכם המצוה הזאת הכהנים׃"
+    },
+    {
+      "uid": "Malachi_16",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1206,
+      "end_char": 1335,
+      "length": 130,
+      "text": "אם־לא תשמעו ואם־לא תשימו על־לב לתת כבוד לשמי אמר יהוה צבאות ושלחתי בכם את־המארה וארותי את־ברכותיכם וגם ארותיה כי אינכם שמים על־לב׃"
+    },
+    {
+      "uid": "Malachi_17",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1336,
+      "end_char": 1401,
+      "length": 66,
+      "text": "הנני גער לכם את־הזרע וזריתי פרש על־פניכם פרש חגיכם ונשא אתכם אליו׃"
+    },
+    {
+      "uid": "Malachi_18",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 1402,
+      "end_char": 1471,
+      "length": 70,
+      "text": "וידעתם כי שלחתי אליכם את המצוה הזאת להיות בריתי את־לוי אמר יהוה צבאות׃"
+    },
+    {
+      "uid": "Malachi_19",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1472,
+      "end_char": 1540,
+      "length": 69,
+      "text": "בריתי׀ היתה אתו החיים והשלום ואתנם־לו מורא וייראני ומפני שמי נחת הוא׃"
+    },
+    {
+      "uid": "Malachi_20",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1541,
+      "end_char": 1619,
+      "length": 79,
+      "text": "תורת אמת היתה בפיהו ועולה לא־נמצא בשפתיו בשלום ובמישור הלך אתי ורבים השיב מעון׃"
+    },
+    {
+      "uid": "Malachi_21",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1620,
+      "end_char": 1682,
+      "length": 63,
+      "text": "כי־שפתי כהן ישמרו־דעת ותורה יבקשו מפיהו כי מלאך יהוה־צבאות הוא׃"
+    },
+    {
+      "uid": "Malachi_22",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1683,
+      "end_char": 1748,
+      "length": 66,
+      "text": "ואתם סרתם מן־הדרך הכשלתם רבים בתורה שחתם ברית הלוי אמר יהוה צבאות׃"
+    },
+    {
+      "uid": "Malachi_23",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1749,
+      "end_char": 1833,
+      "length": 85,
+      "text": "וגם־אני נתתי אתכם נבזים ושפלים לכל־העם כפי אשר אינכם שמרים את־דרכי ונשאים פנים בתורה׃"
+    },
+    {
+      "uid": "Malachi_24",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 1834,
+      "end_char": 1906,
+      "length": 73,
+      "text": "הלוא אב אחד לכלנו הלוא אל אחד בראנו מדוע נבגד איש באחיו לחלל ברית אבתינו׃"
+    },
+    {
+      "uid": "Malachi_25",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 1907,
+      "end_char": 1993,
+      "length": 87,
+      "text": "בגדה יהודה ותועבה נעשתה בישראל ובירושל͏ם כי׀ חלל יהודה קדש יהוה אשר אהב ובעל בת־אל נכר׃"
+    },
+    {
+      "uid": "Malachi_26",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 1994,
+      "end_char": 2060,
+      "length": 67,
+      "text": "יכרת יהוה לאיש אשר יעשנה ער וענה מאהלי יעקב ומגיש מנחה ליהוה צבאות׃"
+    },
+    {
+      "uid": "Malachi_27",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 2061,
+      "end_char": 2148,
+      "length": 88,
+      "text": "וזאת שנית תעשו כסות דמעה את־מזבח יהוה בכי ואנקה מאין עוד פנות אל־המנחה ולקחת רצון מידכם׃"
+    },
+    {
+      "uid": "Malachi_28",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 2149,
+      "end_char": 2238,
+      "length": 90,
+      "text": "ואמרתם על־מה על כי־יהוה העיד בינך ובין׀ אשת נעוריך אשר אתה בגדתה בה והיא חברתך ואשת בריתך׃"
+    },
+    {
+      "uid": "Malachi_29",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 2239,
+      "end_char": 2322,
+      "length": 84,
+      "text": "ולא־אחד עשה ושאר רוח לו ומה האחד מבקש זרע אלהים ונשמרתם ברוחכם ובאשת נעוריך אל־יבגד׃"
+    },
+    {
+      "uid": "Malachi_30",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 2323,
+      "end_char": 2411,
+      "length": 89,
+      "text": "כי־שנא שלח אמר יהוה אלהי ישראל וכסה חמס על־לבושו אמר יהוה צבאות ונשמרתם ברוחכם ולא תבגדו׃"
+    },
+    {
+      "uid": "Malachi_31",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 2412,
+      "end_char": 2513,
+      "length": 102,
+      "text": "הוגעתם יהוה בדבריכם ואמרתם במה הוגענו באמרכם כל־עשה רע טוב׀ בעיני יהוה ובהם הוא חפץ או איה אלהי המשפט׃"
+    },
+    {
+      "uid": "Malachi_32",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 2514,
+      "end_char": 2632,
+      "length": 119,
+      "text": "הנני שלח מלאכי ופנה־דרך לפני ופתאם יבוא אל־היכלו האדון׀ אשר־אתם מבקשים ומלאך הברית אשר־אתם חפצים הנה־בא אמר יהוה צבאות׃"
+    },
+    {
+      "uid": "Malachi_33",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 2633,
+      "end_char": 2701,
+      "length": 69,
+      "text": "ומי מכלכל את־יום בואו ומי העמד בהראותו כי־הוא כאש מצרף וכברית מכבסים׃"
+    },
+    {
+      "uid": "Malachi_34",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 2702,
+      "end_char": 2785,
+      "length": 84,
+      "text": "וישב מצרף ומטהר כסף וטהר את־בני־לוי וזקק אתם כזהב וככסף והיו ליהוה מגישי מנחה בצדקה׃"
+    },
+    {
+      "uid": "Malachi_35",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 2786,
+      "end_char": 2841,
+      "length": 56,
+      "text": "וערבה ליהוה מנחת יהודה וירושל͏ם כימי עולם וכשנים קדמנית׃"
+    },
+    {
+      "uid": "Malachi_36",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 2842,
+      "end_char": 2969,
+      "length": 128,
+      "text": "וקרבתי אליכם למשפט והייתי׀ עד ממהר במכשפים ובמנאפים ובנשבעים לשקר ובעשקי שכר־שכיר אלמנה ויתום ומטי־גר ולא יראוני אמר יהוה צבאות׃"
+    },
+    {
+      "uid": "Malachi_37",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 2970,
+      "end_char": 3013,
+      "length": 44,
+      "text": "כי אני יהוה לא שניתי ואתם בני־יעקב לא כליתם׃"
+    },
+    {
+      "uid": "Malachi_38",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 3014,
+      "end_char": 3099,
+      "length": 86,
+      "text": "למימי אבתיכם סרתם מחקי ולא שמרתם שובו אלי ואשובה אליכם אמר יהוה צבאות ואמרתם במה נשוב׃"
+    },
+    {
+      "uid": "Malachi_39",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 3100,
+      "end_char": 3164,
+      "length": 65,
+      "text": "היקבע אדם אלהים כי אתם קבעים אתי ואמרתם במה קבענוך המעשר והתרומה׃"
+    },
+    {
+      "uid": "Malachi_40",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 3165,
+      "end_char": 3204,
+      "length": 40,
+      "text": "במארה אתם נארים ואתי אתם קבעים הגוי כלו׃"
+    },
+    {
+      "uid": "Malachi_41",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 3205,
+      "end_char": 3338,
+      "length": 134,
+      "text": "הביאו את־כל־המעשר אל־בית האוצר ויהי טרף בביתי ובחנוני נא בזאת אמר יהוה צבאות אם־לא אפתח לכם את ארבות השמים והריקתי לכם ברכה עד־בלי־די׃"
+    },
+    {
+      "uid": "Malachi_42",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 3339,
+      "end_char": 3418,
+      "length": 80,
+      "text": "וגערתי לכם באכל ולא־ישחת לכם את־פרי האדמה ולא־תשכל לכם הגפן בשדה אמר יהוה צבאות׃"
+    },
+    {
+      "uid": "Malachi_43",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 3419,
+      "end_char": 3473,
+      "length": 55,
+      "text": "ואשרו אתכם כל־הגוים כי־תהיו אתם ארץ חפץ אמר יהוה צבאות׃"
+    },
+    {
+      "uid": "Malachi_44",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 3474,
+      "end_char": 3520,
+      "length": 47,
+      "text": "חזקו עלי דבריכם אמר יהוה ואמרתם מה־נדברנו עליך׃"
+    },
+    {
+      "uid": "Malachi_45",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 3521,
+      "end_char": 3597,
+      "length": 77,
+      "text": "אמרתם שוא עבד אלהים ומה־בצע כי שמרנו משמרתו וכי הלכנו קדרנית מפני יהוה צבאות׃"
+    },
+    {
+      "uid": "Malachi_46",
+      "chapter_number": 3,
+      "verse_number": 15,
+      "start_char": 3598,
+      "end_char": 3658,
+      "length": 61,
+      "text": "ועתה אנחנו מאשרים זדים גם־נבנו עשי רשעה גם בחנו אלהים וימלטו׃"
+    },
+    {
+      "uid": "Malachi_47",
+      "chapter_number": 3,
+      "verse_number": 16,
+      "start_char": 3659,
+      "end_char": 3750,
+      "length": 92,
+      "text": "אז נדברו יראי יהוה איש אל־רעהו ויקשב יהוה וישמע ויכתב ספר זכרון לפניו ליראי יהוה ולחשבי שמו׃"
+    },
+    {
+      "uid": "Malachi_48",
+      "chapter_number": 3,
+      "verse_number": 17,
+      "start_char": 3751,
+      "end_char": 3838,
+      "length": 88,
+      "text": "והיו לי אמר יהוה צבאות ליום אשר אני עשה סגלה וחמלתי עליהם כאשר יחמל איש על־בנו העבד אתו׃"
+    },
+    {
+      "uid": "Malachi_49",
+      "chapter_number": 3,
+      "verse_number": 18,
+      "start_char": 3839,
+      "end_char": 3892,
+      "length": 54,
+      "text": "ושבתם וראיתם בין צדיק לרשע בין עבד אלהים לאשר לא עבדו׃"
+    },
+    {
+      "uid": "Malachi_50",
+      "chapter_number": 3,
+      "verse_number": 19,
+      "start_char": 3893,
+      "end_char": 4004,
+      "length": 112,
+      "text": "כי־הנה היום בא בער כתנור והיו כל־זדים וכל־עשה רשעה קש ולהט אתם היום הבא אמר יהוה צבאות אשר לא־יעזב להם שרש וענף׃"
+    },
+    {
+      "uid": "Malachi_51",
+      "chapter_number": 3,
+      "verse_number": 20,
+      "start_char": 4005,
+      "end_char": 4069,
+      "length": 65,
+      "text": "וזרחה לכם יראי שמי שמש צדקה ומרפא בכנפיה ויצאתם ופשתם כעגלי מרבק׃"
+    },
+    {
+      "uid": "Malachi_52",
+      "chapter_number": 3,
+      "verse_number": 21,
+      "start_char": 4070,
+      "end_char": 4142,
+      "length": 73,
+      "text": "ועסותם רשעים כי־יהיו אפר תחת כפות רגליכם ביום אשר אני עשה אמר יהוה צבאות׃"
+    },
+    {
+      "uid": "Malachi_53",
+      "chapter_number": 3,
+      "verse_number": 22,
+      "start_char": 4143,
+      "end_char": 4206,
+      "length": 64,
+      "text": "זכרו תורת משה עבדי אשר צויתי אותו בחרב על־כל־ישראל חקים ומשפטים׃"
+    },
+    {
+      "uid": "Malachi_54",
+      "chapter_number": 3,
+      "verse_number": 23,
+      "start_char": 4207,
+      "end_char": 4268,
+      "length": 62,
+      "text": "הנה אנכי שלח לכם את אליה הנביא לפני בוא יום יהוה הגדול והנורא׃"
+    },
+    {
+      "uid": "Malachi_55",
+      "chapter_number": 3,
+      "verse_number": 24,
+      "start_char": 4269,
+      "end_char": 4335,
+      "length": 67,
+      "text": "והשיב לב־אבות על־בנים ולב בנים על־אבותם פן־אבוא והכיתי את־הארץ חרם׃"
+    }
+  ]
+}

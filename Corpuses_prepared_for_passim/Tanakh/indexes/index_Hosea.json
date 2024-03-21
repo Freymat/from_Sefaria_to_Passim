@@ -1,0 +1,1786 @@
+{
+  "title": "Hosea",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Hosea_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 101,
+      "length": 101,
+      "text": "דבר־יהוה׀ אשר היה אל־הושע בן־בארי בימי עזיה יותם אחז יחזקיה מלכי יהודה ובימי ירבעם בן־יואש מלך ישראל׃"
+    },
+    {
+      "uid": "Hosea_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 102,
+      "end_char": 200,
+      "length": 99,
+      "text": "תחלת דבר־יהוה בהושעויאמר יהוה אל־הושע לך קח־לך אשת זנונים וילדי זנונים כי־זנה תזנה הארץ מאחרי יהוה׃"
+    },
+    {
+      "uid": "Hosea_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 201,
+      "end_char": 242,
+      "length": 42,
+      "text": "וילך ויקח את־גמר בת־דבלים ותהר ותלד־לו בן׃"
+    },
+    {
+      "uid": "Hosea_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 243,
+      "end_char": 341,
+      "length": 99,
+      "text": "ויאמר יהוה אליו קרא שמו יזרעאל כי־עוד מעט ופקדתי את־דמי יזרעאל על־בית יהוא והשבתי ממלכות בית ישראל׃"
+    },
+    {
+      "uid": "Hosea_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 342,
+      "end_char": 388,
+      "length": 47,
+      "text": "והיה ביום ההוא ושברתי את־קשת ישראל בעמק יזרעאל׃"
+    },
+    {
+      "uid": "Hosea_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 389,
+      "end_char": 479,
+      "length": 91,
+      "text": "ותהר עוד ותלד בת ויאמר לו קרא שמה לא רחמה כי לא אוסיף עוד ארחם את־בית ישראל כי־נשא אשא להם׃"
+    },
+    {
+      "uid": "Hosea_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 480,
+      "end_char": 565,
+      "length": 86,
+      "text": "ואת־בית יהודה ארחם והושעתים ביהוה אלהיהם ולא אושיעם בקשת ובחרב ובמלחמה בסוסים ובפרשים׃"
+    },
+    {
+      "uid": "Hosea_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 566,
+      "end_char": 595,
+      "length": 30,
+      "text": "ותגמל את־לא רחמה ותהר ותלד בן׃"
+    },
+    {
+      "uid": "Hosea_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 596,
+      "end_char": 648,
+      "length": 53,
+      "text": "ויאמר קרא שמו לא עמי כי אתם לא עמי ואנכי לא־אהיה לכם׃"
+    },
+    {
+      "uid": "Hosea_10",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 649,
+      "end_char": 751,
+      "length": 103,
+      "text": "והיה מספר בני־ישראל כחול הים אשר לא־ימד ולא יספר והיה במקום אשר־יאמר להם לא־עמי אתם יאמר להם בני אל־חי׃"
+    },
+    {
+      "uid": "Hosea_11",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 752,
+      "end_char": 833,
+      "length": 82,
+      "text": "ונקבצו בני־יהודה ובני־ישראל יחדו ושמו להם ראש אחד ועלו מן־הארץ כי גדול יום יזרעאל׃"
+    },
+    {
+      "uid": "Hosea_12",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 834,
+      "end_char": 864,
+      "length": 31,
+      "text": "אמרו לאחיכם עמי ולאחותיכם רחמה׃"
+    },
+    {
+      "uid": "Hosea_13",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 865,
+      "end_char": 946,
+      "length": 82,
+      "text": "ריבו באמכם ריבו כי־היא לא אשתי ואנכי לא אישה ותסר זנוניה מפניה ונאפופיה מבין שדיה׃"
+    },
+    {
+      "uid": "Hosea_14",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 947,
+      "end_char": 1020,
+      "length": 74,
+      "text": "פן־אפשיטנה ערמה והצגתיה כיום הולדה ושמתיה כמדבר ושתה כארץ ציה והמתיה בצמא׃"
+    },
+    {
+      "uid": "Hosea_15",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1021,
+      "end_char": 1055,
+      "length": 35,
+      "text": "ואת־בניה לא ארחם כי־בני זנונים המה׃"
+    },
+    {
+      "uid": "Hosea_16",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1056,
+      "end_char": 1142,
+      "length": 87,
+      "text": "כי זנתה אמם הבישה הורתם כי אמרה אלכה אחרי מאהבי נתני לחמי ומימי צמרי ופשתי שמני ושקויי׃"
+    },
+    {
+      "uid": "Hosea_17",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1143,
+      "end_char": 1202,
+      "length": 60,
+      "text": "לכן הנני־שך את־דרכך בסירים וגדרתי את־גדרה ונתיבותיה לא תמצא׃"
+    },
+    {
+      "uid": "Hosea_18",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1203,
+      "end_char": 1298,
+      "length": 96,
+      "text": "ורדפה את־מאהביה ולא־תשיג אתם ובקשתם ולא תמצא ואמרה אלכה ואשובה אל־אישי הראשון כי טוב לי אז מעתה׃"
+    },
+    {
+      "uid": "Hosea_19",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 1299,
+      "end_char": 1376,
+      "length": 78,
+      "text": "והיא לא ידעה כי אנכי נתתי לה הדגן והתירוש והיצהר וכסף הרביתי לה וזהב עשו לבעל׃"
+    },
+    {
+      "uid": "Hosea_20",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 1377,
+      "end_char": 1450,
+      "length": 74,
+      "text": "לכן אשוב ולקחתי דגני בעתו ותירושי במועדו והצלתי צמרי ופשתי לכסות את־ערותה׃"
+    },
+    {
+      "uid": "Hosea_21",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 1451,
+      "end_char": 1502,
+      "length": 52,
+      "text": "ועתה אגלה את־נבלתה לעיני מאהביה ואיש לא־יצילנה מידי׃"
+    },
+    {
+      "uid": "Hosea_22",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 1503,
+      "end_char": 1543,
+      "length": 41,
+      "text": "והשבתי כל־משושה חגה חדשה ושבתה וכל מועדה׃"
+    },
+    {
+      "uid": "Hosea_23",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 1544,
+      "end_char": 1629,
+      "length": 86,
+      "text": "והשמתי גפנה ותאנתה אשר אמרה אתנה המה לי אשר נתנו־לי מאהבי ושמתים ליער ואכלתם חית השדה׃"
+    },
+    {
+      "uid": "Hosea_24",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 1630,
+      "end_char": 1722,
+      "length": 93,
+      "text": "ופקדתי עליה את־ימי הבעלים אשר תקטיר להם ותעד נזמה וחליתה ותלך אחרי מאהביה ואתי שכחה נאם־יהוה׃"
+    },
+    {
+      "uid": "Hosea_25",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 1723,
+      "end_char": 1769,
+      "length": 47,
+      "text": "לכן הנה אנכי מפתיה והלכתיה המדבר ודברתי על־לבה׃"
+    },
+    {
+      "uid": "Hosea_26",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 1770,
+      "end_char": 1859,
+      "length": 90,
+      "text": "ונתתי לה את־כרמיה משם ואת־עמק עכור לפתח תקוה וענתה שמה כימי נעוריה וכיום עלותה מארץ־מצרים׃"
+    },
+    {
+      "uid": "Hosea_27",
+      "chapter_number": 2,
+      "verse_number": 18,
+      "start_char": 1860,
+      "end_char": 1916,
+      "length": 57,
+      "text": "והיה ביום־ההוא נאם־יהוה תקראי אישי ולא־תקראי־לי עוד בעלי׃"
+    },
+    {
+      "uid": "Hosea_28",
+      "chapter_number": 2,
+      "verse_number": 19,
+      "start_char": 1917,
+      "end_char": 1962,
+      "length": 46,
+      "text": "והסרתי את־שמות הבעלים מפיה ולא־יזכרו עוד בשמם׃"
+    },
+    {
+      "uid": "Hosea_29",
+      "chapter_number": 2,
+      "verse_number": 20,
+      "start_char": 1963,
+      "end_char": 2069,
+      "length": 107,
+      "text": "וכרתי להם ברית ביום ההוא עם־חית השדה ועם־עוף השמים ורמש האדמה וקשת וחרב ומלחמה אשבור מן־הארץ והשכבתים לבטח׃"
+    },
+    {
+      "uid": "Hosea_30",
+      "chapter_number": 2,
+      "verse_number": 21,
+      "start_char": 2070,
+      "end_char": 2123,
+      "length": 54,
+      "text": "וארשתיך לי לעולם וארשתיך לי בצדק ובמשפט ובחסד וברחמים׃"
+    },
+    {
+      "uid": "Hosea_31",
+      "chapter_number": 2,
+      "verse_number": 22,
+      "start_char": 2124,
+      "end_char": 2155,
+      "length": 32,
+      "text": "וארשתיך לי באמונה וידעת את־יהוה׃"
+    },
+    {
+      "uid": "Hosea_32",
+      "chapter_number": 2,
+      "verse_number": 23,
+      "start_char": 2156,
+      "end_char": 2216,
+      "length": 61,
+      "text": "והיה׀ ביום ההוא אענה נאם־יהוה אענה את־השמים והם יענו את־הארץ׃"
+    },
+    {
+      "uid": "Hosea_33",
+      "chapter_number": 2,
+      "verse_number": 24,
+      "start_char": 2217,
+      "end_char": 2275,
+      "length": 59,
+      "text": "והארץ תענה את־הדגן ואת־התירוש ואת־היצהר והם יענו את־יזרעאל׃"
+    },
+    {
+      "uid": "Hosea_34",
+      "chapter_number": 2,
+      "verse_number": 25,
+      "start_char": 2276,
+      "end_char": 2347,
+      "length": 72,
+      "text": "וזרעתיה לי בארץ ורחמתי את־לא רחמה ואמרתי ללא־עמי עמי־אתה והוא יאמר אלהי׃"
+    },
+    {
+      "uid": "Hosea_35",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 2348,
+      "end_char": 2458,
+      "length": 111,
+      "text": "ויאמר יהוה אלי עוד לך אהב־אשה אהבת רע ומנאפת כאהבת יהוה את־בני ישראל והם פנים אל־אלהים אחרים ואהבי אשישי ענבים׃"
+    },
+    {
+      "uid": "Hosea_36",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 2459,
+      "end_char": 2503,
+      "length": 45,
+      "text": "ואכרה לי בחמשה עשר כסף וחמר שערים ולתך שערים׃"
+    },
+    {
+      "uid": "Hosea_37",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 2504,
+      "end_char": 2566,
+      "length": 63,
+      "text": "ואמר אליה ימים רבים תשבי לי לא תזני ולא תהיי לאיש וגם־אני אליך׃"
+    },
+    {
+      "uid": "Hosea_38",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 2567,
+      "end_char": 2647,
+      "length": 81,
+      "text": "כי׀ ימים רבים ישבו בני ישראל אין מלך ואין שר ואין זבח ואין מצבה ואין אפוד ותרפים׃"
+    },
+    {
+      "uid": "Hosea_39",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 2648,
+      "end_char": 2737,
+      "length": 90,
+      "text": "אחר ישבו בני ישראל ובקשו את־יהוה אלהיהם ואת דויד מלכם ופחדו אל־יהוה ואל־טובו באחרית הימים׃"
+    },
+    {
+      "uid": "Hosea_40",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 2738,
+      "end_char": 2828,
+      "length": 91,
+      "text": "שמעו דבר־יהוה בני ישראל כי ריב ליהוה עם־יושבי הארץ כי אין־אמת ואין־חסד ואין־דעת אלהים בארץ׃"
+    },
+    {
+      "uid": "Hosea_41",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 2829,
+      "end_char": 2874,
+      "length": 46,
+      "text": "אלה וכחש ורצח וגנב ונאף פרצו ודמים בדמים נגעו׃"
+    },
+    {
+      "uid": "Hosea_42",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 2875,
+      "end_char": 2948,
+      "length": 74,
+      "text": "על־כן׀ תאבל הארץ ואמלל כל־יושב בה בחית השדה ובעוף השמים וגם־דגי הים יאספו׃"
+    },
+    {
+      "uid": "Hosea_43",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 2949,
+      "end_char": 2991,
+      "length": 43,
+      "text": "אך איש אל־ירב ואל־יוכח איש ועמך כמריבי כהן׃"
+    },
+    {
+      "uid": "Hosea_44",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 2992,
+      "end_char": 3035,
+      "length": 44,
+      "text": "וכשלת היום וכשל גם־נביא עמך לילה ודמיתי אמך׃"
+    },
+    {
+      "uid": "Hosea_45",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 3036,
+      "end_char": 3132,
+      "length": 97,
+      "text": "נדמו עמי מבלי הדעת כי־אתה הדעת מאסת (ואמאסאך) [ואמאסך] מכהן לי ותשכח תורת אלהיך אשכח בניך גם־אני׃"
+    },
+    {
+      "uid": "Hosea_46",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 3133,
+      "end_char": 3165,
+      "length": 33,
+      "text": "כרבם כן חטאו־לי כבודם בקלון אמיר׃"
+    },
+    {
+      "uid": "Hosea_47",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 3166,
+      "end_char": 3199,
+      "length": 34,
+      "text": "חטאת עמי יאכלו ואל־עונם ישאו נפשו׃"
+    },
+    {
+      "uid": "Hosea_48",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 3200,
+      "end_char": 3247,
+      "length": 48,
+      "text": "והיה כעם ככהן ופקדתי עליו דרכיו ומעלליו אשיב לו׃"
+    },
+    {
+      "uid": "Hosea_49",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 3248,
+      "end_char": 3299,
+      "length": 52,
+      "text": "ואכלו ולא ישבעו הזנו ולא יפרצו כי־את־יהוה עזבו לשמר׃"
+    },
+    {
+      "uid": "Hosea_50",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 3300,
+      "end_char": 3323,
+      "length": 24,
+      "text": "זנות ויין ותירוש יקח־לב׃"
+    },
+    {
+      "uid": "Hosea_51",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 3324,
+      "end_char": 3388,
+      "length": 65,
+      "text": "עמי בעצו ישאל ומקלו יגיד לו כי רוח זנונים התעה ויזנו מתחת אלהיהם׃"
+    },
+    {
+      "uid": "Hosea_52",
+      "chapter_number": 4,
+      "verse_number": 13,
+      "start_char": 3389,
+      "end_char": 3493,
+      "length": 105,
+      "text": "על־ראשי ההרים יזבחו ועל־הגבעות יקטרו תחת אלון ולבנה ואלה כי טוב צלה על־כן תזנינה בנותיכם וכלותיכם תנאפנה׃"
+    },
+    {
+      "uid": "Hosea_53",
+      "chapter_number": 4,
+      "verse_number": 14,
+      "start_char": 3494,
+      "end_char": 3600,
+      "length": 107,
+      "text": "לא־אפקוד על־בנותיכם כי תזנינה ועל־כלותיכם כי תנאפנה כי־הם עם־הזנות יפרדו ועם־הקדשות יזבחו ועם לא־יבין ילבט׃"
+    },
+    {
+      "uid": "Hosea_54",
+      "chapter_number": 4,
+      "verse_number": 15,
+      "start_char": 3601,
+      "end_char": 3681,
+      "length": 81,
+      "text": "אם־זנה אתה ישראל אל־יאשם יהודה ואל־תבאו הגלגל ואל־תעלו בית און ואל־תשבעו חי־יהוה׃"
+    },
+    {
+      "uid": "Hosea_55",
+      "chapter_number": 4,
+      "verse_number": 16,
+      "start_char": 3682,
+      "end_char": 3729,
+      "length": 48,
+      "text": "כי כפרה סררה סרר ישראל עתה ירעם יהוה ככבש במרחב׃"
+    },
+    {
+      "uid": "Hosea_56",
+      "chapter_number": 4,
+      "verse_number": 17,
+      "start_char": 3730,
+      "end_char": 3753,
+      "length": 24,
+      "text": "חבור עצבים אפרים הנח־לו׃"
+    },
+    {
+      "uid": "Hosea_57",
+      "chapter_number": 4,
+      "verse_number": 18,
+      "start_char": 3754,
+      "end_char": 3791,
+      "length": 38,
+      "text": "סר סבאם הזנה הזנו אהבו הבו קלון מגניה׃"
+    },
+    {
+      "uid": "Hosea_58",
+      "chapter_number": 4,
+      "verse_number": 19,
+      "start_char": 3792,
+      "end_char": 3825,
+      "length": 34,
+      "text": "צרר רוח אותה בכנפיה ויבשו מזבחותם׃"
+    },
+    {
+      "uid": "Hosea_59",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 3826,
+      "end_char": 3927,
+      "length": 102,
+      "text": "שמעו־זאת הכהנים והקשיבו׀ בית ישראל ובית המלך האזינו כי לכם המשפט כי־פח הייתם למצפה ורשת פרושה על־תבור׃"
+    },
+    {
+      "uid": "Hosea_60",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 3928,
+      "end_char": 3960,
+      "length": 33,
+      "text": "ושחטה שטים העמיקו ואני מוסר לכלם׃"
+    },
+    {
+      "uid": "Hosea_61",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 3961,
+      "end_char": 4026,
+      "length": 66,
+      "text": "אני ידעתי אפרים וישראל לא־נכחד ממני כי עתה הזנית אפרים נטמא ישראל׃"
+    },
+    {
+      "uid": "Hosea_62",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 4027,
+      "end_char": 4094,
+      "length": 68,
+      "text": "לא יתנו מעלליהם לשוב אל־אלהיהם כי רוח זנונים בקרבם ואת־יהוה לא ידעו׃"
+    },
+    {
+      "uid": "Hosea_63",
+      "chapter_number": 5,
+      "verse_number": 5,
+      "start_char": 4095,
+      "end_char": 4159,
+      "length": 65,
+      "text": "וענה גאון־ישראל בפניו וישראל ואפרים יכשלו בעונם כשל גם־יהודה עמם׃"
+    },
+    {
+      "uid": "Hosea_64",
+      "chapter_number": 5,
+      "verse_number": 6,
+      "start_char": 4160,
+      "end_char": 4208,
+      "length": 49,
+      "text": "בצאנם ובבקרם ילכו לבקש את־יהוה ולא ימצאו חלץ מהם׃"
+    },
+    {
+      "uid": "Hosea_65",
+      "chapter_number": 5,
+      "verse_number": 7,
+      "start_char": 4209,
+      "end_char": 4261,
+      "length": 53,
+      "text": "ביהוה בגדו כי־בנים זרים ילדו עתה יאכלם חדש את־חלקיהם׃"
+    },
+    {
+      "uid": "Hosea_66",
+      "chapter_number": 5,
+      "verse_number": 8,
+      "start_char": 4262,
+      "end_char": 4315,
+      "length": 54,
+      "text": "תקעו שופר בגבעה חצצרה ברמה הריעו בית און אחריך בנימין׃"
+    },
+    {
+      "uid": "Hosea_67",
+      "chapter_number": 5,
+      "verse_number": 9,
+      "start_char": 4316,
+      "end_char": 4367,
+      "length": 52,
+      "text": "אפרים לשמה תהיה ביום תוכחה בשבטי ישראל הודעתי נאמנה׃"
+    },
+    {
+      "uid": "Hosea_68",
+      "chapter_number": 5,
+      "verse_number": 10,
+      "start_char": 4368,
+      "end_char": 4416,
+      "length": 49,
+      "text": "היו שרי יהודה כמסיגי גבול עליהם אשפוך כמים עברתי׃"
+    },
+    {
+      "uid": "Hosea_69",
+      "chapter_number": 5,
+      "verse_number": 11,
+      "start_char": 4417,
+      "end_char": 4458,
+      "length": 42,
+      "text": "עשוק אפרים רצוץ משפט כי הואיל הלך אחרי־צו׃"
+    },
+    {
+      "uid": "Hosea_70",
+      "chapter_number": 5,
+      "verse_number": 12,
+      "start_char": 4459,
+      "end_char": 4491,
+      "length": 33,
+      "text": "ואני כעש לאפרים וכרקב לבית יהודה׃"
+    },
+    {
+      "uid": "Hosea_71",
+      "chapter_number": 5,
+      "verse_number": 13,
+      "start_char": 4492,
+      "end_char": 4601,
+      "length": 110,
+      "text": "וירא אפרים את־חליו ויהודה את־מזרו וילך אפרים אל־אשור וישלח אל־מלך ירב והוא לא יוכל לרפא לכם ולא־יגהה מכם מזור׃"
+    },
+    {
+      "uid": "Hosea_72",
+      "chapter_number": 5,
+      "verse_number": 14,
+      "start_char": 4602,
+      "end_char": 4671,
+      "length": 70,
+      "text": "כי אנכי כשחל לאפרים וככפיר לבית יהודה אני אני אטרף ואלך אשא ואין מציל׃"
+    },
+    {
+      "uid": "Hosea_73",
+      "chapter_number": 5,
+      "verse_number": 15,
+      "start_char": 4672,
+      "end_char": 4729,
+      "length": 58,
+      "text": "אלך אשובה אל־מקומי עד אשר־יאשמו ובקשו פני בצר להם ישחרנני׃"
+    },
+    {
+      "uid": "Hosea_74",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 4730,
+      "end_char": 4778,
+      "length": 49,
+      "text": "לכו ונשובה אל־יהוה כי הוא טרף וירפאנו יך ויחבשנו׃"
+    },
+    {
+      "uid": "Hosea_75",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 4779,
+      "end_char": 4820,
+      "length": 42,
+      "text": "יחינו מימים ביום השלישי יקמנו ונחיה לפניו׃"
+    },
+    {
+      "uid": "Hosea_76",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 4821,
+      "end_char": 4891,
+      "length": 71,
+      "text": "ונדעה נרדפה לדעת את־יהוה כשחר נכון מצאו ויבוא כגשם לנו כמלקוש יורה ארץ׃"
+    },
+    {
+      "uid": "Hosea_77",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 4892,
+      "end_char": 4956,
+      "length": 65,
+      "text": "מה אעשה־לך אפרים מה אעשה־לך יהודה וחסדכם כענן־בקר וכטל משכים הלך׃"
+    },
+    {
+      "uid": "Hosea_78",
+      "chapter_number": 6,
+      "verse_number": 5,
+      "start_char": 4957,
+      "end_char": 5008,
+      "length": 52,
+      "text": "על־כן חצבתי בנביאים הרגתים באמרי־פי ומשפטיך אור יצא׃"
+    },
+    {
+      "uid": "Hosea_79",
+      "chapter_number": 6,
+      "verse_number": 6,
+      "start_char": 5009,
+      "end_char": 5046,
+      "length": 38,
+      "text": "כי חסד חפצתי ולא־זבח ודעת אלהים מעלות׃"
+    },
+    {
+      "uid": "Hosea_80",
+      "chapter_number": 6,
+      "verse_number": 7,
+      "start_char": 5047,
+      "end_char": 5077,
+      "length": 31,
+      "text": "והמה כאדם עברו ברית שם בגדו בי׃"
+    },
+    {
+      "uid": "Hosea_81",
+      "chapter_number": 6,
+      "verse_number": 8,
+      "start_char": 5078,
+      "end_char": 5105,
+      "length": 28,
+      "text": "גלעד קרית פעלי און עקבה מדם׃"
+    },
+    {
+      "uid": "Hosea_82",
+      "chapter_number": 6,
+      "verse_number": 9,
+      "start_char": 5106,
+      "end_char": 5158,
+      "length": 53,
+      "text": "וכחכי איש גדודים חבר כהנים דרך ירצחו־שכמה כי זמה עשו׃"
+    },
+    {
+      "uid": "Hosea_83",
+      "chapter_number": 6,
+      "verse_number": 10,
+      "start_char": 5159,
+      "end_char": 5221,
+      "length": 63,
+      "text": "בבית ישראל ראיתי (שעריריה) [שערוריה] שם זנות לאפרים נטמא ישראל׃"
+    },
+    {
+      "uid": "Hosea_84",
+      "chapter_number": 6,
+      "verse_number": 11,
+      "start_char": 5222,
+      "end_char": 5256,
+      "length": 35,
+      "text": "גם־יהודה שת קציר לך בשובי שבות עמי׃"
+    },
+    {
+      "uid": "Hosea_85",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 5257,
+      "end_char": 5333,
+      "length": 77,
+      "text": "כרפאי לישראל ונגלה עון אפרים ורעות שמרון כי פעלו שקר וגנב יבוא פשט גדוד בחוץ׃"
+    },
+    {
+      "uid": "Hosea_86",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 5334,
+      "end_char": 5393,
+      "length": 60,
+      "text": "ובל־יאמרו ללבבם כל־רעתם זכרתי עתה סבבום מעלליהם נגד פני היו׃"
+    },
+    {
+      "uid": "Hosea_87",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 5394,
+      "end_char": 5423,
+      "length": 30,
+      "text": "ברעתם ישמחו־מלך ובכחשיהם שרים׃"
+    },
+    {
+      "uid": "Hosea_88",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 5424,
+      "end_char": 5482,
+      "length": 59,
+      "text": "כלם מנאפים כמו תנור בערה מאפה ישבות מעיר מלוש בצק עד־חמצתו׃"
+    },
+    {
+      "uid": "Hosea_89",
+      "chapter_number": 7,
+      "verse_number": 5,
+      "start_char": 5483,
+      "end_char": 5528,
+      "length": 46,
+      "text": "יום מלכנו החלו שרים חמת מיין משך ידו את־לצצים׃"
+    },
+    {
+      "uid": "Hosea_90",
+      "chapter_number": 7,
+      "verse_number": 6,
+      "start_char": 5529,
+      "end_char": 5591,
+      "length": 63,
+      "text": "כי־קרבו כתנור לבם בארבם כל־הלילה ישן אפהם בקר הוא בער כאש להבה׃"
+    },
+    {
+      "uid": "Hosea_91",
+      "chapter_number": 7,
+      "verse_number": 7,
+      "start_char": 5592,
+      "end_char": 5653,
+      "length": 62,
+      "text": "כלם יחמו כתנור ואכלו את־שפטיהם כל־מלכיהם נפלו אין־קרא בהם אלי׃"
+    },
+    {
+      "uid": "Hosea_92",
+      "chapter_number": 7,
+      "verse_number": 8,
+      "start_char": 5654,
+      "end_char": 5700,
+      "length": 47,
+      "text": "אפרים בעמים הוא יתבולל אפרים היה עגה בלי הפוכה׃"
+    },
+    {
+      "uid": "Hosea_93",
+      "chapter_number": 7,
+      "verse_number": 9,
+      "start_char": 5701,
+      "end_char": 5754,
+      "length": 54,
+      "text": "אכלו זרים כחו והוא לא ידע גם־שיבה זרקה בו והוא לא ידע׃"
+    },
+    {
+      "uid": "Hosea_94",
+      "chapter_number": 7,
+      "verse_number": 10,
+      "start_char": 5755,
+      "end_char": 5817,
+      "length": 63,
+      "text": "וענה גאון־ישראל בפניו ולא־שבו אל־יהוה אלהיהם ולא בקשהו בכל־זאת׃"
+    },
+    {
+      "uid": "Hosea_95",
+      "chapter_number": 7,
+      "verse_number": 11,
+      "start_char": 5818,
+      "end_char": 5867,
+      "length": 50,
+      "text": "ויהי אפרים כיונה פותה אין לב מצרים קראו אשור הלכו׃"
+    },
+    {
+      "uid": "Hosea_96",
+      "chapter_number": 7,
+      "verse_number": 12,
+      "start_char": 5868,
+      "end_char": 5930,
+      "length": 63,
+      "text": "כאשר ילכו אפרוש עליהם רשתי כעוף השמים אורידם איסירם כשמע לעדתם׃"
+    },
+    {
+      "uid": "Hosea_97",
+      "chapter_number": 7,
+      "verse_number": 13,
+      "start_char": 5931,
+      "end_char": 6000,
+      "length": 70,
+      "text": "אוי להם כי־נדדו ממני שד להם כי־פשעו בי ואנכי אפדם והמה דברו עלי כזבים׃"
+    },
+    {
+      "uid": "Hosea_98",
+      "chapter_number": 7,
+      "verse_number": 14,
+      "start_char": 6001,
+      "end_char": 6070,
+      "length": 70,
+      "text": "ולא־זעקו אלי בלבם כי יילילו על־משכבותם על־דגן ותירוש יתגוררו יסורו בי׃"
+    },
+    {
+      "uid": "Hosea_99",
+      "chapter_number": 7,
+      "verse_number": 15,
+      "start_char": 6071,
+      "end_char": 6108,
+      "length": 38,
+      "text": "ואני יסרתי חזקתי זרועתם ואלי יחשבו־רע׃"
+    },
+    {
+      "uid": "Hosea_100",
+      "chapter_number": 7,
+      "verse_number": 16,
+      "start_char": 6109,
+      "end_char": 6181,
+      "length": 73,
+      "text": "ישובו׀ לא על היו כקשת רמיה יפלו בחרב שריהם מזעם לשונם זו לעגם בארץ מצרים׃"
+    },
+    {
+      "uid": "Hosea_101",
+      "chapter_number": 8,
+      "verse_number": 1,
+      "start_char": 6182,
+      "end_char": 6239,
+      "length": 58,
+      "text": "אל־חכך שפר כנשר על־בית יהוה יען עברו בריתי ועל־תורתי פשעו׃"
+    },
+    {
+      "uid": "Hosea_102",
+      "chapter_number": 8,
+      "verse_number": 2,
+      "start_char": 6240,
+      "end_char": 6266,
+      "length": 27,
+      "text": "לי יזעקו אלהי ידענוך ישראל׃"
+    },
+    {
+      "uid": "Hosea_103",
+      "chapter_number": 8,
+      "verse_number": 3,
+      "start_char": 6267,
+      "end_char": 6291,
+      "length": 25,
+      "text": "זנח ישראל טוב אויב ירדפו׃"
+    },
+    {
+      "uid": "Hosea_104",
+      "chapter_number": 8,
+      "verse_number": 4,
+      "start_char": 6292,
+      "end_char": 6361,
+      "length": 70,
+      "text": "הם המליכו ולא ממני השירו ולא ידעתי כספם וזהבם עשו להם עצבים למען יכרת׃"
+    },
+    {
+      "uid": "Hosea_105",
+      "chapter_number": 8,
+      "verse_number": 5,
+      "start_char": 6362,
+      "end_char": 6408,
+      "length": 47,
+      "text": "זנח עגלך שמרון חרה אפי בם עד־מתי לא יוכלו נקין׃"
+    },
+    {
+      "uid": "Hosea_106",
+      "chapter_number": 8,
+      "verse_number": 6,
+      "start_char": 6409,
+      "end_char": 6470,
+      "length": 62,
+      "text": "כי מישראל והוא חרש עשהו ולא אלהים הוא כי־שבבים יהיה עגל שמרון׃"
+    },
+    {
+      "uid": "Hosea_107",
+      "chapter_number": 8,
+      "verse_number": 7,
+      "start_char": 6471,
+      "end_char": 6546,
+      "length": 76,
+      "text": "כי רוח יזרעו וסופתה יקצרו קמה אין־לו צמח בלי יעשה־קמח אולי יעשה זרים יבלעהו׃"
+    },
+    {
+      "uid": "Hosea_108",
+      "chapter_number": 8,
+      "verse_number": 8,
+      "start_char": 6547,
+      "end_char": 6587,
+      "length": 41,
+      "text": "נבלע ישראל עתה היו בגוים ככלי אין־חפץ בו׃"
+    },
+    {
+      "uid": "Hosea_109",
+      "chapter_number": 8,
+      "verse_number": 9,
+      "start_char": 6588,
+      "end_char": 6632,
+      "length": 45,
+      "text": "כי־המה עלו אשור פרא בודד לו אפרים התנו אהבים׃"
+    },
+    {
+      "uid": "Hosea_110",
+      "chapter_number": 8,
+      "verse_number": 10,
+      "start_char": 6633,
+      "end_char": 6683,
+      "length": 51,
+      "text": "גם כי־יתנו בגוים עתה אקבצם ויחלו מעט ממשא מלך שרים׃"
+    },
+    {
+      "uid": "Hosea_111",
+      "chapter_number": 8,
+      "verse_number": 11,
+      "start_char": 6684,
+      "end_char": 6728,
+      "length": 45,
+      "text": "כי־הרבה אפרים מזבחות לחטא היו־לו מזבחות לחטא׃"
+    },
+    {
+      "uid": "Hosea_112",
+      "chapter_number": 8,
+      "verse_number": 12,
+      "start_char": 6729,
+      "end_char": 6777,
+      "length": 49,
+      "text": "(אכתוב) [אכתב־]לו (רבו) [רבי] תורתי כמו־זר נחשבו׃"
+    },
+    {
+      "uid": "Hosea_113",
+      "chapter_number": 8,
+      "verse_number": 13,
+      "start_char": 6778,
+      "end_char": 6860,
+      "length": 83,
+      "text": "זבחי הבהבי יזבחו בשר ויאכלו יהוה לא רצם עתה יזכר עונם ויפקד חטאותם המה מצרים ישובו׃"
+    },
+    {
+      "uid": "Hosea_114",
+      "chapter_number": 8,
+      "verse_number": 14,
+      "start_char": 6861,
+      "end_char": 6945,
+      "length": 85,
+      "text": "וישכח ישראל את־עשהו ויבן היכלות ויהודה הרבה ערים בצרות ושלחתי־אש בעריו ואכלה ארמנתיה׃"
+    },
+    {
+      "uid": "Hosea_115",
+      "chapter_number": 9,
+      "verse_number": 1,
+      "start_char": 6946,
+      "end_char": 7016,
+      "length": 71,
+      "text": "אל־תשמח ישראל׀אל־גיל כעמים כי זנית מעל אלהיך אהבת אתנן על כל־גרנות דגן׃"
+    },
+    {
+      "uid": "Hosea_116",
+      "chapter_number": 9,
+      "verse_number": 2,
+      "start_char": 7017,
+      "end_char": 7048,
+      "length": 32,
+      "text": "גרן ויקב לא ירעם ותירוש יכחש בה׃"
+    },
+    {
+      "uid": "Hosea_117",
+      "chapter_number": 9,
+      "verse_number": 3,
+      "start_char": 7049,
+      "end_char": 7099,
+      "length": 51,
+      "text": "לא ישבו בארץ יהוה ושב אפרים מצרים ובאשור טמא יאכלו׃"
+    },
+    {
+      "uid": "Hosea_118",
+      "chapter_number": 9,
+      "verse_number": 4,
+      "start_char": 7100,
+      "end_char": 7198,
+      "length": 99,
+      "text": "לא־יסכו ליהוה׀יין ולא יערבו־לו זבחיהם כלחם אונים להם כל־אכליו יטמאו כי־לחמם לנפשם לא יבוא בית יהוה׃"
+    },
+    {
+      "uid": "Hosea_119",
+      "chapter_number": 9,
+      "verse_number": 5,
+      "start_char": 7199,
+      "end_char": 7230,
+      "length": 32,
+      "text": "מה־תעשו ליום מועד וליום חג־יהוה׃"
+    },
+    {
+      "uid": "Hosea_120",
+      "chapter_number": 9,
+      "verse_number": 6,
+      "start_char": 7231,
+      "end_char": 7301,
+      "length": 71,
+      "text": "כי־הנה הלכו משד מצרים תקבצם מף תקברם מחמד לכספם קמוש יירשם חוח באהליהם׃"
+    },
+    {
+      "uid": "Hosea_121",
+      "chapter_number": 9,
+      "verse_number": 7,
+      "start_char": 7302,
+      "end_char": 7387,
+      "length": 86,
+      "text": "באו׀ ימי הפקדה באו ימי השלם ידעו ישראל אויל הנביא משגע איש הרוח על רב עונך ורבה משטמה׃"
+    },
+    {
+      "uid": "Hosea_122",
+      "chapter_number": 9,
+      "verse_number": 8,
+      "start_char": 7388,
+      "end_char": 7447,
+      "length": 60,
+      "text": "צפה אפרים עם־אלהי נביא פח יקוש על־כל־דרכיו משטמה בבית אלהיו׃"
+    },
+    {
+      "uid": "Hosea_123",
+      "chapter_number": 9,
+      "verse_number": 9,
+      "start_char": 7448,
+      "end_char": 7494,
+      "length": 47,
+      "text": "העמיקו שחתו כימי הגבעה יזכור עונם יפקוד חטאותם׃"
+    },
+    {
+      "uid": "Hosea_124",
+      "chapter_number": 9,
+      "verse_number": 10,
+      "start_char": 7495,
+      "end_char": 7602,
+      "length": 108,
+      "text": "כענבים במדבר מצאתי ישראל כבכורה בתאנה בראשיתה ראיתי אבותיכם המה באו בעל־פעור וינזרו לבשת ויהיו שקוצים כאהבם׃"
+    },
+    {
+      "uid": "Hosea_125",
+      "chapter_number": 9,
+      "verse_number": 11,
+      "start_char": 7603,
+      "end_char": 7645,
+      "length": 43,
+      "text": "אפרים כעוף יתעופף כבודם מלדה ומבטן ומהריון׃"
+    },
+    {
+      "uid": "Hosea_126",
+      "chapter_number": 9,
+      "verse_number": 12,
+      "start_char": 7646,
+      "end_char": 7703,
+      "length": 58,
+      "text": "כי אם־יגדלו את־בניהם ושכלתים מאדם כי־גם־אוי להם בשורי מהם׃"
+    },
+    {
+      "uid": "Hosea_127",
+      "chapter_number": 9,
+      "verse_number": 13,
+      "start_char": 7704,
+      "end_char": 7762,
+      "length": 59,
+      "text": "אפרים כאשר־ראיתי לצור שתולה בנוה ואפרים להוציא אל־הרג בניו׃"
+    },
+    {
+      "uid": "Hosea_128",
+      "chapter_number": 9,
+      "verse_number": 14,
+      "start_char": 7763,
+      "end_char": 7810,
+      "length": 48,
+      "text": "תן־להם יהוה מה־תתן תן־להם רחם משכיל ושדים צמקים׃"
+    },
+    {
+      "uid": "Hosea_129",
+      "chapter_number": 9,
+      "verse_number": 15,
+      "start_char": 7811,
+      "end_char": 7892,
+      "length": 82,
+      "text": "כל־רעתם בגלגל כי־שם שנאתים על רע מעלליהם מביתי אגרשם לא אוסף אהבתם כל־שריהם סררים׃"
+    },
+    {
+      "uid": "Hosea_130",
+      "chapter_number": 9,
+      "verse_number": 16,
+      "start_char": 7893,
+      "end_char": 7961,
+      "length": 69,
+      "text": "הכה אפרים שרשם יבש פרי (בלי) [בל־]יעשון גם כי ילדון והמתי מחמדי בטנם׃"
+    },
+    {
+      "uid": "Hosea_131",
+      "chapter_number": 9,
+      "verse_number": 17,
+      "start_char": 7962,
+      "end_char": 8004,
+      "length": 43,
+      "text": "ימאסם אלהי כי לא שמעו לו ויהיו נדדים בגוים׃"
+    },
+    {
+      "uid": "Hosea_132",
+      "chapter_number": 10,
+      "verse_number": 1,
+      "start_char": 8005,
+      "end_char": 8078,
+      "length": 74,
+      "text": "גפן בוקק ישראל פרי ישוה־לו כרב לפריו הרבה למזבחות כטוב לארצו היטיבו מצבות׃"
+    },
+    {
+      "uid": "Hosea_133",
+      "chapter_number": 10,
+      "verse_number": 2,
+      "start_char": 8079,
+      "end_char": 8125,
+      "length": 47,
+      "text": "חלק לבם עתה יאשמו הוא יערף מזבחותם ישדד מצבותם׃"
+    },
+    {
+      "uid": "Hosea_134",
+      "chapter_number": 10,
+      "verse_number": 3,
+      "start_char": 8126,
+      "end_char": 8188,
+      "length": 63,
+      "text": "כי עתה יאמרו אין מלך לנו כי לא יראנו את־יהוה והמלך מה־יעשה־לנו׃"
+    },
+    {
+      "uid": "Hosea_135",
+      "chapter_number": 10,
+      "verse_number": 4,
+      "start_char": 8189,
+      "end_char": 8244,
+      "length": 56,
+      "text": "דברו דברים אלות שוא כרת ברית ופרח כראש משפט על תלמי שדי׃"
+    },
+    {
+      "uid": "Hosea_136",
+      "chapter_number": 10,
+      "verse_number": 5,
+      "start_char": 8245,
+      "end_char": 8330,
+      "length": 86,
+      "text": "לעגלות בית און יגורו שכן שמרון כי־אבל עליו עמו וכמריו עליו יגילו על־כבודו כי־גלה ממנו׃"
+    },
+    {
+      "uid": "Hosea_137",
+      "chapter_number": 10,
+      "verse_number": 6,
+      "start_char": 8331,
+      "end_char": 8396,
+      "length": 66,
+      "text": "גם־אותו לאשור יובל מנחה למלך ירב בשנה אפרים יקח ויבוש ישראל מעצתו׃"
+    },
+    {
+      "uid": "Hosea_138",
+      "chapter_number": 10,
+      "verse_number": 7,
+      "start_char": 8397,
+      "end_char": 8428,
+      "length": 32,
+      "text": "נדמה שמרון מלכה כקצף על־פני־מים׃"
+    },
+    {
+      "uid": "Hosea_139",
+      "chapter_number": 10,
+      "verse_number": 8,
+      "start_char": 8429,
+      "end_char": 8518,
+      "length": 90,
+      "text": "ונשמדו במות און חטאת ישראל קוץ ודרדר יעלה על־מזבחותם ואמרו להרים כסונו ולגבעות נפלו עלינו׃"
+    },
+    {
+      "uid": "Hosea_140",
+      "chapter_number": 10,
+      "verse_number": 9,
+      "start_char": 8519,
+      "end_char": 8581,
+      "length": 63,
+      "text": "מימי הגבעה חטאת ישראל שם עמדו לא־תשיגם בגבעה מלחמה על־בני עלוה׃"
+    },
+    {
+      "uid": "Hosea_141",
+      "chapter_number": 10,
+      "verse_number": 10,
+      "start_char": 8582,
+      "end_char": 8637,
+      "length": 56,
+      "text": "באותי ואסרם ואספו עליהם עמים באסרם לשתי (עינתם) [עונתם]׃"
+    },
+    {
+      "uid": "Hosea_142",
+      "chapter_number": 10,
+      "verse_number": 11,
+      "start_char": 8638,
+      "end_char": 8727,
+      "length": 90,
+      "text": "ואפרים עגלה מלמדה אהבתי לדוש ואני עברתי על־טוב צוארה ארכיב אפרים יחרוש יהודה ישדד־לו יעקב׃"
+    },
+    {
+      "uid": "Hosea_143",
+      "chapter_number": 10,
+      "verse_number": 12,
+      "start_char": 8728,
+      "end_char": 8807,
+      "length": 80,
+      "text": "זרעו לכם לצדקה קצרו לפי־חסד נירו לכם ניר ועת לדרוש את־יהוה עד־יבוא וירה צדק לכם׃"
+    },
+    {
+      "uid": "Hosea_144",
+      "chapter_number": 10,
+      "verse_number": 13,
+      "start_char": 8808,
+      "end_char": 8868,
+      "length": 61,
+      "text": "חרשתם־רשע עולתה קצרתם אכלתם פרי־כחש כי־בטחת בדרכך ברב גבוריך׃"
+    },
+    {
+      "uid": "Hosea_145",
+      "chapter_number": 10,
+      "verse_number": 14,
+      "start_char": 8869,
+      "end_char": 8945,
+      "length": 77,
+      "text": "וקאם שאון בעמך וכל־מבצריך יושד כשד שלמן בית ארבאל ביום מלחמה אם על־בנים רטשה׃"
+    },
+    {
+      "uid": "Hosea_146",
+      "chapter_number": 10,
+      "verse_number": 15,
+      "start_char": 8946,
+      "end_char": 9004,
+      "length": 59,
+      "text": "ככה עשה לכם בית־אל מפני רעת רעתכם בשחר נדמה נדמה מלך ישראל׃"
+    },
+    {
+      "uid": "Hosea_147",
+      "chapter_number": 11,
+      "verse_number": 1,
+      "start_char": 9005,
+      "end_char": 9043,
+      "length": 39,
+      "text": "כי נער ישראל ואהבהו וממצרים קראתי לבני׃"
+    },
+    {
+      "uid": "Hosea_148",
+      "chapter_number": 11,
+      "verse_number": 2,
+      "start_char": 9044,
+      "end_char": 9095,
+      "length": 52,
+      "text": "קראו להם כן הלכו מפניהם לבעלים יזבחו ולפסלים יקטרון׃"
+    },
+    {
+      "uid": "Hosea_149",
+      "chapter_number": 11,
+      "verse_number": 3,
+      "start_char": 9096,
+      "end_char": 9149,
+      "length": 54,
+      "text": "ואנכי תרגלתי לאפרים קחם על־זרועתיו ולא ידעו כי רפאתים׃"
+    },
+    {
+      "uid": "Hosea_150",
+      "chapter_number": 11,
+      "verse_number": 4,
+      "start_char": 9150,
+      "end_char": 9221,
+      "length": 72,
+      "text": "בחבלי אדם אמשכם בעבתות אהבה ואהיה להם כמרימי על על לחיהם ואט אליו אוכיל׃"
+    },
+    {
+      "uid": "Hosea_151",
+      "chapter_number": 11,
+      "verse_number": 5,
+      "start_char": 9222,
+      "end_char": 9270,
+      "length": 49,
+      "text": "לא ישוב אל־ארץ מצרים ואשור הוא מלכו כי מאנו לשוב׃"
+    },
+    {
+      "uid": "Hosea_152",
+      "chapter_number": 11,
+      "verse_number": 6,
+      "start_char": 9271,
+      "end_char": 9312,
+      "length": 42,
+      "text": "וחלה חרב בעריו וכלתה בדיו ואכלה ממעצותיהם׃"
+    },
+    {
+      "uid": "Hosea_153",
+      "chapter_number": 11,
+      "verse_number": 7,
+      "start_char": 9313,
+      "end_char": 9359,
+      "length": 47,
+      "text": "ועמי תלואים למשובתי ואל־על יקראהו יחד לא ירומם׃"
+    },
+    {
+      "uid": "Hosea_154",
+      "chapter_number": 11,
+      "verse_number": 8,
+      "start_char": 9360,
+      "end_char": 9443,
+      "length": 84,
+      "text": "איך אתנך אפרים אמגנך ישראל איך אתנך כאדמה אשימך כצבאים נהפך עלי לבי יחד נכמרו נחומי׃"
+    },
+    {
+      "uid": "Hosea_155",
+      "chapter_number": 11,
+      "verse_number": 9,
+      "start_char": 9444,
+      "end_char": 9523,
+      "length": 80,
+      "text": "לא אעשה חרון אפי לא אשוב לשחת אפרים כי אל אנכי ולא־איש בקרבך קדוש ולא אבוא בעיר׃"
+    },
+    {
+      "uid": "Hosea_156",
+      "chapter_number": 11,
+      "verse_number": 10,
+      "start_char": 9524,
+      "end_char": 9577,
+      "length": 54,
+      "text": "אחרי יהוה ילכו כאריה ישאג כי־הוא ישאג ויחרדו בנים מים׃"
+    },
+    {
+      "uid": "Hosea_157",
+      "chapter_number": 11,
+      "verse_number": 11,
+      "start_char": 9578,
+      "end_char": 9640,
+      "length": 63,
+      "text": "יחרדו כצפור ממצרים וכיונה מארץ אשור והושבתים על־בתיהם נאם־יהוה׃"
+    },
+    {
+      "uid": "Hosea_158",
+      "chapter_number": 12,
+      "verse_number": 1,
+      "start_char": 9641,
+      "end_char": 9709,
+      "length": 69,
+      "text": "סבבני בכחש אפרים ובמרמה בית ישראל ויהודה עד רד עם־אל ועם־קדושים נאמן׃"
+    },
+    {
+      "uid": "Hosea_159",
+      "chapter_number": 12,
+      "verse_number": 2,
+      "start_char": 9710,
+      "end_char": 9791,
+      "length": 82,
+      "text": "אפרים רעה רוח ורדף קדים כל־היום כזב ושד ירבה וברית עם־אשור יכרתו ושמן למצרים יובל׃"
+    },
+    {
+      "uid": "Hosea_160",
+      "chapter_number": 12,
+      "verse_number": 3,
+      "start_char": 9792,
+      "end_char": 9848,
+      "length": 57,
+      "text": "וריב ליהוה עם־יהודה ולפקד על־יעקב כדרכיו כמעלליו ישיב לו׃"
+    },
+    {
+      "uid": "Hosea_161",
+      "chapter_number": 12,
+      "verse_number": 4,
+      "start_char": 9849,
+      "end_char": 9885,
+      "length": 37,
+      "text": "בבטן עקב את־אחיו ובאונו שרה את־אלהים׃"
+    },
+    {
+      "uid": "Hosea_162",
+      "chapter_number": 12,
+      "verse_number": 5,
+      "start_char": 9886,
+      "end_char": 9945,
+      "length": 60,
+      "text": "וישר אל־מלאך ויכל בכה ויתחנן־לו בית־אל ימצאנו ושם ידבר עמנו׃"
+    },
+    {
+      "uid": "Hosea_163",
+      "chapter_number": 12,
+      "verse_number": 6,
+      "start_char": 9946,
+      "end_char": 9973,
+      "length": 28,
+      "text": "ויהוה אלהי הצבאות יהוה זכרו׃"
+    },
+    {
+      "uid": "Hosea_164",
+      "chapter_number": 12,
+      "verse_number": 7,
+      "start_char": 9974,
+      "end_char": 10023,
+      "length": 50,
+      "text": "ואתה באלהיך תשוב חסד ומשפט שמר וקוה אל־אלהיך תמיד׃"
+    },
+    {
+      "uid": "Hosea_165",
+      "chapter_number": 12,
+      "verse_number": 8,
+      "start_char": 10024,
+      "end_char": 10053,
+      "length": 30,
+      "text": "כנען בידו מאזני מרמה לעשק אהב׃"
+    },
+    {
+      "uid": "Hosea_166",
+      "chapter_number": 12,
+      "verse_number": 9,
+      "start_char": 10054,
+      "end_char": 10120,
+      "length": 67,
+      "text": "ויאמר אפרים אך עשרתי מצאתי און לי כל־יגיעי לא ימצאו־לי עון אשר־חטא׃"
+    },
+    {
+      "uid": "Hosea_167",
+      "chapter_number": 12,
+      "verse_number": 10,
+      "start_char": 10121,
+      "end_char": 10175,
+      "length": 55,
+      "text": "ואנכי יהוה אלהיך מארץ מצרים עד אושיבך באהלים כימי מועד׃"
+    },
+    {
+      "uid": "Hosea_168",
+      "chapter_number": 12,
+      "verse_number": 11,
+      "start_char": 10176,
+      "end_char": 10229,
+      "length": 54,
+      "text": "ודברתי על־הנביאים ואנכי חזון הרביתי וביד הנביאים אדמה׃"
+    },
+    {
+      "uid": "Hosea_169",
+      "chapter_number": 12,
+      "verse_number": 12,
+      "start_char": 10230,
+      "end_char": 10298,
+      "length": 69,
+      "text": "אם־גלעד און אך־שוא היו בגלגל שורים זבחו גם מזבחותם כגלים על תלמי שדי׃"
+    },
+    {
+      "uid": "Hosea_170",
+      "chapter_number": 12,
+      "verse_number": 13,
+      "start_char": 10299,
+      "end_char": 10344,
+      "length": 46,
+      "text": "ויברח יעקב שדה ארם ויעבד ישראל באשה ובאשה שמר׃"
+    },
+    {
+      "uid": "Hosea_171",
+      "chapter_number": 12,
+      "verse_number": 14,
+      "start_char": 10345,
+      "end_char": 10389,
+      "length": 45,
+      "text": "ובנביא העלה יהוה את־ישראל ממצרים ובנביא נשמר׃"
+    },
+    {
+      "uid": "Hosea_172",
+      "chapter_number": 12,
+      "verse_number": 15,
+      "start_char": 10390,
+      "end_char": 10446,
+      "length": 57,
+      "text": "הכעיס אפרים תמרורים ודמיו עליו יטוש וחרפתו ישיב לו אדניו׃"
+    },
+    {
+      "uid": "Hosea_173",
+      "chapter_number": 13,
+      "verse_number": 1,
+      "start_char": 10447,
+      "end_char": 10492,
+      "length": 46,
+      "text": "כדבר אפרים רתת נשא הוא בישראל ויאשם בבעל וימת׃"
+    },
+    {
+      "uid": "Hosea_174",
+      "chapter_number": 13,
+      "verse_number": 2,
+      "start_char": 10493,
+      "end_char": 10592,
+      "length": 100,
+      "text": "ועתה׀ יוספו לחטא ויעשו להם מסכה מכספם כתבונם עצבים מעשה חרשים כלה להם הם אמרים זבחי אדם עגלים ישקון׃"
+    },
+    {
+      "uid": "Hosea_175",
+      "chapter_number": 13,
+      "verse_number": 3,
+      "start_char": 10593,
+      "end_char": 10651,
+      "length": 59,
+      "text": "לכן יהיו כענן־בקר וכטל משכים הלך כמץ יסער מגרן וכעשן מארבה׃"
+    },
+    {
+      "uid": "Hosea_176",
+      "chapter_number": 13,
+      "verse_number": 4,
+      "start_char": 10652,
+      "end_char": 10715,
+      "length": 64,
+      "text": "ואנכי יהוה אלהיך מארץ מצרים ואלהים זולתי לא תדע ומושיע אין בלתי׃"
+    },
+    {
+      "uid": "Hosea_177",
+      "chapter_number": 13,
+      "verse_number": 5,
+      "start_char": 10716,
+      "end_char": 10744,
+      "length": 29,
+      "text": "אני ידעתיך במדבר בארץ תלאבות׃"
+    },
+    {
+      "uid": "Hosea_178",
+      "chapter_number": 13,
+      "verse_number": 6,
+      "start_char": 10745,
+      "end_char": 10786,
+      "length": 42,
+      "text": "כמרעיתם וישבעו שבעו וירם לבם על־כן שכחוני׃"
+    },
+    {
+      "uid": "Hosea_179",
+      "chapter_number": 13,
+      "verse_number": 7,
+      "start_char": 10787,
+      "end_char": 10820,
+      "length": 34,
+      "text": "ואהי להם כמו־שחל כנמר על־דרך אשור׃"
+    },
+    {
+      "uid": "Hosea_180",
+      "chapter_number": 13,
+      "verse_number": 8,
+      "start_char": 10821,
+      "end_char": 10880,
+      "length": 60,
+      "text": "אפגשם כדב שכול ואקרע סגור לבם ואכלם שם כלביא חית השדה תבקעם׃"
+    },
+    {
+      "uid": "Hosea_181",
+      "chapter_number": 13,
+      "verse_number": 9,
+      "start_char": 10881,
+      "end_char": 10903,
+      "length": 23,
+      "text": "שחתך ישראל כי־בי בעזרך׃"
+    },
+    {
+      "uid": "Hosea_182",
+      "chapter_number": 13,
+      "verse_number": 10,
+      "start_char": 10904,
+      "end_char": 10967,
+      "length": 64,
+      "text": "אהי מלכך אפוא ויושיעך בכל־עריך ושפטיך אשר אמרת תנה־לי מלך ושרים׃"
+    },
+    {
+      "uid": "Hosea_183",
+      "chapter_number": 13,
+      "verse_number": 11,
+      "start_char": 10968,
+      "end_char": 10995,
+      "length": 28,
+      "text": "אתן־לך מלך באפי ואקח בעברתי׃"
+    },
+    {
+      "uid": "Hosea_184",
+      "chapter_number": 13,
+      "verse_number": 12,
+      "start_char": 10996,
+      "end_char": 11022,
+      "length": 27,
+      "text": "צרור עון אפרים צפונה חטאתו׃"
+    },
+    {
+      "uid": "Hosea_185",
+      "chapter_number": 13,
+      "verse_number": 13,
+      "start_char": 11023,
+      "end_char": 11080,
+      "length": 58,
+      "text": "חבלי יולדה יבאו לו הוא־בן לא חכם כי־עת לא־יעמד במשבר בנים׃"
+    },
+    {
+      "uid": "Hosea_186",
+      "chapter_number": 13,
+      "verse_number": 14,
+      "start_char": 11081,
+      "end_char": 11148,
+      "length": 68,
+      "text": "מיד שאול אפדם ממות אגאלם אהי דבריך מות אהי קטבך שאול נחם יסתר מעיני׃"
+    },
+    {
+      "uid": "Hosea_187",
+      "chapter_number": 13,
+      "verse_number": 15,
+      "start_char": 11149,
+      "end_char": 11249,
+      "length": 101,
+      "text": "כי הוא בין אחים יפריא יבוא קדים רוח יהוה ממדבר עלה ויבוש מקורו ויחרב מעינו הוא ישסה אוצר כל־כלי חמדה׃"
+    },
+    {
+      "uid": "Hosea_188",
+      "chapter_number": 14,
+      "verse_number": 1,
+      "start_char": 11250,
+      "end_char": 11313,
+      "length": 64,
+      "text": "תאשם שמרון כי מרתה באלהיה בחרב יפלו עלליהם ירטשו והריותיו יבקעו׃"
+    },
+    {
+      "uid": "Hosea_189",
+      "chapter_number": 14,
+      "verse_number": 2,
+      "start_char": 11314,
+      "end_char": 11352,
+      "length": 39,
+      "text": "שובה ישראל עד יהוה אלהיך כי כשלת בעונך׃"
+    },
+    {
+      "uid": "Hosea_190",
+      "chapter_number": 14,
+      "verse_number": 3,
+      "start_char": 11353,
+      "end_char": 11429,
+      "length": 77,
+      "text": "קחו עמכם דברים ושובו אל־יהוה אמרו אליו כל־תשא עון וקח־טוב ונשלמה פרים שפתינו׃"
+    },
+    {
+      "uid": "Hosea_191",
+      "chapter_number": 14,
+      "verse_number": 4,
+      "start_char": 11430,
+      "end_char": 11510,
+      "length": 81,
+      "text": "אשור׀ לא יושיענו על־סוס לא נרכב ולא־נאמר עוד אלהינו למעשה ידינו אשר־בך ירחם יתום׃"
+    },
+    {
+      "uid": "Hosea_192",
+      "chapter_number": 14,
+      "verse_number": 5,
+      "start_char": 11511,
+      "end_char": 11547,
+      "length": 37,
+      "text": "ארפא משובתם אהבם נדבה כי שב אפי ממנו׃"
+    },
+    {
+      "uid": "Hosea_193",
+      "chapter_number": 14,
+      "verse_number": 6,
+      "start_char": 11548,
+      "end_char": 11592,
+      "length": 45,
+      "text": "אהיה כטל לישראל יפרח כשושנה ויך שרשיו כלבנון׃"
+    },
+    {
+      "uid": "Hosea_194",
+      "chapter_number": 14,
+      "verse_number": 7,
+      "start_char": 11593,
+      "end_char": 11635,
+      "length": 43,
+      "text": "ילכו ינקותיו ויהי כזית הודו וריח לו כלבנון׃"
+    },
+    {
+      "uid": "Hosea_195",
+      "chapter_number": 14,
+      "verse_number": 8,
+      "start_char": 11636,
+      "end_char": 11687,
+      "length": 52,
+      "text": "ישבו ישבי בצלו יחיו דגן ויפרחו כגפן זכרו כיין לבנון׃"
+    },
+    {
+      "uid": "Hosea_196",
+      "chapter_number": 14,
+      "verse_number": 9,
+      "start_char": 11688,
+      "end_char": 11758,
+      "length": 71,
+      "text": "אפרים מה־לי עוד לעצבים אני עניתי ואשורנו אני כברוש רענן ממני פריך נמצא׃"
+    },
+    {
+      "uid": "Hosea_197",
+      "chapter_number": 14,
+      "verse_number": 10,
+      "start_char": 11759,
+      "end_char": 11835,
+      "length": 77,
+      "text": "מי חכם ויבן אלה נבון וידעם כי־ישרים דרכי יהוה וצדקים ילכו בם ופשעים יכשלו בם׃"
+    }
+  ]
+}

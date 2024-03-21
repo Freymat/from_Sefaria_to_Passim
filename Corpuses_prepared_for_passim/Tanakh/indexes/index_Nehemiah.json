@@ -1,0 +1,3658 @@
+{
+  "title": "Nehemiah",
+  "categories": [
+    "Tanakh",
+    "Writings"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Nehemiah_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 68,
+      "length": 68,
+      "text": "דברי נחמיה בן־חכליה ויהי בחדש־כסלו שנת עשרים ואני הייתי בשושן הבירה׃"
+    },
+    {
+      "uid": "Nehemiah_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 69,
+      "end_char": 160,
+      "length": 92,
+      "text": "ויבא חנני אחד מאחי הוא ואנשים מיהודה ואשאלם על־היהודים הפליטה אשר־נשארו מן־השבי ועל־ירושל͏ם׃"
+    },
+    {
+      "uid": "Nehemiah_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 161,
+      "end_char": 259,
+      "length": 99,
+      "text": "ויאמרו לי הנשארים אשר־נשארו מן־השבי שם במדינה ברעה גדלה ובחרפה וחומת ירושל͏ם מפרצת ושעריה נצתו באש׃"
+    },
+    {
+      "uid": "Nehemiah_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 260,
+      "end_char": 342,
+      "length": 83,
+      "text": "ויהי כשמעי׀ את־הדברים האלה ישבתי ואבכה ואתאבלה ימים ואהי צם ומתפלל לפני אלהי השמים׃"
+    },
+    {
+      "uid": "Nehemiah_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 343,
+      "end_char": 420,
+      "length": 78,
+      "text": "ואמר אנא יהוה אלהי השמים האל הגדול והנורא שמר הברית וחסד לאהביו ולשמרי מצותיו׃"
+    },
+    {
+      "uid": "Nehemiah_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 421,
+      "end_char": 584,
+      "length": 164,
+      "text": "תהי נא אזנך־קשבת ועיניך פתוחות לשמע אל־תפלת עבדך אשר אנכי מתפלל לפניך היום יומם ולילה על־בני ישראל עבדיך ומתודה על־חטאות בני־ישראל אשר חטאנו לך ואני ובית־אבי חטאנו׃"
+    },
+    {
+      "uid": "Nehemiah_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 585,
+      "end_char": 659,
+      "length": 75,
+      "text": "חבל חבלנו לך ולא־שמרנו את־המצות ואת־החקים ואת־המשפטים אשר צוית את־משה עבדך׃"
+    },
+    {
+      "uid": "Nehemiah_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 660,
+      "end_char": 730,
+      "length": 71,
+      "text": "זכר־נא את־הדבר אשר צוית את־משה עבדך לאמר אתם תמעלו אני אפיץ אתכם בעמים׃"
+    },
+    {
+      "uid": "Nehemiah_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 731,
+      "end_char": 856,
+      "length": 126,
+      "text": "ושבתם אלי ושמרתם מצותי ועשיתם אתם אם־יהיה נדחכם בקצה השמים משם אקבצם (והבואתים) [והביאותים] אל־המקום אשר בחרתי לשכן את־שמי שם׃"
+    },
+    {
+      "uid": "Nehemiah_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 857,
+      "end_char": 903,
+      "length": 47,
+      "text": "והם עבדיך ועמך אשר פדית בכחך הגדול ובידך החזקה׃"
+    },
+    {
+      "uid": "Nehemiah_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 904,
+      "end_char": 1047,
+      "length": 144,
+      "text": "אנא אדני תהי נא אזנך־קשבת אל־תפלת עבדך ואל־תפלת עבדיך החפצים ליראה את־שמך והצליחה־נא לעבדך היום ותנהו לרחמים לפני האיש הזה ואני הייתי משקה למלך׃"
+    },
+    {
+      "uid": "Nehemiah_12",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 1048,
+      "end_char": 1141,
+      "length": 94,
+      "text": "ויהי׀ בחדש ניסן שנת עשרים לארתחשסתא המלך יין לפניו ואשא את־היין ואתנה למלך ולא־הייתי רע לפניו׃"
+    },
+    {
+      "uid": "Nehemiah_13",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1142,
+      "end_char": 1220,
+      "length": 79,
+      "text": "ויאמר לי המלך מדוע׀ פניך רעים ואתה אינך חולה אין זה כי־אם רע לב ואירא הרבה מאד׃"
+    },
+    {
+      "uid": "Nehemiah_14",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1221,
+      "end_char": 1308,
+      "length": 88,
+      "text": "ואמר למלך המלך לעולם יחיה מדוע לא־ירעו פני אשר העיר בית־קברות אבתי חרבה ושעריה אכלו באש׃"
+    },
+    {
+      "uid": "Nehemiah_15",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 1309,
+      "end_char": 1361,
+      "length": 53,
+      "text": "ויאמר לי המלך על־מה־זה אתה מבקש ואתפלל אל־אלהי השמים׃"
+    },
+    {
+      "uid": "Nehemiah_16",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1362,
+      "end_char": 1451,
+      "length": 90,
+      "text": "ואמר למלך אם־על־המלך טוב ואם־ייטב עבדך לפניך אשר תשלחני אל־יהודה אל־עיר קברות אבתי ואבננה׃"
+    },
+    {
+      "uid": "Nehemiah_17",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1452,
+      "end_char": 1548,
+      "length": 97,
+      "text": "ויאמר לי המלך והשגל׀ יושבת אצלו עד־מתי יהיה מהלכך ומתי תשוב וייטב לפני־המלך וישלחני ואתנה לו זמן׃"
+    },
+    {
+      "uid": "Nehemiah_18",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1549,
+      "end_char": 1640,
+      "length": 92,
+      "text": "ואומר למלך אם־על־המלך טוב אגרות יתנו־לי על־פחוות עבר הנהר אשר יעבירוני עד אשר־אבוא אל־יהודה׃"
+    },
+    {
+      "uid": "Nehemiah_19",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1641,
+      "end_char": 1781,
+      "length": 141,
+      "text": "ואגרת אל־אסף שמר הפרדס אשר למלך אשר יתן־לי עצים לקרות את־שערי הבירה אשר־לבית ולחומת העיר ולבית אשר־אבוא אליו ויתן־לי המלך כיד־אלהי הטובה עלי׃"
+    },
+    {
+      "uid": "Nehemiah_20",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1782,
+      "end_char": 1859,
+      "length": 78,
+      "text": "ואבוא אל־פחוות עבר הנהר ואתנה להם את אגרות המלך וישלח עמי המלך שרי חיל ופרשים׃"
+    },
+    {
+      "uid": "Nehemiah_21",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 1860,
+      "end_char": 1945,
+      "length": 86,
+      "text": "וישמע סנבלט החרני וטוביה העבד העמני וירע להם רעה גדלה אשר־בא אדם לבקש טובה לבני ישראל׃"
+    },
+    {
+      "uid": "Nehemiah_22",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 1946,
+      "end_char": 1980,
+      "length": 35,
+      "text": "ואבוא אל־ירושל͏ם ואהי־שם ימים שלשה׃"
+    },
+    {
+      "uid": "Nehemiah_23",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 1981,
+      "end_char": 2101,
+      "length": 121,
+      "text": "ואקום׀ לילה אני ואנשים׀מעט עמי ולא־הגדתי לאדם מה אלהי נתן אל־לבי לעשות לירושל͏ם ובהמה אין עמי כי אם־הבהמה אשר אני רכב בה׃"
+    },
+    {
+      "uid": "Nehemiah_24",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 2102,
+      "end_char": 2220,
+      "length": 119,
+      "text": "ואצאה בשער־הגיא לילה ואל־פני עין התנין ואל־שער האשפת ואהי שבר בחומת ירושל͏ם אשר־[הם׀פרוצים] (המפרוצים) ושעריה אכלו באש׃"
+    },
+    {
+      "uid": "Nehemiah_25",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 2221,
+      "end_char": 2278,
+      "length": 58,
+      "text": "ואעבר אל־שער העין ואל־ברכת המלך ואין־מקום לבהמה לעבר תחתי׃"
+    },
+    {
+      "uid": "Nehemiah_26",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 2279,
+      "end_char": 2340,
+      "length": 62,
+      "text": "ואהי עלה בנחל לילה ואהי שבר בחומה ואשוב ואבוא בשער הגיא ואשוב׃"
+    },
+    {
+      "uid": "Nehemiah_27",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 2341,
+      "end_char": 2442,
+      "length": 102,
+      "text": "והסגנים לא ידעו אנה הלכתי ומה אני עשה וליהודים ולכהנים ולחרים ולסגנים וליתר עשה המלאכה עד־כן לא הגדתי׃"
+    },
+    {
+      "uid": "Nehemiah_28",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 2443,
+      "end_char": 2557,
+      "length": 115,
+      "text": "ואומר אלהם אתם ראים הרעה אשר אנחנו בה אשר ירושל͏ם חרבה ושעריה נצתו באש לכו ונבנה את־חומת ירושל͏ם ולא־נהיה עוד חרפה׃"
+    },
+    {
+      "uid": "Nehemiah_29",
+      "chapter_number": 2,
+      "verse_number": 18,
+      "start_char": 2558,
+      "end_char": 2658,
+      "length": 101,
+      "text": "ואגיד להם את־יד אלהי אשר־היא טובה עלי ואף־דברי המלך אשר אמר־לי ויאמרו נקום ובנינו ויחזקו ידיהם לטובה׃"
+    },
+    {
+      "uid": "Nehemiah_30",
+      "chapter_number": 2,
+      "verse_number": 19,
+      "start_char": 2659,
+      "end_char": 2780,
+      "length": 122,
+      "text": "וישמע סנבלט החרני וטביה׀ העבד העמוני וגשם הערבי וילעגו לנו ויבזו עלינו ויאמרו מה־הדבר הזה אשר אתם עשים העל המלך אתם מרדים׃"
+    },
+    {
+      "uid": "Nehemiah_31",
+      "chapter_number": 2,
+      "verse_number": 20,
+      "start_char": 2781,
+      "end_char": 2890,
+      "length": 110,
+      "text": "ואשיב אותם דבר ואומר להם אלהי השמים הוא יצליח לנו ואנחנו עבדיו נקום ובנינו ולכם אין־חלק וצדקה וזכרון בירושל͏ם׃"
+    },
+    {
+      "uid": "Nehemiah_32",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 2891,
+      "end_char": 3005,
+      "length": 115,
+      "text": "ויקם אלישיב הכהן הגדול ואחיו הכהנים ויבנו את־שער הצאן המה קדשוהו ויעמידו דלתתיו ועד־מגדל המאה קדשוהו עד מגדל חננאל׃"
+    },
+    {
+      "uid": "Nehemiah_33",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 3006,
+      "end_char": 3052,
+      "length": 47,
+      "text": "ועל־ידו בנו אנשי ירחו ועל־ידו בנה זכור בן־אמרי׃"
+    },
+    {
+      "uid": "Nehemiah_34",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 3053,
+      "end_char": 3121,
+      "length": 69,
+      "text": "ואת שער הדגים בנו בני הסנאה המה קרוהו ויעמידו דלתתיו מנעוליו ובריחיו׃"
+    },
+    {
+      "uid": "Nehemiah_35",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 3122,
+      "end_char": 3222,
+      "length": 101,
+      "text": "ועל־ידם החזיק מרמות בן־אוריה בן־הקוץועל־ידם החזיק משלם בן־ברכיה בן־משיזבאלועל־ידם החזיק צדוק בן־בענא׃"
+    },
+    {
+      "uid": "Nehemiah_36",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 3223,
+      "end_char": 3281,
+      "length": 59,
+      "text": "ועל־ידם החזיקו התקועים ואדיריהם לא־הביאו צורם בעבדת אדניהם׃"
+    },
+    {
+      "uid": "Nehemiah_37",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 3282,
+      "end_char": 3372,
+      "length": 91,
+      "text": "ואת שער הישנה החזיקו יוידע בן־פסח ומשלם בן־בסודיה המה קרוהו ויעמידו דלתתיו ומנעליו ובריחיו׃"
+    },
+    {
+      "uid": "Nehemiah_38",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 3373,
+      "end_char": 3448,
+      "length": 76,
+      "text": "ועל־ידם החזיק מלטיה הגבעני וידון המרנתי אנשי גבעון והמצפה לכסא פחת עבר הנהר׃"
+    },
+    {
+      "uid": "Nehemiah_39",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 3449,
+      "end_char": 3542,
+      "length": 94,
+      "text": "על־ידו החזיק עזיאל בן־חרהיה צורפיםועל־ידו החזיק חנניה בן־הרקחים ויעזבו ירושל͏ם עד החומה הרחבה׃"
+    },
+    {
+      "uid": "Nehemiah_40",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 3543,
+      "end_char": 3587,
+      "length": 45,
+      "text": "ועל־ידם החזיק רפיה בן־חור שר חצי פלך ירושל͏ם׃"
+    },
+    {
+      "uid": "Nehemiah_41",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 3588,
+      "end_char": 3654,
+      "length": 67,
+      "text": "ועל־ידם החזיק ידיה בן־חרומף ונגד ביתו ועל־ידו החזיק חטוש בן־חשבניה׃"
+    },
+    {
+      "uid": "Nehemiah_42",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 3655,
+      "end_char": 3717,
+      "length": 63,
+      "text": "מדה שנית החזיק מלכיה בן־חרם וחשוב בן־פחת מואב ואת מגדל התנורים׃"
+    },
+    {
+      "uid": "Nehemiah_43",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 3718,
+      "end_char": 3776,
+      "length": 59,
+      "text": "ועל־ידו החזיק שלום בן־הלוחש שר חצי פלך ירושל͏ם הוא ובנותיו׃"
+    },
+    {
+      "uid": "Nehemiah_44",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 3777,
+      "end_char": 3878,
+      "length": 102,
+      "text": "את שער הגיא החזיק חנון וישבי זנוח המה בנוהו ויעמידו דלתתיו מנעליו ובריחיו ואלף אמה בחומה עד שער השפות׃"
+    },
+    {
+      "uid": "Nehemiah_45",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 3879,
+      "end_char": 3968,
+      "length": 90,
+      "text": "ואת׀ שער האשפות החזיק מלכיה בן־רכב שר פלך בית־הכרם הוא יבננו ויעמיד דלתתיו מנעליו ובריחיו׃"
+    },
+    {
+      "uid": "Nehemiah_46",
+      "chapter_number": 3,
+      "verse_number": 15,
+      "start_char": 3969,
+      "end_char": 4131,
+      "length": 163,
+      "text": "ואת שער העין החזיק שלון בן־כל־חזה שר פלך המצפה הוא יבננו ויטללנו (ויעמידו) [ויעמיד] דלתתיו מנעליו ובריחיו ואת חומת ברכת השלח לגן־המלך ועד־המעלות היורדות מעיר דויד׃"
+    },
+    {
+      "uid": "Nehemiah_47",
+      "chapter_number": 3,
+      "verse_number": 16,
+      "start_char": 4132,
+      "end_char": 4226,
+      "length": 95,
+      "text": "אחריו החזיק נחמיה בן־עזבוק שר חצי פלך בית־צור עד־נגד קברי דויד ועד־הברכה העשויה ועד בית הגברים׃"
+    },
+    {
+      "uid": "Nehemiah_48",
+      "chapter_number": 3,
+      "verse_number": 17,
+      "start_char": 4227,
+      "end_char": 4298,
+      "length": 72,
+      "text": "אחריו החזיקו הלוים רחום בן־בניעל־ידו החזיק חשביה שר־חצי־פלך קעילה לפלכו׃"
+    },
+    {
+      "uid": "Nehemiah_49",
+      "chapter_number": 3,
+      "verse_number": 18,
+      "start_char": 4299,
+      "end_char": 4346,
+      "length": 48,
+      "text": "אחריו החזיקו אחיהם בוי בן־חנדד שר חצי פלך קעילה׃"
+    },
+    {
+      "uid": "Nehemiah_50",
+      "chapter_number": 3,
+      "verse_number": 19,
+      "start_char": 4347,
+      "end_char": 4409,
+      "length": 63,
+      "text": "ויחזק על־ידו עזר בן־ישוע שר המצפה מדה שנית מנגד עלת הנשק המקצע׃"
+    },
+    {
+      "uid": "Nehemiah_51",
+      "chapter_number": 3,
+      "verse_number": 20,
+      "start_char": 4410,
+      "end_char": 4494,
+      "length": 85,
+      "text": "אחריו החרה החזיק ברוך בן־[זכי] (זבי) מדה שנית מן־המקצוע עד־פתח בית אלישיב הכהן הגדול׃"
+    },
+    {
+      "uid": "Nehemiah_52",
+      "chapter_number": 3,
+      "verse_number": 21,
+      "start_char": 4495,
+      "end_char": 4575,
+      "length": 81,
+      "text": "אחריו החזיק מרמות בן־אוריה בן־הקוץ מדה שנית מפתח בית אלישיב ועד־תכלית בית אלישיב׃"
+    },
+    {
+      "uid": "Nehemiah_53",
+      "chapter_number": 3,
+      "verse_number": 22,
+      "start_char": 4576,
+      "end_char": 4606,
+      "length": 31,
+      "text": "ואחריו החזיקו הכהנים אנשי הככר׃"
+    },
+    {
+      "uid": "Nehemiah_54",
+      "chapter_number": 3,
+      "verse_number": 23,
+      "start_char": 4607,
+      "end_char": 4683,
+      "length": 77,
+      "text": "אחריו החזיק בנימן וחשוב נגד ביתםאחריו החזיק עזריה בן־מעשיה בן־ענניה אצל ביתו׃"
+    },
+    {
+      "uid": "Nehemiah_55",
+      "chapter_number": 3,
+      "verse_number": 24,
+      "start_char": 4684,
+      "end_char": 4747,
+      "length": 64,
+      "text": "אחריו החזיק בנוי בן־חנדד מדה שנית מבית עזריה עד־המקצוע ועד־הפנה׃"
+    },
+    {
+      "uid": "Nehemiah_56",
+      "chapter_number": 3,
+      "verse_number": 25,
+      "start_char": 4748,
+      "end_char": 4835,
+      "length": 88,
+      "text": "פלל בן־אוזי מנגד המקצוע והמגדל היוצא מבית המלך העליון אשר לחצר המטרה אחריו פדיה בן־פרעש׃"
+    },
+    {
+      "uid": "Nehemiah_57",
+      "chapter_number": 3,
+      "verse_number": 26,
+      "start_char": 4836,
+      "end_char": 4894,
+      "length": 59,
+      "text": "והנתינים היו ישבים בעפל עד נגד שער המים למזרח והמגדל היוצא׃"
+    },
+    {
+      "uid": "Nehemiah_58",
+      "chapter_number": 3,
+      "verse_number": 27,
+      "start_char": 4895,
+      "end_char": 4960,
+      "length": 66,
+      "text": "אחריו החזיקו התקעים מדה שנית מנגד המגדל הגדול היוצא ועד חומת העפל׃"
+    },
+    {
+      "uid": "Nehemiah_59",
+      "chapter_number": 3,
+      "verse_number": 28,
+      "start_char": 4961,
+      "end_char": 5004,
+      "length": 44,
+      "text": "מעל׀ שער הסוסים החזיקו הכהנים איש לנגד ביתו׃"
+    },
+    {
+      "uid": "Nehemiah_60",
+      "chapter_number": 3,
+      "verse_number": 29,
+      "start_char": 5005,
+      "end_char": 5078,
+      "length": 74,
+      "text": "אחריו החזיק צדוק בן־אמר נגד ביתוואחריו החזיק שמעיה בן־שכניה שמר שער המזרח׃"
+    },
+    {
+      "uid": "Nehemiah_61",
+      "chapter_number": 3,
+      "verse_number": 30,
+      "start_char": 5079,
+      "end_char": 5175,
+      "length": 97,
+      "text": "(אחרי) [אחריו] החזיק חנניה בן־שלמיה וחנון בן־צלף הששי מדה שניאחריו החזיק משלם בן־ברכיה נגד נשכתו׃"
+    },
+    {
+      "uid": "Nehemiah_62",
+      "chapter_number": 3,
+      "verse_number": 31,
+      "start_char": 5176,
+      "end_char": 5262,
+      "length": 87,
+      "text": "(אחרי) [אחריו] החזיק מלכיה בן־הצרפי עד־בית הנתינים והרכלים נגד שער המפקד ועד עלית הפנה׃"
+    },
+    {
+      "uid": "Nehemiah_63",
+      "chapter_number": 3,
+      "verse_number": 32,
+      "start_char": 5263,
+      "end_char": 5309,
+      "length": 47,
+      "text": "ובין עלית הפנה לשער הצאן החזיקו הצרפים והרכלים׃"
+    },
+    {
+      "uid": "Nehemiah_64",
+      "chapter_number": 3,
+      "verse_number": 33,
+      "start_char": 5310,
+      "end_char": 5389,
+      "length": 80,
+      "text": "ויהי כאשר שמע סנבלט כי־אנחנו בונים את־החומה ויחר לו ויכעס הרבה וילעג על־היהודים׃"
+    },
+    {
+      "uid": "Nehemiah_65",
+      "chapter_number": 3,
+      "verse_number": 34,
+      "start_char": 5390,
+      "end_char": 5516,
+      "length": 127,
+      "text": "ויאמר׀ לפני אחיו וחיל שמרון ויאמר מה היהודים האמללים עשים היעזבו להם היזבחו היכלו ביום היחיו את־האבנים מערמות העפר והמה שרופות׃"
+    },
+    {
+      "uid": "Nehemiah_66",
+      "chapter_number": 3,
+      "verse_number": 35,
+      "start_char": 5517,
+      "end_char": 5586,
+      "length": 70,
+      "text": "וטוביה העמני אצלו ויאמר גם אשר־הם בונים אם־יעלה שועל ופרץ חומת אבניהם׃"
+    },
+    {
+      "uid": "Nehemiah_67",
+      "chapter_number": 3,
+      "verse_number": 36,
+      "start_char": 5587,
+      "end_char": 5650,
+      "length": 64,
+      "text": "שמע אלהינו כי־היינו בוזה והשב חרפתם אל־ראשם ותנם לבזה בארץ שביה׃"
+    },
+    {
+      "uid": "Nehemiah_68",
+      "chapter_number": 3,
+      "verse_number": 37,
+      "start_char": 5651,
+      "end_char": 5710,
+      "length": 60,
+      "text": "ואל־תכס על־עונם וחטאתם מלפניך אל־תמחה כי הכעיסו לנגד הבונים׃"
+    },
+    {
+      "uid": "Nehemiah_69",
+      "chapter_number": 3,
+      "verse_number": 38,
+      "start_char": 5711,
+      "end_char": 5766,
+      "length": 56,
+      "text": "ונבנה את־החומה ותקשר כל־החומה עד־חציה ויהי לב לעם לעשות׃"
+    },
+    {
+      "uid": "Nehemiah_70",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 5767,
+      "end_char": 5881,
+      "length": 115,
+      "text": "ויהי כאשר שמע סנבלט וטוביה והערבים והעמנים והאשדודים כי־עלתה ארוכה לחמות ירושל͏ם כי־החלו הפרצים להסתם ויחר להם מאד׃"
+    },
+    {
+      "uid": "Nehemiah_71",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 5882,
+      "end_char": 5932,
+      "length": 51,
+      "text": "ויקשרו כלם יחדו לבוא להלחם בירושל͏ם ולעשות לו תועה׃"
+    },
+    {
+      "uid": "Nehemiah_72",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 5933,
+      "end_char": 5985,
+      "length": 53,
+      "text": "ונתפלל אל־אלהינו ונעמיד משמר עליהם יומם ולילה מפניהם׃"
+    },
+    {
+      "uid": "Nehemiah_73",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 5986,
+      "end_char": 6047,
+      "length": 62,
+      "text": "ויאמר יהודה כשל כח הסבל והעפר הרבה ואנחנו לא נוכל לבנות בחומה׃"
+    },
+    {
+      "uid": "Nehemiah_74",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 6048,
+      "end_char": 6123,
+      "length": 76,
+      "text": "ויאמרו צרינו לא ידעו ולא יראו עד אשר־נבוא אל־תוכם והרגנום והשבתנו את־המלאכה׃"
+    },
+    {
+      "uid": "Nehemiah_75",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 6124,
+      "end_char": 6205,
+      "length": 82,
+      "text": "ויהי כאשר־באו היהודים הישבים אצלם ויאמרו לנו עשר פעמים מכל־המקמות אשר־תשובו עלינו׃"
+    },
+    {
+      "uid": "Nehemiah_76",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 6206,
+      "end_char": 6307,
+      "length": 102,
+      "text": "ואעמיד מתחתיות למקום מאחרי לחומה (בצחחיים) [בצחיחים] ואעמיד את־העם למשפחות עם־חרבתיהם רמחיהם וקשתתיהם׃"
+    },
+    {
+      "uid": "Nehemiah_77",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 6308,
+      "end_char": 6440,
+      "length": 133,
+      "text": "וארא ואקום ואמר אל־החרים ואל־הסגנים ואל־יתר העם אל־תיראו מפניהם את־אדני הגדול והנורא זכרו והלחמו על־אחיכם בניכם ובנתיכם נשיכם ובתיכם׃"
+    },
+    {
+      "uid": "Nehemiah_78",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 6441,
+      "end_char": 6538,
+      "length": 98,
+      "text": "ויהי כאשר־שמעו אויבינו כי־נודע לנו ויפר האלהים את־עצתם (ונשוב) [ונשב] כלנו אל־החומה איש אל־מלאכתו׃"
+    },
+    {
+      "uid": "Nehemiah_79",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 6539,
+      "end_char": 6649,
+      "length": 111,
+      "text": "ויהי׀ מן־היום ההוא חצי נערי עשים במלאכה וחצים מחזיקים והרמחים המגנים והקשתות והשרינים והשרים אחרי כל־בית יהודה׃"
+    },
+    {
+      "uid": "Nehemiah_80",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 6650,
+      "end_char": 6717,
+      "length": 68,
+      "text": "הבונים בחומה והנשאים בסבל עמשים באחת ידו עשה במלאכה ואחת מחזקת השלח׃"
+    },
+    {
+      "uid": "Nehemiah_81",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 6718,
+      "end_char": 6775,
+      "length": 58,
+      "text": "והבונים איש חרבו אסורים על־מתניו ובונים והתוקע בשופר אצלי׃"
+    },
+    {
+      "uid": "Nehemiah_82",
+      "chapter_number": 4,
+      "verse_number": 13,
+      "start_char": 6776,
+      "end_char": 6870,
+      "length": 95,
+      "text": "ואמר אל־החרים ואל־הסגנים ואל־יתר העם המלאכה הרבה ורחבה ואנחנו נפרדים על־החומה רחוקים איש מאחיו׃"
+    },
+    {
+      "uid": "Nehemiah_83",
+      "chapter_number": 4,
+      "verse_number": 14,
+      "start_char": 6871,
+      "end_char": 6931,
+      "length": 61,
+      "text": "במקום אשר תשמעו את־קול השופר שמה תקבצו אלינו אלהינו ילחם לנו׃"
+    },
+    {
+      "uid": "Nehemiah_84",
+      "chapter_number": 4,
+      "verse_number": 15,
+      "start_char": 6932,
+      "end_char": 6997,
+      "length": 66,
+      "text": "ואנחנו עשים במלאכה וחצים מחזיקים ברמחים מעלות השחר עד צאת הכוכבים׃"
+    },
+    {
+      "uid": "Nehemiah_85",
+      "chapter_number": 4,
+      "verse_number": 16,
+      "start_char": 6998,
+      "end_char": 7080,
+      "length": 83,
+      "text": "גם בעת ההיא אמרתי לעם איש ונערו ילינו בתוך ירושל͏ם והיו־לנו הלילה משמר והיום מלאכה׃"
+    },
+    {
+      "uid": "Nehemiah_86",
+      "chapter_number": 4,
+      "verse_number": 17,
+      "start_char": 7081,
+      "end_char": 7158,
+      "length": 78,
+      "text": "ואין אני ואחי ונערי ואנשי המשמר אשר אחרי אין־אנחנו פשטים בגדינו איש שלחו המים׃"
+    },
+    {
+      "uid": "Nehemiah_87",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 7159,
+      "end_char": 7202,
+      "length": 44,
+      "text": "ותהי צעקת העם ונשיהם גדולה אל־אחיהם היהודים׃"
+    },
+    {
+      "uid": "Nehemiah_88",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 7203,
+      "end_char": 7264,
+      "length": 62,
+      "text": "ויש אשר אמרים בנינו ובנתינו אנחנו רבים ונקחה דגן ונאכלה ונחיה׃"
+    },
+    {
+      "uid": "Nehemiah_89",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 7265,
+      "end_char": 7327,
+      "length": 63,
+      "text": "ויש אשר אמרים שדתינו וכרמינו ובתינו אנחנו ערבים ונקחה דגן ברעב׃"
+    },
+    {
+      "uid": "Nehemiah_90",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 7328,
+      "end_char": 7376,
+      "length": 49,
+      "text": "ויש אשר אמרים לוינו כסף למדת המלך שדתינו וכרמינו׃"
+    },
+    {
+      "uid": "Nehemiah_91",
+      "chapter_number": 5,
+      "verse_number": 5,
+      "start_char": 7377,
+      "end_char": 7511,
+      "length": 135,
+      "text": "ועתה כבשר אחינו בשרנו כבניהם בנינו והנה אנחנו כבשים את־בנינו ואת־בנתינו לעבדים ויש מבנתינו נכבשות ואין לאל ידנו ושדתינו וכרמינו לאחרים׃"
+    },
+    {
+      "uid": "Nehemiah_92",
+      "chapter_number": 5,
+      "verse_number": 6,
+      "start_char": 7512,
+      "end_char": 7559,
+      "length": 48,
+      "text": "ויחר לי מאד כאשר שמעתי את־זעקתם ואת הדברים האלה׃"
+    },
+    {
+      "uid": "Nehemiah_93",
+      "chapter_number": 5,
+      "verse_number": 7,
+      "start_char": 7560,
+      "end_char": 7665,
+      "length": 106,
+      "text": "וימלך לבי עלי ואריבה את־החרים ואת־הסגנים ואמרה להם משא איש־באחיו אתם (נשאים) [נשים] ואתן עליהם קהלה גדולה׃"
+    },
+    {
+      "uid": "Nehemiah_94",
+      "chapter_number": 5,
+      "verse_number": 8,
+      "start_char": 7666,
+      "end_char": 7781,
+      "length": 116,
+      "text": "ואמרה להם אנחנו קנינו את־אחינו היהודים הנמכרים לגוים כדי בנו וגם־אתם תמכרו את־אחיכם ונמכרו־לנו ויחרישו ולא מצאו דבר׃"
+    },
+    {
+      "uid": "Nehemiah_95",
+      "chapter_number": 5,
+      "verse_number": 9,
+      "start_char": 7782,
+      "end_char": 7865,
+      "length": 84,
+      "text": "(ויאמר) [ואומר] לא־טוב הדבר אשר־אתם עשים הלוא ביראת אלהינו תלכו מחרפת הגוים אויבינו׃"
+    },
+    {
+      "uid": "Nehemiah_96",
+      "chapter_number": 5,
+      "verse_number": 10,
+      "start_char": 7866,
+      "end_char": 7922,
+      "length": 57,
+      "text": "וגם־אני אחי ונערי נשים בהם כסף ודגן נעזבה־נא את־המשא הזה׃"
+    },
+    {
+      "uid": "Nehemiah_97",
+      "chapter_number": 5,
+      "verse_number": 11,
+      "start_char": 7923,
+      "end_char": 8016,
+      "length": 94,
+      "text": "השיבו נא להם כהיום שדתיהם כרמיהם זיתיהם ובתיהם ומאת הכסף והדגן התירוש והיצהר אשר אתם נשים בהם׃"
+    },
+    {
+      "uid": "Nehemiah_98",
+      "chapter_number": 5,
+      "verse_number": 12,
+      "start_char": 8017,
+      "end_char": 8102,
+      "length": 86,
+      "text": "ויאמרו נשיב ומהם לא נבקש כן נעשה כאשר אתה אומר ואקרא את־הכהנים ואשביעם לעשות כדבר הזה׃"
+    },
+    {
+      "uid": "Nehemiah_99",
+      "chapter_number": 5,
+      "verse_number": 13,
+      "start_char": 8103,
+      "end_char": 8258,
+      "length": 156,
+      "text": "גם־חצני נערתי ואמרה ככה ינער האלהים את־כל־האיש אשר לא־יקים את־הדבר הזה מביתו ומיגיעו וככה יהיה נעור ורק ויאמרו כל־הקהל אמן ויהללו את־יהוה ויעש העם כדבר הזה׃"
+    },
+    {
+      "uid": "Nehemiah_100",
+      "chapter_number": 5,
+      "verse_number": 14,
+      "start_char": 8259,
+      "end_char": 8389,
+      "length": 131,
+      "text": "גם מיום׀ אשר־צוה אותי להיות פחם בארץ יהודה משנת עשרים ועד שנת שלשים ושתים לארתחשסתא המלך שנים שתים עשרה אני ואחי לחם הפחה לא אכלתי׃"
+    },
+    {
+      "uid": "Nehemiah_101",
+      "chapter_number": 5,
+      "verse_number": 15,
+      "start_char": 8390,
+      "end_char": 8523,
+      "length": 134,
+      "text": "והפחות הראשנים אשר־לפני הכבידו על־העם ויקחו מהם בלחם ויין אחר כסף־שקלים ארבעים גם נעריהם שלטו על־העם ואני לא־עשיתי כן מפני יראת אלהים׃"
+    },
+    {
+      "uid": "Nehemiah_102",
+      "chapter_number": 5,
+      "verse_number": 16,
+      "start_char": 8524,
+      "end_char": 8595,
+      "length": 72,
+      "text": "וגם במלאכת החומה הזאת החזקתי ושדה לא קנינו וכל־נערי קבוצים שם על־המלאכה׃"
+    },
+    {
+      "uid": "Nehemiah_103",
+      "chapter_number": 5,
+      "verse_number": 17,
+      "start_char": 8596,
+      "end_char": 8671,
+      "length": 76,
+      "text": "והיהודים והסגנים מאה וחמשים איש והבאים אלינו מן־הגוים אשר־סביבתינו על־שלחני׃"
+    },
+    {
+      "uid": "Nehemiah_104",
+      "chapter_number": 5,
+      "verse_number": 18,
+      "start_char": 8672,
+      "end_char": 8809,
+      "length": 138,
+      "text": "ואשר היה נעשה ליום אחד שור אחד צאן שש־בררות וצפרים נעשו־לי ובין עשרת ימים בכל־יין להרבה ועם־זה לחם הפחה לא בקשתי כי־כבדה העבדה על־העם הזה׃"
+    },
+    {
+      "uid": "Nehemiah_105",
+      "chapter_number": 5,
+      "verse_number": 19,
+      "start_char": 8810,
+      "end_char": 8852,
+      "length": 43,
+      "text": "זכרה־לי אלהי לטובה כל אשר־עשיתי על־העם הזה׃"
+    },
+    {
+      "uid": "Nehemiah_106",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 8853,
+      "end_char": 8978,
+      "length": 126,
+      "text": "ויהי כאשר נשמע לסנבלט וטוביה ולגשם הערבי וליתר איבינו כי בניתי את־החומה ולא־נותר בה פרץ גם עד־העת ההיא דלתות לא־העמדתי בשערים׃"
+    },
+    {
+      "uid": "Nehemiah_107",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 8979,
+      "end_char": 9063,
+      "length": 85,
+      "text": "וישלח סנבלט וגשם אלי לאמר לכה ונועדה יחדו בכפירים בבקעת אונו והמה חשבים לעשות לי רעה׃"
+    },
+    {
+      "uid": "Nehemiah_108",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 9064,
+      "end_char": 9161,
+      "length": 98,
+      "text": "ואשלחה עליהם מלאכים לאמר מלאכה גדולה אני עשה ולא אוכל לרדת למה תשבת המלאכה כאשר ארפה וירדתי אליכם׃"
+    },
+    {
+      "uid": "Nehemiah_109",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 9162,
+      "end_char": 9212,
+      "length": 51,
+      "text": "וישלחו אלי כדבר הזה ארבע פעמים ואשיב אותם כדבר הזה׃"
+    },
+    {
+      "uid": "Nehemiah_110",
+      "chapter_number": 6,
+      "verse_number": 5,
+      "start_char": 9213,
+      "end_char": 9273,
+      "length": 61,
+      "text": "וישלח אלי סנבלט כדבר הזה פעם חמישית את־נערו ואגרת פתוחה בידו׃"
+    },
+    {
+      "uid": "Nehemiah_111",
+      "chapter_number": 6,
+      "verse_number": 6,
+      "start_char": 9274,
+      "end_char": 9378,
+      "length": 105,
+      "text": "כתוב בה בגוים נשמע וגשמו אמר אתה והיהודים חשבים למרוד על־כן אתה בונה החומה ואתה הוה להם למלך כדברים האלה׃"
+    },
+    {
+      "uid": "Nehemiah_112",
+      "chapter_number": 6,
+      "verse_number": 7,
+      "start_char": 9379,
+      "end_char": 9478,
+      "length": 100,
+      "text": "וגם־נביאים העמדת לקרא עליך בירושל͏ם לאמר מלך ביהודה ועתה ישמע למלך כדברים האלה ועתה לכה ונועצה יחדו׃"
+    },
+    {
+      "uid": "Nehemiah_113",
+      "chapter_number": 6,
+      "verse_number": 8,
+      "start_char": 9479,
+      "end_char": 9546,
+      "length": 68,
+      "text": "ואשלחה אליו לאמר לא נהיה כדברים האלה אשר אתה אומר כי מלבך אתה בודאם׃"
+    },
+    {
+      "uid": "Nehemiah_114",
+      "chapter_number": 6,
+      "verse_number": 9,
+      "start_char": 9547,
+      "end_char": 9617,
+      "length": 71,
+      "text": "כי כלם מיראים אותנו לאמר ירפו ידיהם מן־המלאכה ולא תעשה ועתה חזק את־ידי׃"
+    },
+    {
+      "uid": "Nehemiah_115",
+      "chapter_number": 6,
+      "verse_number": 10,
+      "start_char": 9618,
+      "end_char": 9754,
+      "length": 137,
+      "text": "ואני־באתי בית שמעיה בן־דליה בן־מהיטבאל והוא עצור ויאמר נועד אל־בית האלהים אל־תוך ההיכל ונסגרה דלתות ההיכל כי באים להרגך ולילה באים להרגך׃"
+    },
+    {
+      "uid": "Nehemiah_116",
+      "chapter_number": 6,
+      "verse_number": 11,
+      "start_char": 9755,
+      "end_char": 9815,
+      "length": 61,
+      "text": "ואמרה האיש כמוני יברח ומי כמוני אשר־יבא אל־ההיכל וחי לא אבוא׃"
+    },
+    {
+      "uid": "Nehemiah_117",
+      "chapter_number": 6,
+      "verse_number": 12,
+      "start_char": 9816,
+      "end_char": 9878,
+      "length": 63,
+      "text": "ואכירה והנה לא־אלהים שלחו כי הנבואה דבר עלי וטוביה וסנבלט שכרו׃"
+    },
+    {
+      "uid": "Nehemiah_118",
+      "chapter_number": 6,
+      "verse_number": 13,
+      "start_char": 9879,
+      "end_char": 9947,
+      "length": 69,
+      "text": "למען שכור הוא למען־אירא ואעשה־כן וחטאתי והיה להם לשם רע למען יחרפוני׃"
+    },
+    {
+      "uid": "Nehemiah_119",
+      "chapter_number": 6,
+      "verse_number": 14,
+      "start_char": 9948,
+      "end_char": 10036,
+      "length": 89,
+      "text": "זכרה אלהי לטוביה ולסנבלט כמעשיו אלה וגם לנועדיה הנביאה וליתר הנביאים אשר היו מיראים אותי׃"
+    },
+    {
+      "uid": "Nehemiah_120",
+      "chapter_number": 6,
+      "verse_number": 15,
+      "start_char": 10037,
+      "end_char": 10084,
+      "length": 48,
+      "text": "ותשלם החומה בעשרים וחמשה לאלול לחמשים ושנים יום׃"
+    },
+    {
+      "uid": "Nehemiah_121",
+      "chapter_number": 6,
+      "verse_number": 16,
+      "start_char": 10085,
+      "end_char": 10194,
+      "length": 110,
+      "text": "ויהי כאשר שמעו כל־אויבינו ויראו כל־הגוים אשר סביבתינו ויפלו מאד בעיניהם וידעו כי מאת אלהינו נעשתה המלאכה הזאת׃"
+    },
+    {
+      "uid": "Nehemiah_122",
+      "chapter_number": 6,
+      "verse_number": 17,
+      "start_char": 10195,
+      "end_char": 10271,
+      "length": 77,
+      "text": "גם׀ בימים ההם מרבים חרי יהודה אגרתיהם הולכות על־טוביה ואשר לטוביה באות אליהם׃"
+    },
+    {
+      "uid": "Nehemiah_123",
+      "chapter_number": 6,
+      "verse_number": 18,
+      "start_char": 10272,
+      "end_char": 10361,
+      "length": 90,
+      "text": "כי־רבים ביהודה בעלי שבועה לו כי־חתן הוא לשכניה בן־ארח ויהוחנן בנו לקח את־בת־משלם בן ברכיה׃"
+    },
+    {
+      "uid": "Nehemiah_124",
+      "chapter_number": 6,
+      "verse_number": 19,
+      "start_char": 10362,
+      "end_char": 10430,
+      "length": 69,
+      "text": "גם טובתיו היו אמרים לפני ודברי היו מוציאים לו אגרות שלח טוביה ליראני׃"
+    },
+    {
+      "uid": "Nehemiah_125",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 10431,
+      "end_char": 10497,
+      "length": 67,
+      "text": "ויהי כאשר נבנתה החומה ואעמיד הדלתות ויפקדו השוערים והמשררים והלוים׃"
+    },
+    {
+      "uid": "Nehemiah_126",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 10498,
+      "end_char": 10582,
+      "length": 85,
+      "text": "ואצוה את־חנני אחי ואת־חנניה שר הבירה על־ירושל͏ם כי־הוא כאיש אמת וירא את־האלהים מרבים׃"
+    },
+    {
+      "uid": "Nehemiah_127",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 10583,
+      "end_char": 10718,
+      "length": 136,
+      "text": "(ויאמר) [ואמר] להם לא יפתחו שערי ירושל͏ם עד־חם השמש ועד הם עמדים יגיפו הדלתות ואחזו והעמיד משמרות ישבי ירושל͏ם איש במשמרו ואיש נגד ביתו׃"
+    },
+    {
+      "uid": "Nehemiah_128",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 10719,
+      "end_char": 10771,
+      "length": 53,
+      "text": "והעיר רחבת ידים וגדלה והעם מעט בתוכה ואין בתים בנוים׃"
+    },
+    {
+      "uid": "Nehemiah_129",
+      "chapter_number": 7,
+      "verse_number": 5,
+      "start_char": 10772,
+      "end_char": 10874,
+      "length": 103,
+      "text": "ויתן אלהי אל־לבי ואקבצה את־החרים ואת־הסגנים ואת־העם להתיחש ואמצא ספר היחש העולים בראשונה ואמצא כתוב בו׃"
+    },
+    {
+      "uid": "Nehemiah_130",
+      "chapter_number": 7,
+      "verse_number": 6,
+      "start_char": 10875,
+      "end_char": 10967,
+      "length": 93,
+      "text": "אלה׀ בני המדינה העלים משבי הגולה אשר הגלה נבוכדנצר מלך בבל וישובו לירושל͏ם וליהודה איש לעירו׃"
+    },
+    {
+      "uid": "Nehemiah_131",
+      "chapter_number": 7,
+      "verse_number": 7,
+      "start_char": 10968,
+      "end_char": 11062,
+      "length": 95,
+      "text": "הבאים עם־זרבבל ישוע נחמיה עזריה רעמיה נחמני מרדכי בלשן מספרת בגוי נחום בענה מספר אנשי עם ישראל׃"
+    },
+    {
+      "uid": "Nehemiah_132",
+      "chapter_number": 7,
+      "verse_number": 8,
+      "start_char": 11063,
+      "end_char": 11094,
+      "length": 32,
+      "text": "בני פרעש אלפים מאה ושבעים ושנים׃"
+    },
+    {
+      "uid": "Nehemiah_133",
+      "chapter_number": 7,
+      "verse_number": 9,
+      "start_char": 11095,
+      "end_char": 11125,
+      "length": 31,
+      "text": "בני שפטיה שלש מאות שבעים ושנים׃"
+    },
+    {
+      "uid": "Nehemiah_134",
+      "chapter_number": 7,
+      "verse_number": 10,
+      "start_char": 11126,
+      "end_char": 11153,
+      "length": 28,
+      "text": "בני ארח שש מאות חמשים ושנים׃"
+    },
+    {
+      "uid": "Nehemiah_135",
+      "chapter_number": 7,
+      "verse_number": 11,
+      "start_char": 11154,
+      "end_char": 11208,
+      "length": 55,
+      "text": "בני־פחת מואב לבני ישוע ויואב אלפים ושמנה מאות שמנה עשר׃"
+    },
+    {
+      "uid": "Nehemiah_136",
+      "chapter_number": 7,
+      "verse_number": 12,
+      "start_char": 11209,
+      "end_char": 11240,
+      "length": 32,
+      "text": "בני עילם אלף מאתים חמשים וארבעה׃"
+    },
+    {
+      "uid": "Nehemiah_137",
+      "chapter_number": 7,
+      "verse_number": 13,
+      "start_char": 11241,
+      "end_char": 11272,
+      "length": 32,
+      "text": "בני זתוא שמנה מאות ארבעים וחמשה׃"
+    },
+    {
+      "uid": "Nehemiah_138",
+      "chapter_number": 7,
+      "verse_number": 14,
+      "start_char": 11273,
+      "end_char": 11295,
+      "length": 23,
+      "text": "בני זכי שבע מאות וששים׃"
+    },
+    {
+      "uid": "Nehemiah_139",
+      "chapter_number": 7,
+      "verse_number": 15,
+      "start_char": 11296,
+      "end_char": 11325,
+      "length": 30,
+      "text": "בני בנוי שש מאות ארבעים ושמנה׃"
+    },
+    {
+      "uid": "Nehemiah_140",
+      "chapter_number": 7,
+      "verse_number": 16,
+      "start_char": 11326,
+      "end_char": 11353,
+      "length": 28,
+      "text": "בני בבי שש מאות עשרים ושמנה׃"
+    },
+    {
+      "uid": "Nehemiah_141",
+      "chapter_number": 7,
+      "verse_number": 17,
+      "start_char": 11354,
+      "end_char": 11389,
+      "length": 36,
+      "text": "בני עזגד אלפים שלש מאות עשרים ושנים׃"
+    },
+    {
+      "uid": "Nehemiah_142",
+      "chapter_number": 7,
+      "verse_number": 18,
+      "start_char": 11390,
+      "end_char": 11419,
+      "length": 30,
+      "text": "בני אדניקם שש מאות ששים ושבעה׃"
+    },
+    {
+      "uid": "Nehemiah_143",
+      "chapter_number": 7,
+      "verse_number": 19,
+      "start_char": 11420,
+      "end_char": 11445,
+      "length": 26,
+      "text": "בני בגוי אלפים ששים ושבעה׃"
+    },
+    {
+      "uid": "Nehemiah_144",
+      "chapter_number": 7,
+      "verse_number": 20,
+      "start_char": 11446,
+      "end_char": 11474,
+      "length": 29,
+      "text": "בני עדין שש מאות חמשים וחמשה׃"
+    },
+    {
+      "uid": "Nehemiah_145",
+      "chapter_number": 7,
+      "verse_number": 21,
+      "start_char": 11475,
+      "end_char": 11501,
+      "length": 27,
+      "text": "בני־אטר לחזקיה תשעים ושמנה׃"
+    },
+    {
+      "uid": "Nehemiah_146",
+      "chapter_number": 7,
+      "verse_number": 22,
+      "start_char": 11502,
+      "end_char": 11530,
+      "length": 29,
+      "text": "בני חשם שלש מאות עשרים ושמנה׃"
+    },
+    {
+      "uid": "Nehemiah_147",
+      "chapter_number": 7,
+      "verse_number": 23,
+      "start_char": 11531,
+      "end_char": 11560,
+      "length": 30,
+      "text": "בני בצי שלש מאות עשרים וארבעה׃"
+    },
+    {
+      "uid": "Nehemiah_148",
+      "chapter_number": 7,
+      "verse_number": 24,
+      "start_char": 11561,
+      "end_char": 11582,
+      "length": 22,
+      "text": "בני חריף מאה שנים עשר׃"
+    },
+    {
+      "uid": "Nehemiah_149",
+      "chapter_number": 7,
+      "verse_number": 25,
+      "start_char": 11583,
+      "end_char": 11604,
+      "length": 22,
+      "text": "בני גבעון תשעים וחמשה׃"
+    },
+    {
+      "uid": "Nehemiah_150",
+      "chapter_number": 7,
+      "verse_number": 26,
+      "start_char": 11605,
+      "end_char": 11639,
+      "length": 35,
+      "text": "אנשי בית־לחם ונטפה מאה שמנים ושמנה׃"
+    },
+    {
+      "uid": "Nehemiah_151",
+      "chapter_number": 7,
+      "verse_number": 27,
+      "start_char": 11640,
+      "end_char": 11666,
+      "length": 27,
+      "text": "אנשי ענתות מאה עשרים ושמנה׃"
+    },
+    {
+      "uid": "Nehemiah_152",
+      "chapter_number": 7,
+      "verse_number": 28,
+      "start_char": 11667,
+      "end_char": 11694,
+      "length": 28,
+      "text": "אנשי בית־עזמות ארבעים ושנים׃"
+    },
+    {
+      "uid": "Nehemiah_153",
+      "chapter_number": 7,
+      "verse_number": 29,
+      "start_char": 11695,
+      "end_char": 11745,
+      "length": 51,
+      "text": "אנשי קרית יערים כפירה ובארות שבע מאות ארבעים ושלשה׃"
+    },
+    {
+      "uid": "Nehemiah_154",
+      "chapter_number": 7,
+      "verse_number": 30,
+      "start_char": 11746,
+      "end_char": 11779,
+      "length": 34,
+      "text": "אנשי הרמה וגבע שש מאות עשרים ואחד׃"
+    },
+    {
+      "uid": "Nehemiah_155",
+      "chapter_number": 7,
+      "verse_number": 31,
+      "start_char": 11780,
+      "end_char": 11806,
+      "length": 27,
+      "text": "אנשי מכמס מאה ועשרים ושנים׃"
+    },
+    {
+      "uid": "Nehemiah_156",
+      "chapter_number": 7,
+      "verse_number": 32,
+      "start_char": 11807,
+      "end_char": 11839,
+      "length": 33,
+      "text": "אנשי בית־אל והעי מאה עשרים ושלשה׃"
+    },
+    {
+      "uid": "Nehemiah_157",
+      "chapter_number": 7,
+      "verse_number": 33,
+      "start_char": 11840,
+      "end_char": 11864,
+      "length": 25,
+      "text": "אנשי נבו אחר חמשים ושנים׃"
+    },
+    {
+      "uid": "Nehemiah_158",
+      "chapter_number": 7,
+      "verse_number": 34,
+      "start_char": 11865,
+      "end_char": 11900,
+      "length": 36,
+      "text": "בני עילם אחר אלף מאתים חמשים וארבעה׃"
+    },
+    {
+      "uid": "Nehemiah_159",
+      "chapter_number": 7,
+      "verse_number": 35,
+      "start_char": 11901,
+      "end_char": 11924,
+      "length": 24,
+      "text": "בני חרם שלש מאות ועשרים׃"
+    },
+    {
+      "uid": "Nehemiah_160",
+      "chapter_number": 7,
+      "verse_number": 36,
+      "start_char": 11925,
+      "end_char": 11955,
+      "length": 31,
+      "text": "בני ירחו שלש מאות ארבעים וחמשה׃"
+    },
+    {
+      "uid": "Nehemiah_161",
+      "chapter_number": 7,
+      "verse_number": 37,
+      "start_char": 11956,
+      "end_char": 11993,
+      "length": 38,
+      "text": "בני־לד חדיד ואנו שבע מאות ועשרים ואחד׃"
+    },
+    {
+      "uid": "Nehemiah_162",
+      "chapter_number": 7,
+      "verse_number": 38,
+      "start_char": 11994,
+      "end_char": 12029,
+      "length": 36,
+      "text": "בני סנאה שלשת אלפים תשע מאות ושלשים׃"
+    },
+    {
+      "uid": "Nehemiah_163",
+      "chapter_number": 7,
+      "verse_number": 39,
+      "start_char": 12030,
+      "end_char": 12077,
+      "length": 48,
+      "text": "הכהנים בני ידעיה לבית ישוע תשע מאות שבעים ושלשה׃"
+    },
+    {
+      "uid": "Nehemiah_164",
+      "chapter_number": 7,
+      "verse_number": 40,
+      "start_char": 12078,
+      "end_char": 12101,
+      "length": 24,
+      "text": "בני אמר אלף חמשים ושנים׃"
+    },
+    {
+      "uid": "Nehemiah_165",
+      "chapter_number": 7,
+      "verse_number": 41,
+      "start_char": 12102,
+      "end_char": 12134,
+      "length": 33,
+      "text": "בני פשחור אלף מאתים ארבעים ושבעה׃"
+    },
+    {
+      "uid": "Nehemiah_166",
+      "chapter_number": 7,
+      "verse_number": 42,
+      "start_char": 12135,
+      "end_char": 12155,
+      "length": 21,
+      "text": "בני חרם אלף שבעה עשר׃"
+    },
+    {
+      "uid": "Nehemiah_167",
+      "chapter_number": 7,
+      "verse_number": 43,
+      "start_char": 12156,
+      "end_char": 12203,
+      "length": 48,
+      "text": "הלוים בני־ישוע לקדמיאל לבני להודוה שבעים וארבעה׃"
+    },
+    {
+      "uid": "Nehemiah_168",
+      "chapter_number": 7,
+      "verse_number": 44,
+      "start_char": 12204,
+      "end_char": 12236,
+      "length": 33,
+      "text": "המשררים בני אסף מאה ארבעים ושמנה׃"
+    },
+    {
+      "uid": "Nehemiah_169",
+      "chapter_number": 7,
+      "verse_number": 45,
+      "start_char": 12237,
+      "end_char": 12311,
+      "length": 75,
+      "text": "השערים בני־שלם בני־אטר בני־טלמן בני־עקוב בני חטיטא בני שבי מאה שלשים ושמנה׃"
+    },
+    {
+      "uid": "Nehemiah_170",
+      "chapter_number": 7,
+      "verse_number": 46,
+      "start_char": 12312,
+      "end_char": 12346,
+      "length": 35,
+      "text": "הנתינים בני־צחא בני־חשפא בני טבעות׃"
+    },
+    {
+      "uid": "Nehemiah_171",
+      "chapter_number": 7,
+      "verse_number": 47,
+      "start_char": 12347,
+      "end_char": 12373,
+      "length": 27,
+      "text": "בני־קירס בני־סיעא בני פדון׃"
+    },
+    {
+      "uid": "Nehemiah_172",
+      "chapter_number": 7,
+      "verse_number": 48,
+      "start_char": 12374,
+      "end_char": 12400,
+      "length": 27,
+      "text": "בני־לבנה בני־חגבא בני שלמי׃"
+    },
+    {
+      "uid": "Nehemiah_173",
+      "chapter_number": 7,
+      "verse_number": 49,
+      "start_char": 12401,
+      "end_char": 12424,
+      "length": 24,
+      "text": "בני־חנן בני־גדל בני־גחר׃"
+    },
+    {
+      "uid": "Nehemiah_174",
+      "chapter_number": 7,
+      "verse_number": 50,
+      "start_char": 12425,
+      "end_char": 12452,
+      "length": 28,
+      "text": "בני־ראיה בני־רצין בני נקודא׃"
+    },
+    {
+      "uid": "Nehemiah_175",
+      "chapter_number": 7,
+      "verse_number": 51,
+      "start_char": 12453,
+      "end_char": 12476,
+      "length": 24,
+      "text": "בני־גזם בני־עזא בני פסח׃"
+    },
+    {
+      "uid": "Nehemiah_176",
+      "chapter_number": 7,
+      "verse_number": 52,
+      "start_char": 12477,
+      "end_char": 12519,
+      "length": 43,
+      "text": "בני־בסי בני־מעונים בני (נפושסים) [נפישסים]׃"
+    },
+    {
+      "uid": "Nehemiah_177",
+      "chapter_number": 7,
+      "verse_number": 53,
+      "start_char": 12520,
+      "end_char": 12549,
+      "length": 30,
+      "text": "בני־בקבוק בני־חקופא בני חרחור׃"
+    },
+    {
+      "uid": "Nehemiah_178",
+      "chapter_number": 7,
+      "verse_number": 54,
+      "start_char": 12550,
+      "end_char": 12578,
+      "length": 29,
+      "text": "בני־בצלית בני־מחידא בני חרשא׃"
+    },
+    {
+      "uid": "Nehemiah_179",
+      "chapter_number": 7,
+      "verse_number": 55,
+      "start_char": 12579,
+      "end_char": 12606,
+      "length": 28,
+      "text": "בני־ברקוס בני־סיסרא בני־תמח׃"
+    },
+    {
+      "uid": "Nehemiah_180",
+      "chapter_number": 7,
+      "verse_number": 56,
+      "start_char": 12607,
+      "end_char": 12625,
+      "length": 19,
+      "text": "בני נציח בני חטיפא׃"
+    },
+    {
+      "uid": "Nehemiah_181",
+      "chapter_number": 7,
+      "verse_number": 57,
+      "start_char": 12626,
+      "end_char": 12667,
+      "length": 42,
+      "text": "בני עבדי שלמה בני־סוטי בני־ספרת בני פרידא׃"
+    },
+    {
+      "uid": "Nehemiah_182",
+      "chapter_number": 7,
+      "verse_number": 58,
+      "start_char": 12668,
+      "end_char": 12694,
+      "length": 27,
+      "text": "בני־יעלא בני־דרקון בני גדל׃"
+    },
+    {
+      "uid": "Nehemiah_183",
+      "chapter_number": 7,
+      "verse_number": 59,
+      "start_char": 12695,
+      "end_char": 12737,
+      "length": 43,
+      "text": "בני שפטיה בני־חטילבני פכרת הצביים בני אמון׃"
+    },
+    {
+      "uid": "Nehemiah_184",
+      "chapter_number": 7,
+      "verse_number": 60,
+      "start_char": 12738,
+      "end_char": 12784,
+      "length": 47,
+      "text": "כל־הנתינים ובני עבדי שלמה שלש מאות תשעים ושנים׃"
+    },
+    {
+      "uid": "Nehemiah_185",
+      "chapter_number": 7,
+      "verse_number": 61,
+      "start_char": 12785,
+      "end_char": 12870,
+      "length": 86,
+      "text": "ואלה העולים מתל מלח תל חרשא כרוב אדון ואמר ולא יכלו להגיד בית־אבתם וזרעם אם מישראל הם׃"
+    },
+    {
+      "uid": "Nehemiah_186",
+      "chapter_number": 7,
+      "verse_number": 62,
+      "start_char": 12871,
+      "end_char": 12921,
+      "length": 51,
+      "text": "בני־דליה בני־טוביה בני נקודא שש מאות וארבעים ושנים׃"
+    },
+    {
+      "uid": "Nehemiah_187",
+      "chapter_number": 7,
+      "verse_number": 63,
+      "start_char": 12922,
+      "end_char": 13004,
+      "length": 83,
+      "text": "ומן־הכהנים בני חביה בני הקוץ בני ברזלי אשר לקח מבנות ברזלי הגלעדי אשה ויקרא על־שמם׃"
+    },
+    {
+      "uid": "Nehemiah_188",
+      "chapter_number": 7,
+      "verse_number": 64,
+      "start_char": 13005,
+      "end_char": 13052,
+      "length": 48,
+      "text": "אלה בקשו כתבם המתיחשים ולא נמצא ויגאלו מן־הכהנה׃"
+    },
+    {
+      "uid": "Nehemiah_189",
+      "chapter_number": 7,
+      "verse_number": 65,
+      "start_char": 13053,
+      "end_char": 13119,
+      "length": 67,
+      "text": "ויאמר התרשתא להם אשר לא־יאכלו מקדש הקדשים עד עמד הכהן לאורים ותמים׃"
+    },
+    {
+      "uid": "Nehemiah_190",
+      "chapter_number": 7,
+      "verse_number": 66,
+      "start_char": 13120,
+      "end_char": 13163,
+      "length": 44,
+      "text": "כל־הקהל כאחד ארבע רבוא אלפים שלש־מאות וששים׃"
+    },
+    {
+      "uid": "Nehemiah_191",
+      "chapter_number": 7,
+      "verse_number": 67,
+      "start_char": 13164,
+      "end_char": 13260,
+      "length": 97,
+      "text": "מלבד עבדיהם ואמהתיהם אלה שבעת אלפים שלש מאות שלשים ושבעה ולהם משררים ומשררות מאתים וארבעים וחמשה׃"
+    },
+    {
+      "uid": "Nehemiah_192",
+      "chapter_number": 7,
+      "verse_number": 68,
+      "start_char": 13261,
+      "end_char": 13320,
+      "length": 60,
+      "text": "גמלים ארבע מאות שלשים וחמשה חמרים ששת אלפים שבע מאות ועשרים׃"
+    },
+    {
+      "uid": "Nehemiah_193",
+      "chapter_number": 7,
+      "verse_number": 69,
+      "start_char": 13321,
+      "end_char": 13423,
+      "length": 103,
+      "text": "ומקצת ראשי האבות נתנו למלאכה התרשתא נתן לאוצר זהב דרכמנים אלף מזרקות חמשים כתנות כהנים שלשים וחמש מאות׃"
+    },
+    {
+      "uid": "Nehemiah_194",
+      "chapter_number": 7,
+      "verse_number": 70,
+      "start_char": 13424,
+      "end_char": 13499,
+      "length": 76,
+      "text": "ומראשי האבות נתנו לאוצר המלאכה זהב דרכמונים שתי רבות וכסף מנים אלפים ומאתים׃"
+    },
+    {
+      "uid": "Nehemiah_195",
+      "chapter_number": 7,
+      "verse_number": 71,
+      "start_char": 13500,
+      "end_char": 13579,
+      "length": 80,
+      "text": "ואשר נתנו שארית העם זהב דרכמנים שתי רבוא וכסף מנים אלפים וכתנת כהנים ששים ושבעה׃"
+    },
+    {
+      "uid": "Nehemiah_196",
+      "chapter_number": 7,
+      "verse_number": 72,
+      "start_char": 13580,
+      "end_char": 13685,
+      "length": 106,
+      "text": "וישבו הכהנים והלוים והשוערים והמשררים ומן־העם והנתינים וכל־ישראל בעריהםויגע החדש השביעי ובני ישראל בעריהם׃"
+    },
+    {
+      "uid": "Nehemiah_197",
+      "chapter_number": 8,
+      "verse_number": 1,
+      "start_char": 13686,
+      "end_char": 13797,
+      "length": 112,
+      "text": "ויאספו כל־העם כאיש אחד אל־הרחוב אשר לפני שער־המים ויאמרו לעזרא הספר להביא את־ספר תורת משה אשר־צוה יהוה את־ישראל׃"
+    },
+    {
+      "uid": "Nehemiah_198",
+      "chapter_number": 8,
+      "verse_number": 2,
+      "start_char": 13798,
+      "end_char": 13880,
+      "length": 83,
+      "text": "ויביא עזרא הכהן את־התורה לפני הקהל מאיש ועד־אשה וכל מבין לשמע ביום אחד לחדש השביעי׃"
+    },
+    {
+      "uid": "Nehemiah_199",
+      "chapter_number": 8,
+      "verse_number": 3,
+      "start_char": 13881,
+      "end_char": 13994,
+      "length": 114,
+      "text": "ויקרא־בו לפני הרחוב אשר׀ לפני שער־המים מן־האור עד־מחצית היום נגד האנשים והנשים והמבינים ואזני כל־העם אל־ספר התורה׃"
+    },
+    {
+      "uid": "Nehemiah_200",
+      "chapter_number": 8,
+      "verse_number": 4,
+      "start_char": 13995,
+      "end_char": 14143,
+      "length": 149,
+      "text": "ויעמד עזרא הספר על־מגדל־עץ אשר עשו לדבר ויעמד אצלו מתתיה ושמע ועניה ואוריה וחלקיה ומעשיה על־ימינו ומשמאלו פדיה ומישאל ומלכיה וחשם וחשבדנה זכריה משלם׃"
+    },
+    {
+      "uid": "Nehemiah_201",
+      "chapter_number": 8,
+      "verse_number": 5,
+      "start_char": 14144,
+      "end_char": 14209,
+      "length": 66,
+      "text": "ויפתח עזרא הספר לעיני כל־העם כי־מעל כל־העם היה וכפתחו עמדו כל־העם׃"
+    },
+    {
+      "uid": "Nehemiah_202",
+      "chapter_number": 8,
+      "verse_number": 6,
+      "start_char": 14210,
+      "end_char": 14303,
+      "length": 94,
+      "text": "ויברך עזרא את־יהוה האלהים הגדול ויענו כל־העם אמן׀אמן במעל ידיהם ויקדו וישתחוו ליהוה אפים ארצה׃"
+    },
+    {
+      "uid": "Nehemiah_203",
+      "chapter_number": 8,
+      "verse_number": 7,
+      "start_char": 14304,
+      "end_char": 14417,
+      "length": 114,
+      "text": "וישוע ובני ושרביה׀ ימין עקוב שבתי׀הודיה מעשיה קליטא עזריה יוזבד חנן פלאיה והלוים מבינים את־העם לתורה והעם על־עמדם׃"
+    },
+    {
+      "uid": "Nehemiah_204",
+      "chapter_number": 8,
+      "verse_number": 8,
+      "start_char": 14418,
+      "end_char": 14469,
+      "length": 52,
+      "text": "ויקראו בספר בתורת האלהים מפרש ושום שכל ויבינו במקרא׃"
+    },
+    {
+      "uid": "Nehemiah_205",
+      "chapter_number": 8,
+      "verse_number": 9,
+      "start_char": 14470,
+      "end_char": 14619,
+      "length": 150,
+      "text": "ויאמר נחמיה הוא התרשתא ועזרא הכהן׀הספר והלוים המבינים את־העם לכל־העם היום קדש־הוא ליהוה אלהיכם אל־תתאבלו ואל־תבכו כי בוכים כל־העם כשמעם את־דברי התורה׃"
+    },
+    {
+      "uid": "Nehemiah_206",
+      "chapter_number": 8,
+      "verse_number": 10,
+      "start_char": 14620,
+      "end_char": 14735,
+      "length": 116,
+      "text": "ויאמר להם לכו אכלו משמנים ושתו ממתקים ושלחו מנות לאין נכון לו כי־קדוש היום לאדנינו ואל־תעצבו כי־חדות יהוה היא מעזכם׃"
+    },
+    {
+      "uid": "Nehemiah_207",
+      "chapter_number": 8,
+      "verse_number": 11,
+      "start_char": 14736,
+      "end_char": 14787,
+      "length": 52,
+      "text": "והלוים מחשים לכל־העם לאמר הסו כי היום קדש ואל־תעצבו׃"
+    },
+    {
+      "uid": "Nehemiah_208",
+      "chapter_number": 8,
+      "verse_number": 12,
+      "start_char": 14788,
+      "end_char": 14872,
+      "length": 85,
+      "text": "וילכו כל־העם לאכל ולשתות ולשלח מנות ולעשות שמחה גדולה כי הבינו בדברים אשר הודיעו להם׃"
+    },
+    {
+      "uid": "Nehemiah_209",
+      "chapter_number": 8,
+      "verse_number": 13,
+      "start_char": 14873,
+      "end_char": 14957,
+      "length": 85,
+      "text": "וביום השני נאספו ראשי האבות לכל־העם הכהנים והלוים אל־עזרא הספר ולהשכיל אל־דברי התורה׃"
+    },
+    {
+      "uid": "Nehemiah_210",
+      "chapter_number": 8,
+      "verse_number": 14,
+      "start_char": 14958,
+      "end_char": 15037,
+      "length": 80,
+      "text": "וימצאו כתוב בתורה אשר צוה יהוה ביד־משה אשר ישבו בני־ישראל בסכות בחג בחדש השביעי׃"
+    },
+    {
+      "uid": "Nehemiah_211",
+      "chapter_number": 8,
+      "verse_number": 15,
+      "start_char": 15038,
+      "end_char": 15168,
+      "length": 131,
+      "text": "ואשר ישמיעו ויעבירו קול בכל־עריהם ובירושל͏ם לאמר צאו ההר והביאו עלי־זית ועלי־עץ שמן ועלי הדס ועלי תמרים ועלי עץ עבת לעשת סכת ככתוב׃"
+    },
+    {
+      "uid": "Nehemiah_212",
+      "chapter_number": 8,
+      "verse_number": 16,
+      "start_char": 15169,
+      "end_char": 15273,
+      "length": 105,
+      "text": "ויצאו העם ויביאו ויעשו להם סכות איש על־גגו ובחצרתיהם ובחצרות בית האלהים וברחוב שער המים וברחוב שער אפרים׃"
+    },
+    {
+      "uid": "Nehemiah_213",
+      "chapter_number": 8,
+      "verse_number": 17,
+      "start_char": 15274,
+      "end_char": 15391,
+      "length": 118,
+      "text": "ויעשו כל־הקהל השבים מן־השבי׀סכות וישבו בסכות כי לא־עשו מימי ישוע בן־נון כן בני ישראל עד היום ההוא ותהי שמחה גדולה מאד׃"
+    },
+    {
+      "uid": "Nehemiah_214",
+      "chapter_number": 8,
+      "verse_number": 18,
+      "start_char": 15392,
+      "end_char": 15496,
+      "length": 105,
+      "text": "ויקרא בספר תורת האלהים יום׀ביום מן־היום הראשון עד היום האחרון ויעשו־חג שבעת ימים וביום השמיני עצרת כמשפט׃"
+    },
+    {
+      "uid": "Nehemiah_215",
+      "chapter_number": 9,
+      "verse_number": 1,
+      "start_char": 15497,
+      "end_char": 15564,
+      "length": 68,
+      "text": "וביום עשרים וארבעה לחדש הזה נאספו בני־ישראל בצום ובשקים ואדמה עליהם׃"
+    },
+    {
+      "uid": "Nehemiah_216",
+      "chapter_number": 9,
+      "verse_number": 2,
+      "start_char": 15565,
+      "end_char": 15632,
+      "length": 68,
+      "text": "ויבדלו זרע ישראל מכל בני נכר ויעמדו ויתודו על־חטאתיהם ועונות אבתיהם׃"
+    },
+    {
+      "uid": "Nehemiah_217",
+      "chapter_number": 9,
+      "verse_number": 3,
+      "start_char": 15633,
+      "end_char": 15723,
+      "length": 91,
+      "text": "ויקומו על־עמדם ויקראו בספר תורת יהוה אלהיהם רבעית היום ורבעית מתודים ומשתחוים ליהוה אלהיהם׃"
+    },
+    {
+      "uid": "Nehemiah_218",
+      "chapter_number": 9,
+      "verse_number": 4,
+      "start_char": 15724,
+      "end_char": 15816,
+      "length": 93,
+      "text": "ויקם על־מעלה הלוים ישוע ובני קדמיאל שבניה בני שרביה בני כנני ויזעקו בקול גדול אל־יהוה אלהיהם׃"
+    },
+    {
+      "uid": "Nehemiah_219",
+      "chapter_number": 9,
+      "verse_number": 5,
+      "start_char": 15817,
+      "end_char": 15959,
+      "length": 143,
+      "text": "ויאמרו הלוים ישוע וקדמיאל בני חשבניה שרביה הודיה שבניה פתחיה קומו ברכו את־יהוה אלהיכם מן־העולם עד־העולם ויברכו שם כבדך ומרומם על־כל־ברכה ותהלה׃"
+    },
+    {
+      "uid": "Nehemiah_220",
+      "chapter_number": 9,
+      "verse_number": 6,
+      "start_char": 15960,
+      "end_char": 16096,
+      "length": 137,
+      "text": "אתה־הוא יהוה לבדך (את) [אתה] עשית את־השמים שמי השמים וכל־צבאם הארץ וכל־אשר עליה הימים וכל־אשר בהם ואתה מחיה את־כלם וצבא השמים לך משתחוים׃"
+    },
+    {
+      "uid": "Nehemiah_221",
+      "chapter_number": 9,
+      "verse_number": 7,
+      "start_char": 16097,
+      "end_char": 16165,
+      "length": 69,
+      "text": "אתה־הוא יהוה האלהים אשר בחרת באברם והוצאתו מאור כשדים ושמת שמו אברהם׃"
+    },
+    {
+      "uid": "Nehemiah_222",
+      "chapter_number": 9,
+      "verse_number": 8,
+      "start_char": 16166,
+      "end_char": 16294,
+      "length": 129,
+      "text": "ומצאת את־לבבו נאמן לפניך וכרות עמו הברית לתת את־ארץ הכנעני החתי האמרי והפרזי והיבוסי והגרגשי לתת לזרעו ותקם את־דבריך כי צדיק אתה׃"
+    },
+    {
+      "uid": "Nehemiah_223",
+      "chapter_number": 9,
+      "verse_number": 9,
+      "start_char": 16295,
+      "end_char": 16345,
+      "length": 51,
+      "text": "ותרא את־עני אבתינו במצרים ואת־זעקתם שמעת על־ים־סוף׃"
+    },
+    {
+      "uid": "Nehemiah_224",
+      "chapter_number": 9,
+      "verse_number": 10,
+      "start_char": 16346,
+      "end_char": 16435,
+      "length": 90,
+      "text": "ותתן אתת ומפתים בפרעה ובכל־עבדיו ובכל־עם ארצו כי ידעת כי הזידו עליהם ותעש־לך שם כהיום הזה׃"
+    },
+    {
+      "uid": "Nehemiah_225",
+      "chapter_number": 9,
+      "verse_number": 11,
+      "start_char": 16436,
+      "end_char": 16516,
+      "length": 81,
+      "text": "והים בקעת לפניהם ויעברו בתוך־הים ביבשה ואת־רדפיהם השלכת במצולת כמו־אבן במים עזים׃"
+    },
+    {
+      "uid": "Nehemiah_226",
+      "chapter_number": 9,
+      "verse_number": 12,
+      "start_char": 16517,
+      "end_char": 16584,
+      "length": 68,
+      "text": "ובעמוד ענן הנחיתם יומם ובעמוד אש לילה להאיר להם את־הדרך אשר ילכו־בה׃"
+    },
+    {
+      "uid": "Nehemiah_227",
+      "chapter_number": 9,
+      "verse_number": 13,
+      "start_char": 16585,
+      "end_char": 16667,
+      "length": 83,
+      "text": "ועל הר־סיני ירדת ודבר עמהם משמים ותתן להם משפטים ישרים ותורות אמת חקים ומצות טובים׃"
+    },
+    {
+      "uid": "Nehemiah_228",
+      "chapter_number": 9,
+      "verse_number": 14,
+      "start_char": 16668,
+      "end_char": 16731,
+      "length": 64,
+      "text": "ואת־שבת קדשך הודעת להם ומצוות וחקים ותורה צוית להם ביד משה עבדך׃"
+    },
+    {
+      "uid": "Nehemiah_229",
+      "chapter_number": 9,
+      "verse_number": 15,
+      "start_char": 16732,
+      "end_char": 16835,
+      "length": 104,
+      "text": "ולחם משמים נתתה להם לרעבם ומים מסלע הוצאת להם לצמאם ותאמר להם לבוא לרשת את־הארץ אשר־נשאת את־ידך לתת להם׃"
+    },
+    {
+      "uid": "Nehemiah_230",
+      "chapter_number": 9,
+      "verse_number": 16,
+      "start_char": 16836,
+      "end_char": 16886,
+      "length": 51,
+      "text": "והם ואבתינו הזידו ויקשו את־ערפם ולא שמעו אל־מצותיך׃"
+    },
+    {
+      "uid": "Nehemiah_231",
+      "chapter_number": 9,
+      "verse_number": 17,
+      "start_char": 16887,
+      "end_char": 17035,
+      "length": 149,
+      "text": "וימאנו לשמע ולא־זכרו נפלאתיך אשר עשית עמהם ויקשו את־ערפם ויתנו־ראש לשוב לעבדתם במרים ואתה אלוה סליחות חנון ורחום ארך־אפים ורב־[חסד] (וחסד) ולא עזבתם׃"
+    },
+    {
+      "uid": "Nehemiah_232",
+      "chapter_number": 9,
+      "verse_number": 18,
+      "start_char": 17036,
+      "end_char": 17108,
+      "length": 73,
+      "text": "אף כי־עשו להם עגל מסכה ויאמרו זה אלהיך אשר העלך ממצרים ויעשו נאצות גדלות׃"
+    },
+    {
+      "uid": "Nehemiah_233",
+      "chapter_number": 9,
+      "verse_number": 19,
+      "start_char": 17109,
+      "end_char": 17236,
+      "length": 128,
+      "text": "ואתה ברחמיך הרבים לא עזבתם במדבר את־עמוד הענן לא־סר מעליהם ביומם להנחתם בהדרך ואת־עמוד האש בלילה להאיר להם ואת־הדרך אשר ילכו־בה׃"
+    },
+    {
+      "uid": "Nehemiah_234",
+      "chapter_number": 9,
+      "verse_number": 20,
+      "start_char": 17237,
+      "end_char": 17299,
+      "length": 63,
+      "text": "ורוחך הטובה נתת להשכילם ומנך לא־מנעת מפיהם ומים נתתה להם לצמאם׃"
+    },
+    {
+      "uid": "Nehemiah_235",
+      "chapter_number": 9,
+      "verse_number": 21,
+      "start_char": 17300,
+      "end_char": 17363,
+      "length": 64,
+      "text": "וארבעים שנה כלכלתם במדבר לא חסרו שלמתיהם לא בלו ורגליהם לא בצקו׃"
+    },
+    {
+      "uid": "Nehemiah_236",
+      "chapter_number": 9,
+      "verse_number": 22,
+      "start_char": 17364,
+      "end_char": 17457,
+      "length": 94,
+      "text": "ותתן להם ממלכות ועממים ותחלקם לפאה ויירשו את־ארץ סיחון ואת־ארץ מלך חשבון ואת־ארץ עוג מלך־הבשן׃"
+    },
+    {
+      "uid": "Nehemiah_237",
+      "chapter_number": 9,
+      "verse_number": 23,
+      "start_char": 17458,
+      "end_char": 17524,
+      "length": 67,
+      "text": "ובניהם הרבית כככבי השמים ותביאם אל־הארץ אשר־אמרת לאבתיהם לבוא לרשת׃"
+    },
+    {
+      "uid": "Nehemiah_238",
+      "chapter_number": 9,
+      "verse_number": 24,
+      "start_char": 17525,
+      "end_char": 17638,
+      "length": 114,
+      "text": "ויבאו הבנים ויירשו את־הארץ ותכנע לפניהם את־ישבי הארץ הכנענים ותתנם בידם ואת־מלכיהם ואת־עממי הארץ לעשות בהם כרצונם׃"
+    },
+    {
+      "uid": "Nehemiah_239",
+      "chapter_number": 9,
+      "verse_number": 25,
+      "start_char": 17639,
+      "end_char": 17772,
+      "length": 134,
+      "text": "וילכדו ערים בצורת ואדמה שמנה ויירשו בתים מלאים־כל־טוב ברות חצובים כרמים וזיתים ועץ מאכל לרב ויאכלו וישבעו וישמינו ויתעדנו בטובך הגדול׃"
+    },
+    {
+      "uid": "Nehemiah_240",
+      "chapter_number": 9,
+      "verse_number": 26,
+      "start_char": 17773,
+      "end_char": 17872,
+      "length": 100,
+      "text": "וימרו וימרדו בך וישלכו את־תורתך אחרי גום ואת־נביאיך הרגו אשר־העידו בם להשיבם אליך ויעשו נאצות גדולת׃"
+    },
+    {
+      "uid": "Nehemiah_241",
+      "chapter_number": 9,
+      "verse_number": 27,
+      "start_char": 17873,
+      "end_char": 17984,
+      "length": 112,
+      "text": "ותתנם ביד צריהם ויצרו להם ובעת צרתם יצעקו אליך ואתה משמים תשמע וכרחמיך הרבים תתן להם מושיעים ויושיעום מיד צריהם׃"
+    },
+    {
+      "uid": "Nehemiah_242",
+      "chapter_number": 9,
+      "verse_number": 28,
+      "start_char": 17985,
+      "end_char": 18098,
+      "length": 114,
+      "text": "וכנוח להם ישובו לעשות רע לפניך ותעזבם ביד איביהם וירדו בהם וישובו ויזעקוך ואתה משמים תשמע ותצילם כרחמיך רבות עתים׃"
+    },
+    {
+      "uid": "Nehemiah_243",
+      "chapter_number": 9,
+      "verse_number": 29,
+      "start_char": 18099,
+      "end_char": 18226,
+      "length": 128,
+      "text": "ותעד בהם להשיבם אל־תורתך והמה הזידו ולא־שמעו למצותיך ובמשפטיך חטאו־בם אשר־יעשה אדם וחיה בהם ויתנו כתף סוררת וערפם הקשו ולא שמעו׃"
+    },
+    {
+      "uid": "Nehemiah_244",
+      "chapter_number": 9,
+      "verse_number": 30,
+      "start_char": 18227,
+      "end_char": 18304,
+      "length": 78,
+      "text": "ותמשך עליהם שנים רבות ותעד בם ברוחך ביד־נביאיך ולא האזינו ותתנם ביד עמי הארצת׃"
+    },
+    {
+      "uid": "Nehemiah_245",
+      "chapter_number": 9,
+      "verse_number": 31,
+      "start_char": 18305,
+      "end_char": 18362,
+      "length": 58,
+      "text": "וברחמיך הרבים לא־עשיתם כלה ולא עזבתם כי אל־חנון ורחום אתה׃"
+    },
+    {
+      "uid": "Nehemiah_246",
+      "chapter_number": 9,
+      "verse_number": 32,
+      "start_char": 18363,
+      "end_char": 18530,
+      "length": 168,
+      "text": "ועתה אלהינו האל הגדול הגבור והנורא שומר הברית והחסד אל־ימעט לפניך את כל־התלאה אשר־מצאתנו למלכינו לשרינו ולכהנינו ולנביאינו ולאבתינו ולכל־עמך מימי מלכי אשור עד היום הזה׃"
+    },
+    {
+      "uid": "Nehemiah_247",
+      "chapter_number": 9,
+      "verse_number": 33,
+      "start_char": 18531,
+      "end_char": 18582,
+      "length": 52,
+      "text": "ואתה צדיק על כל־הבא עלינו כי־אמת עשית ואנחנו הרשענו׃"
+    },
+    {
+      "uid": "Nehemiah_248",
+      "chapter_number": 9,
+      "verse_number": 34,
+      "start_char": 18583,
+      "end_char": 18671,
+      "length": 89,
+      "text": "ואת־מלכינו שרינו כהנינו ואבתינו לא עשו תורתך ולא הקשיבו אל־מצותיך ולעדותיך אשר העידת בהם׃"
+    },
+    {
+      "uid": "Nehemiah_249",
+      "chapter_number": 9,
+      "verse_number": 35,
+      "start_char": 18672,
+      "end_char": 18772,
+      "length": 101,
+      "text": "והם במלכותם ובטובך הרב אשר־נתת להם ובארץ הרחבה והשמנה אשר־נתת לפניהם לא עבדוך ולא־שבו ממעלליהם הרעים׃"
+    },
+    {
+      "uid": "Nehemiah_250",
+      "chapter_number": 9,
+      "verse_number": 36,
+      "start_char": 18773,
+      "end_char": 18859,
+      "length": 87,
+      "text": "הנה אנחנו היום עבדים והארץ אשר־נתתה לאבתינו לאכל את־פריה ואת־טובה הנה אנחנו עבדים עליה׃"
+    },
+    {
+      "uid": "Nehemiah_251",
+      "chapter_number": 9,
+      "verse_number": 37,
+      "start_char": 18860,
+      "end_char": 18955,
+      "length": 96,
+      "text": "ותבואתה מרבה למלכים אשר־נתתה עלינו בחטאותינו ועל גויתינו משלים ובבהמתנו כרצונם ובצרה גדלה אנחנו׃"
+    },
+    {
+      "uid": "Nehemiah_252",
+      "chapter_number": 10,
+      "verse_number": 1,
+      "start_char": 18956,
+      "end_char": 19017,
+      "length": 62,
+      "text": "ובכל־זאת אנחנו כרתים אמנה וכתבים ועל החתום שרינו לוינו כהנינו׃"
+    },
+    {
+      "uid": "Nehemiah_253",
+      "chapter_number": 10,
+      "verse_number": 2,
+      "start_char": 19018,
+      "end_char": 19058,
+      "length": 41,
+      "text": "ועל החתומים נחמיה התרשתא בן־חכליה וצדקיה׃"
+    },
+    {
+      "uid": "Nehemiah_254",
+      "chapter_number": 10,
+      "verse_number": 3,
+      "start_char": 19059,
+      "end_char": 19075,
+      "length": 17,
+      "text": "שריה עזריה ירמיה׃"
+    },
+    {
+      "uid": "Nehemiah_255",
+      "chapter_number": 10,
+      "verse_number": 4,
+      "start_char": 19076,
+      "end_char": 19093,
+      "length": 18,
+      "text": "פשחור אמריה מלכיה׃"
+    },
+    {
+      "uid": "Nehemiah_256",
+      "chapter_number": 10,
+      "verse_number": 5,
+      "start_char": 19094,
+      "end_char": 19109,
+      "length": 16,
+      "text": "חטוש שבניה מלוך׃"
+    },
+    {
+      "uid": "Nehemiah_257",
+      "chapter_number": 10,
+      "verse_number": 6,
+      "start_char": 19110,
+      "end_char": 19125,
+      "length": 16,
+      "text": "חרם מרמות עבדיה׃"
+    },
+    {
+      "uid": "Nehemiah_258",
+      "chapter_number": 10,
+      "verse_number": 7,
+      "start_char": 19126,
+      "end_char": 19142,
+      "length": 17,
+      "text": "דניאל גנתון ברוך׃"
+    },
+    {
+      "uid": "Nehemiah_259",
+      "chapter_number": 10,
+      "verse_number": 8,
+      "start_char": 19143,
+      "end_char": 19157,
+      "length": 15,
+      "text": "משלם אביה מימן׃"
+    },
+    {
+      "uid": "Nehemiah_260",
+      "chapter_number": 10,
+      "verse_number": 9,
+      "start_char": 19158,
+      "end_char": 19185,
+      "length": 28,
+      "text": "מעזיה בלגי שמעיה אלה הכהנים׃"
+    },
+    {
+      "uid": "Nehemiah_261",
+      "chapter_number": 10,
+      "verse_number": 10,
+      "start_char": 19186,
+      "end_char": 19229,
+      "length": 44,
+      "text": "והלוים וישוע בן־אזניה בנוי מבני חנדד קדמיאל׃"
+    },
+    {
+      "uid": "Nehemiah_262",
+      "chapter_number": 10,
+      "verse_number": 11,
+      "start_char": 19230,
+      "end_char": 19264,
+      "length": 35,
+      "text": "ואחיהם שבניה הודיה קליטא פלאיה חנן׃"
+    },
+    {
+      "uid": "Nehemiah_263",
+      "chapter_number": 10,
+      "verse_number": 12,
+      "start_char": 19265,
+      "end_char": 19280,
+      "length": 16,
+      "text": "מיכא רחוב חשביה׃"
+    },
+    {
+      "uid": "Nehemiah_264",
+      "chapter_number": 10,
+      "verse_number": 13,
+      "start_char": 19281,
+      "end_char": 19297,
+      "length": 17,
+      "text": "זכור שרביה שבניה׃"
+    },
+    {
+      "uid": "Nehemiah_265",
+      "chapter_number": 10,
+      "verse_number": 14,
+      "start_char": 19298,
+      "end_char": 19313,
+      "length": 16,
+      "text": "הודיה בני בנינו׃"
+    },
+    {
+      "uid": "Nehemiah_266",
+      "chapter_number": 10,
+      "verse_number": 15,
+      "start_char": 19314,
+      "end_char": 19350,
+      "length": 37,
+      "text": "ראשי העם פרעש פחת מואב עילם זתוא בני׃"
+    },
+    {
+      "uid": "Nehemiah_267",
+      "chapter_number": 10,
+      "verse_number": 16,
+      "start_char": 19351,
+      "end_char": 19363,
+      "length": 13,
+      "text": "בני עזגד בבי׃"
+    },
+    {
+      "uid": "Nehemiah_268",
+      "chapter_number": 10,
+      "verse_number": 17,
+      "start_char": 19364,
+      "end_char": 19379,
+      "length": 16,
+      "text": "אדניה בגוי עדין׃"
+    },
+    {
+      "uid": "Nehemiah_269",
+      "chapter_number": 10,
+      "verse_number": 18,
+      "start_char": 19380,
+      "end_char": 19394,
+      "length": 15,
+      "text": "אטר חזקיה עזור׃"
+    },
+    {
+      "uid": "Nehemiah_270",
+      "chapter_number": 10,
+      "verse_number": 19,
+      "start_char": 19395,
+      "end_char": 19408,
+      "length": 14,
+      "text": "הודיה חשם בצי׃"
+    },
+    {
+      "uid": "Nehemiah_271",
+      "chapter_number": 10,
+      "verse_number": 20,
+      "start_char": 19409,
+      "end_char": 19433,
+      "length": 25,
+      "text": "חריף ענתות (נובי) [ניבי]׃"
+    },
+    {
+      "uid": "Nehemiah_272",
+      "chapter_number": 10,
+      "verse_number": 21,
+      "start_char": 19434,
+      "end_char": 19450,
+      "length": 17,
+      "text": "מגפיעש משלם חזיר׃"
+    },
+    {
+      "uid": "Nehemiah_273",
+      "chapter_number": 10,
+      "verse_number": 22,
+      "start_char": 19451,
+      "end_char": 19468,
+      "length": 18,
+      "text": "משיזבאל צדוק ידוע׃"
+    },
+    {
+      "uid": "Nehemiah_274",
+      "chapter_number": 10,
+      "verse_number": 23,
+      "start_char": 19469,
+      "end_char": 19483,
+      "length": 15,
+      "text": "פלטיה חנן עניה׃"
+    },
+    {
+      "uid": "Nehemiah_275",
+      "chapter_number": 10,
+      "verse_number": 24,
+      "start_char": 19484,
+      "end_char": 19499,
+      "length": 16,
+      "text": "הושע חנניה חשוב׃"
+    },
+    {
+      "uid": "Nehemiah_276",
+      "chapter_number": 10,
+      "verse_number": 25,
+      "start_char": 19500,
+      "end_char": 19515,
+      "length": 16,
+      "text": "הלוחש פלחא שובק׃"
+    },
+    {
+      "uid": "Nehemiah_277",
+      "chapter_number": 10,
+      "verse_number": 26,
+      "start_char": 19516,
+      "end_char": 19532,
+      "length": 17,
+      "text": "רחום חשבנה מעשיה׃"
+    },
+    {
+      "uid": "Nehemiah_278",
+      "chapter_number": 10,
+      "verse_number": 27,
+      "start_char": 19533,
+      "end_char": 19546,
+      "length": 14,
+      "text": "ואחיה חנן ענן׃"
+    },
+    {
+      "uid": "Nehemiah_279",
+      "chapter_number": 10,
+      "verse_number": 28,
+      "start_char": 19547,
+      "end_char": 19560,
+      "length": 14,
+      "text": "מלוך חרם בענה׃"
+    },
+    {
+      "uid": "Nehemiah_280",
+      "chapter_number": 10,
+      "verse_number": 29,
+      "start_char": 19561,
+      "end_char": 19676,
+      "length": 116,
+      "text": "ושאר העם הכהנים הלוים השוערים המשררים הנתינים וכל־הנבדל מעמי הארצות אל־תורת האלהים נשיהם בניהם ובנתיהם כל יודע מבין׃"
+    },
+    {
+      "uid": "Nehemiah_281",
+      "chapter_number": 10,
+      "verse_number": 30,
+      "start_char": 19677,
+      "end_char": 19817,
+      "length": 141,
+      "text": "מחזיקים על־אחיהם אדיריהם ובאים באלה ובשבועה ללכת בתורת האלהים אשר נתנה ביד משה עבד־האלהים ולשמור ולעשות את־כל־מצות יהוה אדנינו ומשפטיו וחקיו׃"
+    },
+    {
+      "uid": "Nehemiah_282",
+      "chapter_number": 10,
+      "verse_number": 31,
+      "start_char": 19818,
+      "end_char": 19871,
+      "length": 54,
+      "text": "ואשר לא־נתן בנתינו לעמי הארץ ואת־בנתיהם לא נקח לבנינו׃"
+    },
+    {
+      "uid": "Nehemiah_283",
+      "chapter_number": 10,
+      "verse_number": 32,
+      "start_char": 19872,
+      "end_char": 19981,
+      "length": 110,
+      "text": "ועמי הארץ המביאים את־המקחות וכל־שבר ביום השבת למכור לא־נקח מהם בשבת וביום קדש ונטש את־השנה השביעית ומשא כל־יד׃"
+    },
+    {
+      "uid": "Nehemiah_284",
+      "chapter_number": 10,
+      "verse_number": 33,
+      "start_char": 19982,
+      "end_char": 20044,
+      "length": 63,
+      "text": "והעמדנו עלינו מצות לתת עלינו שלישית השקל בשנה לעבדת בית אלהינו׃"
+    },
+    {
+      "uid": "Nehemiah_285",
+      "chapter_number": 10,
+      "verse_number": 34,
+      "start_char": 20045,
+      "end_char": 20154,
+      "length": 110,
+      "text": "ללחם המערכת ומנחת התמיד ולעולת התמיד השבתות החדשים למועדים ולקדשים ולחטאות לכפר על־ישראל וכל מלאכת בית־אלהינו׃"
+    },
+    {
+      "uid": "Nehemiah_286",
+      "chapter_number": 10,
+      "verse_number": 35,
+      "start_char": 20155,
+      "end_char": 20290,
+      "length": 136,
+      "text": "והגורלות הפלנו על־קרבן העצים הכהנים הלוים והעם להביא לבית אלהינו לבית־אבתינו לעתים מזמנים שנה בשנה לבער על־מזבח יהוה אלהינו ככתוב בתורה׃"
+    },
+    {
+      "uid": "Nehemiah_287",
+      "chapter_number": 10,
+      "verse_number": 36,
+      "start_char": 20291,
+      "end_char": 20352,
+      "length": 62,
+      "text": "ולהביא את־בכורי אדמתנו ובכורי כל־פרי כל־עץ שנה בשנה לבית יהוה׃"
+    },
+    {
+      "uid": "Nehemiah_288",
+      "chapter_number": 10,
+      "verse_number": 37,
+      "start_char": 20353,
+      "end_char": 20458,
+      "length": 106,
+      "text": "ואת־בכרות בנינו ובהמתנו ככתוב בתורה ואת־בכורי בקרינו וצאנינו להביא לבית אלהינו לכהנים המשרתים בבית אלהינו׃"
+    },
+    {
+      "uid": "Nehemiah_289",
+      "chapter_number": 10,
+      "verse_number": 38,
+      "start_char": 20459,
+      "end_char": 20594,
+      "length": 136,
+      "text": "ואת־ראשית עריסתינו ותרומתינו ופרי כל־עץ תירוש ויצהר נביא לכהנים אל־לשכות בית־אלהינו ומעשר אדמתנו ללוים והם הלוים המעשרים בכל ערי עבדתנו׃"
+    },
+    {
+      "uid": "Nehemiah_290",
+      "chapter_number": 10,
+      "verse_number": 39,
+      "start_char": 20595,
+      "end_char": 20691,
+      "length": 97,
+      "text": "והיה הכהן בן־אהרן עם־הלוים בעשר הלוים והלוים יעלו את־מעשר המעשר לבית אלהינו אל־הלשכות לבית האוצר׃"
+    },
+    {
+      "uid": "Nehemiah_291",
+      "chapter_number": 10,
+      "verse_number": 40,
+      "start_char": 20692,
+      "end_char": 20829,
+      "length": 138,
+      "text": "כי אל־הלשכות יביאו בני־ישראל ובני הלוי את־תרומת הדגן התירוש והיצהר ושם כלי המקדש והכהנים המשרתים והשוערים והמשררים ולא נעזב את־בית אלהינו׃"
+    },
+    {
+      "uid": "Nehemiah_292",
+      "chapter_number": 11,
+      "verse_number": 1,
+      "start_char": 20830,
+      "end_char": 20934,
+      "length": 105,
+      "text": "וישבו שרי־העם בירושל͏ם ושאר העם הפילו גורלות להביא׀ אחד מן־העשרה לשבת בירושל͏ם עיר הקדש ותשע הידות בערים׃"
+    },
+    {
+      "uid": "Nehemiah_293",
+      "chapter_number": 11,
+      "verse_number": 2,
+      "start_char": 20935,
+      "end_char": 20979,
+      "length": 45,
+      "text": "ויברכו העם לכל האנשים המתנדבים לשבת בירושל͏ם׃"
+    },
+    {
+      "uid": "Nehemiah_294",
+      "chapter_number": 11,
+      "verse_number": 3,
+      "start_char": 20980,
+      "end_char": 21093,
+      "length": 114,
+      "text": "ואלה ראשי המדינה אשר ישבו בירושל͏ם ובערי יהודה ישבו איש באחזתו בעריהם ישראל הכהנים והלוים והנתינים ובני עבדי שלמה׃"
+    },
+    {
+      "uid": "Nehemiah_295",
+      "chapter_number": 11,
+      "verse_number": 4,
+      "start_char": 21094,
+      "end_char": 21201,
+      "length": 108,
+      "text": "ובירושל͏ם ישבו מבני יהודה ומבני בנימן מבני יהודה עתיה בן־עזיה בן־זכריה בן־אמריה בן־שפטיה בן־מהללאל מבני־פרץ׃"
+    },
+    {
+      "uid": "Nehemiah_296",
+      "chapter_number": 11,
+      "verse_number": 5,
+      "start_char": 21202,
+      "end_char": 21270,
+      "length": 69,
+      "text": "ומעשיה בן־ברוך בן־כל־חזה בן־חזיה בן־עדיה בן־יויריב בן־זכריה בן־השלני׃"
+    },
+    {
+      "uid": "Nehemiah_297",
+      "chapter_number": 11,
+      "verse_number": 6,
+      "start_char": 21271,
+      "end_char": 21327,
+      "length": 57,
+      "text": "כל־בני־פרץ הישבים בירושל͏ם ארבע מאות ששים ושמנה אנשי־חיל׃"
+    },
+    {
+      "uid": "Nehemiah_298",
+      "chapter_number": 11,
+      "verse_number": 7,
+      "start_char": 21328,
+      "end_char": 21407,
+      "length": 80,
+      "text": "ואלה בני בנימן סלא בן־משלם בן־יועד בן־פדיה בן־קוליה בן־מעשיה בן־איתיאל בן־ישעיה׃"
+    },
+    {
+      "uid": "Nehemiah_299",
+      "chapter_number": 11,
+      "verse_number": 8,
+      "start_char": 21408,
+      "end_char": 21443,
+      "length": 36,
+      "text": "ואחריו גבי סלי תשע מאות עשרים ושמנה׃"
+    },
+    {
+      "uid": "Nehemiah_300",
+      "chapter_number": 11,
+      "verse_number": 9,
+      "start_char": 21444,
+      "end_char": 21498,
+      "length": 55,
+      "text": "ויואל בן־זכרי פקיד עליהם ויהודה בן־הסנואה על־העיר משנה׃"
+    },
+    {
+      "uid": "Nehemiah_301",
+      "chapter_number": 11,
+      "verse_number": 10,
+      "start_char": 21499,
+      "end_char": 21529,
+      "length": 31,
+      "text": "מן־הכהנים ידעיה בן־יויריב יכין׃"
+    },
+    {
+      "uid": "Nehemiah_302",
+      "chapter_number": 11,
+      "verse_number": 11,
+      "start_char": 21530,
+      "end_char": 21593,
+      "length": 64,
+      "text": "שריה בן־חלקיה בן־משלם בן־צדוק בן־מריות בן־אחיטוב נגד בית האלהים׃"
+    },
+    {
+      "uid": "Nehemiah_303",
+      "chapter_number": 11,
+      "verse_number": 12,
+      "start_char": 21594,
+      "end_char": 21696,
+      "length": 103,
+      "text": "ואחיהם עשה המלאכה לבית שמנה מאות עשרים ושנים ועדיה בן־ירחם בן־פלליה בן־אמצי בן־זכריה בן־פשחור בן־מלכיה׃"
+    },
+    {
+      "uid": "Nehemiah_304",
+      "chapter_number": 11,
+      "verse_number": 13,
+      "start_char": 21697,
+      "end_char": 21774,
+      "length": 78,
+      "text": "ואחיו ראשים לאבות מאתים ארבעים ושנים ועמשסי בן־עזראל בן־אחזי בן־משלמות בן־אמר׃"
+    },
+    {
+      "uid": "Nehemiah_305",
+      "chapter_number": 11,
+      "verse_number": 14,
+      "start_char": 21775,
+      "end_char": 21836,
+      "length": 62,
+      "text": "ואחיהם גברי חיל מאה עשרים ושמנה ופקיד עליהם זבדיאל בן־הגדולים׃"
+    },
+    {
+      "uid": "Nehemiah_306",
+      "chapter_number": 11,
+      "verse_number": 15,
+      "start_char": 21837,
+      "end_char": 21887,
+      "length": 51,
+      "text": "ומן־הלוים שמעיה בן־חשוב בן־עזריקם בן־חשביה בן־בוני׃"
+    },
+    {
+      "uid": "Nehemiah_307",
+      "chapter_number": 11,
+      "verse_number": 16,
+      "start_char": 21888,
+      "end_char": 21941,
+      "length": 54,
+      "text": "ושבתי ויוזבד על־המלאכה החיצנה לבית האלהים מראשי הלוים׃"
+    },
+    {
+      "uid": "Nehemiah_308",
+      "chapter_number": 11,
+      "verse_number": 17,
+      "start_char": 21942,
+      "end_char": 22054,
+      "length": 113,
+      "text": "ומתניה בן־מיכא בן־זבדי בן־אסף ראש התחלה יהודה לתפלה ובקבקיה משנה מאחיו ועבדא בן־שמוע בן־גלל בן־[ידותון] (ידיתון)׃"
+    },
+    {
+      "uid": "Nehemiah_309",
+      "chapter_number": 11,
+      "verse_number": 18,
+      "start_char": 22055,
+      "end_char": 22092,
+      "length": 38,
+      "text": "כל־הלוים בעיר הקדש מאתים שמנים וארבעה׃"
+    },
+    {
+      "uid": "Nehemiah_310",
+      "chapter_number": 11,
+      "verse_number": 19,
+      "start_char": 22093,
+      "end_char": 22149,
+      "length": 57,
+      "text": "והשוערים עקוב טלמון ואחיהם השמרים בשערים מאה שבעים ושנים׃"
+    },
+    {
+      "uid": "Nehemiah_311",
+      "chapter_number": 11,
+      "verse_number": 20,
+      "start_char": 22150,
+      "end_char": 22198,
+      "length": 49,
+      "text": "ושאר ישראל הכהנים הלוים בכל־ערי יהודה איש בנחלתו׃"
+    },
+    {
+      "uid": "Nehemiah_312",
+      "chapter_number": 11,
+      "verse_number": 21,
+      "start_char": 22199,
+      "end_char": 22241,
+      "length": 43,
+      "text": "והנתינים ישבים בעפל וציחא וגשפא על־הנתינים׃"
+    },
+    {
+      "uid": "Nehemiah_313",
+      "chapter_number": 11,
+      "verse_number": 22,
+      "start_char": 22242,
+      "end_char": 22338,
+      "length": 97,
+      "text": "ופקיד הלוים בירושל͏ם עזי בן־בני בן־חשביה בן־מתניה בן־מיכא מבני אסף המשררים לנגד מלאכת בית־האלהים׃"
+    },
+    {
+      "uid": "Nehemiah_314",
+      "chapter_number": 11,
+      "verse_number": 23,
+      "start_char": 22339,
+      "end_char": 22388,
+      "length": 50,
+      "text": "כי־מצות המלך עליהם ואמנה על־המשררים דבר־יום ביומו׃"
+    },
+    {
+      "uid": "Nehemiah_315",
+      "chapter_number": 11,
+      "verse_number": 24,
+      "start_char": 22389,
+      "end_char": 22445,
+      "length": 57,
+      "text": "ופתחיה בן־משיזבאל מבני־זרח בן־יהודה ליד המלך לכל־דבר לעם׃"
+    },
+    {
+      "uid": "Nehemiah_316",
+      "chapter_number": 11,
+      "verse_number": 25,
+      "start_char": 22446,
+      "end_char": 22527,
+      "length": 82,
+      "text": "ואל־החצרים בשדתם מבני יהודה ישבו בקרית הארבע ובנתיה ובדיבן ובנתיה וביקבצאל וחצריה׃"
+    },
+    {
+      "uid": "Nehemiah_317",
+      "chapter_number": 11,
+      "verse_number": 26,
+      "start_char": 22528,
+      "end_char": 22551,
+      "length": 24,
+      "text": "ובישוע ובמלדה ובבית פלט׃"
+    },
+    {
+      "uid": "Nehemiah_318",
+      "chapter_number": 11,
+      "verse_number": 27,
+      "start_char": 22552,
+      "end_char": 22579,
+      "length": 28,
+      "text": "ובחצר שועל ובבאר שבע ובנתיה׃"
+    },
+    {
+      "uid": "Nehemiah_319",
+      "chapter_number": 11,
+      "verse_number": 28,
+      "start_char": 22580,
+      "end_char": 22601,
+      "length": 22,
+      "text": "ובצקלג ובמכנה ובבנתיה׃"
+    },
+    {
+      "uid": "Nehemiah_320",
+      "chapter_number": 11,
+      "verse_number": 29,
+      "start_char": 22602,
+      "end_char": 22627,
+      "length": 26,
+      "text": "ובעין רמון ובצרעה ובירמות׃"
+    },
+    {
+      "uid": "Nehemiah_321",
+      "chapter_number": 11,
+      "verse_number": 30,
+      "start_char": 22628,
+      "end_char": 22694,
+      "length": 67,
+      "text": "זנח עדלם וחצריהם לכיש ושדתיה עזקה ובנתיה ויחנו מבאר־שבע עד־גיא הנם׃"
+    },
+    {
+      "uid": "Nehemiah_322",
+      "chapter_number": 11,
+      "verse_number": 31,
+      "start_char": 22695,
+      "end_char": 22735,
+      "length": 41,
+      "text": "ובני בנימן מגבע מכמש ועיה ובית־אל ובנתיה׃"
+    },
+    {
+      "uid": "Nehemiah_323",
+      "chapter_number": 11,
+      "verse_number": 32,
+      "start_char": 22736,
+      "end_char": 22750,
+      "length": 15,
+      "text": "ענתות נב ענניה׃"
+    },
+    {
+      "uid": "Nehemiah_324",
+      "chapter_number": 11,
+      "verse_number": 33,
+      "start_char": 22751,
+      "end_char": 22764,
+      "length": 14,
+      "text": "חצור׀רמה גתים׃"
+    },
+    {
+      "uid": "Nehemiah_325",
+      "chapter_number": 11,
+      "verse_number": 34,
+      "start_char": 22765,
+      "end_char": 22780,
+      "length": 16,
+      "text": "חדיד צבעים נבלט׃"
+    },
+    {
+      "uid": "Nehemiah_326",
+      "chapter_number": 11,
+      "verse_number": 35,
+      "start_char": 22781,
+      "end_char": 22799,
+      "length": 19,
+      "text": "לד ואונו גי החרשים׃"
+    },
+    {
+      "uid": "Nehemiah_327",
+      "chapter_number": 11,
+      "verse_number": 36,
+      "start_char": 22800,
+      "end_char": 22830,
+      "length": 31,
+      "text": "ומן־הלוים מחלקות יהודה לבנימין׃"
+    },
+    {
+      "uid": "Nehemiah_328",
+      "chapter_number": 12,
+      "verse_number": 1,
+      "start_char": 22831,
+      "end_char": 22899,
+      "length": 69,
+      "text": "ואלה הכהנים והלוים אשר עלו עם־זרבבל בן־שאלתיאל וישוע שריה ירמיה עזרא׃"
+    },
+    {
+      "uid": "Nehemiah_329",
+      "chapter_number": 12,
+      "verse_number": 2,
+      "start_char": 22900,
+      "end_char": 22915,
+      "length": 16,
+      "text": "אמריה מלוך חטוש׃"
+    },
+    {
+      "uid": "Nehemiah_330",
+      "chapter_number": 12,
+      "verse_number": 3,
+      "start_char": 22916,
+      "end_char": 22930,
+      "length": 15,
+      "text": "שכניה רחם מרמת׃"
+    },
+    {
+      "uid": "Nehemiah_331",
+      "chapter_number": 12,
+      "verse_number": 4,
+      "start_char": 22931,
+      "end_char": 22946,
+      "length": 16,
+      "text": "עדוא גנתוי אביה׃"
+    },
+    {
+      "uid": "Nehemiah_332",
+      "chapter_number": 12,
+      "verse_number": 5,
+      "start_char": 22947,
+      "end_char": 22963,
+      "length": 17,
+      "text": "מימין מעדיה בלגה׃"
+    },
+    {
+      "uid": "Nehemiah_333",
+      "chapter_number": 12,
+      "verse_number": 6,
+      "start_char": 22964,
+      "end_char": 22983,
+      "length": 20,
+      "text": "שמעיה ויויריב ידעיה׃"
+    },
+    {
+      "uid": "Nehemiah_334",
+      "chapter_number": 12,
+      "verse_number": 7,
+      "start_char": 22984,
+      "end_char": 23037,
+      "length": 54,
+      "text": "סלו עמוק חלקיה ידעיה אלה ראשי הכהנים ואחיהם בימי ישוע׃"
+    },
+    {
+      "uid": "Nehemiah_335",
+      "chapter_number": 12,
+      "verse_number": 8,
+      "start_char": 23038,
+      "end_char": 23098,
+      "length": 61,
+      "text": "והלוים ישוע בנוי קדמיאל שרביה יהודה מתניה על־הידות הוא ואחיו׃"
+    },
+    {
+      "uid": "Nehemiah_336",
+      "chapter_number": 12,
+      "verse_number": 9,
+      "start_char": 23099,
+      "end_char": 23140,
+      "length": 42,
+      "text": "ובקבקיה (וענו) [ועני] אחיהם לנגדם למשמרות׃"
+    },
+    {
+      "uid": "Nehemiah_337",
+      "chapter_number": 12,
+      "verse_number": 10,
+      "start_char": 23141,
+      "end_char": 23203,
+      "length": 63,
+      "text": "וישוע הוליד את־יויקים ויויקים הוליד את־אלישיב ואלישיב את־יוידע׃"
+    },
+    {
+      "uid": "Nehemiah_338",
+      "chapter_number": 12,
+      "verse_number": 11,
+      "start_char": 23204,
+      "end_char": 23246,
+      "length": 43,
+      "text": "ויוידע הוליד את־יונתן ויונתן הוליד את־ידוע׃"
+    },
+    {
+      "uid": "Nehemiah_339",
+      "chapter_number": 12,
+      "verse_number": 12,
+      "start_char": 23247,
+      "end_char": 23304,
+      "length": 58,
+      "text": "ובימי יויקים היו כהנים ראשי האבות לשריה מריה לירמיה חנניה׃"
+    },
+    {
+      "uid": "Nehemiah_340",
+      "chapter_number": 12,
+      "verse_number": 13,
+      "start_char": 23305,
+      "end_char": 23329,
+      "length": 25,
+      "text": "לעזרא משלם לאמריה יהוחנן׃"
+    },
+    {
+      "uid": "Nehemiah_341",
+      "chapter_number": 12,
+      "verse_number": 14,
+      "start_char": 23330,
+      "end_char": 23365,
+      "length": 36,
+      "text": "(למלוכי) [למליכו] יונתן לשבניה יוסף׃"
+    },
+    {
+      "uid": "Nehemiah_342",
+      "chapter_number": 12,
+      "verse_number": 15,
+      "start_char": 23366,
+      "end_char": 23387,
+      "length": 22,
+      "text": "לחרם עדנא למריות חלקי׃"
+    },
+    {
+      "uid": "Nehemiah_343",
+      "chapter_number": 12,
+      "verse_number": 16,
+      "start_char": 23388,
+      "end_char": 23421,
+      "length": 34,
+      "text": "(לעדיא) [לעדוא] זכריה לגנתון משלם׃"
+    },
+    {
+      "uid": "Nehemiah_344",
+      "chapter_number": 12,
+      "verse_number": 17,
+      "start_char": 23422,
+      "end_char": 23453,
+      "length": 32,
+      "text": "לאביה זכרי למנימין למועדיה פלטי׃"
+    },
+    {
+      "uid": "Nehemiah_345",
+      "chapter_number": 12,
+      "verse_number": 18,
+      "start_char": 23454,
+      "end_char": 23478,
+      "length": 25,
+      "text": "לבלגה שמוע לשמעיה יהונתן׃"
+    },
+    {
+      "uid": "Nehemiah_346",
+      "chapter_number": 12,
+      "verse_number": 19,
+      "start_char": 23479,
+      "end_char": 23503,
+      "length": 25,
+      "text": "וליויריב מתני לידעיה עזי׃"
+    },
+    {
+      "uid": "Nehemiah_347",
+      "chapter_number": 12,
+      "verse_number": 20,
+      "start_char": 23504,
+      "end_char": 23522,
+      "length": 19,
+      "text": "לסלי קלי לעמוק עבר׃"
+    },
+    {
+      "uid": "Nehemiah_348",
+      "chapter_number": 12,
+      "verse_number": 21,
+      "start_char": 23523,
+      "end_char": 23548,
+      "length": 26,
+      "text": "לחלקיה חשביה לידעיה נתנאל׃"
+    },
+    {
+      "uid": "Nehemiah_349",
+      "chapter_number": 12,
+      "verse_number": 22,
+      "start_char": 23549,
+      "end_char": 23631,
+      "length": 83,
+      "text": "הלוים בימי אלישיב יוידע ויוחנן וידוע כתובים ראשי אבות והכהנים על־מלכות דריוש הפרסי׃"
+    },
+    {
+      "uid": "Nehemiah_350",
+      "chapter_number": 12,
+      "verse_number": 23,
+      "start_char": 23632,
+      "end_char": 23699,
+      "length": 68,
+      "text": "בני לוי ראשי האבות כתובים על־ספר דברי הימים ועד־ימי יוחנן בן־אלישיב׃"
+    },
+    {
+      "uid": "Nehemiah_351",
+      "chapter_number": 12,
+      "verse_number": 24,
+      "start_char": 23700,
+      "end_char": 23801,
+      "length": 102,
+      "text": "וראשי הלוים חשביה שרביה וישוע בן־קדמיאל ואחיהם לנגדם להלל להודות במצות דויד איש־האלהים משמר לעמת משמר׃"
+    },
+    {
+      "uid": "Nehemiah_352",
+      "chapter_number": 12,
+      "verse_number": 25,
+      "start_char": 23802,
+      "end_char": 23868,
+      "length": 67,
+      "text": "מתניה ובקבקיה עבדיה משלם טלמון עקוב שמרים שוערים משמר באספי השערים׃"
+    },
+    {
+      "uid": "Nehemiah_353",
+      "chapter_number": 12,
+      "verse_number": 26,
+      "start_char": 23869,
+      "end_char": 23935,
+      "length": 67,
+      "text": "אלה בימי יויקים בן־ישוע בן־יוצדק ובימי נחמיה הפחה ועזרא הכהן הסופר׃"
+    },
+    {
+      "uid": "Nehemiah_354",
+      "chapter_number": 12,
+      "verse_number": 27,
+      "start_char": 23936,
+      "end_char": 24047,
+      "length": 112,
+      "text": "ובחנכת חומת ירושל͏ם בקשו את־הלוים מכל־מקומתם להביאם לירושל͏ם לעשת חנכה ושמחה ובתודות ובשיר מצלתים נבלים ובכנרות׃"
+    },
+    {
+      "uid": "Nehemiah_355",
+      "chapter_number": 12,
+      "verse_number": 28,
+      "start_char": 24048,
+      "end_char": 24105,
+      "length": 58,
+      "text": "ויאספו בני המשררים ומן־הככר סביבות ירושל͏ם ומן־חצרי נטפתי׃"
+    },
+    {
+      "uid": "Nehemiah_356",
+      "chapter_number": 12,
+      "verse_number": 29,
+      "start_char": 24106,
+      "end_char": 24175,
+      "length": 70,
+      "text": "ומבית הגלגל ומשדות גבע ועזמות כי חצרים בנו להם המשררים סביבות ירושל͏ם׃"
+    },
+    {
+      "uid": "Nehemiah_357",
+      "chapter_number": 12,
+      "verse_number": 30,
+      "start_char": 24176,
+      "end_char": 24231,
+      "length": 56,
+      "text": "ויטהרו הכהנים והלוים ויטהרו את־העם ואת־השערים ואת־החומה׃"
+    },
+    {
+      "uid": "Nehemiah_358",
+      "chapter_number": 12,
+      "verse_number": 31,
+      "start_char": 24232,
+      "end_char": 24317,
+      "length": 86,
+      "text": "ואעלה את־שרי יהודה מעל לחומה ואעמידה שתי תודת גדולת ותהלכת לימין מעל לחומה לשער האשפת׃"
+    },
+    {
+      "uid": "Nehemiah_359",
+      "chapter_number": 12,
+      "verse_number": 32,
+      "start_char": 24318,
+      "end_char": 24351,
+      "length": 34,
+      "text": "וילך אחריהם הושעיה וחצי שרי יהודה׃"
+    },
+    {
+      "uid": "Nehemiah_360",
+      "chapter_number": 12,
+      "verse_number": 33,
+      "start_char": 24352,
+      "end_char": 24369,
+      "length": 18,
+      "text": "ועזריה עזרא ומשלם׃"
+    },
+    {
+      "uid": "Nehemiah_361",
+      "chapter_number": 12,
+      "verse_number": 34,
+      "start_char": 24370,
+      "end_char": 24396,
+      "length": 27,
+      "text": "יהודה ובנימן ושמעיה וירמיה׃"
+    },
+    {
+      "uid": "Nehemiah_362",
+      "chapter_number": 12,
+      "verse_number": 35,
+      "start_char": 24397,
+      "end_char": 24474,
+      "length": 78,
+      "text": "ומבני הכהנים בחצצרות זכריה בן־יונתן בן־שמעיה בן־מתניה בן־מיכיה בן־זכור בן־אסף׃"
+    },
+    {
+      "uid": "Nehemiah_363",
+      "chapter_number": 12,
+      "verse_number": 36,
+      "start_char": 24475,
+      "end_char": 24569,
+      "length": 95,
+      "text": "ואחיו שמעיה ועזראל מללי גללי מעי נתנאל ויהודה חנני בכלי־שיר דויד איש האלהים ועזרא הסופר לפניהם׃"
+    },
+    {
+      "uid": "Nehemiah_364",
+      "chapter_number": 12,
+      "verse_number": 37,
+      "start_char": 24570,
+      "end_char": 24654,
+      "length": 85,
+      "text": "ועל שער העין ונגדם עלו על־מעלות עיר דויד במעלה לחומה מעל לבית דויד ועד שער המים מזרח׃"
+    },
+    {
+      "uid": "Nehemiah_365",
+      "chapter_number": 12,
+      "verse_number": 38,
+      "start_char": 24655,
+      "end_char": 24745,
+      "length": 91,
+      "text": "והתודה השנית ההולכת למואל ואני אחריה וחצי העם מעל להחומה מעל למגדל התנורים ועד החומה הרחבה׃"
+    },
+    {
+      "uid": "Nehemiah_366",
+      "chapter_number": 12,
+      "verse_number": 39,
+      "start_char": 24746,
+      "end_char": 24842,
+      "length": 97,
+      "text": "ומעל לשער־אפרים ועל־שער הישנה ועל־שער הדגים ומגדל חננאל ומגדל המאה ועד שער הצאן ועמדו בשער המטרה׃"
+    },
+    {
+      "uid": "Nehemiah_367",
+      "chapter_number": 12,
+      "verse_number": 40,
+      "start_char": 24843,
+      "end_char": 24893,
+      "length": 51,
+      "text": "ותעמדנה שתי התודת בבית האלהים ואני וחצי הסגנים עמי׃"
+    },
+    {
+      "uid": "Nehemiah_368",
+      "chapter_number": 12,
+      "verse_number": 41,
+      "start_char": 24894,
+      "end_char": 24956,
+      "length": 63,
+      "text": "והכהנים אליקים מעשיה מנימין מיכיה אליועיני זכריה חנניה בחצצרות׃"
+    },
+    {
+      "uid": "Nehemiah_369",
+      "chapter_number": 12,
+      "verse_number": 42,
+      "start_char": 24957,
+      "end_char": 25038,
+      "length": 82,
+      "text": "ומעשיה ושמעיה ואלעזר ועזי ויהוחנן ומלכיה ועילם ועזר וישמיעו המשררים ויזרחיה הפקיד׃"
+    },
+    {
+      "uid": "Nehemiah_370",
+      "chapter_number": 12,
+      "verse_number": 43,
+      "start_char": 25039,
+      "end_char": 25149,
+      "length": 111,
+      "text": "ויזבחו ביום־ההוא זבחים גדולים וישמחו כי האלהים שמחם שמחה גדולה וגם הנשים והילדים שמחו ותשמע שמחת ירושל͏ם מרחוק׃"
+    },
+    {
+      "uid": "Nehemiah_371",
+      "chapter_number": 12,
+      "verse_number": 44,
+      "start_char": 25150,
+      "end_char": 25302,
+      "length": 153,
+      "text": "ויפקדו ביום ההוא אנשים על־הנשכות לאוצרות לתרומות לראשית ולמעשרות לכנוס בהם לשדי הערים מנאות התורה לכהנים וללוים כי שמחת יהודה על־הכהנים ועל־הלוים העמדים׃"
+    },
+    {
+      "uid": "Nehemiah_372",
+      "chapter_number": 12,
+      "verse_number": 45,
+      "start_char": 25303,
+      "end_char": 25372,
+      "length": 70,
+      "text": "וישמרו משמרת אלהיהם ומשמרת הטהרה והמשררים והשערים כמצות דויד שלמה בנו׃"
+    },
+    {
+      "uid": "Nehemiah_373",
+      "chapter_number": 12,
+      "verse_number": 46,
+      "start_char": 25373,
+      "end_char": 25439,
+      "length": 67,
+      "text": "כי־בימי דויד ואסף מקדם (ראש) [ראשי] המשררים ושיר־תהלה והדות לאלהים׃"
+    },
+    {
+      "uid": "Nehemiah_374",
+      "chapter_number": 12,
+      "verse_number": 47,
+      "start_char": 25440,
+      "end_char": 25552,
+      "length": 113,
+      "text": "וכל־ישראל בימי זרבבל ובימי נחמיה נתנים מניות המשררים והשערים דבר־יום ביומו ומקדשים ללוים והלוים מקדשים לבני אהרן׃"
+    },
+    {
+      "uid": "Nehemiah_375",
+      "chapter_number": 13,
+      "verse_number": 1,
+      "start_char": 25553,
+      "end_char": 25644,
+      "length": 92,
+      "text": "ביום ההוא נקרא בספר משה באזני העם ונמצא כתוב בו אשר לא־יבוא עמני ומואבי בקהל האלהים עד־עולם׃"
+    },
+    {
+      "uid": "Nehemiah_376",
+      "chapter_number": 13,
+      "verse_number": 2,
+      "start_char": 25645,
+      "end_char": 25729,
+      "length": 85,
+      "text": "כי לא קדמו את־בני ישראל בלחם ובמים וישכר עליו את־בלעם לקללו ויהפך אלהינו הקללה לברכה׃"
+    },
+    {
+      "uid": "Nehemiah_377",
+      "chapter_number": 13,
+      "verse_number": 3,
+      "start_char": 25730,
+      "end_char": 25771,
+      "length": 42,
+      "text": "ויהי כשמעם את־התורה ויבדילו כל־ערב מישראל׃"
+    },
+    {
+      "uid": "Nehemiah_378",
+      "chapter_number": 13,
+      "verse_number": 4,
+      "start_char": 25772,
+      "end_char": 25827,
+      "length": 56,
+      "text": "ולפני מזה אלישיב הכהן נתון בלשכת בית־אלהינו קרוב לטוביה׃"
+    },
+    {
+      "uid": "Nehemiah_379",
+      "chapter_number": 13,
+      "verse_number": 5,
+      "start_char": 25828,
+      "end_char": 25957,
+      "length": 130,
+      "text": "ויעש לו לשכה גדולה ושם היו לפנים נתנים את־המנחה הלבונה והכלים ומעשר הדגן התירוש והיצהר מצות הלוים והמשררים והשוערים ותרומת הכהנים׃"
+    },
+    {
+      "uid": "Nehemiah_380",
+      "chapter_number": 13,
+      "verse_number": 6,
+      "start_char": 25958,
+      "end_char": 26059,
+      "length": 102,
+      "text": "ובכל־זה לא הייתי בירושל͏ם כי בשנת שלשים ושתים לארתחשסתא מלך־בבל באתי אל־המלך ולקץ ימים נשאלתי מן־המלך׃"
+    },
+    {
+      "uid": "Nehemiah_381",
+      "chapter_number": 13,
+      "verse_number": 7,
+      "start_char": 26060,
+      "end_char": 26139,
+      "length": 80,
+      "text": "ואבוא לירושל͏ם ואבינה ברעה אשר עשה אלישיב לטוביה לעשות לו נשכה בחצרי בית האלהים׃"
+    },
+    {
+      "uid": "Nehemiah_382",
+      "chapter_number": 13,
+      "verse_number": 8,
+      "start_char": 26140,
+      "end_char": 26193,
+      "length": 54,
+      "text": "וירע לי מאד ואשליכה את־כל־כלי בית־טוביה החוץ מן־הלשכה׃"
+    },
+    {
+      "uid": "Nehemiah_383",
+      "chapter_number": 13,
+      "verse_number": 9,
+      "start_char": 26194,
+      "end_char": 26255,
+      "length": 62,
+      "text": "ואמרה ויטהרו הלשכות ואשיבה שם כלי בית האלהים את־המנחה והלבונה׃"
+    },
+    {
+      "uid": "Nehemiah_384",
+      "chapter_number": 13,
+      "verse_number": 10,
+      "start_char": 26256,
+      "end_char": 26327,
+      "length": 72,
+      "text": "ואדעה כי־מניות הלוים לא נתנה ויברחו איש־לשדהו הלוים והמשררים עשי המלאכה׃"
+    },
+    {
+      "uid": "Nehemiah_385",
+      "chapter_number": 13,
+      "verse_number": 11,
+      "start_char": 26328,
+      "end_char": 26393,
+      "length": 66,
+      "text": "ואריבה את־הסגנים ואמרה מדוע נעזב בית־האלהים ואקבצם ואעמדם על־עמדם׃"
+    },
+    {
+      "uid": "Nehemiah_386",
+      "chapter_number": 13,
+      "verse_number": 12,
+      "start_char": 26394,
+      "end_char": 26442,
+      "length": 49,
+      "text": "וכל־יהודה הביאו מעשר הדגן והתירוש והיצהר לאוצרות׃"
+    },
+    {
+      "uid": "Nehemiah_387",
+      "chapter_number": 13,
+      "verse_number": 13,
+      "start_char": 26443,
+      "end_char": 26561,
+      "length": 119,
+      "text": "ואוצרה על־אוצרות שלמיה הכהן וצדוק הסופר ופדיה מן־הלוים ועל־ידם חנן בן־זכור בן־מתניה כי נאמנים נחשבו ועליהם לחלק לאחיהם׃"
+    },
+    {
+      "uid": "Nehemiah_388",
+      "chapter_number": 13,
+      "verse_number": 14,
+      "start_char": 26562,
+      "end_char": 26623,
+      "length": 62,
+      "text": "זכרה־לי אלהי על־זאת ואל־תמח חסדי אשר עשיתי בבית אלהי ובמשמריו׃"
+    },
+    {
+      "uid": "Nehemiah_389",
+      "chapter_number": 13,
+      "verse_number": 15,
+      "start_char": 26624,
+      "end_char": 26770,
+      "length": 147,
+      "text": "בימים ההמה ראיתי ביהודה׀דרכים־גתות׀בשבת ומביאים הערמות ועמסים על־החמרים ואף־יין ענבים ותאנים וכל־משא ומביאים ירושל͏ם ביום השבת ואעיד ביום מכרם ציד׃"
+    },
+    {
+      "uid": "Nehemiah_390",
+      "chapter_number": 13,
+      "verse_number": 16,
+      "start_char": 26771,
+      "end_char": 26838,
+      "length": 68,
+      "text": "והצרים ישבו בה מביאים דאג וכל־מכר ומוכרים בשבת לבני יהודה ובירושל͏ם׃"
+    },
+    {
+      "uid": "Nehemiah_391",
+      "chapter_number": 13,
+      "verse_number": 17,
+      "start_char": 26839,
+      "end_char": 26917,
+      "length": 79,
+      "text": "ואריבה את חרי יהודה ואמרה להם מה־הדבר הרע הזה אשר אתם עשים ומחללים את־יום השבת׃"
+    },
+    {
+      "uid": "Nehemiah_392",
+      "chapter_number": 13,
+      "verse_number": 18,
+      "start_char": 26918,
+      "end_char": 27024,
+      "length": 107,
+      "text": "הלוא כה עשו אבתיכם ויבא אלהינו עלינו את כל־הרעה הזאת ועל העיר הזאת ואתם מוסיפים חרון על־ישראל לחלל את־השבת׃"
+    },
+    {
+      "uid": "Nehemiah_393",
+      "chapter_number": 13,
+      "verse_number": 19,
+      "start_char": 27025,
+      "end_char": 27160,
+      "length": 136,
+      "text": "ויהי כאשר צללו שערי ירושל͏ם לפני השבת ואמרה ויסגרו הדלתות ואמרה אשר לא יפתחום עד אחר השבת ומנערי העמדתי על־השערים לא־יבוא משא ביום השבת׃"
+    },
+    {
+      "uid": "Nehemiah_394",
+      "chapter_number": 13,
+      "verse_number": 20,
+      "start_char": 27161,
+      "end_char": 27212,
+      "length": 52,
+      "text": "וילינו הרכלים ומכרי כל־ממכר מחוץ לירושל͏ם פעם ושתים׃"
+    },
+    {
+      "uid": "Nehemiah_395",
+      "chapter_number": 13,
+      "verse_number": 21,
+      "start_char": 27213,
+      "end_char": 27303,
+      "length": 91,
+      "text": "ואעידה בהם ואמרה אליהם מדוע אתם לנים נגד החומה אם־תשנו יד אשלח בכם מן־העת ההיא לא־באו בשבת׃"
+    },
+    {
+      "uid": "Nehemiah_396",
+      "chapter_number": 13,
+      "verse_number": 22,
+      "start_char": 27304,
+      "end_char": 27406,
+      "length": 103,
+      "text": "ואמרה ללוים אשר יהיו מטהרים ובאים שמרים השערים לקדש את־יום השבת גם־זאת זכרה־לי אלהי וחוסה עלי כרב חסדך׃"
+    },
+    {
+      "uid": "Nehemiah_397",
+      "chapter_number": 13,
+      "verse_number": 23,
+      "start_char": 27407,
+      "end_char": 27496,
+      "length": 90,
+      "text": "גם׀ בימים ההם ראיתי את־היהודים השיבו נשים (אשדודיות) [אשדדיות] (עמוניות) [עמניות] מואביות׃"
+    },
+    {
+      "uid": "Nehemiah_398",
+      "chapter_number": 13,
+      "verse_number": 24,
+      "start_char": 27497,
+      "end_char": 27559,
+      "length": 63,
+      "text": "ובניהם חצי מדבר אשדודית ואינם מכירים לדבר יהודית וכלשון עם ועם׃"
+    },
+    {
+      "uid": "Nehemiah_399",
+      "chapter_number": 13,
+      "verse_number": 25,
+      "start_char": 27560,
+      "end_char": 27664,
+      "length": 105,
+      "text": "ואריב עמם ואקללם ואכה מהם אנשים ואמרטם ואשביעם באלהים אם־תתנו בנתיכם לבניהם ואם־תשאו מבנתיהם לבניכם ולכם׃"
+    },
+    {
+      "uid": "Nehemiah_400",
+      "chapter_number": 13,
+      "verse_number": 26,
+      "start_char": 27665,
+      "end_char": 27799,
+      "length": 135,
+      "text": "הלוא על־אלה חטא־שלמה מלך ישראל ובגוים הרבים לא־היה מלך כמהו ואהוב לאלהיו היה ויתנהו אלהים מלך על־כל־ישראל גם־אותו החטיאו הנשים הנכריות׃"
+    },
+    {
+      "uid": "Nehemiah_401",
+      "chapter_number": 13,
+      "verse_number": 27,
+      "start_char": 27800,
+      "end_char": 27869,
+      "length": 70,
+      "text": "ולכם הנשמע לעשת את כל־הרעה הגדולה הזאת למעל באלהינו להשיב נשים נכריות׃"
+    },
+    {
+      "uid": "Nehemiah_402",
+      "chapter_number": 13,
+      "verse_number": 28,
+      "start_char": 27870,
+      "end_char": 27933,
+      "length": 64,
+      "text": "ומבני יוידע בן־אלישיב הכהן הגדול חתן לסנבלט החרני ואבריחהו מעלי׃"
+    },
+    {
+      "uid": "Nehemiah_403",
+      "chapter_number": 13,
+      "verse_number": 29,
+      "start_char": 27934,
+      "end_char": 27980,
+      "length": 47,
+      "text": "זכרה להם אלהי על גאלי הכהנה וברית הכהנה והלוים׃"
+    },
+    {
+      "uid": "Nehemiah_404",
+      "chapter_number": 13,
+      "verse_number": 30,
+      "start_char": 27981,
+      "end_char": 28036,
+      "length": 56,
+      "text": "וטהרתים מכל־נכרואעמידה משמרות לכהנים וללוים איש במלאכתו׃"
+    },
+    {
+      "uid": "Nehemiah_405",
+      "chapter_number": 13,
+      "verse_number": 31,
+      "start_char": 28037,
+      "end_char": 28090,
+      "length": 54,
+      "text": "ולקרבן העצים בעתים מזמנות ולבכורים זכרה־לי אלהי לטובה׃"
+    }
+  ]
+}

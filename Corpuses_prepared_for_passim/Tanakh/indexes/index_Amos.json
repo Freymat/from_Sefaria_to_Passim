@@ -1,0 +1,1327 @@
+{
+  "title": "Amos",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Amos_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 115,
+      "length": 115,
+      "text": "דברי עמוס אשר־היה בנקדים מתקוע אשר חזה על־ישראל בימי׀ עזיה מלך־יהודה ובימי ירבעם בן־יואש מלך ישראל שנתים לפני הרעש׃"
+    },
+    {
+      "uid": "Amos_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 116,
+      "end_char": 189,
+      "length": 74,
+      "text": "ויאמר׀ יהוה מציון ישאג ומירושל͏ם יתן קולו ואבלו נאות הרעים ויבש ראש הכרמל׃"
+    },
+    {
+      "uid": "Amos_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 190,
+      "end_char": 269,
+      "length": 80,
+      "text": "כה אמר יהוה על־שלשה פשעי דמשק ועל־ארבעה לא אשיבנו על־דושם בחרצות הברזל את־הגלעד׃"
+    },
+    {
+      "uid": "Amos_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 270,
+      "end_char": 309,
+      "length": 40,
+      "text": "ושלחתי אש בבית חזאל ואכלה ארמנות בן־הדד׃"
+    },
+    {
+      "uid": "Amos_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 310,
+      "end_char": 393,
+      "length": 84,
+      "text": "ושברתי בריח דמשק והכרתי יושב מבקעת־און ותומך שבט מבית עדן וגלו עם־ארם קירה אמר יהוה׃"
+    },
+    {
+      "uid": "Amos_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 394,
+      "end_char": 475,
+      "length": 82,
+      "text": "כה אמר יהוה על־שלשה פשעי עזה ועל־ארבעה לא אשיבנו על־הגלותם גלות שלמה להסגיר לאדום׃"
+    },
+    {
+      "uid": "Amos_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 476,
+      "end_char": 509,
+      "length": 34,
+      "text": "ושלחתי אש בחומת עזה ואכלה ארמנתיה׃"
+    },
+    {
+      "uid": "Amos_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 510,
+      "end_char": 601,
+      "length": 92,
+      "text": "והכרתי יושב מאשדוד ותומך שבט מאשקלון והשיבותי ידי על־עקרון ואבדו שארית פלשתים אמר אדני יהוה׃"
+    },
+    {
+      "uid": "Amos_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 602,
+      "end_char": 694,
+      "length": 93,
+      "text": "כה אמר יהוה על־שלשה פשעי־צר ועל־ארבעה לא אשיבנו על־הסגירם גלות שלמה לאדום ולא זכרו ברית אחים׃"
+    },
+    {
+      "uid": "Amos_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 695,
+      "end_char": 728,
+      "length": 34,
+      "text": "ושלחתי אש בחומת צר ואכלה ארמנותיה׃"
+    },
+    {
+      "uid": "Amos_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 729,
+      "end_char": 837,
+      "length": 109,
+      "text": "כה אמר יהוה על־שלשה פשעי אדום ועל־ארבעה לא אשיבנו על־רדפו בחרב אחיו ושחת רחמיו ויטרף לעד אפו ועברתו שמרה נצח׃"
+    },
+    {
+      "uid": "Amos_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 838,
+      "end_char": 871,
+      "length": 34,
+      "text": "ושלחתי אש בתימן ואכלה ארמנות בצרה׃"
+    },
+    {
+      "uid": "Amos_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 872,
+      "end_char": 964,
+      "length": 93,
+      "text": "כה אמר יהוה על־שלשה פשעי בני־עמון ועל־ארבעה לא אשיבנו על־בקעם הרות הגלעד למען הרחיב את־גבולם׃"
+    },
+    {
+      "uid": "Amos_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 965,
+      "end_char": 1031,
+      "length": 67,
+      "text": "והצתי אש בחומת רבה ואכלה ארמנותיה בתרועה ביום מלחמה בסער ביום סופה׃"
+    },
+    {
+      "uid": "Amos_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 1032,
+      "end_char": 1071,
+      "length": 40,
+      "text": "והלך מלכם בגולה הוא ושריו יחדו אמר יהוה׃"
+    },
+    {
+      "uid": "Amos_16",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 1072,
+      "end_char": 1149,
+      "length": 78,
+      "text": "כה אמר יהוה על־שלשה פשעי מואב ועל־ארבעה לא אשיבנו על־שרפו עצמות מלך־אדום לשיד׃"
+    },
+    {
+      "uid": "Amos_17",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1150,
+      "end_char": 1217,
+      "length": 68,
+      "text": "ושלחתי־אש במואב ואכלה ארמנות הקריות ומת בשאון מואב בתרועה בקול שופר׃"
+    },
+    {
+      "uid": "Amos_18",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1218,
+      "end_char": 1263,
+      "length": 46,
+      "text": "והכרתי שופט מקרבה וכל־שריה אהרוג עמו אמר יהוה׃"
+    },
+    {
+      "uid": "Amos_19",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 1264,
+      "end_char": 1385,
+      "length": 122,
+      "text": "כה אמר יהוה על־שלשה פשעי יהודה ועל־ארבעה לא אשיבנו על־מאסם את־תורת יהוה וחקיו לא שמרו ויתעום כזביהם אשר־הלכו אבותם אחריהם׃"
+    },
+    {
+      "uid": "Amos_20",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1386,
+      "end_char": 1423,
+      "length": 38,
+      "text": "ושלחתי אש ביהודה ואכלה ארמנות ירושל͏ם׃"
+    },
+    {
+      "uid": "Amos_21",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1424,
+      "end_char": 1511,
+      "length": 88,
+      "text": "כה אמר יהוה על־שלשה פשעי ישראל ועל־ארבעה לא אשיבנו על־מכרם בכסף צדיק ואביון בעבור נעלים׃"
+    },
+    {
+      "uid": "Amos_22",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1512,
+      "end_char": 1599,
+      "length": 88,
+      "text": "השאפים על־עפר־ארץ בראש דלים ודרך ענוים יטו ואיש ואביו ילכו אל־הנערה למען חלל את־שם קדשי׃"
+    },
+    {
+      "uid": "Amos_23",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1600,
+      "end_char": 1659,
+      "length": 60,
+      "text": "ועל־בגדים חבלים יטו אצל כל־מזבח ויין ענושים ישתו בית אלהיהם׃"
+    },
+    {
+      "uid": "Amos_24",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1660,
+      "end_char": 1754,
+      "length": 95,
+      "text": "ואנכי השמדתי את־האמרי מפניהם אשר כגבה ארזים גבהו וחסן הוא כאלונים ואשמיד פריו ממעל ושרשיו מתחת׃"
+    },
+    {
+      "uid": "Amos_25",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 1755,
+      "end_char": 1829,
+      "length": 75,
+      "text": "ואנכי העליתי אתכם מארץ מצרים ואולך אתכם במדבר ארבעים שנה לרשת את־ארץ האמרי׃"
+    },
+    {
+      "uid": "Amos_26",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 1830,
+      "end_char": 1898,
+      "length": 69,
+      "text": "ואקים מבניכם לנביאים ומבחוריכם לנזרים האף אין־זאת בני ישראל נאם־יהוה׃"
+    },
+    {
+      "uid": "Amos_27",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 1899,
+      "end_char": 1950,
+      "length": 52,
+      "text": "ותשקו את־הנזרים יין ועל־הנביאים צויתם לאמר לא תנבאו׃"
+    },
+    {
+      "uid": "Amos_28",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 1951,
+      "end_char": 2001,
+      "length": 51,
+      "text": "הנה אנכי מעיק תחתיכם כאשר תעיק העגלה המלאה לה עמיר׃"
+    },
+    {
+      "uid": "Amos_29",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 2002,
+      "end_char": 2051,
+      "length": 50,
+      "text": "ואבד מנוס מקל וחזק לא־יאמץ כחו וגבור לא־ימלט נפשו׃"
+    },
+    {
+      "uid": "Amos_30",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 2052,
+      "end_char": 2111,
+      "length": 60,
+      "text": "ותפש הקשת לא יעמד וקל ברגליו לא ימלט ורכב הסוס לא ימלט נפשו׃"
+    },
+    {
+      "uid": "Amos_31",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 2112,
+      "end_char": 2158,
+      "length": 47,
+      "text": "ואמיץ לבו בגבורים ערום ינוס ביום־ההוא נאם־יהוה׃"
+    },
+    {
+      "uid": "Amos_32",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 2159,
+      "end_char": 2244,
+      "length": 86,
+      "text": "שמעו את־הדבר הזה אשר דבר יהוה עליכם בני ישראל על כל־המשפחה אשר העליתי מארץ מצרים לאמר׃"
+    },
+    {
+      "uid": "Amos_33",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 2245,
+      "end_char": 2306,
+      "length": 62,
+      "text": "רק אתכם ידעתי מכל משפחות האדמה על־כן אפקד עליכם את כל־עונתיכם׃"
+    },
+    {
+      "uid": "Amos_34",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 2307,
+      "end_char": 2336,
+      "length": 30,
+      "text": "הילכו שנים יחדו בלתי אם־נועדו׃"
+    },
+    {
+      "uid": "Amos_35",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 2337,
+      "end_char": 2398,
+      "length": 62,
+      "text": "הישאג אריה ביער וטרף אין לו היתן כפיר קולו ממענתו בלתי אם־לכד׃"
+    },
+    {
+      "uid": "Amos_36",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 2399,
+      "end_char": 2465,
+      "length": 67,
+      "text": "התפל צפור על־פח הארץ ומוקש אין לה היעלה־פח מן־האדמה ולכוד לא ילכוד׃"
+    },
+    {
+      "uid": "Amos_37",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 2466,
+      "end_char": 2526,
+      "length": 61,
+      "text": "אם־יתקע שופר בעיר ועם לא יחרדו אם־תהיה רעה בעיר ויהוה לא עשה׃"
+    },
+    {
+      "uid": "Amos_38",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 2527,
+      "end_char": 2583,
+      "length": 57,
+      "text": "כי לא יעשה אדני יהוה דבר כי אם־גלה סודו אל־עבדיו הנביאים׃"
+    },
+    {
+      "uid": "Amos_39",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 2584,
+      "end_char": 2628,
+      "length": 45,
+      "text": "אריה שאג מי לא יירא אדני יהוה דבר מי לא ינבא׃"
+    },
+    {
+      "uid": "Amos_40",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 2629,
+      "end_char": 2735,
+      "length": 107,
+      "text": "השמיעו על־ארמנות באשדוד ועל־ארמנות בארץ מצרים ואמרו האספו על־הרי שמרון וראו מהומת רבות בתוכה ועשוקים בקרבה׃"
+    },
+    {
+      "uid": "Amos_41",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 2736,
+      "end_char": 2790,
+      "length": 55,
+      "text": "ולא־ידעו עשות־נכחה נאם־יהוה האוצרים חמס ושד בארמנותיהם׃"
+    },
+    {
+      "uid": "Amos_42",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 2791,
+      "end_char": 2855,
+      "length": 65,
+      "text": "לכן כה אמר אדני יהוה צר וסביב הארץ והוריד ממך עזך ונבזו ארמנותיך׃"
+    },
+    {
+      "uid": "Amos_43",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 2856,
+      "end_char": 2965,
+      "length": 110,
+      "text": "כה אמר יהוה כאשר יציל הרעה מפי הארי שתי כרעים או בדל־אזן כן ינצלו בני ישראל הישבים בשמרון בפאת מטה ובדמשק ערש׃"
+    },
+    {
+      "uid": "Amos_44",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 2966,
+      "end_char": 3013,
+      "length": 48,
+      "text": "שמעו והעידו בבית יעקב נאם־אדני יהוה אלהי הצבאות׃"
+    },
+    {
+      "uid": "Amos_45",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 3014,
+      "end_char": 3096,
+      "length": 83,
+      "text": "כי ביום פקדי פשעי־ישראל עליו ופקדתי על־מזבחות בית־אל ונגדעו קרנות המזבח ונפלו לארץ׃"
+    },
+    {
+      "uid": "Amos_46",
+      "chapter_number": 3,
+      "verse_number": 15,
+      "start_char": 3097,
+      "end_char": 3162,
+      "length": 66,
+      "text": "והכיתי בית־החרף על־בית הקיץ ואבדו בתי השן וספו בתים רבים נאם־יהוה׃"
+    },
+    {
+      "uid": "Amos_47",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 3163,
+      "end_char": 3253,
+      "length": 91,
+      "text": "שמעו הדבר הזה פרות הבשן אשר בהר שמרון העשקות דלים הרצצות אביונים האמרת לאדניהם הביאה ונשתה׃"
+    },
+    {
+      "uid": "Amos_48",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 3254,
+      "end_char": 3334,
+      "length": 81,
+      "text": "נשבע אדני יהוה בקדשו כי הנה ימים באים עליכם ונשא אתכם בצנות ואחריתכן בסירות דוגה׃"
+    },
+    {
+      "uid": "Amos_49",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 3335,
+      "end_char": 3382,
+      "length": 48,
+      "text": "ופרצים תצאנה אשה נגדה והשלכתנה ההרמונה נאם־יהוה׃"
+    },
+    {
+      "uid": "Amos_50",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 3383,
+      "end_char": 3454,
+      "length": 72,
+      "text": "באו בית־אל ופשעו הגלגל הרבו לפשע והביאו לבקר זבחיכם לשלשת ימים מעשרתיכם׃"
+    },
+    {
+      "uid": "Amos_51",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 3455,
+      "end_char": 3524,
+      "length": 70,
+      "text": "וקטר מחמץ תודה וקראו נדבות השמיעו כי כן אהבתם בני ישראל נאם אדני יהוה׃"
+    },
+    {
+      "uid": "Amos_52",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 3525,
+      "end_char": 3606,
+      "length": 82,
+      "text": "וגם־אני נתתי לכם נקיון שנים בכל־עריכם וחסר לחם בכל מקומתיכם ולא־שבתם עדי נאם־יהוה׃"
+    },
+    {
+      "uid": "Amos_53",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 3607,
+      "end_char": 3738,
+      "length": 132,
+      "text": "וגם אנכי מנעתי מכם את־הגשם בעוד שלשה חדשים לקציר והמטרתי על־עיר אחת ועל־עיר אחת לא אמטיר חלקה אחת תמטר וחלקה אשר־לא־תמטיר עליה תיבש׃"
+    },
+    {
+      "uid": "Amos_54",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 3739,
+      "end_char": 3810,
+      "length": 72,
+      "text": "ונעו שתים שלש ערים אל־עיר אחת לשתות מים ולא ישבעו ולא־שבתם עדי נאם־יהוה׃"
+    },
+    {
+      "uid": "Amos_55",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 3811,
+      "end_char": 3906,
+      "length": 96,
+      "text": "הכיתי אתכם בשדפון ובירקון הרבות גנותיכם וכרמיכם ותאניכם וזיתיכם יאכל הגזם ולא־שבתם עדי נאם־יהוה׃"
+    },
+    {
+      "uid": "Amos_56",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 3907,
+      "end_char": 4010,
+      "length": 104,
+      "text": "שלחתי בכם דבר בדרך מצרים הרגתי בחרב בחוריכם עם שבי סוסיכם ואעלה באש מחניכם ובאפכם ולא־שבתם עדי נאם־יהוה׃"
+    },
+    {
+      "uid": "Amos_57",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 4011,
+      "end_char": 4092,
+      "length": 82,
+      "text": "הפכתי בכם כמהפכת אלהים את־סדם ואת־עמרה ותהיו כאוד מצל משרפה ולא־שבתם עדי נאם־יהוה׃"
+    },
+    {
+      "uid": "Amos_58",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 4093,
+      "end_char": 4155,
+      "length": 63,
+      "text": "לכן כה אעשה־לך ישראל עקב כי־זאת אעשה־לך הכון לקראת־אלהיך ישראל׃"
+    },
+    {
+      "uid": "Amos_59",
+      "chapter_number": 4,
+      "verse_number": 13,
+      "start_char": 4156,
+      "end_char": 4249,
+      "length": 94,
+      "text": "כי הנה יוצר הרים וברא רוח ומגיד לאדם מה־שחו עשה שחר עיפה ודרך על־במתי ארץ יהוה אלהי־צבאות שמו׃"
+    },
+    {
+      "uid": "Amos_60",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 4250,
+      "end_char": 4300,
+      "length": 51,
+      "text": "שמעו את־הדבר הזה אשר אנכי נשא עליכם קינה בית ישראל׃"
+    },
+    {
+      "uid": "Amos_61",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 4301,
+      "end_char": 4354,
+      "length": 54,
+      "text": "נפלה לא־תוסיף קום בתולת ישראל נטשה על־אדמתה אין מקימה׃"
+    },
+    {
+      "uid": "Amos_62",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 4355,
+      "end_char": 4433,
+      "length": 79,
+      "text": "כי כה אמר אדני יהוה העיר היצאת אלף תשאיר מאה והיוצאת מאה תשאיר עשרה לבית ישראל׃"
+    },
+    {
+      "uid": "Amos_63",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 4434,
+      "end_char": 4471,
+      "length": 38,
+      "text": "כי כה אמר יהוה לבית ישראל דרשוני וחיו׃"
+    },
+    {
+      "uid": "Amos_64",
+      "chapter_number": 5,
+      "verse_number": 5,
+      "start_char": 4472,
+      "end_char": 4557,
+      "length": 86,
+      "text": "ואל־תדרשו בית־אל והגלגל לא תבאו ובאר שבע לא תעברו כי הגלגל גלה יגלה ובית־אל יהיה לאון׃"
+    },
+    {
+      "uid": "Amos_65",
+      "chapter_number": 5,
+      "verse_number": 6,
+      "start_char": 4558,
+      "end_char": 4620,
+      "length": 63,
+      "text": "דרשו את־יהוה וחיו פן־יצלח כאש בית יוסף ואכלה ואין־מכבה לבית־אל׃"
+    },
+    {
+      "uid": "Amos_66",
+      "chapter_number": 5,
+      "verse_number": 7,
+      "start_char": 4621,
+      "end_char": 4655,
+      "length": 35,
+      "text": "ההפכים ללענה משפט וצדקה לארץ הניחו׃"
+    },
+    {
+      "uid": "Amos_67",
+      "chapter_number": 5,
+      "verse_number": 8,
+      "start_char": 4656,
+      "end_char": 4744,
+      "length": 89,
+      "text": "עשה כימה וכסיל והפך לבקר צלמות ויום לילה החשיך הקורא למי־הים וישפכם על־פני הארץ יהוה שמו׃"
+    },
+    {
+      "uid": "Amos_68",
+      "chapter_number": 5,
+      "verse_number": 9,
+      "start_char": 4745,
+      "end_char": 4777,
+      "length": 33,
+      "text": "המבליג שד על־עז ושד על־מבצר יבוא׃"
+    },
+    {
+      "uid": "Amos_69",
+      "chapter_number": 5,
+      "verse_number": 10,
+      "start_char": 4778,
+      "end_char": 4809,
+      "length": 32,
+      "text": "שנאו בשער מוכיח ודבר תמים יתעבו׃"
+    },
+    {
+      "uid": "Amos_70",
+      "chapter_number": 5,
+      "verse_number": 11,
+      "start_char": 4810,
+      "end_char": 4908,
+      "length": 99,
+      "text": "לכן יען בושסכם על־דל ומשאת־בר תקחו ממנו בתי גזית בניתם ולא־תשבו בם כרמי־חמד נטעתם ולא תשתו את־יינם׃"
+    },
+    {
+      "uid": "Amos_71",
+      "chapter_number": 5,
+      "verse_number": 12,
+      "start_char": 4909,
+      "end_char": 4981,
+      "length": 73,
+      "text": "כי ידעתי רבים פשעיכם ועצמים חטאתיכם צררי צדיק לקחי כפר ואביונים בשער הטו׃"
+    },
+    {
+      "uid": "Amos_72",
+      "chapter_number": 5,
+      "verse_number": 13,
+      "start_char": 4982,
+      "end_char": 5019,
+      "length": 38,
+      "text": "לכן המשכיל בעת ההיא ידם כי עת רעה היא׃"
+    },
+    {
+      "uid": "Amos_73",
+      "chapter_number": 5,
+      "verse_number": 14,
+      "start_char": 5020,
+      "end_char": 5085,
+      "length": 66,
+      "text": "דרשו־טוב ואל־רע למען תחיו ויהי־כן יהוה אלהי־צבאות אתכם כאשר אמרתם׃"
+    },
+    {
+      "uid": "Amos_74",
+      "chapter_number": 5,
+      "verse_number": 15,
+      "start_char": 5086,
+      "end_char": 5157,
+      "length": 72,
+      "text": "שנאו־רע ואהבו טוב והציגו בשער משפט אולי יחנן יהוה אלהי־צבאות שארית יוסף׃"
+    },
+    {
+      "uid": "Amos_75",
+      "chapter_number": 5,
+      "verse_number": 16,
+      "start_char": 5158,
+      "end_char": 5263,
+      "length": 106,
+      "text": "לכן כה־אמר יהוה אלהי צבאות אדני בכל־רחבות מספד ובכל־חוצות יאמרו הו־הו וקראו אכר אל־אבל ומספד אל־יודעי נהי׃"
+    },
+    {
+      "uid": "Amos_76",
+      "chapter_number": 5,
+      "verse_number": 17,
+      "start_char": 5264,
+      "end_char": 5302,
+      "length": 39,
+      "text": "ובכל־כרמים מספד כי־אעבר בקרבך אמר יהוה׃"
+    },
+    {
+      "uid": "Amos_77",
+      "chapter_number": 5,
+      "verse_number": 18,
+      "start_char": 5303,
+      "end_char": 5362,
+      "length": 60,
+      "text": "הוי המתאוים את־יום יהוה למה־זה לכם יום יהוה הוא־חשך ולא־אור׃"
+    },
+    {
+      "uid": "Amos_78",
+      "chapter_number": 5,
+      "verse_number": 19,
+      "start_char": 5363,
+      "end_char": 5433,
+      "length": 71,
+      "text": "כאשר ינוס איש מפני הארי ופגעו הדב ובא הבית וסמך ידו על־הקיר ונשכו הנחש׃"
+    },
+    {
+      "uid": "Amos_79",
+      "chapter_number": 5,
+      "verse_number": 20,
+      "start_char": 5434,
+      "end_char": 5474,
+      "length": 41,
+      "text": "הלא־חשך יום יהוה ולא־אור ואפל ולא־נגה לו׃"
+    },
+    {
+      "uid": "Amos_80",
+      "chapter_number": 5,
+      "verse_number": 21,
+      "start_char": 5475,
+      "end_char": 5510,
+      "length": 36,
+      "text": "שנאתי מאסתי חגיכם ולא אריח בעצרתיכם׃"
+    },
+    {
+      "uid": "Amos_81",
+      "chapter_number": 5,
+      "verse_number": 22,
+      "start_char": 5511,
+      "end_char": 5567,
+      "length": 57,
+      "text": "כי אם־תעלו־לי עלות ומנחתיכם לא ארצה ושלם מריאיכם לא אביט׃"
+    },
+    {
+      "uid": "Amos_82",
+      "chapter_number": 5,
+      "verse_number": 23,
+      "start_char": 5568,
+      "end_char": 5606,
+      "length": 39,
+      "text": "הסר מעלי המון שריך וזמרת נבליך לא אשמע׃"
+    },
+    {
+      "uid": "Amos_83",
+      "chapter_number": 5,
+      "verse_number": 24,
+      "start_char": 5607,
+      "end_char": 5637,
+      "length": 31,
+      "text": "ויגל כמים משפט וצדקה כנחל איתן׃"
+    },
+    {
+      "uid": "Amos_84",
+      "chapter_number": 5,
+      "verse_number": 25,
+      "start_char": 5638,
+      "end_char": 5686,
+      "length": 49,
+      "text": "הזבחים ומנחה הגשתם־לי במדבר ארבעים שנה בית ישראל׃"
+    },
+    {
+      "uid": "Amos_85",
+      "chapter_number": 5,
+      "verse_number": 26,
+      "start_char": 5687,
+      "end_char": 5749,
+      "length": 63,
+      "text": "ונשאתם את סכות מלככם ואת כיון צלמיכם כוכב אלהיכם אשר עשיתם לכם׃"
+    },
+    {
+      "uid": "Amos_86",
+      "chapter_number": 5,
+      "verse_number": 27,
+      "start_char": 5750,
+      "end_char": 5798,
+      "length": 49,
+      "text": "והגליתי אתכם מהלאה לדמשק אמר יהוה אלהי־צבאות שמו׃"
+    },
+    {
+      "uid": "Amos_87",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 5799,
+      "end_char": 5870,
+      "length": 72,
+      "text": "הוי השאננים בציון והבטחים בהר שמרון נקבי ראשית הגוים ובאו להם בית ישראל׃"
+    },
+    {
+      "uid": "Amos_88",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 5871,
+      "end_char": 5959,
+      "length": 89,
+      "text": "עברו כלנה וראו ולכו משם חמת רבה ורדו גת־פלשתים הטובים מן־הממלכות האלה אם־רב גבולם מגבלכם׃"
+    },
+    {
+      "uid": "Amos_89",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 5960,
+      "end_char": 5989,
+      "length": 30,
+      "text": "המנדים ליום רע ותגשון שבת חמס׃"
+    },
+    {
+      "uid": "Amos_90",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 5990,
+      "end_char": 6058,
+      "length": 69,
+      "text": "השכבים על־מטות שן וסרחים על־ערשותם ואכלים כרים מצאן ועגלים מתוך מרבק׃"
+    },
+    {
+      "uid": "Amos_91",
+      "chapter_number": 6,
+      "verse_number": 5,
+      "start_char": 6059,
+      "end_char": 6099,
+      "length": 41,
+      "text": "הפרטים על־פי הנבל כדויד חשבו להם כלי־שיר׃"
+    },
+    {
+      "uid": "Amos_92",
+      "chapter_number": 6,
+      "verse_number": 6,
+      "start_char": 6100,
+      "end_char": 6156,
+      "length": 57,
+      "text": "השתים במזרקי יין וראשית שמנים ימשחו ולא נחלו על־שבר יוסף׃"
+    },
+    {
+      "uid": "Amos_93",
+      "chapter_number": 6,
+      "verse_number": 7,
+      "start_char": 6157,
+      "end_char": 6195,
+      "length": 39,
+      "text": "לכן עתה יגלו בראש גלים וסר מרזח סרוחים׃"
+    },
+    {
+      "uid": "Amos_94",
+      "chapter_number": 6,
+      "verse_number": 8,
+      "start_char": 6196,
+      "end_char": 6292,
+      "length": 97,
+      "text": "נשבע אדני יהוה בנפשו נאם־יהוה אלהי צבאות מתאב אנכי את־גאון יעקב וארמנתיו שנאתי והסגרתי עיר ומלאה׃"
+    },
+    {
+      "uid": "Amos_95",
+      "chapter_number": 6,
+      "verse_number": 9,
+      "start_char": 6293,
+      "end_char": 6331,
+      "length": 39,
+      "text": "והיה אם־יותרו עשרה אנשים בבית אחד ומתו׃"
+    },
+    {
+      "uid": "Amos_96",
+      "chapter_number": 6,
+      "verse_number": 10,
+      "start_char": 6332,
+      "end_char": 6440,
+      "length": 109,
+      "text": "ונשאו דודו ומסרפו להוציא עצמים מן־הבית ואמר לאשר בירכתי הבית העוד עמך ואמר אפס ואמר הס כי לא להזכיר בשם יהוה׃"
+    },
+    {
+      "uid": "Amos_97",
+      "chapter_number": 6,
+      "verse_number": 11,
+      "start_char": 6441,
+      "end_char": 6497,
+      "length": 57,
+      "text": "כי־הנה יהוה מצוה והכה הבית הגדול רסיסים והבית הקטן בקעים׃"
+    },
+    {
+      "uid": "Amos_98",
+      "chapter_number": 6,
+      "verse_number": 12,
+      "start_char": 6498,
+      "end_char": 6566,
+      "length": 69,
+      "text": "הירצון בסלע סוסים אם־יחרוש בבקרים כי־הפכתם לראש משפט ופרי צדקה ללענה׃"
+    },
+    {
+      "uid": "Amos_99",
+      "chapter_number": 6,
+      "verse_number": 13,
+      "start_char": 6567,
+      "end_char": 6616,
+      "length": 50,
+      "text": "השמחים ללא דבר האמרים הלוא בחזקנו לקחנו לנו קרנים׃"
+    },
+    {
+      "uid": "Amos_100",
+      "chapter_number": 6,
+      "verse_number": 14,
+      "start_char": 6617,
+      "end_char": 6704,
+      "length": 88,
+      "text": "כי הנני מקים עליכם בית ישראל נאם־יהוה אלהי הצבאות גוי ולחצו אתכם מלבוא חמת עד־נחל הערבה׃"
+    },
+    {
+      "uid": "Amos_101",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 6705,
+      "end_char": 6775,
+      "length": 71,
+      "text": "כה הראני אדני יהוה והנה יוצר גבי בתחלת עלות הלקש והנה־לקש אחר גזי המלך׃"
+    },
+    {
+      "uid": "Amos_102",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 6776,
+      "end_char": 6851,
+      "length": 76,
+      "text": "והיה אם־כלה לאכול את־עשב הארץ ואמר אדני יהוה סלח־נא מי יקום יעקב כי קטן הוא׃"
+    },
+    {
+      "uid": "Amos_103",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 6852,
+      "end_char": 6884,
+      "length": 33,
+      "text": "נחם יהוה על־זאת לא תהיה אמר יהוה׃"
+    },
+    {
+      "uid": "Amos_104",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 6885,
+      "end_char": 6962,
+      "length": 78,
+      "text": "כה הראני אדני יהוה והנה קרא לרב באש אדני יהוה ותאכל את־תהום רבה ואכלה את־החלק׃"
+    },
+    {
+      "uid": "Amos_105",
+      "chapter_number": 7,
+      "verse_number": 5,
+      "start_char": 6963,
+      "end_char": 7008,
+      "length": 46,
+      "text": "ואמר אדני יהוה חדל־נא מי יקום יעקב כי קטן הוא׃"
+    },
+    {
+      "uid": "Amos_106",
+      "chapter_number": 7,
+      "verse_number": 6,
+      "start_char": 7009,
+      "end_char": 7053,
+      "length": 45,
+      "text": "נחם יהוה על־זאת גם־היא לא תהיה אמר אדני יהוה׃"
+    },
+    {
+      "uid": "Amos_107",
+      "chapter_number": 7,
+      "verse_number": 7,
+      "start_char": 7054,
+      "end_char": 7098,
+      "length": 45,
+      "text": "כה הראני והנה אדני נצב על־חומת אנך ובידו אנך׃"
+    },
+    {
+      "uid": "Amos_108",
+      "chapter_number": 7,
+      "verse_number": 8,
+      "start_char": 7099,
+      "end_char": 7197,
+      "length": 99,
+      "text": "ויאמר יהוה אלי מה־אתה ראה עמוס ואמר אנך ויאמר אדני הנני שם אנך בקרב עמי ישראל לא־אוסיף עוד עבור לו׃"
+    },
+    {
+      "uid": "Amos_109",
+      "chapter_number": 7,
+      "verse_number": 9,
+      "start_char": 7198,
+      "end_char": 7256,
+      "length": 59,
+      "text": "ונשמו במות ישחק ומקדשי ישראל יחרבו וקמתי על־בית ירבעם בחרב׃"
+    },
+    {
+      "uid": "Amos_110",
+      "chapter_number": 7,
+      "verse_number": 10,
+      "start_char": 7257,
+      "end_char": 7363,
+      "length": 107,
+      "text": "וישלח אמציה כהן בית־אל אל־ירבעם מלך־ישראל לאמר קשר עליך עמוס בקרב בית ישראל לא־תוכל הארץ להכיל את־כל־דבריו׃"
+    },
+    {
+      "uid": "Amos_111",
+      "chapter_number": 7,
+      "verse_number": 11,
+      "start_char": 7364,
+      "end_char": 7420,
+      "length": 57,
+      "text": "כי־כה אמר עמוס בחרב ימות ירבעם וישראל גלה יגלה מעל אדמתו׃"
+    },
+    {
+      "uid": "Amos_112",
+      "chapter_number": 7,
+      "verse_number": 12,
+      "start_char": 7421,
+      "end_char": 7488,
+      "length": 68,
+      "text": "ויאמר אמציה אל־עמוס חזה לך ברח־לך אל־ארץ יהודה ואכל־שם לחם ושם תנבא׃"
+    },
+    {
+      "uid": "Amos_113",
+      "chapter_number": 7,
+      "verse_number": 13,
+      "start_char": 7489,
+      "end_char": 7546,
+      "length": 58,
+      "text": "ובית־אל לא־תוסיף עוד להנבא כי מקדש־מלך הוא ובית ממלכה הוא׃"
+    },
+    {
+      "uid": "Amos_114",
+      "chapter_number": 7,
+      "verse_number": 14,
+      "start_char": 7547,
+      "end_char": 7626,
+      "length": 80,
+      "text": "ויען עמוס ויאמר אל־אמציה לא־נביא אנכי ולא בן־נביא אנכי כי־בוקר אנכי ובולס שקמים׃"
+    },
+    {
+      "uid": "Amos_115",
+      "chapter_number": 7,
+      "verse_number": 15,
+      "start_char": 7627,
+      "end_char": 7685,
+      "length": 59,
+      "text": "ויקחני יהוה מאחרי הצאן ויאמר אלי יהוה לך הנבא אל־עמי ישראל׃"
+    },
+    {
+      "uid": "Amos_116",
+      "chapter_number": 7,
+      "verse_number": 16,
+      "start_char": 7686,
+      "end_char": 7749,
+      "length": 64,
+      "text": "ועתה שמע דבר־יהוה אתה אמר לא תנבא על־ישראל ולא תטיף על־בית ישחק׃"
+    },
+    {
+      "uid": "Amos_117",
+      "chapter_number": 7,
+      "verse_number": 17,
+      "start_char": 7750,
+      "end_char": 7869,
+      "length": 120,
+      "text": "לכן כה־אמר יהוה אשתך בעיר תזנה ובניך ובנתיך בחרב יפלו ואדמתך בחבל תחלק ואתה על־אדמה טמאה תמות וישראל גלה יגלה מעל אדמתו׃"
+    },
+    {
+      "uid": "Amos_118",
+      "chapter_number": 8,
+      "verse_number": 1,
+      "start_char": 7870,
+      "end_char": 7902,
+      "length": 33,
+      "text": "כה הראני אדני יהוה והנה כלוב קיץ׃"
+    },
+    {
+      "uid": "Amos_119",
+      "chapter_number": 8,
+      "verse_number": 2,
+      "start_char": 7903,
+      "end_char": 7994,
+      "length": 92,
+      "text": "ויאמר מה־אתה ראה עמוס ואמר כלוב קיץ ויאמר יהוה אלי בא הקץ אל־עמי ישראל לא־אוסיף עוד עבור לו׃"
+    },
+    {
+      "uid": "Amos_120",
+      "chapter_number": 8,
+      "verse_number": 3,
+      "start_char": 7995,
+      "end_char": 8063,
+      "length": 69,
+      "text": "והילילו שירות היכל ביום ההוא נאם אדני יהוה רב הפגר בכל־מקום השליך הס׃"
+    },
+    {
+      "uid": "Amos_121",
+      "chapter_number": 8,
+      "verse_number": 4,
+      "start_char": 8064,
+      "end_char": 8110,
+      "length": 47,
+      "text": "שמעו־זאת השאפים אביון ולשבית (ענוי) [עניי־]ארץ׃"
+    },
+    {
+      "uid": "Amos_122",
+      "chapter_number": 8,
+      "verse_number": 5,
+      "start_char": 8111,
+      "end_char": 8198,
+      "length": 88,
+      "text": "לאמר מתי יעבר החדש ונשבירה שבר והשבת ונפתחה־בר להקטין איפה ולהגדיל שקל ולעות מאזני מרמה׃"
+    },
+    {
+      "uid": "Amos_123",
+      "chapter_number": 8,
+      "verse_number": 6,
+      "start_char": 8199,
+      "end_char": 8247,
+      "length": 49,
+      "text": "לקנות בכסף דלים ואביון בעבור נעלים ומפל בר נשביר׃"
+    },
+    {
+      "uid": "Amos_124",
+      "chapter_number": 8,
+      "verse_number": 7,
+      "start_char": 8248,
+      "end_char": 8291,
+      "length": 44,
+      "text": "נשבע יהוה בגאון יעקב אם־אשכח לנצח כל־מעשיהם׃"
+    },
+    {
+      "uid": "Amos_125",
+      "chapter_number": 8,
+      "verse_number": 8,
+      "start_char": 8292,
+      "end_char": 8378,
+      "length": 87,
+      "text": "העל זאת לא־תרגז הארץ ואבל כל־יושב בה ועלתה כאר כלה ונגרשה (ונשקה) [ונשקעה] כיאור מצרים׃"
+    },
+    {
+      "uid": "Amos_126",
+      "chapter_number": 8,
+      "verse_number": 9,
+      "start_char": 8379,
+      "end_char": 8449,
+      "length": 71,
+      "text": "והיה׀ ביום ההוא נאם אדני יהוה והבאתי השמש בצהרים והחשכתי לארץ ביום אור׃"
+    },
+    {
+      "uid": "Amos_127",
+      "chapter_number": 8,
+      "verse_number": 10,
+      "start_char": 8450,
+      "end_char": 8556,
+      "length": 107,
+      "text": "והפכתי חגיכם לאבל וכל־שיריכם לקינה והעליתי על־כל־מתנים שק ועל־כל־ראש קרחה ושמתיה כאבל יחיד ואחריתה כיום מר׃"
+    },
+    {
+      "uid": "Amos_128",
+      "chapter_number": 8,
+      "verse_number": 11,
+      "start_char": 8557,
+      "end_char": 8651,
+      "length": 95,
+      "text": "הנה׀ ימים באים נאם אדני יהוה והשלחתי רעב בארץ לא־רעב ללחם ולא־צמא למים כי אם־לשמע את דברי יהוה׃"
+    },
+    {
+      "uid": "Amos_129",
+      "chapter_number": 8,
+      "verse_number": 12,
+      "start_char": 8652,
+      "end_char": 8716,
+      "length": 65,
+      "text": "ונעו מים עד־ים ומצפון ועד־מזרח ישוטטו לבקש את־דבר־יהוה ולא ימצאו׃"
+    },
+    {
+      "uid": "Amos_130",
+      "chapter_number": 8,
+      "verse_number": 13,
+      "start_char": 8717,
+      "end_char": 8761,
+      "length": 45,
+      "text": "ביום ההוא תתעלפנה הבתולת היפות והבחורים בצמא׃"
+    },
+    {
+      "uid": "Amos_131",
+      "chapter_number": 8,
+      "verse_number": 14,
+      "start_char": 8762,
+      "end_char": 8835,
+      "length": 74,
+      "text": "הנשבעים באשמת שמרון ואמרו חי אלהיך דן וחי דרך באר־שבע ונפלו ולא־יקומו עוד׃"
+    },
+    {
+      "uid": "Amos_132",
+      "chapter_number": 9,
+      "verse_number": 1,
+      "start_char": 8836,
+      "end_char": 8957,
+      "length": 122,
+      "text": "ראיתי את־אדני נצב על־המזבח ויאמר הך הכפתור וירעשו הספים ובצעם בראש כלם ואחריתם בחרב אהרג לא־ינוס להם נס ולא־ימלט להם פליט׃"
+    },
+    {
+      "uid": "Amos_133",
+      "chapter_number": 9,
+      "verse_number": 2,
+      "start_char": 8958,
+      "end_char": 9011,
+      "length": 54,
+      "text": "אם־יחתרו בשאול משם ידי תקחם ואם־יעלו השמים משם אורידם׃"
+    },
+    {
+      "uid": "Amos_134",
+      "chapter_number": 9,
+      "verse_number": 3,
+      "start_char": 9012,
+      "end_char": 9102,
+      "length": 91,
+      "text": "ואם־יחבאו בראש הכרמל משם אחפש ולקחתים ואם־יסתרו מנגד עיני בקרקע הים משם אצוה את־הנחש ונשכם׃"
+    },
+    {
+      "uid": "Amos_135",
+      "chapter_number": 9,
+      "verse_number": 4,
+      "start_char": 9103,
+      "end_char": 9184,
+      "length": 82,
+      "text": "ואם־ילכו בשבי לפני איביהם משם אצוה את־החרב והרגתם ושמתי עיני עליהם לרעה ולא לטובה׃"
+    },
+    {
+      "uid": "Amos_136",
+      "chapter_number": 9,
+      "verse_number": 5,
+      "start_char": 9185,
+      "end_char": 9269,
+      "length": 85,
+      "text": "ואדני יהוה הצבאות הנוגע בארץ ותמוג ואבלו כל־יושבי בה ועלתה כיאר כלה ושקעה כיאר מצרים׃"
+    },
+    {
+      "uid": "Amos_137",
+      "chapter_number": 9,
+      "verse_number": 6,
+      "start_char": 9270,
+      "end_char": 9348,
+      "length": 79,
+      "text": "הבונה בשמים מעלותו ואגדתו על־ארץ יסדה הקרא למי־הים וישפכם על־פני הארץ יהוה שמו׃"
+    },
+    {
+      "uid": "Amos_138",
+      "chapter_number": 9,
+      "verse_number": 7,
+      "start_char": 9349,
+      "end_char": 9448,
+      "length": 100,
+      "text": "הלוא כבני כשיים אתם לי בני ישראל נאם־יהוה הלוא את־ישראל העליתי מארץ מצרים ופלשתיים מכפתור וארם מקיר׃"
+    },
+    {
+      "uid": "Amos_139",
+      "chapter_number": 9,
+      "verse_number": 8,
+      "start_char": 9449,
+      "end_char": 9550,
+      "length": 102,
+      "text": "הנה עיני׀ אדני יהוה בממלכה החטאה והשמדתי אתה מעל פני האדמה אפס כי לא השמיד אשמיד את־בית יעקב נאם־יהוה׃"
+    },
+    {
+      "uid": "Amos_140",
+      "chapter_number": 9,
+      "verse_number": 9,
+      "start_char": 9551,
+      "end_char": 9632,
+      "length": 82,
+      "text": "כי־הנה אנכי מצוה והנעותי בכל־הגוים את־בית ישראל כאשר ינוע בכברה ולא־יפול צרור ארץ׃"
+    },
+    {
+      "uid": "Amos_141",
+      "chapter_number": 9,
+      "verse_number": 10,
+      "start_char": 9633,
+      "end_char": 9689,
+      "length": 57,
+      "text": "בחרב ימותו כל חטאי עמי האמרים לא־תגיש ותקדים בעדינו הרעה׃"
+    },
+    {
+      "uid": "Amos_142",
+      "chapter_number": 9,
+      "verse_number": 11,
+      "start_char": 9690,
+      "end_char": 9770,
+      "length": 81,
+      "text": "ביום ההוא אקים את־סכת דויד הנפלת וגדרתי את־פרציהן והרסתיו אקים ובניתיה כימי עולם׃"
+    },
+    {
+      "uid": "Amos_143",
+      "chapter_number": 9,
+      "verse_number": 12,
+      "start_char": 9771,
+      "end_char": 9841,
+      "length": 71,
+      "text": "למען יירשו את־שארית אדום וכל־הגוים אשר־נקרא שמי עליהם נאם־יהוה עשה זאת׃"
+    },
+    {
+      "uid": "Amos_144",
+      "chapter_number": 9,
+      "verse_number": 13,
+      "start_char": 9842,
+      "end_char": 9938,
+      "length": 97,
+      "text": "הנה ימים באים נאם־יהוה ונגש חורש בקצר ודרך ענבים במשך הזרע והטיפו ההרים עסיס וכל־הגבעות תתמוגגנה׃"
+    },
+    {
+      "uid": "Amos_145",
+      "chapter_number": 9,
+      "verse_number": 14,
+      "start_char": 9939,
+      "end_char": 10034,
+      "length": 96,
+      "text": "ושבתי את־שבות עמי ישראל ובנו ערים נשמות וישבו ונטעו כרמים ושתו את־יינם ועשו גנות ואכלו את־פריהם׃"
+    },
+    {
+      "uid": "Amos_146",
+      "chapter_number": 9,
+      "verse_number": 15,
+      "start_char": 10035,
+      "end_char": 10103,
+      "length": 69,
+      "text": "ונטעתים על־אדמתם ולא ינתשו עוד מעל אדמתם אשר נתתי להם אמר יהוה אלהיך׃"
+    }
+  ]
+}

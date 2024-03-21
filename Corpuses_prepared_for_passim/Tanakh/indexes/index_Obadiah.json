@@ -1,0 +1,202 @@
+{
+  "title": "Obadiah",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Obadiah_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 94,
+      "length": 94,
+      "text": "חזון עבדיה כה־אמר אדני יהוה לאדום שמועה שמענו מאת יהוה וציר בגוים שלח קומו ונקומה עליה למלחמה׃"
+    },
+    {
+      "uid": "Obadiah_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 95,
+      "end_char": 127,
+      "length": 33,
+      "text": "הנה קטן נתתיך בגוים בזוי אתה מאד׃"
+    },
+    {
+      "uid": "Obadiah_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 128,
+      "end_char": 190,
+      "length": 63,
+      "text": "זדון לבך השיאך שכני בחגוי־סלע מרום שבתו אמר בלבו מי יורדני ארץ׃"
+    },
+    {
+      "uid": "Obadiah_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 191,
+      "end_char": 247,
+      "length": 57,
+      "text": "אם־תגביה כנשר ואם־בין כוכבים שים קנך משם אורידך נאם־יהוה׃"
+    },
+    {
+      "uid": "Obadiah_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 248,
+      "end_char": 337,
+      "length": 90,
+      "text": "אם־גנבים באו־לך אם־שודדי לילה איך נדמיתה הלוא יגנבו דים אם־בצרים באו לך הלוא ישאירו עללות׃"
+    },
+    {
+      "uid": "Obadiah_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 338,
+      "end_char": 363,
+      "length": 26,
+      "text": "איך נחפשו עשו נבעו מצפניו׃"
+    },
+    {
+      "uid": "Obadiah_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 364,
+      "end_char": 452,
+      "length": 89,
+      "text": "עד־הגבול שלחוך כל אנשי בריתך השיאוך יכלו לך אנשי שלמך לחמך ישימו מזור תחתיך אין תבונה בו׃"
+    },
+    {
+      "uid": "Obadiah_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 453,
+      "end_char": 511,
+      "length": 59,
+      "text": "הלוא ביום ההוא נאם־יהוה והאבדתי חכמים מאדום ותבונה מהר עשו׃"
+    },
+    {
+      "uid": "Obadiah_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 512,
+      "end_char": 555,
+      "length": 44,
+      "text": "וחתו גבוריך תימן למען יכרת־איש מהר עשו מקטל׃"
+    },
+    {
+      "uid": "Obadiah_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 556,
+      "end_char": 592,
+      "length": 37,
+      "text": "מחמס אחיך יעקב תכסך בושה ונכרת לעולם׃"
+    },
+    {
+      "uid": "Obadiah_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 593,
+      "end_char": 680,
+      "length": 88,
+      "text": "ביום עמדך מנגד ביום שבות זרים חילו ונכרים באו שערו ועל־ירושל͏ם ידו גורל גם־אתה כאחד מהם׃"
+    },
+    {
+      "uid": "Obadiah_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 681,
+      "end_char": 760,
+      "length": 80,
+      "text": "ואל־תרא ביום־אחיך ביום נכרו ואל־תשמח לבני־יהודה ביום אבדם ואל־תגדל פיך ביום צרה׃"
+    },
+    {
+      "uid": "Obadiah_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 761,
+      "end_char": 844,
+      "length": 84,
+      "text": "אל־תבוא בשער־עמי ביום אידם אל־תרא גם־אתה ברעתו ביום אידו ואל־תשלחנה בחילו ביום אידו׃"
+    },
+    {
+      "uid": "Obadiah_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 845,
+      "end_char": 903,
+      "length": 59,
+      "text": "ואל־תעמד על־הפרק להכרית את־פליטיו ואל־תסגר שרידיו ביום צרה׃"
+    },
+    {
+      "uid": "Obadiah_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 904,
+      "end_char": 966,
+      "length": 63,
+      "text": "כי־קרוב יום־יהוה על־כל־הגוים כאשר עשית יעשה לך גמלך ישוב בראשך׃"
+    },
+    {
+      "uid": "Obadiah_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 967,
+      "end_char": 1034,
+      "length": 68,
+      "text": "כי כאשר שתיתם על־הר קדשי ישתו כל־הגוים תמיד ושתו ולעו והיו כלוא היו׃"
+    },
+    {
+      "uid": "Obadiah_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 1035,
+      "end_char": 1090,
+      "length": 56,
+      "text": "ובהר ציון תהיה פליטה והיה קדש וירשו בית יעקב את מורשיהם׃"
+    },
+    {
+      "uid": "Obadiah_18",
+      "chapter_number": 1,
+      "verse_number": 18,
+      "start_char": 1091,
+      "end_char": 1187,
+      "length": 97,
+      "text": "והיה בית־יעקב אש ובית יוסף להבה ובית עשו לקש ודלקו בהם ואכלום ולא־יהיה שריד לבית עשו כי יהוה דבר׃"
+    },
+    {
+      "uid": "Obadiah_19",
+      "chapter_number": 1,
+      "verse_number": 19,
+      "start_char": 1188,
+      "end_char": 1274,
+      "length": 87,
+      "text": "וירשו הנגב את־הר עשו והשפלה את־פלשתים וירשו את־שדה אפרים ואת שדה שמרון ובנימן את־הגלעד׃"
+    },
+    {
+      "uid": "Obadiah_20",
+      "chapter_number": 1,
+      "verse_number": 20,
+      "start_char": 1275,
+      "end_char": 1357,
+      "length": 83,
+      "text": "וגלת החל־הזה לבני ישראל אשר־כנענים עד־צרפת וגלת ירושל͏ם אשר בספרד ירשו את ערי הנגב׃"
+    },
+    {
+      "uid": "Obadiah_21",
+      "chapter_number": 1,
+      "verse_number": 21,
+      "start_char": 1358,
+      "end_char": 1412,
+      "length": 55,
+      "text": "ועלו מושעים בהר ציון לשפט את־הר עשו והיתה ליהוה המלוכה׃"
+    }
+  ]
+}

@@ -1,0 +1,778 @@
+{
+  "title": "Ruth",
+  "categories": [
+    "Tanakh",
+    "Writings"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Ruth_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 94,
+      "length": 94,
+      "text": "ויהי בימי שפט השפטים ויהי רעב בארץ וילך איש מבית לחם יהודה לגור בשדי מואב הוא ואשתו ושני בניו׃"
+    },
+    {
+      "uid": "Ruth_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 95,
+      "end_char": 197,
+      "length": 103,
+      "text": "ושם האיש אלימלך ושם אשתו נעמי ושם שני־בניו׀ מחלון וכליון אפרתים מבית לחם יהודה ויבאו שדי־מואב ויהיו־שם׃"
+    },
+    {
+      "uid": "Ruth_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 198,
+      "end_char": 238,
+      "length": 41,
+      "text": "וימת אלימלך איש נעמי ותשאר היא ושני בניה׃"
+    },
+    {
+      "uid": "Ruth_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 239,
+      "end_char": 306,
+      "length": 68,
+      "text": "וישאו להם נשים מאביות שם האחת ערפה ושם השנית רות וישבו שם כעשר שנים׃"
+    },
+    {
+      "uid": "Ruth_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 307,
+      "end_char": 363,
+      "length": 57,
+      "text": "וימתו גם־שניהם מחלון וכליון ותשאר האשה משני ילדיה ומאישה׃"
+    },
+    {
+      "uid": "Ruth_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 364,
+      "end_char": 443,
+      "length": 80,
+      "text": "ותקם היא וכלתיה ותשב משדי מואב כי שמעה בשדה מואב כי־פקד יהוה את־עמו לתת להם לחם׃"
+    },
+    {
+      "uid": "Ruth_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 444,
+      "end_char": 516,
+      "length": 73,
+      "text": "ותצא מן־המקום אשר היתה־שמה ושתי כלותיה עמה ותלכנה בדרך לשוב אל־ארץ יהודה׃"
+    },
+    {
+      "uid": "Ruth_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 517,
+      "end_char": 614,
+      "length": 98,
+      "text": "ותאמר נעמי לשתי כלתיה לכנה שבנה אשה לבית אמה (יעשה) [יעש] יהוה עמכם חסד כאשר עשיתם עם־המתים ועמדי׃"
+    },
+    {
+      "uid": "Ruth_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 615,
+      "end_char": 681,
+      "length": 67,
+      "text": "יתן יהוה לכם ומצאן מנוחה אשה בית אישה ותשק להן ותשאנה קולן ותבכינה׃"
+    },
+    {
+      "uid": "Ruth_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 682,
+      "end_char": 709,
+      "length": 28,
+      "text": "ותאמרנה־לה כי־אתך נשוב לעמך׃"
+    },
+    {
+      "uid": "Ruth_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 710,
+      "end_char": 778,
+      "length": 69,
+      "text": "ותאמר נעמי שבנה בנתי למה תלכנה עמי העוד־לי בנים במעי והיו לכם לאנשים׃"
+    },
+    {
+      "uid": "Ruth_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 779,
+      "end_char": 867,
+      "length": 89,
+      "text": "שבנה בנתי לכן כי זקנתי מהיות לאיש כי אמרתי יש־לי תקוה גם הייתי הלילה לאיש וגם ילדתי בנים׃"
+    },
+    {
+      "uid": "Ruth_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 868,
+      "end_char": 964,
+      "length": 97,
+      "text": "הלהן׀ תשברנה עד אשר יגדלו הלהן תעגנה לבלתי היות לאיש אל בנתי כי־מר־לי מאד מכם כי־יצאה בי יד־יהוה׃"
+    },
+    {
+      "uid": "Ruth_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 965,
+      "end_char": 1017,
+      "length": 53,
+      "text": "ותשנה קולן ותבכינה עוד ותשק ערפה לחמותה ורות דבקה בה׃"
+    },
+    {
+      "uid": "Ruth_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 1018,
+      "end_char": 1070,
+      "length": 53,
+      "text": "ותאמר הנה שבה יבמתך אל־עמה ואל־אלהיה שובי אחרי יבמתך׃"
+    },
+    {
+      "uid": "Ruth_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 1071,
+      "end_char": 1166,
+      "length": 96,
+      "text": "ותאמר רות אל־תפגעי־בי לעזבך לשוב מאחריך כי אל־אשר תלכי אלך ובאשר תליני אלין עמך עמי ואלהיך אלהי׃"
+    },
+    {
+      "uid": "Ruth_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 1167,
+      "end_char": 1242,
+      "length": 76,
+      "text": "באשר תמותי אמות ושם אקבר כה יעשה יהוה לי וכה יוסיף כי המות יפריד ביני ובינך׃"
+    },
+    {
+      "uid": "Ruth_18",
+      "chapter_number": 1,
+      "verse_number": 18,
+      "start_char": 1243,
+      "end_char": 1286,
+      "length": 44,
+      "text": "ותרא כי־מתאמצת היא ללכת אתה ותחדל לדבר אליה׃"
+    },
+    {
+      "uid": "Ruth_19",
+      "chapter_number": 1,
+      "verse_number": 19,
+      "start_char": 1287,
+      "end_char": 1373,
+      "length": 87,
+      "text": "ותלכנה שתיהם עד־בואנה בית לחם ויהי כבואנה בית לחם ותהם כל־העיר עליהן ותאמרנה הזאת נעמי׃"
+    },
+    {
+      "uid": "Ruth_20",
+      "chapter_number": 1,
+      "verse_number": 20,
+      "start_char": 1374,
+      "end_char": 1433,
+      "length": 60,
+      "text": "ותאמר אליהן אל־תקראנה לי נעמי קראן לי מרא כי־המר שדי לי מאד׃"
+    },
+    {
+      "uid": "Ruth_21",
+      "chapter_number": 1,
+      "verse_number": 21,
+      "start_char": 1434,
+      "end_char": 1510,
+      "length": 77,
+      "text": "אני מלאה הלכתי וריקם השיבני יהוה למה תקראנה לי נעמי ויהוה ענה בי ושדי הרע לי׃"
+    },
+    {
+      "uid": "Ruth_22",
+      "chapter_number": 1,
+      "verse_number": 22,
+      "start_char": 1511,
+      "end_char": 1591,
+      "length": 81,
+      "text": "ותשב נעמי ורות המואביה כלתה עמה השבה משדי מואב והמה באו בית לחם בתחלת קציר שערים׃"
+    },
+    {
+      "uid": "Ruth_23",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 1592,
+      "end_char": 1654,
+      "length": 63,
+      "text": "ולנעמי (מידע) [מודע] לאישה איש גבור חיל ממשפחת אלימלך ושמו בעז׃"
+    },
+    {
+      "uid": "Ruth_24",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1655,
+      "end_char": 1747,
+      "length": 93,
+      "text": "ותאמר רות המואביה אל־נעמי אלכה־נא השדה ואלקטה בשבלים אחר אשר אמצא־חן בעיניו ותאמר לה לכי בתי׃"
+    },
+    {
+      "uid": "Ruth_25",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1748,
+      "end_char": 1824,
+      "length": 77,
+      "text": "ותלך ותבוא ותלקט בשדה אחרי הקצרים ויקר מקרה חלקת השדה לבעז אשר ממשפחת אלימלך׃"
+    },
+    {
+      "uid": "Ruth_26",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 1825,
+      "end_char": 1890,
+      "length": 66,
+      "text": "והנה־בעז בא מבית לחם ויאמר לקוצרים יהוה עמכם ויאמרו לו יברכך יהוה׃"
+    },
+    {
+      "uid": "Ruth_27",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1891,
+      "end_char": 1937,
+      "length": 47,
+      "text": "ויאמר בעז לנערו הנצב על־הקוצרים למי הנערה הזאת׃"
+    },
+    {
+      "uid": "Ruth_28",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1938,
+      "end_char": 2008,
+      "length": 71,
+      "text": "ויען הנער הנצב על־הקוצרים ויאמר נערה מואביה היא השבה עם־נעמי משדי מואב׃"
+    },
+    {
+      "uid": "Ruth_29",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 2009,
+      "end_char": 2097,
+      "length": 89,
+      "text": "ותאמר אלקטה־נא ואספתי בעמרים אחרי הקוצרים ותבוא ותעמוד מאז הבקר ועד־עתה זה שבתה הבית מעט׃"
+    },
+    {
+      "uid": "Ruth_30",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 2098,
+      "end_char": 2188,
+      "length": 91,
+      "text": "ויאמר בעז אל־רות הלוא שמעת בתי אל־תלכי ללקט בשדה אחר וגם לא תעבורי מזה וכה תדבקין עם־נערתי׃"
+    },
+    {
+      "uid": "Ruth_31",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 2189,
+      "end_char": 2300,
+      "length": 112,
+      "text": "עיניך בשדה אשר־יקצרון והלכת אחריהן הלוא צויתי את־הנערים לבלתי נגעך וצמת והלכת אל־הכלים ושתית מאשר ישאבון הנערים׃"
+    },
+    {
+      "uid": "Ruth_32",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 2301,
+      "end_char": 2377,
+      "length": 77,
+      "text": "ותפל על־פניה ותשתחו ארצה ותאמר אליו מדוע מצאתי חן בעיניך להכירני ואנכי נכריה׃"
+    },
+    {
+      "uid": "Ruth_33",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 2378,
+      "end_char": 2505,
+      "length": 128,
+      "text": "ויען בעז ויאמר לה הגד הגד לי כל אשר־עשית את־חמותך אחרי מות אישך ותעזבי אביך ואמך וארץ מולדתך ותלכי אל־עם אשר לא־ידעת תמול שלשום׃"
+    },
+    {
+      "uid": "Ruth_34",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 2506,
+      "end_char": 2581,
+      "length": 76,
+      "text": "ישלם יהוה פעלך ותהי משכרתך שלמה מעם יהוה אלהי ישראל אשר־באת לחסות תחת־כנפיו׃"
+    },
+    {
+      "uid": "Ruth_35",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 2582,
+      "end_char": 2664,
+      "length": 83,
+      "text": "ותאמר אמצא־חן בעיניך אדני כי נחמתני וכי דברת על־לב שפחתך ואנכי לא אהיה כאחת שפחתיך׃"
+    },
+    {
+      "uid": "Ruth_36",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 2665,
+      "end_char": 2769,
+      "length": 105,
+      "text": "ויאמר לה בעז לעת האכל גשי הלם ואכלת מן־הלחם וטבלת פתך בחמץ ותשב מצד הקצרים ויצבט־לה קלי ותאכל ותשבע ותתר׃"
+    },
+    {
+      "uid": "Ruth_37",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 2770,
+      "end_char": 2833,
+      "length": 64,
+      "text": "ותקם ללקט ויצו בעז את־נעריו לאמר גם בין העמרים תלקט ולא תכלימוה׃"
+    },
+    {
+      "uid": "Ruth_38",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 2834,
+      "end_char": 2884,
+      "length": 51,
+      "text": "וגם של־תשלו לה מן־הצבתים ועזבתם ולקטה ולא תגערו־בה׃"
+    },
+    {
+      "uid": "Ruth_39",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 2885,
+      "end_char": 2938,
+      "length": 54,
+      "text": "ותלקט בשדה עד־הערב ותחבט את אשר־לקטה ויהי כאיפה שערים׃"
+    },
+    {
+      "uid": "Ruth_40",
+      "chapter_number": 2,
+      "verse_number": 18,
+      "start_char": 2939,
+      "end_char": 3010,
+      "length": 72,
+      "text": "ותשא ותבוא העיר ותרא חמותה את אשר־לקטה ותוצא ותתן־לה את אשר־הותרה משבעה׃"
+    },
+    {
+      "uid": "Ruth_41",
+      "chapter_number": 2,
+      "verse_number": 19,
+      "start_char": 3011,
+      "end_char": 3130,
+      "length": 120,
+      "text": "ותאמר לה חמותה איפה לקטת היום ואנה עשית יהי מכירך ברוך ותגד לחמותה את אשר־עשתה עמו ותאמר שם האיש אשר עשיתי עמו היום בעז׃"
+    },
+    {
+      "uid": "Ruth_42",
+      "chapter_number": 2,
+      "verse_number": 20,
+      "start_char": 3131,
+      "end_char": 3236,
+      "length": 106,
+      "text": "ותאמר נעמי לכלתה ברוך הוא ליהוה אשר לא־עזב חסדו את־החיים ואת־המתים ותאמר לה נעמי קרוב לנו האיש מגאלנו הוא׃"
+    },
+    {
+      "uid": "Ruth_43",
+      "chapter_number": 2,
+      "verse_number": 21,
+      "start_char": 3237,
+      "end_char": 3322,
+      "length": 86,
+      "text": "ותאמר רות המואביה גם׀ כי־אמר אלי עם־הנערים אשר־לי תדבקין עד אם־כלו את כל־הקציר אשר־לי׃"
+    },
+    {
+      "uid": "Ruth_44",
+      "chapter_number": 2,
+      "verse_number": 22,
+      "start_char": 3323,
+      "end_char": 3394,
+      "length": 72,
+      "text": "ותאמר נעמי אל־רות כלתה טוב בתי כי תצאי עם־נערותיו ולא יפגעו־בך בשדה אחר׃"
+    },
+    {
+      "uid": "Ruth_45",
+      "chapter_number": 2,
+      "verse_number": 23,
+      "start_char": 3395,
+      "end_char": 3462,
+      "length": 68,
+      "text": "ותדבק בנערות בעז ללקט עד־כלות קציר־השערים וקציר החטים ותשב את־חמותה׃"
+    },
+    {
+      "uid": "Ruth_46",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 3463,
+      "end_char": 3515,
+      "length": 53,
+      "text": "ותאמר לה נעמי חמותה בתי הלא אבקש־לך מנוח אשר ייטב־לך׃"
+    },
+    {
+      "uid": "Ruth_47",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 3516,
+      "end_char": 3587,
+      "length": 72,
+      "text": "ועתה הלא בעז מדעתנו אשר היית את־נערותיו הנה־הוא זרה את־גרן השערים הלילה׃"
+    },
+    {
+      "uid": "Ruth_48",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 3588,
+      "end_char": 3682,
+      "length": 95,
+      "text": "ורחצת׀ וסכת ושמת (שמלתך) [שמלתיך] עליך (וירדתי) [וירדת] הגרן אל־תודעי לאיש עד כלתו לאכל ולשתות׃"
+    },
+    {
+      "uid": "Ruth_49",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 3683,
+      "end_char": 3782,
+      "length": 100,
+      "text": "ויהי בשכבו וידעת את־המקום אשר ישכב־שם ובאת וגלית מרגלתיו (ושכבתי) [ושכבת] והוא יגיד לך את אשר תעשין׃"
+    },
+    {
+      "uid": "Ruth_50",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 3783,
+      "end_char": 3817,
+      "length": 35,
+      "text": "ותאמר אליה כל אשר־תאמרי [אלי] אעשה׃"
+    },
+    {
+      "uid": "Ruth_51",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 3818,
+      "end_char": 3851,
+      "length": 34,
+      "text": "ותרד הגרן ותעש ככל אשר־צותה חמותה׃"
+    },
+    {
+      "uid": "Ruth_52",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 3852,
+      "end_char": 3925,
+      "length": 74,
+      "text": "ויאכל בעז וישת וייטב לבו ויבא לשכב בקצה הערמה ותבא בלט ותגל מרגלתיו ותשכב׃"
+    },
+    {
+      "uid": "Ruth_53",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 3926,
+      "end_char": 3980,
+      "length": 55,
+      "text": "ויהי בחצי הלילה ויחרד האיש וילפת והנה אשה שכבת מרגלתיו׃"
+    },
+    {
+      "uid": "Ruth_54",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 3981,
+      "end_char": 4042,
+      "length": 62,
+      "text": "ויאמר מי־את ותאמר אנכי רות אמתך ופרשת כנפך על־אמתך כי גאל אתה׃"
+    },
+    {
+      "uid": "Ruth_55",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 4043,
+      "end_char": 4133,
+      "length": 91,
+      "text": "ויאמר ברוכה את ליהוה בתי היטבת חסדך האחרון מן־הראשון לבלתי־לכת אחרי הבחורים אם־דל ואם־עשיר׃"
+    },
+    {
+      "uid": "Ruth_56",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 4134,
+      "end_char": 4205,
+      "length": 72,
+      "text": "ועתה בתי אל־תיראי כל אשר־תאמרי אעשה־לך כי יודע כל־שער עמי כי אשת חיל את׃"
+    },
+    {
+      "uid": "Ruth_57",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 4206,
+      "end_char": 4256,
+      "length": 51,
+      "text": "ועתה כי אמנם כי (אם) גאל אנכי וגם יש גאל קרוב ממני׃"
+    },
+    {
+      "uid": "Ruth_58",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 4257,
+      "end_char": 4348,
+      "length": 92,
+      "text": "ליני׀ הלילה והיה בבקר אם־יגאלך טוב יגאל ואם־לא יחפץ לגאלך וגאלתיך אנכי חי־יהוה שכבי עד־הבקר׃"
+    },
+    {
+      "uid": "Ruth_59",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 4349,
+      "end_char": 4438,
+      "length": 90,
+      "text": "ותשכב מרגלותו עד־הבקר ותקם (בטרום) [בטרם] יכיר איש את־רעהו ויאמר אל־יודע כי־באה האשה הגרן׃"
+    },
+    {
+      "uid": "Ruth_60",
+      "chapter_number": 3,
+      "verse_number": 15,
+      "start_char": 4439,
+      "end_char": 4516,
+      "length": 78,
+      "text": "ויאמר הבי המטפחת אשר־עליך ואחזי־בה ותאחז בה וימד שש־שערים וישת עליה ויבא העיר׃"
+    },
+    {
+      "uid": "Ruth_61",
+      "chapter_number": 3,
+      "verse_number": 16,
+      "start_char": 4517,
+      "end_char": 4577,
+      "length": 61,
+      "text": "ותבוא אל־חמותה ותאמר מי־את בתי ותגד־לה את כל־אשר עשה־לה האיש׃"
+    },
+    {
+      "uid": "Ruth_62",
+      "chapter_number": 3,
+      "verse_number": 17,
+      "start_char": 4578,
+      "end_char": 4641,
+      "length": 64,
+      "text": "ותאמר שש־השערים האלה נתן לי כי אמר [אלי] אל־תבואי ריקם אל־חמותך׃"
+    },
+    {
+      "uid": "Ruth_63",
+      "chapter_number": 3,
+      "verse_number": 18,
+      "start_char": 4642,
+      "end_char": 4716,
+      "length": 75,
+      "text": "ותאמר שבי בתי עד אשר תדעין איך יפל דבר כי לא ישקט האיש כי־אם־כלה הדבר היום׃"
+    },
+    {
+      "uid": "Ruth_64",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 4717,
+      "end_char": 4803,
+      "length": 87,
+      "text": "ובעז עלה השער וישב שם והנה הגאל עבר אשר דבר־בעז ויאמר סורה שבה־פה פלני אלמני ויסר וישב׃"
+    },
+    {
+      "uid": "Ruth_65",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 4804,
+      "end_char": 4849,
+      "length": 46,
+      "text": "ויקח עשרה אנשים מזקני העיר ויאמר שבו־פה וישבו׃"
+    },
+    {
+      "uid": "Ruth_66",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 4850,
+      "end_char": 4914,
+      "length": 65,
+      "text": "ויאמר לגאל חלקת השדה אשר לאחינו לאלימלך מכרה נעמי השבה משדה מואב׃"
+    },
+    {
+      "uid": "Ruth_67",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 4915,
+      "end_char": 5064,
+      "length": 150,
+      "text": "ואני אמרתי אגלה אזנך לאמר קנה נגד הישבים ונגד זקני עמי אם־תגאל גאל ואם־לא יגאל הגידה לי (ואדע) [ואדעה] כי אין זולתך לגאול ואנכי אחריך ויאמר אנכי אגאל׃"
+    },
+    {
+      "uid": "Ruth_68",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 5065,
+      "end_char": 5161,
+      "length": 97,
+      "text": "ויאמר בעז ביום־קנותך השדה מיד נעמי ומאת רות המואביה אשת־המת (קניתי) [קנית] להקים שם־המת על־נחלתו׃"
+    },
+    {
+      "uid": "Ruth_69",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 5162,
+      "end_char": 5252,
+      "length": 91,
+      "text": "ויאמר הגאל לא אוכל (לגאול) [לגאל־]לי פן־אשחית את־נחלתי גאל־לך אתה את־גאלתי כי לא־אוכל לגאל׃"
+    },
+    {
+      "uid": "Ruth_70",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 5253,
+      "end_char": 5345,
+      "length": 93,
+      "text": "וזאת לפנים בישראל על־הגאלה ועל־התמורה לקים כל־דבר שלף איש נעלו ונתן לרעהו וזאת התעודה בישראל׃"
+    },
+    {
+      "uid": "Ruth_71",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 5346,
+      "end_char": 5379,
+      "length": 34,
+      "text": "ויאמר הגאל לבעז קנה־לך וישלף נעלו׃"
+    },
+    {
+      "uid": "Ruth_72",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 5380,
+      "end_char": 5479,
+      "length": 100,
+      "text": "ויאמר בעז לזקנים וכל־העם עדים אתם היום כי קניתי את־כל־אשר לאלימלך ואת כל־אשר לכליון ומחלון מיד נעמי׃"
+    },
+    {
+      "uid": "Ruth_73",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 5480,
+      "end_char": 5594,
+      "length": 115,
+      "text": "וגם את־רות המאביה אשת מחלון קניתי לי לאשה להקים שם־המת על־נחלתו ולא־יכרת שם־המת מעם אחיו ומשער מקומו עדים אתם היום׃"
+    },
+    {
+      "uid": "Ruth_74",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 5595,
+      "end_char": 5731,
+      "length": 137,
+      "text": "ויאמרו כל־העם אשר־בשער והזקנים עדים יתן יהוה את־האשה הבאה אל־ביתך כרחל׀וכלאה אשר בנו שתיהם את־בית ישראל ועשה־חיל באפרתה וקרא־שם בבית לחם׃"
+    },
+    {
+      "uid": "Ruth_75",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 5732,
+      "end_char": 5808,
+      "length": 77,
+      "text": "ויהי ביתך כבית פרץ אשר־ילדה תמר ליהודה מן־הזרע אשר יתן יהוה לך מן־הנערה הזאת׃"
+    },
+    {
+      "uid": "Ruth_76",
+      "chapter_number": 4,
+      "verse_number": 13,
+      "start_char": 5809,
+      "end_char": 5874,
+      "length": 66,
+      "text": "ויקח בעז את־רות ותהי־לו לאשה ויבא אליה ויתן יהוה לה הריון ותלד בן׃"
+    },
+    {
+      "uid": "Ruth_77",
+      "chapter_number": 4,
+      "verse_number": 14,
+      "start_char": 5875,
+      "end_char": 5948,
+      "length": 74,
+      "text": "ותאמרנה הנשים אל־נעמי ברוך יהוה אשר לא השבית לך גאל היום ויקרא שמו בישראל׃"
+    },
+    {
+      "uid": "Ruth_78",
+      "chapter_number": 4,
+      "verse_number": 15,
+      "start_char": 5949,
+      "end_char": 6033,
+      "length": 85,
+      "text": "והיה לך למשיב נפש ולכלכל את־שיבתך כי כלתך אשר־אהבתך ילדתו אשר־היא טובה לך משבעה בנים׃"
+    },
+    {
+      "uid": "Ruth_79",
+      "chapter_number": 4,
+      "verse_number": 16,
+      "start_char": 6034,
+      "end_char": 6078,
+      "length": 45,
+      "text": "ותקח נעמי את־הילד ותשתהו בחיקה ותהי־לו לאמנת׃"
+    },
+    {
+      "uid": "Ruth_80",
+      "chapter_number": 4,
+      "verse_number": 17,
+      "start_char": 6079,
+      "end_char": 6154,
+      "length": 76,
+      "text": "ותקראנה לו השכנות שם לאמר ילד־בן לנעמי ותקראנה שמו עובד הוא אבי־ישי אבי דוד׃"
+    },
+    {
+      "uid": "Ruth_81",
+      "chapter_number": 4,
+      "verse_number": 18,
+      "start_char": 6155,
+      "end_char": 6189,
+      "length": 35,
+      "text": "ואלה תולדות פרץ פרץ הוליד את־חצרון׃"
+    },
+    {
+      "uid": "Ruth_82",
+      "chapter_number": 4,
+      "verse_number": 19,
+      "start_char": 6190,
+      "end_char": 6228,
+      "length": 39,
+      "text": "וחצרון הוליד את־רם ורם הוליד את־עמינדב׃"
+    },
+    {
+      "uid": "Ruth_83",
+      "chapter_number": 4,
+      "verse_number": 20,
+      "start_char": 6229,
+      "end_char": 6272,
+      "length": 44,
+      "text": "ועמינדב הוליד את־נחשון ונחשון הוליד את־שלמה׃"
+    },
+    {
+      "uid": "Ruth_84",
+      "chapter_number": 4,
+      "verse_number": 21,
+      "start_char": 6273,
+      "end_char": 6311,
+      "length": 39,
+      "text": "ושלמון הוליד את־בעז ובעז הוליד את־עובד׃"
+    },
+    {
+      "uid": "Ruth_85",
+      "chapter_number": 4,
+      "verse_number": 22,
+      "start_char": 6312,
+      "end_char": 6347,
+      "length": 36,
+      "text": "ועבד הוליד את־ישי וישי הוליד את־דוד׃"
+    }
+  ]
+}

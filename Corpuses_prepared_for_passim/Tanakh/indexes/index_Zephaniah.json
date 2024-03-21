@@ -1,0 +1,490 @@
+{
+  "title": "Zephaniah",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Zephaniah_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 92,
+      "length": 92,
+      "text": "דבר־יהוה׀ אשר היה אל־צפניה בן־כושי בן־גדליה בן־אמריה בן־חזקיה בימי יאשיהו בן־אמון מלך יהודה׃"
+    },
+    {
+      "uid": "Zephaniah_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 93,
+      "end_char": 126,
+      "length": 34,
+      "text": "אסף אסף כל מעל פני האדמה נאם־יהוה׃"
+    },
+    {
+      "uid": "Zephaniah_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 127,
+      "end_char": 220,
+      "length": 94,
+      "text": "אסף אדם ובהמה אסף עוף־השמים ודגי הים והמכשלות את־הרשעים והכרתי את־האדם מעל פני האדמה נאם־יהוה׃"
+    },
+    {
+      "uid": "Zephaniah_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 221,
+      "end_char": 316,
+      "length": 96,
+      "text": "ונטיתי ידי על־יהודה ועל כל־יושבי ירושל͏ם והכרתי מן־המקום הזה את־שאר הבעל את־שם הכמרים עם־הכהנים׃"
+    },
+    {
+      "uid": "Zephaniah_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 317,
+      "end_char": 391,
+      "length": 75,
+      "text": "ואת־המשתחוים על־הגגות לצבא השמים ואת־המשתחוים הנשבעים ליהוה והנשבעים במלכם׃"
+    },
+    {
+      "uid": "Zephaniah_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 392,
+      "end_char": 445,
+      "length": 54,
+      "text": "ואת־הנסוגים מאחרי יהוה ואשר לא־בקשו את־יהוה ולא דרשהו׃"
+    },
+    {
+      "uid": "Zephaniah_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 446,
+      "end_char": 509,
+      "length": 64,
+      "text": "הס מפני אדני יהוה כי קרוב יום יהוה כי־הכין יהוה זבח הקדיש קראיו׃"
+    },
+    {
+      "uid": "Zephaniah_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 510,
+      "end_char": 582,
+      "length": 73,
+      "text": "והיה ביום זבח יהוה ופקדתי על־השרים ועל־בני המלך ועל כל־הלבשים מלבוש נכרי׃"
+    },
+    {
+      "uid": "Zephaniah_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 583,
+      "end_char": 649,
+      "length": 67,
+      "text": "ופקדתי על כל־הדולג על־המפתן ביום ההוא הממלאים בית אדניהם חמס ומרמה׃"
+    },
+    {
+      "uid": "Zephaniah_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 650,
+      "end_char": 726,
+      "length": 77,
+      "text": "והיה ביום ההוא נאם־יהוה קול צעקה משער הדגים ויללה מן־המשנה ושבר גדול מהגבעות׃"
+    },
+    {
+      "uid": "Zephaniah_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 727,
+      "end_char": 782,
+      "length": 56,
+      "text": "הילילו ישבי המכתש כי נדמה כל־עם כנען נכרתו כל־נטילי כסף׃"
+    },
+    {
+      "uid": "Zephaniah_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 783,
+      "end_char": 887,
+      "length": 105,
+      "text": "והיה בעת ההיא אחפש את־ירושל͏ם בנרות ופקדתי על־האנשים הקפאים על־שמריהם האמרים בלבבם לא־ייטיב יהוה ולא ירע׃"
+    },
+    {
+      "uid": "Zephaniah_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 888,
+      "end_char": 964,
+      "length": 77,
+      "text": "והיה חילם למשסה ובתיהם לשממה ובנו בתים ולא ישבו ונטעו כרמים ולא ישתו את־יינם׃"
+    },
+    {
+      "uid": "Zephaniah_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 965,
+      "end_char": 1026,
+      "length": 62,
+      "text": "קרוב יום־יהוה הגדול קרוב ומהר מאד קול יום יהוה מר צרח שם גבור׃"
+    },
+    {
+      "uid": "Zephaniah_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 1027,
+      "end_char": 1103,
+      "length": 77,
+      "text": "יום עברה היום ההוא יום צרה ומצוקה יום שאה ומשואה יום חשך ואפלה יום ענן וערפל׃"
+    },
+    {
+      "uid": "Zephaniah_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 1104,
+      "end_char": 1152,
+      "length": 49,
+      "text": "יום שופר ותרועה על הערים הבצרות ועל הפנות הגבהות׃"
+    },
+    {
+      "uid": "Zephaniah_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 1153,
+      "end_char": 1218,
+      "length": 66,
+      "text": "והצרתי לאדם והלכו כעורים כי ליהוה חטאו ושפך דמם כעפר ולחמם כגללים׃"
+    },
+    {
+      "uid": "Zephaniah_18",
+      "chapter_number": 1,
+      "verse_number": 18,
+      "start_char": 1219,
+      "end_char": 1325,
+      "length": 107,
+      "text": "גם־כספם גם־זהבם לא־יוכל להצילם ביום עברת יהוה ובאש קנאתו תאכל כל־הארץ כי־כלה אך־נבהלה יעשה את כל־ישבי הארץ׃"
+    },
+    {
+      "uid": "Zephaniah_19",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 1326,
+      "end_char": 1352,
+      "length": 27,
+      "text": "התקוששו וקושו הגוי לא נכסף׃"
+    },
+    {
+      "uid": "Zephaniah_20",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1353,
+      "end_char": 1440,
+      "length": 88,
+      "text": "בטרם לדת חק כמץ עבר יום בטרם׀ לא־יבוא עליכם חרון אף־יהוה בטרם לא־יבוא עליכם יום אף־יהוה׃"
+    },
+    {
+      "uid": "Zephaniah_21",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1441,
+      "end_char": 1524,
+      "length": 84,
+      "text": "בקשו את־יהוה כל־ענוי הארץ אשר משפטו פעלו בקשו־צדק בקשו ענוה אולי תסתרו ביום אף־יהוה׃"
+    },
+    {
+      "uid": "Zephaniah_22",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 1525,
+      "end_char": 1588,
+      "length": 64,
+      "text": "כי עזה עזובה תהיה ואשקלון לשממה אשדוד בצהרים יגרשוה ועקרון תעקר׃"
+    },
+    {
+      "uid": "Zephaniah_23",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1589,
+      "end_char": 1665,
+      "length": 77,
+      "text": "הוי ישבי חבל הים גוי כרתים דבר־יהוה עליכם כנען ארץ פלשתים והאבדתיך מאין יושב׃"
+    },
+    {
+      "uid": "Zephaniah_24",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1666,
+      "end_char": 1703,
+      "length": 38,
+      "text": "והיתה חבל הים נות כרת רעים וגדרות צאן׃"
+    },
+    {
+      "uid": "Zephaniah_25",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1704,
+      "end_char": 1806,
+      "length": 103,
+      "text": "והיה חבל לשארית בית יהודה עליהם ירעון בבתי אשקלון בערב ירבצון כי יפקדם יהוה אלהיהם ושב (שבותם) [שביתם]׃"
+    },
+    {
+      "uid": "Zephaniah_26",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1807,
+      "end_char": 1870,
+      "length": 64,
+      "text": "שמעתי חרפת מואב וגדפי בני עמון אשר חרפו את־עמי ויגדילו על־גבולם׃"
+    },
+    {
+      "uid": "Zephaniah_27",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1871,
+      "end_char": 2007,
+      "length": 137,
+      "text": "לכן חי־אני נאם יהוה צבאות אלהי ישראל כי־מואב כסדם תהיה ובני עמון כעמרה ממשק חרול ומכרה־מלח ושממה עד־עולם שארית עמי יבזום ויתר גוי ינחלום׃"
+    },
+    {
+      "uid": "Zephaniah_28",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 2008,
+      "end_char": 2057,
+      "length": 50,
+      "text": "זאת להם תחת גאונם כי חרפו ויגדלו על־עם יהוה צבאות׃"
+    },
+    {
+      "uid": "Zephaniah_29",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 2058,
+      "end_char": 2131,
+      "length": 74,
+      "text": "נורא יהוה עליהם כי רזה את כל־אלהי הארץ וישתחוו־לו איש ממקומו כל איי הגוים׃"
+    },
+    {
+      "uid": "Zephaniah_30",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 2132,
+      "end_char": 2158,
+      "length": 27,
+      "text": "גם־אתם כושים חללי חרבי המה׃"
+    },
+    {
+      "uid": "Zephaniah_31",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 2159,
+      "end_char": 2218,
+      "length": 60,
+      "text": "ויט ידו על־צפון ויאבד את־אשור וישם את־נינוה לשממה ציה כמדבר׃"
+    },
+    {
+      "uid": "Zephaniah_32",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 2219,
+      "end_char": 2312,
+      "length": 94,
+      "text": "ורבצו בתוכה עדרים כל־חיתו־גוי גם־קאת גם־קפד בכפתריה ילינו קול ישורר בחלון חרב בסף כי ארזה ערה׃"
+    },
+    {
+      "uid": "Zephaniah_33",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 2313,
+      "end_char": 2418,
+      "length": 106,
+      "text": "זאת העיר העליזה היושבת לבטח האמרה בלבבה אני ואפסי עוד איך׀ היתה לשמה מרבץ לחיה כל עובר עליה ישרק יניע ידו׃"
+    },
+    {
+      "uid": "Zephaniah_34",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 2419,
+      "end_char": 2445,
+      "length": 27,
+      "text": "הוי מראה ונגאלה העיר היונה׃"
+    },
+    {
+      "uid": "Zephaniah_35",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 2446,
+      "end_char": 2502,
+      "length": 57,
+      "text": "לא שמעה בקול לא לקחה מוסר ביהוה לא בטחה אל־אלהיה לא קרבה׃"
+    },
+    {
+      "uid": "Zephaniah_36",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 2503,
+      "end_char": 2553,
+      "length": 51,
+      "text": "שריה בקרבה אריות שאגים שפטיה זאבי ערב לא גרמו לבקר׃"
+    },
+    {
+      "uid": "Zephaniah_37",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 2554,
+      "end_char": 2602,
+      "length": 49,
+      "text": "נביאיה פחזים אנשי בגדות כהניה חללו־קדש חמסו תורה׃"
+    },
+    {
+      "uid": "Zephaniah_38",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 2603,
+      "end_char": 2681,
+      "length": 79,
+      "text": "יהוה צדיק בקרבה לא יעשה עולה בבקר בבקר משפטו יתן לאור לא נעדר ולא־יודע עול בשת׃"
+    },
+    {
+      "uid": "Zephaniah_39",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 2682,
+      "end_char": 2757,
+      "length": 76,
+      "text": "הכרתי גוים נשמו פנותם החרבתי חוצותם מבלי עובר נצדו עריהם מבלי־איש מאין יושב׃"
+    },
+    {
+      "uid": "Zephaniah_40",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 2758,
+      "end_char": 2849,
+      "length": 92,
+      "text": "אמרתי אך־תיראי אותי תקחי מוסר ולא־יכרת מעונה כל אשר־פקדתי עליה אכן השכימו השחיתו כל עלילותם׃"
+    },
+    {
+      "uid": "Zephaniah_41",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 2850,
+      "end_char": 2969,
+      "length": 120,
+      "text": "לכן חכו־לי נאם־יהוה ליום קומי לעד כי משפטי לאסף גוים לקבצי ממלכות לשפך עליהם זעמי כל חרון אפי כי באש קנאתי תאכל כל־הארץ׃"
+    },
+    {
+      "uid": "Zephaniah_42",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 2970,
+      "end_char": 3030,
+      "length": 61,
+      "text": "כי־אז אהפך אל־עמים שפה ברורה לקרא כלם בשם יהוה לעבדו שכם אחד׃"
+    },
+    {
+      "uid": "Zephaniah_43",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 3031,
+      "end_char": 3071,
+      "length": 41,
+      "text": "מעבר לנהרי־כוש עתרי בת־פוצי יובלון מנחתי׃"
+    },
+    {
+      "uid": "Zephaniah_44",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 3072,
+      "end_char": 3173,
+      "length": 102,
+      "text": "ביום ההוא לא תבושי מכל עלילתיך אשר פשעת בי כי־אז׀ אסיר מקרבך עליזי גאותך ולא־תוספי לגבהה עוד בהר קדשי׃"
+    },
+    {
+      "uid": "Zephaniah_45",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 3174,
+      "end_char": 3212,
+      "length": 39,
+      "text": "והשארתי בקרבך עם עני ודל וחסו בשם יהוה׃"
+    },
+    {
+      "uid": "Zephaniah_46",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 3213,
+      "end_char": 3306,
+      "length": 94,
+      "text": "שארית ישראל לא־יעשו עולה ולא־ידברו כזב ולא־ימצא בפיהם לשון תרמית כי־המה ירעו ורבצו ואין מחריד׃"
+    },
+    {
+      "uid": "Zephaniah_47",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 3307,
+      "end_char": 3359,
+      "length": 53,
+      "text": "רני בת־ציון הריעו ישראל שמחי ועלזי בכל־לב בת ירושל͏ם׃"
+    },
+    {
+      "uid": "Zephaniah_48",
+      "chapter_number": 3,
+      "verse_number": 15,
+      "start_char": 3360,
+      "end_char": 3422,
+      "length": 63,
+      "text": "הסיר יהוה משפטיך פנה איבך מלך ישראל׀יהוה בקרבך לא־תיראי רע עוד׃"
+    },
+    {
+      "uid": "Zephaniah_49",
+      "chapter_number": 3,
+      "verse_number": 16,
+      "start_char": 3423,
+      "end_char": 3473,
+      "length": 51,
+      "text": "ביום ההוא יאמר לירושל͏ם אל־תיראי ציון אל־ירפו ידיך׃"
+    },
+    {
+      "uid": "Zephaniah_50",
+      "chapter_number": 3,
+      "verse_number": 17,
+      "start_char": 3474,
+      "end_char": 3545,
+      "length": 72,
+      "text": "יהוה אלהיך בקרבך גבור יושיע ישיש עליך בשמחה יחריש באהבתו יגיל עליך ברנה׃"
+    },
+    {
+      "uid": "Zephaniah_51",
+      "chapter_number": 3,
+      "verse_number": 18,
+      "start_char": 3546,
+      "end_char": 3585,
+      "length": 40,
+      "text": "נוגי ממועד אספתי ממך היו משאת עליה חרפה׃"
+    },
+    {
+      "uid": "Zephaniah_52",
+      "chapter_number": 3,
+      "verse_number": 19,
+      "start_char": 3586,
+      "end_char": 3676,
+      "length": 91,
+      "text": "הנני עשה את־כל־מעניך בעת ההיא והושעתי את־הצלעה והנדחה אקבץ ושמתים לתהלה ולשם בכל־הארץ בשתם׃"
+    },
+    {
+      "uid": "Zephaniah_53",
+      "chapter_number": 3,
+      "verse_number": 20,
+      "start_char": 3677,
+      "end_char": 3780,
+      "length": 104,
+      "text": "בעת ההיא אביא אתכם ובעת קבצי אתכם כי־אתן אתכם לשם ולתהלה בכל עמי הארץ בשובי את־שבותיכם לעיניכם אמר יהוה׃"
+    }
+  ]
+}

@@ -1,0 +1,4649 @@
+{
+  "title": "Meilah",
+  "categories": [
+    "Talmud",
+    "Bavli",
+    "Seder Kodashim"
+  ],
+  "sectionNames": [
+    "Daf",
+    "Line"
+  ],
+  "lines": [
+    {
+      "uid": "Meilah_1",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 87,
+      "length": 87,
+      "text": "קדשי קדשים ששחטן בדרום – מועלין בהן. שחטן בדרום וקיבל דמן בצפון, בצפון וקיבל דמן בדרום,"
+    },
+    {
+      "uid": "Meilah_2",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 88,
+      "end_char": 169,
+      "length": 82,
+      "text": "שחט ביום וזרק בלילה, בלילה וזרק ביום, או ששחטן חוץ לזמנו וחוץ למקומו – מועלין בהן."
+    },
+    {
+      "uid": "Meilah_3",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 170,
+      "end_char": 275,
+      "length": 106,
+      "text": "כלל אמר רבי יהושע: כל שהיה לה שעת היתר לכהנים – אין מועלין בה, וכל שלא היה לה שעת היתר לכהנים – מועלין בה."
+    },
+    {
+      "uid": "Meilah_4",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 276,
+      "end_char": 331,
+      "length": 56,
+      "text": "איזו היא שהיה לה שעת היתר לכהנים? שלנה, ושנטמאה, ושיצאה."
+    },
+    {
+      "uid": "Meilah_5",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 332,
+      "end_char": 427,
+      "length": 96,
+      "text": "ואיזו היא שלא היה לה שעת היתר לכהנים? שנשחטה חוץ לזמנה, חוץ למקומה, ושקיבלו פסולין וזרקו את דמה."
+    },
+    {
+      "uid": "Meilah_6",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 428,
+      "end_char": 520,
+      "length": 93,
+      "text": "גמ׳ קתני: קדשי קדשים ששחטן בדרום – מועלין בהן. פשיטא, משום דשחיטתן בדרום אפיקינון מידי מעילה?"
+    },
+    {
+      "uid": "Meilah_7",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 521,
+      "end_char": 662,
+      "length": 142,
+      "text": "איצטריך, סלקא דעתך אמינא הואיל ואמר עולא אמר רבי יוחנן: קדשים שמתו – יצאו מידי מעילה דבר תורה, הכי נמי קדשי קדשים לגבי דרום, כמה דחנקינון דמי."
+    },
+    {
+      "uid": "Meilah_8",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 663,
+      "end_char": 763,
+      "length": 101,
+      "text": "קא משמע לן: קדשים שמתו – לא חזו כלל. אבל דרום – נהי דאינו ראוי לקדשי קדשים, אבל ראוי הוא לקדשים קלים."
+    },
+    {
+      "uid": "Meilah_9",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 764,
+      "end_char": 784,
+      "length": 21,
+      "text": "למה לי למיתני כל הני?"
+    },
+    {
+      "uid": "Meilah_10",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 785,
+      "end_char": 940,
+      "length": 156,
+      "text": "צריכי: אי תנא שחטן בדרום וקיבל דמן בצפון, הכא דאית בהו מעילה, משום דקבלה בצפון הוא. אבל שחטן בצפון וקיבל דמן בדרום, הואיל וקיבל בדרום הוא – נפיק מידי מעילה."
+    },
+    {
+      "uid": "Meilah_11",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 941,
+      "end_char": 1066,
+      "length": 126,
+      "text": "ואי תנא האי, הוה אמינא: יממא זמן הקרבה הוא, אבל שחטה בלילה וזרק ביום – לילה לאו זמן הקרבה, והאי דשחט בלילה – דנפיק מידי מעילה!"
+    },
+    {
+      "uid": "Meilah_12",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 1067,
+      "end_char": 1237,
+      "length": 171,
+      "text": "ואי תנא שחטה בלילה, הוה אמינא: הואיל וקבל דמה ביום – אית בה מעילה, אבל שחטן ביום וזרק דמן בלילה, הואיל ולאו זמן הקרבה הוא – כמאן דחנקינון דמי, ולא אית בהו מעילה, קמשמע לן."
+    },
+    {
+      "uid": "Meilah_13",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 1238,
+      "end_char": 1269,
+      "length": 32,
+      "text": "חוץ לזמנו וחוץ למקומו. למאי חזו?"
+    },
+    {
+      "uid": "Meilah_14",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 1270,
+      "end_char": 1291,
+      "length": 22,
+      "text": "הואיל ומרצין לפיגולין."
+    },
+    {
+      "uid": "Meilah_15",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 1292,
+      "end_char": 1376,
+      "length": 85,
+      "text": "איבעיא להו: אי עלו, מהו שירדו? רבה אמר: אם עלו – ירדו, רב יוסף אמר: אם עלו – לא ירדו."
+    },
+    {
+      "uid": "Meilah_16",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 1377,
+      "end_char": 1468,
+      "length": 92,
+      "text": "אליבא דרבי יהודה לא תיבעי לך, דכולי עלמא לא פליגי דאם עלו – ירדו. כי פליגי אליבא דרבי שמעון."
+    },
+    {
+      "uid": "Meilah_17",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 1469,
+      "end_char": 1582,
+      "length": 114,
+      "text": "רב יוסף כרבי שמעון. רבה אמר לך: עד כאן לא קאמר רבי שמעון אלא בניתנין למטה שנתנן למעלה או בניתנין למעלה שנתנן למטה,"
+    },
+    {
+      "uid": "Meilah_18",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 1583,
+      "end_char": 1657,
+      "length": 75,
+      "text": "ולעולם דשחטן וקבל דמן בצפון, אבל הכא, כיון דשחטן בדרום – כמאן דחנקינון דמי."
+    },
+    {
+      "uid": "Meilah_19",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 1658,
+      "end_char": 1759,
+      "length": 102,
+      "text": "תנן: קדשי קדשים ששחטן בדרום – מועלין בהן. בשלמא לרב יוסף ניחא, אלא לרבה קשיא! מאי מועלין בהן – מדרבנן."
+    },
+    {
+      "uid": "Meilah_20",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 1760,
+      "end_char": 1821,
+      "length": 62,
+      "text": "מאי איכא בין דאורייתא לרבנן? דאורייתא משלמין חומש, דרבנן – לא."
+    },
+    {
+      "uid": "Meilah_21",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 1822,
+      "end_char": 1976,
+      "length": 155,
+      "text": "ומי איכא מעילה מדרבנן? אין, דאמר עולא אמר רבי יוחנן: קדשים שמתו – יצאו מידי מעילה, דבר תורה. אלמא מדאורייתא לא אית להון, בדרבנן אית בהון. הכי נמי – מדרבנן."
+    },
+    {
+      "uid": "Meilah_22",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 1977,
+      "end_char": 2081,
+      "length": 105,
+      "text": "לימא תנינא להא דעולא אמר רבי יוחנן! אף על גב דתנינא, איצטריך דעולא, סלקא דעתך אמינא, הכא לא בדילין מנהון,"
+    },
+    {
+      "uid": "Meilah_23",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 2082,
+      "end_char": 2158,
+      "length": 77,
+      "text": "אבל קדשים שמתו, הואיל ובדילין מנהון, אימא: אפילו מעילה מדרבנן לא, קא משמע לן."
+    },
+    {
+      "uid": "Meilah_24",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 2159,
+      "end_char": 2257,
+      "length": 99,
+      "text": "מתו – נמי תנינא: הנהנה מן החטאת כשהיא חיה – לא מעל עד שיפגום. וכשהיא מתה, כיון דנהנה כל שהוא – מעל."
+    },
+    {
+      "uid": "Meilah_25",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 2258,
+      "end_char": 2266,
+      "length": 9,
+      "text": "סלקא דעתך"
+    },
+    {
+      "uid": "Meilah_26",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 2267,
+      "end_char": 2393,
+      "length": 127,
+      "text": "אמינא: חטאת, הואיל ולכפרה קא אתיא – לא בדילין מינה, אבל קדשים, הואיל ולאו לכפרה קאתי – בדילי מנהון, ולית בהו מעילה, קא משמע לן."
+    },
+    {
+      "uid": "Meilah_27",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 2394,
+      "end_char": 2485,
+      "length": 92,
+      "text": "וחטאת שמתה מי אית בה מעילה? והתנן: חטאות המתות ומעות ההולכות לים המלח – לא נהנין ולא מועלין!"
+    },
+    {
+      "uid": "Meilah_28",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 2486,
+      "end_char": 2564,
+      "length": 79,
+      "text": "אמרי: חטאות המתות – בחייהן בדילין מנהון, לאפוקי היכא דמחיים – דלא בדילין מיניה."
+    },
+    {
+      "uid": "Meilah_29",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 2565,
+      "end_char": 2611,
+      "length": 47,
+      "text": "איתיביה רב יוסף לרבה חדא מגו חדא, וחדא מגו חדא:"
+    },
+    {
+      "uid": "Meilah_30",
+      "chapter_number": 5,
+      "verse_number": 5,
+      "start_char": 2612,
+      "end_char": 2659,
+      "length": 48,
+      "text": "וכולן, אין מטמאים בגדים אבית הבליעה ומועלין בהן,"
+    },
+    {
+      "uid": "Meilah_31",
+      "chapter_number": 5,
+      "verse_number": 6,
+      "start_char": 2660,
+      "end_char": 2710,
+      "length": 51,
+      "text": "חוץ מחטאת העוף שעשה למטה, כמעשה חטאת העוף לשם חטאת."
+    },
+    {
+      "uid": "Meilah_32",
+      "chapter_number": 5,
+      "verse_number": 7,
+      "start_char": 2711,
+      "end_char": 2822,
+      "length": 112,
+      "text": "וקתני עילויה: כל שהיה פסולו בקדש – אינו מטמא בגדים אבית הבליעה, וכל שלא היה פסולו בקדש – מטמא בגדים אבית הבליעה."
+    },
+    {
+      "uid": "Meilah_33",
+      "chapter_number": 5,
+      "verse_number": 8,
+      "start_char": 2823,
+      "end_char": 2887,
+      "length": 65,
+      "text": "וקתני: כל שהיה פסולו בקדש – אם עלו, לא ירדו. תיובתא דרבה! תיובתא."
+    },
+    {
+      "uid": "Meilah_34",
+      "chapter_number": 5,
+      "verse_number": 9,
+      "start_char": 2888,
+      "end_char": 2982,
+      "length": 95,
+      "text": "והא דפליגי בה רבה ורב יוסף פשיטא ליה לרבי אלעזר, דאמר רבי אלעזר: עולת במת יחיד, שהכניסה לפנים –"
+    },
+    {
+      "uid": "Meilah_35",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 2983,
+      "end_char": 3003,
+      "length": 21,
+      "text": "קלטוה מחיצות לכל דבר."
+    },
+    {
+      "uid": "Meilah_36",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 3004,
+      "end_char": 3067,
+      "length": 64,
+      "text": "בעי רבי אלעזר: [עולת במת יחיד שהכניסה, שנפסלה] – עלו, מהו שירדו?"
+    },
+    {
+      "uid": "Meilah_37",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 3068,
+      "end_char": 3130,
+      "length": 63,
+      "text": "מדקמיבעיא ליה לחדא, מכלל דאידך פשיטא ליה, אי כרבה אי כדרב יוסף."
+    },
+    {
+      "uid": "Meilah_38",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 3131,
+      "end_char": 3154,
+      "length": 24,
+      "text": "חדא מגו חדא קמיבעיא ליה:"
+    },
+    {
+      "uid": "Meilah_39",
+      "chapter_number": 6,
+      "verse_number": 5,
+      "start_char": 3155,
+      "end_char": 3207,
+      "length": 53,
+      "text": "עד כאן לא קאמר רבה התם אם עלו – ירדו, מחיצה כתיקנה – "
+    },
+    {
+      "uid": "Meilah_40",
+      "chapter_number": 6,
+      "verse_number": 6,
+      "start_char": 3208,
+      "end_char": 3234,
+      "length": 27,
+      "text": "פסלה, שלא כתיקנה – לא פסלה,"
+    },
+    {
+      "uid": "Meilah_41",
+      "chapter_number": 6,
+      "verse_number": 7,
+      "start_char": 3235,
+      "end_char": 3330,
+      "length": 96,
+      "text": "או דילמא: אפילו לרב יוסף דאמר אם עלתה – לא תרד, מחיצה כתיקנה – קלטה, שלא כתיקנה – לא קלטה. תיקו."
+    },
+    {
+      "uid": "Meilah_42",
+      "chapter_number": 6,
+      "verse_number": 8,
+      "start_char": 3331,
+      "end_char": 3431,
+      "length": 101,
+      "text": "אמר רב גידל אמר רב: זריקת פיגול אינו מוציא מידי מעילה בקדשי קדשים, ואינו מביא לידי מעילה בקדשים קלים."
+    },
+    {
+      "uid": "Meilah_43",
+      "chapter_number": 6,
+      "verse_number": 9,
+      "start_char": 3432,
+      "end_char": 3538,
+      "length": 107,
+      "text": "יתיב אביי וקאמר לה להא שמעתא, איתיביה רב פפא לאביי: השוחט את התודה לפנים, ולחמה חוץ לחומה – לא קדש את הלחם."
+    },
+    {
+      "uid": "Meilah_44",
+      "chapter_number": 6,
+      "verse_number": 10,
+      "start_char": 3539,
+      "end_char": 3650,
+      "length": 112,
+      "text": "שחטה עד שלא קרמו פניה בתנור, ואפילו קרמו כולן חוץ מאחת מהן – לא קדש הלחם. שחטה חוץ לזמנה וחוץ למקומה – קדש הלחם."
+    },
+    {
+      "uid": "Meilah_45",
+      "chapter_number": 6,
+      "verse_number": 11,
+      "start_char": 3651,
+      "end_char": 3689,
+      "length": 39,
+      "text": "אלמא פיגול מייתי לה לידי מעילה! אישתיק."
+    },
+    {
+      "uid": "Meilah_46",
+      "chapter_number": 6,
+      "verse_number": 12,
+      "start_char": 3690,
+      "end_char": 3728,
+      "length": 39,
+      "text": "כי אתא לקמיה דרבי אבא, אמר ליה: בזריקה."
+    },
+    {
+      "uid": "Meilah_47",
+      "chapter_number": 6,
+      "verse_number": 13,
+      "start_char": 3729,
+      "end_char": 3808,
+      "length": 80,
+      "text": "אמר ליה רב אשי לרבא: והא אמר עולא: קומץ פיגול שהעלו לגבי מזבח – פקע פיגולו ממנו,"
+    },
+    {
+      "uid": "Meilah_48",
+      "chapter_number": 6,
+      "verse_number": 14,
+      "start_char": 3809,
+      "end_char": 3827,
+      "length": 19,
+      "text": "וקמיצה היינו שחיטה!"
+    },
+    {
+      "uid": "Meilah_49",
+      "chapter_number": 6,
+      "verse_number": 15,
+      "start_char": 3828,
+      "end_char": 3861,
+      "length": 34,
+      "text": "אמר ליה: איסורא דמייתי לידי פיגול."
+    },
+    {
+      "uid": "Meilah_50",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 3862,
+      "end_char": 3916,
+      "length": 55,
+      "text": "והא קתני: אם אחרים מביא לידי פיגול, הוא עצמו לא כל שכן!"
+    },
+    {
+      "uid": "Meilah_51",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 3917,
+      "end_char": 3949,
+      "length": 33,
+      "text": "הא נמי, איסורא דמייתי לידי פיגול."
+    },
+    {
+      "uid": "Meilah_52",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 3950,
+      "end_char": 4004,
+      "length": 55,
+      "text": "אמר ליה רבינא לרב אשי: והאמר אילפא: מחלוקת בשתי עבודות,"
+    },
+    {
+      "uid": "Meilah_53",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 4005,
+      "end_char": 4118,
+      "length": 114,
+      "text": "כגון דאמר ״הריני שוחט סימן ראשון חוץ לזמנו, וסימן שני חוץ למקומו״, אבל בעבודה אחת – דכולי עלמא עירובי מחשבות הואי!"
+    },
+    {
+      "uid": "Meilah_54",
+      "chapter_number": 7,
+      "verse_number": 5,
+      "start_char": 4119,
+      "end_char": 4179,
+      "length": 61,
+      "text": "הכי נמי, לכי זריק תיגלי מילתא. אי בעבודה אחת, אי בשתי עבודות."
+    },
+    {
+      "uid": "Meilah_55",
+      "chapter_number": 7,
+      "verse_number": 6,
+      "start_char": 4180,
+      "end_char": 4210,
+      "length": 31,
+      "text": "אי הכי, גבי תודה נמי, עד דזריק!"
+    },
+    {
+      "uid": "Meilah_56",
+      "chapter_number": 7,
+      "verse_number": 7,
+      "start_char": 4211,
+      "end_char": 4240,
+      "length": 30,
+      "text": "מאי ״קדש״ – ליפסל, דבעי שריפה."
+    },
+    {
+      "uid": "Meilah_57",
+      "chapter_number": 7,
+      "verse_number": 8,
+      "start_char": 4241,
+      "end_char": 4316,
+      "length": 76,
+      "text": "לימא מסייע ליה: הפיגול לעולם מועלין בו. לאו אף על גב דאיזריק דם, ומסייע ליה!"
+    },
+    {
+      "uid": "Meilah_58",
+      "chapter_number": 7,
+      "verse_number": 9,
+      "start_char": 4317,
+      "end_char": 4360,
+      "length": 44,
+      "text": "לא, דלא זרק הדם. אי דלא זרק הדם, מאי למימרא?"
+    },
+    {
+      "uid": "Meilah_59",
+      "chapter_number": 7,
+      "verse_number": 10,
+      "start_char": 4361,
+      "end_char": 4432,
+      "length": 72,
+      "text": "אלא: לעולם דזריק, וכי תניא ההיא, בעולה. אי בעולה, פשיטא, דגבוה היא כולה."
+    },
+    {
+      "uid": "Meilah_60",
+      "chapter_number": 8,
+      "verse_number": 1,
+      "start_char": 4433,
+      "end_char": 4490,
+      "length": 58,
+      "text": "ועוד, דקתני סיפא: לן דמה, אף על פי שחזר וזרקו – מועלין בו."
+    },
+    {
+      "uid": "Meilah_61",
+      "chapter_number": 8,
+      "verse_number": 2,
+      "start_char": 4491,
+      "end_char": 4517,
+      "length": 27,
+      "text": "אי אמרת בשלמא בחטאת – שפיר."
+    },
+    {
+      "uid": "Meilah_62",
+      "chapter_number": 8,
+      "verse_number": 3,
+      "start_char": 4518,
+      "end_char": 4549,
+      "length": 32,
+      "text": "אלא אי אמרת בעולה – צריכא למימר?"
+    },
+    {
+      "uid": "Meilah_63",
+      "chapter_number": 8,
+      "verse_number": 4,
+      "start_char": 4550,
+      "end_char": 4623,
+      "length": 74,
+      "text": "סיפא ודאי מסייע ליה. רישא, מאי? הואיל ומסייע ליה סיפא, מסייע ליה נמי רישא?"
+    },
+    {
+      "uid": "Meilah_64",
+      "chapter_number": 8,
+      "verse_number": 5,
+      "start_char": 4624,
+      "end_char": 4709,
+      "length": 86,
+      "text": "סיפא לאו ודאי מסייע ליה: מאי שנא הלנה – דקעביד בידים, לא מהני זריקה לאפוקי מידי מעילה."
+    },
+    {
+      "uid": "Meilah_65",
+      "chapter_number": 8,
+      "verse_number": 6,
+      "start_char": 4710,
+      "end_char": 4768,
+      "length": 59,
+      "text": "מחשבה – לא קא עביד בידים, מהני ליה זריקה לאפוקי מידי מעילה."
+    },
+    {
+      "uid": "Meilah_66",
+      "chapter_number": 8,
+      "verse_number": 7,
+      "start_char": 4769,
+      "end_char": 4861,
+      "length": 93,
+      "text": "לימא הא מסייע ליה: הפיגול בקדשי קדשים – מועלין בו. לאו אף על גב דזרק ומסייע ליה! לא, דלא זרק."
+    },
+    {
+      "uid": "Meilah_67",
+      "chapter_number": 8,
+      "verse_number": 8,
+      "start_char": 4862,
+      "end_char": 4943,
+      "length": 82,
+      "text": "אבל זרק, מאי? הכי נמי דאין מועלין בו? אמאי קתני סיפא: בקדשים קלים – אין מועלין בו?"
+    },
+    {
+      "uid": "Meilah_68",
+      "chapter_number": 8,
+      "verse_number": 9,
+      "start_char": 4944,
+      "end_char": 5037,
+      "length": 94,
+      "text": "ליפלוג ברישא, וליתני: לפני זריקה – מועלין בו, לאחר זריקה – אין מועלין בו! ההוא ודאי מסייע ליה."
+    },
+    {
+      "uid": "Meilah_69",
+      "chapter_number": 8,
+      "verse_number": 10,
+      "start_char": 5038,
+      "end_char": 5127,
+      "length": 90,
+      "text": "לימא הואיל ומסייע ליה סיפא מסייע ליה נמי רישא? קדשים קלים – פסיקא ליה, הכא – לא פסיקא ליה."
+    },
+    {
+      "uid": "Meilah_70",
+      "chapter_number": 8,
+      "verse_number": 11,
+      "start_char": 5128,
+      "end_char": 5235,
+      "length": 108,
+      "text": "כלל אמר רבי יהושע: כל שהיתה לה שעת היתר לכהנים – אין מועלין בה, וכל שלא היתה לה שעת היתר לכהנים – מועלין בה."
+    },
+    {
+      "uid": "Meilah_71",
+      "chapter_number": 8,
+      "verse_number": 12,
+      "start_char": 5236,
+      "end_char": 5290,
+      "length": 55,
+      "text": "איזוהי שהיתה לה שעת היתר לכהנים? שלנה, ושנטמאת, ושיצאת."
+    },
+    {
+      "uid": "Meilah_72",
+      "chapter_number": 8,
+      "verse_number": 13,
+      "start_char": 5291,
+      "end_char": 5385,
+      "length": 95,
+      "text": "ואיזוהי שלא היתה לה שעת היתר לכהנים? שנשחטה חוץ לזמנה, וחוץ למקומה, ושקבלו פסולין וזרקו את דמה."
+    },
+    {
+      "uid": "Meilah_73",
+      "chapter_number": 8,
+      "verse_number": 14,
+      "start_char": 5386,
+      "end_char": 5472,
+      "length": 87,
+      "text": "אמר ליה בר קפרא לבר פדת: בן אחותי, ראה מה אתה שואלני למחר בבית המדרש: היתר שחיטה שנינו,"
+    },
+    {
+      "uid": "Meilah_74",
+      "chapter_number": 9,
+      "verse_number": 1,
+      "start_char": 5473,
+      "end_char": 5575,
+      "length": 103,
+      "text": "או היתר זריקה שנינו, או היתר אכילה שנינו? חזקיה אמר: היתר שחיטה שנינו, רבי יוחנן אמר: היתר אכילה שנינו."
+    },
+    {
+      "uid": "Meilah_75",
+      "chapter_number": 9,
+      "verse_number": 2,
+      "start_char": 5576,
+      "end_char": 5633,
+      "length": 58,
+      "text": "אמר רבי זירא: לא דייקא מתניתין דלא כחזקיה ודלא כרבי יוחנן."
+    },
+    {
+      "uid": "Meilah_76",
+      "chapter_number": 9,
+      "verse_number": 3,
+      "start_char": 5634,
+      "end_char": 5694,
+      "length": 61,
+      "text": "תנן: שלנה, ושנטמאת, ושיצאת. לאו דלן דם, וקתני: אין מועלין בו,"
+    },
+    {
+      "uid": "Meilah_77",
+      "chapter_number": 9,
+      "verse_number": 4,
+      "start_char": 5695,
+      "end_char": 5722,
+      "length": 28,
+      "text": "ושמע מינה: היתר זריקה שנינו!"
+    },
+    {
+      "uid": "Meilah_78",
+      "chapter_number": 9,
+      "verse_number": 5,
+      "start_char": 5723,
+      "end_char": 5780,
+      "length": 58,
+      "text": "לא, דלן בשר, אבל דם איזדריק, משום הכי קתני: אין מועלין בו."
+    },
+    {
+      "uid": "Meilah_79",
+      "chapter_number": 9,
+      "verse_number": 6,
+      "start_char": 5781,
+      "end_char": 5883,
+      "length": 103,
+      "text": "תנן: ואיזו היא שלא היתה לה שעת הכושר לכהנים? שנשחטה חוץ לזמנה, וחוץ למקומה, ושקבלו פסולין וזרקו את דמה."
+    },
+    {
+      "uid": "Meilah_80",
+      "chapter_number": 9,
+      "verse_number": 7,
+      "start_char": 5884,
+      "end_char": 5953,
+      "length": 70,
+      "text": "היכי דמי, אילימא דזרקוהו פסולין וקבלוהו פסולין – למה לי עד דאיכא תרתי?"
+    },
+    {
+      "uid": "Meilah_81",
+      "chapter_number": 9,
+      "verse_number": 8,
+      "start_char": 5954,
+      "end_char": 6007,
+      "length": 54,
+      "text": "אלא לאו דקבלוהו פסולין וזרקוהו כשרים, וקתני מועלין בו,"
+    },
+    {
+      "uid": "Meilah_82",
+      "chapter_number": 9,
+      "verse_number": 9,
+      "start_char": 6008,
+      "end_char": 6034,
+      "length": 27,
+      "text": "שמע מינה: היתר זריקה שנינו."
+    },
+    {
+      "uid": "Meilah_83",
+      "chapter_number": 9,
+      "verse_number": 10,
+      "start_char": 6035,
+      "end_char": 6095,
+      "length": 61,
+      "text": "מתקיף לה רב יוסף: ואי סלקא דעתך איכא לפלוגי הכי, הא דתנן התם:"
+    },
+    {
+      "uid": "Meilah_84",
+      "chapter_number": 9,
+      "verse_number": 11,
+      "start_char": 6096,
+      "end_char": 6193,
+      "length": 98,
+      "text": "חטאת פסולה – אין דמה טעון כיבוס, בין שהיתה לה שעת הכושר ונפסלה, ובין שלא היתה לה שעת הכושר ונפסלה."
+    },
+    {
+      "uid": "Meilah_85",
+      "chapter_number": 9,
+      "verse_number": 12,
+      "start_char": 6194,
+      "end_char": 6254,
+      "length": 61,
+      "text": "אי זו היא שהיתה לה שעת הכושר ונפסלה? שלנה, ושנטמאת, או שיצאה."
+    },
+    {
+      "uid": "Meilah_86",
+      "chapter_number": 9,
+      "verse_number": 13,
+      "start_char": 6255,
+      "end_char": 6341,
+      "length": 87,
+      "text": "איזוהי שלא היתה לה שעת הכושר? שנשחטה חוץ למקומה, חוץ לזמנה, ושקבלו פסולין וזרקו את דמה."
+    },
+    {
+      "uid": "Meilah_87",
+      "chapter_number": 9,
+      "verse_number": 14,
+      "start_char": 6342,
+      "end_char": 6452,
+      "length": 111,
+      "text": "היכי דמי? אילימא דקבלוהו פסולין וזרקו פסולין – הוא דאין דמה טעון כיבוס, הא קבלוהו וזרקו כשרים – דמה טעון כיבוס."
+    },
+    {
+      "uid": "Meilah_88",
+      "chapter_number": 9,
+      "verse_number": 15,
+      "start_char": 6453,
+      "end_char": 6507,
+      "length": 55,
+      "text": "קרי כאן: ״אשר יזה מדמה״ – ולא שכבר הוזה? אלא: לאו דוקא,"
+    },
+    {
+      "uid": "Meilah_89",
+      "chapter_number": 10,
+      "verse_number": 1,
+      "start_char": 6508,
+      "end_char": 6564,
+      "length": 57,
+      "text": "הכי נמי, לאו דוקא. אמר רב אסי: אם כן, למה לי למיתני תרתי?"
+    },
+    {
+      "uid": "Meilah_90",
+      "chapter_number": 10,
+      "verse_number": 2,
+      "start_char": 6565,
+      "end_char": 6586,
+      "length": 22,
+      "text": "אלא לעולם דמעילה דוקא,"
+    },
+    {
+      "uid": "Meilah_91",
+      "chapter_number": 10,
+      "verse_number": 3,
+      "start_char": 6587,
+      "end_char": 6620,
+      "length": 34,
+      "text": "והא קא משמע לן: דפסול עושה שיריים,"
+    },
+    {
+      "uid": "Meilah_92",
+      "chapter_number": 10,
+      "verse_number": 4,
+      "start_char": 6621,
+      "end_char": 6701,
+      "length": 81,
+      "text": "אף על גב דקיבל פסול וזרק, וקיבל כשר וזרק – לאו כלום היא. מאי טעמא? דשיריים נינהו."
+    },
+    {
+      "uid": "Meilah_93",
+      "chapter_number": 10,
+      "verse_number": 5,
+      "start_char": 6702,
+      "end_char": 6759,
+      "length": 58,
+      "text": "והא בעא מיניה ריש לקיש מרבי יוחנן: פסול, מהו שיעשה שיריים?"
+    },
+    {
+      "uid": "Meilah_94",
+      "chapter_number": 10,
+      "verse_number": 6,
+      "start_char": 6760,
+      "end_char": 6841,
+      "length": 82,
+      "text": "ואמר ליה: אין לך דבר שיעשה שיריים אלא חוץ לזמנו וחוץ למקומו, הואיל ומרצין לפיגולן."
+    },
+    {
+      "uid": "Meilah_95",
+      "chapter_number": 10,
+      "verse_number": 7,
+      "start_char": 6842,
+      "end_char": 6875,
+      "length": 34,
+      "text": "מאי לאו, בר מפסול? לא, אפילו פסול."
+    },
+    {
+      "uid": "Meilah_96",
+      "chapter_number": 10,
+      "verse_number": 8,
+      "start_char": 6876,
+      "end_char": 6893,
+      "length": 18,
+      "text": "והא ״אין לך״ קתני!"
+    },
+    {
+      "uid": "Meilah_97",
+      "chapter_number": 10,
+      "verse_number": 9,
+      "start_char": 6894,
+      "end_char": 7009,
+      "length": 116,
+      "text": "הכי קתני: אין לך דבר שאינו מרצה בציבור ועושה שיריים אלא חוץ לזמנו וחוץ למקומו, אבל טמא, דאיתיה בציבור – משוי שיריים,"
+    },
+    {
+      "uid": "Meilah_98",
+      "chapter_number": 10,
+      "verse_number": 10,
+      "start_char": 7010,
+      "end_char": 7056,
+      "length": 47,
+      "text": "שאר פסולין דלא איתנון בציבור – לא משוין שיריים."
+    },
+    {
+      "uid": "Meilah_99",
+      "chapter_number": 10,
+      "verse_number": 11,
+      "start_char": 7057,
+      "end_char": 7089,
+      "length": 33,
+      "text": "תא שמע: הפיגול – לעולם מועלין בו."
+    },
+    {
+      "uid": "Meilah_100",
+      "chapter_number": 10,
+      "verse_number": 12,
+      "start_char": 7090,
+      "end_char": 7130,
+      "length": 41,
+      "text": "לאו דלא זרק, ושמע מינה: היתר זריקה שנינו!"
+    },
+    {
+      "uid": "Meilah_101",
+      "chapter_number": 10,
+      "verse_number": 13,
+      "start_char": 7131,
+      "end_char": 7139,
+      "length": 9,
+      "text": "לא, זרקה."
+    },
+    {
+      "uid": "Meilah_102",
+      "chapter_number": 10,
+      "verse_number": 14,
+      "start_char": 7140,
+      "end_char": 7258,
+      "length": 119,
+      "text": "ומאי ״לעולם״? הא קא משמע לן כדרב גידל, דאמר רב גידל אמר רב: זריקת פיגול – אינו מוציא מידי מעילה, ואינו מביא לידי מעילה."
+    },
+    {
+      "uid": "Meilah_103",
+      "chapter_number": 11,
+      "verse_number": 1,
+      "start_char": 7259,
+      "end_char": 7326,
+      "length": 68,
+      "text": "תא שמע, רבי שמעון אומר: יש נותר שמועלין בו, ויש נותר שאין מועלין בו."
+    },
+    {
+      "uid": "Meilah_104",
+      "chapter_number": 11,
+      "verse_number": 2,
+      "start_char": 7327,
+      "end_char": 7380,
+      "length": 54,
+      "text": "כיצד? לן לפני זריקה – מועלין, לאחר זריקה – אין מועלין."
+    },
+    {
+      "uid": "Meilah_105",
+      "chapter_number": 11,
+      "verse_number": 3,
+      "start_char": 7381,
+      "end_char": 7441,
+      "length": 61,
+      "text": "קתני מיהת: מועלין בו, לאו דהוה שהות למיזרקיה, דאי בעי – זריק,"
+    },
+    {
+      "uid": "Meilah_106",
+      "chapter_number": 11,
+      "verse_number": 4,
+      "start_char": 7442,
+      "end_char": 7469,
+      "length": 28,
+      "text": "ושמע מינה: היתר אכילה שנינו!"
+    },
+    {
+      "uid": "Meilah_107",
+      "chapter_number": 11,
+      "verse_number": 5,
+      "start_char": 7470,
+      "end_char": 7517,
+      "length": 48,
+      "text": "לא, דקבליה סמוך לשקיעת החמה, דלא היה שהות למזרק."
+    },
+    {
+      "uid": "Meilah_108",
+      "chapter_number": 11,
+      "verse_number": 6,
+      "start_char": 7518,
+      "end_char": 7556,
+      "length": 39,
+      "text": "אבל היה שהות, מאי? הכי נמי דאין מועלין?"
+    },
+    {
+      "uid": "Meilah_109",
+      "chapter_number": 11,
+      "verse_number": 7,
+      "start_char": 7557,
+      "end_char": 7618,
+      "length": 62,
+      "text": "מאי איריא דתני ״לפני זריקה״, ליתני ״קודם שקיעה״ ו״לאחר שקיעה״!"
+    },
+    {
+      "uid": "Meilah_110",
+      "chapter_number": 11,
+      "verse_number": 8,
+      "start_char": 7619,
+      "end_char": 7670,
+      "length": 52,
+      "text": "הכי נמי קתני: קודם שיראה לזריקה, ולאחר שיראה לזריקה."
+    },
+    {
+      "uid": "Meilah_111",
+      "chapter_number": 11,
+      "verse_number": 9,
+      "start_char": 7671,
+      "end_char": 7740,
+      "length": 70,
+      "text": "תא שמע, רבי שמעון אומר: יש פיגול שמועלין בו, ויש פיגול שאין מועלין בו."
+    },
+    {
+      "uid": "Meilah_112",
+      "chapter_number": 11,
+      "verse_number": 10,
+      "start_char": 7741,
+      "end_char": 7791,
+      "length": 51,
+      "text": "כיצד? לפני זריקה – מועלין, לאחר זריקה – אין מועלין."
+    },
+    {
+      "uid": "Meilah_113",
+      "chapter_number": 11,
+      "verse_number": 11,
+      "start_char": 7792,
+      "end_char": 7913,
+      "length": 122,
+      "text": "קתני מיהת: לפני זריקה – מועלין בו, לאו דהוה שהות למיזרקיה, דאי בעי – זריק, וקתני ״מועלין בו״, ושמע מינה: היתר אכילה שנינו!"
+    },
+    {
+      "uid": "Meilah_114",
+      "chapter_number": 11,
+      "verse_number": 12,
+      "start_char": 7914,
+      "end_char": 7992,
+      "length": 79,
+      "text": "לא, דלא הוה שהות למיזרקיה. אבל הוה שהות למיזרקיה, מאי? הכי נמי דנפק מידי מעילה?"
+    },
+    {
+      "uid": "Meilah_115",
+      "chapter_number": 11,
+      "verse_number": 13,
+      "start_char": 7993,
+      "end_char": 8059,
+      "length": 67,
+      "text": "מאי איריא דתני ״לאחר זריקה״, ליתני ״קודם שקיעה״ ו״לאחר שקיעת החמה״!"
+    },
+    {
+      "uid": "Meilah_116",
+      "chapter_number": 11,
+      "verse_number": 14,
+      "start_char": 8060,
+      "end_char": 8110,
+      "length": 51,
+      "text": "הכי נמי קאמר: קודם שיראה לזריקה, לאחר שיראה לזריקה."
+    },
+    {
+      "uid": "Meilah_117",
+      "chapter_number": 11,
+      "verse_number": 15,
+      "start_char": 8111,
+      "end_char": 8202,
+      "length": 92,
+      "text": "תא שמע: הפיגול בקדשי קדשים – מועלין. מאי לאו דזרק, ושמע מינה: היתר אכילה שנינו! לא, דלא זרק."
+    },
+    {
+      "uid": "Meilah_118",
+      "chapter_number": 11,
+      "verse_number": 16,
+      "start_char": 8203,
+      "end_char": 8280,
+      "length": 78,
+      "text": "אבל זרק מאי? הכי נמי דאין מועלין בו? מאי איריא דתני בקדשים קלים אין מועלין בו,"
+    },
+    {
+      "uid": "Meilah_119",
+      "chapter_number": 11,
+      "verse_number": 17,
+      "start_char": 8281,
+      "end_char": 8322,
+      "length": 42,
+      "text": "ליתני: כאן – לפני זריקה, כאן – לאחר זריקה!"
+    },
+    {
+      "uid": "Meilah_120",
+      "chapter_number": 11,
+      "verse_number": 18,
+      "start_char": 8323,
+      "end_char": 8394,
+      "length": 72,
+      "text": "הא אתיא לאשמועינן: כל לאיתויי לידי מעילה, זריקה כתיקנה מייתי לידי מעילה."
+    },
+    {
+      "uid": "Meilah_121",
+      "chapter_number": 11,
+      "verse_number": 19,
+      "start_char": 8395,
+      "end_char": 8453,
+      "length": 59,
+      "text": "כל לאפוקי מידי מעילה, אפילו שלא כתיקנה נמי מפקע מידי מעילה."
+    },
+    {
+      "uid": "Meilah_122",
+      "chapter_number": 12,
+      "verse_number": 1,
+      "start_char": 8454,
+      "end_char": 8495,
+      "length": 42,
+      "text": "מתני׳ בשר קדשי קדשים שיצא לפני זריקת דמים,"
+    },
+    {
+      "uid": "Meilah_123",
+      "chapter_number": 12,
+      "verse_number": 2,
+      "start_char": 8496,
+      "end_char": 8562,
+      "length": 67,
+      "text": "רבי אליעזר אומר: מועלין בו, ואין חייבין עליו משום פיגול ונותר וטמא."
+    },
+    {
+      "uid": "Meilah_124",
+      "chapter_number": 12,
+      "verse_number": 3,
+      "start_char": 8563,
+      "end_char": 8628,
+      "length": 66,
+      "text": "רבי עקיבא אומר: אין מועלין בו, וחייבין עליו משום פיגול ונותר וטמא."
+    },
+    {
+      "uid": "Meilah_125",
+      "chapter_number": 12,
+      "verse_number": 4,
+      "start_char": 8629,
+      "end_char": 8728,
+      "length": 100,
+      "text": "אמר רבי עקיבא: והרי המפריש חטאתו ואבדה, והפריש אחרת תחתיה, ואחר כך נמצאת הראשונה, והרי שתיהן עומדות."
+    },
+    {
+      "uid": "Meilah_126",
+      "chapter_number": 12,
+      "verse_number": 5,
+      "start_char": 8729,
+      "end_char": 8779,
+      "length": 51,
+      "text": "לא כשם שדמה פוטר את בשרה, כך הוא פוטר את בשר חברתה?"
+    },
+    {
+      "uid": "Meilah_127",
+      "chapter_number": 12,
+      "verse_number": 6,
+      "start_char": 8780,
+      "end_char": 8840,
+      "length": 61,
+      "text": "אם פטר דמה את בשר חברתה מן המעילה, דין הוא שיפטר את בשר עצמה!"
+    },
+    {
+      "uid": "Meilah_128",
+      "chapter_number": 12,
+      "verse_number": 7,
+      "start_char": 8841,
+      "end_char": 8880,
+      "length": 40,
+      "text": "אימורי קדשים קלים שיצאו לפני זריקת דמים,"
+    },
+    {
+      "uid": "Meilah_129",
+      "chapter_number": 12,
+      "verse_number": 8,
+      "start_char": 8881,
+      "end_char": 9016,
+      "length": 136,
+      "text": "רבי אליעזר אומר: אין מועלין בהן, ואין חייבין עליהן משום פיגול נותר וטמא. רבי עקיבא אומר: מועלין בהן, וחייבין עליהן משום פיגול נותר וטמא."
+    },
+    {
+      "uid": "Meilah_130",
+      "chapter_number": 12,
+      "verse_number": 9,
+      "start_char": 9017,
+      "end_char": 9037,
+      "length": 21,
+      "text": "גמ׳ והני תרתי למה לי?"
+    },
+    {
+      "uid": "Meilah_131",
+      "chapter_number": 12,
+      "verse_number": 10,
+      "start_char": 9038,
+      "end_char": 9179,
+      "length": 142,
+      "text": "צריכי, דאי איתמר בקדשי קדשים, הוה אמינא: בהא קא אמר רבי אליעזר מועלין בו, משום דזריקה כתיקנה מפקא מידי מעילה, שלא כתיקנה – לא מפקא מידי מעילה."
+    },
+    {
+      "uid": "Meilah_132",
+      "chapter_number": 12,
+      "verse_number": 11,
+      "start_char": 9180,
+      "end_char": 9255,
+      "length": 76,
+      "text": "אבל לאיתויי לידי מעילה – מודי לרבי עקיבא דאפילו שלא כתיקנה מייתא לידי מעילה,"
+    },
+    {
+      "uid": "Meilah_133",
+      "chapter_number": 12,
+      "verse_number": 12,
+      "start_char": 9256,
+      "end_char": 9379,
+      "length": 124,
+      "text": "ואי איתמר גבי קדשים קלים, הוה אמינא: גבי קדשים קלים הוא דאמר רבי עקיבא מועלין בהן, דאפילו זריקה שלא כתיקנה מייתא לידי מעילה,"
+    },
+    {
+      "uid": "Meilah_134",
+      "chapter_number": 12,
+      "verse_number": 13,
+      "start_char": 9380,
+      "end_char": 9452,
+      "length": 73,
+      "text": "אבל קדשי קדשים, דלאפוקי הוא, שלא כתיקנה – לא מפקא מידי מעילה, קא משמע לן."
+    },
+    {
+      "uid": "Meilah_135",
+      "chapter_number": 12,
+      "verse_number": 14,
+      "start_char": 9453,
+      "end_char": 9555,
+      "length": 103,
+      "text": "אתמר, אמר רבי יוחנן: כי אמר רבי עקיבא זריקה מועלת ליוצא – שיצא מקצתו, אבל יוצא כולו – לא אמר רבי עקיבא."
+    },
+    {
+      "uid": "Meilah_136",
+      "chapter_number": 12,
+      "verse_number": 15,
+      "start_char": 9556,
+      "end_char": 9606,
+      "length": 51,
+      "text": "אמר ליה רב אסי לרבי יוחנן: כבר לימדוני חבירי שבגולה"
+    },
+    {
+      "uid": "Meilah_137",
+      "chapter_number": 13,
+      "verse_number": 1,
+      "start_char": 9607,
+      "end_char": 9632,
+      "length": 26,
+      "text": "מחשבין על האבוד ועל השרוף."
+    },
+    {
+      "uid": "Meilah_138",
+      "chapter_number": 13,
+      "verse_number": 2,
+      "start_char": 9633,
+      "end_char": 9688,
+      "length": 56,
+      "text": "והא אבוד ושרוף לא איתינון בעולם, ואפילו הכי קתני מחשבין!"
+    },
+    {
+      "uid": "Meilah_139",
+      "chapter_number": 13,
+      "verse_number": 3,
+      "start_char": 9689,
+      "end_char": 9764,
+      "length": 76,
+      "text": "ומי אמר רב אסי הכי? הא בעא מיניה רב אסי מרבי יוחנן: חישב לנשפכין, למחר, מהו?"
+    },
+    {
+      "uid": "Meilah_140",
+      "chapter_number": 13,
+      "verse_number": 4,
+      "start_char": 9765,
+      "end_char": 9849,
+      "length": 85,
+      "text": "אמר ליה רבי זירא: כבר שנית לנו אלל! אלמא האי אלל, כיון דלית ביה מששא – לא קיבל טומאה,"
+    },
+    {
+      "uid": "Meilah_141",
+      "chapter_number": 13,
+      "verse_number": 5,
+      "start_char": 9850,
+      "end_char": 9904,
+      "length": 55,
+      "text": "הני נשפכין נמי, כיון דלאיבוד אזלי – בהו מחשבה לא מהניא!"
+    },
+    {
+      "uid": "Meilah_142",
+      "chapter_number": 13,
+      "verse_number": 6,
+      "start_char": 9905,
+      "end_char": 9988,
+      "length": 84,
+      "text": "אלא דקתני על האבוד ועל השרוף – קשיא! אמר רבא: אימא: על העומד לאיבוד ועל העומד לישרף."
+    },
+    {
+      "uid": "Meilah_143",
+      "chapter_number": 13,
+      "verse_number": 7,
+      "start_char": 9989,
+      "end_char": 10080,
+      "length": 92,
+      "text": "אמר רב פפא: לא אמר רבי עקיבא זריקה מועלת ליוצא אלא שיצא בשר, אבל דם – אין זריקה מועלת ליוצא."
+    },
+    {
+      "uid": "Meilah_144",
+      "chapter_number": 13,
+      "verse_number": 8,
+      "start_char": 10081,
+      "end_char": 10206,
+      "length": 126,
+      "text": "תניא נמי הכי: שחט בשתיקה ויצא דם, אף על פי שחזר וזרקו – לא עשה ולא כלום. בקדשי קדשים – מועלין בו, בקדשים קלים – אין מועלין בו."
+    },
+    {
+      "uid": "Meilah_145",
+      "chapter_number": 13,
+      "verse_number": 9,
+      "start_char": 10207,
+      "end_char": 10237,
+      "length": 31,
+      "text": "אמר רבי עקיבא: הא זה, למה דומה?"
+    },
+    {
+      "uid": "Meilah_146",
+      "chapter_number": 13,
+      "verse_number": 10,
+      "start_char": 10238,
+      "end_char": 10313,
+      "length": 76,
+      "text": "אמר רבי אלעזר: כי אמר רבי עקיבא, בבת אחת, אבל בזה אחר זה – לא אמר רבי עקיבא."
+    },
+    {
+      "uid": "Meilah_147",
+      "chapter_number": 13,
+      "verse_number": 11,
+      "start_char": 10314,
+      "end_char": 10511,
+      "length": 198,
+      "text": "תניא, אמר רבי שמעון: כשהלכתי לכפר פאני, מצאני זקן אחד ואמר לי: אומר היה רבי עקיבא זריקה מועלת ליוצא? אמרתי לו: הן. וכשבאתי והרציתי דברים לפני חבירי שבגליל, אמרו לי: הלא פסול הוא, היאך מרצה על הפסול?"
+    },
+    {
+      "uid": "Meilah_148",
+      "chapter_number": 13,
+      "verse_number": 12,
+      "start_char": 10512,
+      "end_char": 10724,
+      "length": 213,
+      "text": "וכשיצאתי והרציתי דברים לפני רבי עקיבא, אמר לי: בני, אי אתה אומר כן? והרי המפריש חטאתו ואבדה, והפריש אחרת תחתיה, ואחר כך נמצאת הראשונה, והרי שתיהן עומדות – מועלין בשתיהן. שחטן, והרי דמן מונח בכוסות – מועלין בשתיהן."
+    },
+    {
+      "uid": "Meilah_149",
+      "chapter_number": 14,
+      "verse_number": 1,
+      "start_char": 10725,
+      "end_char": 10820,
+      "length": 96,
+      "text": "נזרק דם של אחד מהם, אי אתה מודה שכשם שדמה פוטר את בשרה מן המעילה, אף יפטור בשר חבירתה מן המעילה?"
+    },
+    {
+      "uid": "Meilah_150",
+      "chapter_number": 14,
+      "verse_number": 2,
+      "start_char": 10821,
+      "end_char": 10892,
+      "length": 72,
+      "text": "אם הציל בשר חבירתה מן המעילה, אף על פי שהוא פסול, דין הוא שיציל את בשרה!"
+    },
+    {
+      "uid": "Meilah_151",
+      "chapter_number": 14,
+      "verse_number": 3,
+      "start_char": 10893,
+      "end_char": 10993,
+      "length": 101,
+      "text": "אמר ריש לקיש משום רב אושעיא: תשובה גנובה השיבו רבי עקיבא לאותו תלמיד, בבת אחת – אין, בזה אחר זה – לא,"
+    },
+    {
+      "uid": "Meilah_152",
+      "chapter_number": 14,
+      "verse_number": 4,
+      "start_char": 10994,
+      "end_char": 11043,
+      "length": 50,
+      "text": "דכיון דפסול הוא, מה לי בבת אחת, מה לי בזה אחר זה?!"
+    },
+    {
+      "uid": "Meilah_153",
+      "chapter_number": 14,
+      "verse_number": 5,
+      "start_char": 11044,
+      "end_char": 11093,
+      "length": 50,
+      "text": "אמר ליה רבי יוחנן לריש לקיש: ואתה, אי אתה אומר כן?"
+    },
+    {
+      "uid": "Meilah_154",
+      "chapter_number": 14,
+      "verse_number": 6,
+      "start_char": 11094,
+      "end_char": 11207,
+      "length": 114,
+      "text": "אילו הפריש שתי אשמות לאחריות, ושחט את שניהן, וקדם והעלה אימורין של אחד מהן קודם זריקה, אי אתה מודה שאם עלו – ירדו?"
+    },
+    {
+      "uid": "Meilah_155",
+      "chapter_number": 14,
+      "verse_number": 7,
+      "start_char": 11208,
+      "end_char": 11332,
+      "length": 125,
+      "text": "ואי סלקא דעתך חד גופא הוא, אמאי אם עלו – ירדו? האמר עולא: אימורי קדשים קלים שהעלן לפני זריקת דם – לא ירדו, נעשה לחמו של מזבח!"
+    },
+    {
+      "uid": "Meilah_156",
+      "chapter_number": 14,
+      "verse_number": 8,
+      "start_char": 11333,
+      "end_char": 11379,
+      "length": 47,
+      "text": "אישתיק. אמר רבי יוחנן: קצצתינון לרגלוהי דינוקא."
+    },
+    {
+      "uid": "Meilah_157",
+      "chapter_number": 14,
+      "verse_number": 9,
+      "start_char": 11380,
+      "end_char": 11450,
+      "length": 71,
+      "text": "מתני׳ יש מעשה דמים בקדשי קדשים להקל ולהחמיר, ובקדשים קלים כולהו להחמיר."
+    },
+    {
+      "uid": "Meilah_158",
+      "chapter_number": 14,
+      "verse_number": 10,
+      "start_char": 11451,
+      "end_char": 11562,
+      "length": 112,
+      "text": "כיצד? קדשי קדשים לפני זריקת דמים – מועלין באימוריהן ובבשר. לאחר זריקת דמים – מועלין באימוריהן, ואין מועלין בבשר."
+    },
+    {
+      "uid": "Meilah_159",
+      "chapter_number": 14,
+      "verse_number": 11,
+      "start_char": 11563,
+      "end_char": 11648,
+      "length": 86,
+      "text": "ועל זה ועל זה – חייב משום פיגול, נותר, וטמא. נמצא, מעשה דמים בקדשי קדשים להקל ולהחמיר,"
+    },
+    {
+      "uid": "Meilah_160",
+      "chapter_number": 14,
+      "verse_number": 12,
+      "start_char": 11649,
+      "end_char": 11793,
+      "length": 145,
+      "text": "ובקדשים קלים כולן להחמיר. כיצד? קדשים קלים לפני זריקת דמים – אין מועלין לא באימורין ולא בבשר, לאחר זריקת דמים – מועלין באימורין ואין מועלין בבשר."
+    },
+    {
+      "uid": "Meilah_161",
+      "chapter_number": 14,
+      "verse_number": 13,
+      "start_char": 11794,
+      "end_char": 11881,
+      "length": 88,
+      "text": "על זה ועל זה חייבין עליו משום פיגול, נותר, וטמא. נמצא מעשה דמים בקדשים קלים כולן להחמיר."
+    },
+    {
+      "uid": "Meilah_162",
+      "chapter_number": 14,
+      "verse_number": 14,
+      "start_char": 11882,
+      "end_char": 11968,
+      "length": 87,
+      "text": "גמ׳ קתני ״אין מועלין בבשר״ – מעילה הוא דליכא, הא איסורא איכא, ואמאי? הא ממונא דכהן הוא!"
+    },
+    {
+      "uid": "Meilah_163",
+      "chapter_number": 14,
+      "verse_number": 15,
+      "start_char": 11969,
+      "end_char": 12026,
+      "length": 58,
+      "text": "לא קשיא, משום דנסיב רישא ״מועלין״, נסיב סיפא ״אין מועלין״."
+    },
+    {
+      "uid": "Meilah_164",
+      "chapter_number": 14,
+      "verse_number": 16,
+      "start_char": 12027,
+      "end_char": 12225,
+      "length": 199,
+      "text": "אימא סיפא: ״בקדשים קלים כולהו להחמיר. כיצד? בשר קדשים קלים לפני זריקת דמים – אין מועלין בהן ובאימוריהן, ואין חייבין עליהן משום פיגול, נותר, וטמא. לאחר זריקת דמים – מועלין באימוריהן ואין מועלין בבשר״."
+    },
+    {
+      "uid": "Meilah_165",
+      "chapter_number": 14,
+      "verse_number": 17,
+      "start_char": 12226,
+      "end_char": 12285,
+      "length": 60,
+      "text": "מעילה הוא דליכא, הא איסורא איכא, ואמאי? הא ממונא דבעלים הוא!"
+    },
+    {
+      "uid": "Meilah_166",
+      "chapter_number": 14,
+      "verse_number": 18,
+      "start_char": 12286,
+      "end_char": 12324,
+      "length": 39,
+      "text": "אמר רבי חנינא: ליוצאין, ורבי עקיבא היא."
+    },
+    {
+      "uid": "Meilah_167",
+      "chapter_number": 14,
+      "verse_number": 19,
+      "start_char": 12325,
+      "end_char": 12367,
+      "length": 43,
+      "text": "כי אמר רבי עקיבא זריקה מועלת, ליוצא לשריפה,"
+    },
+    {
+      "uid": "Meilah_168",
+      "chapter_number": 15,
+      "verse_number": 1,
+      "start_char": 12368,
+      "end_char": 12391,
+      "length": 24,
+      "text": "אבל לאכילה הוא דלא מרצה."
+    },
+    {
+      "uid": "Meilah_169",
+      "chapter_number": 15,
+      "verse_number": 2,
+      "start_char": 12392,
+      "end_char": 12410,
+      "length": 19,
+      "text": "הדרן עלך קדשי קדשים"
+    },
+    {
+      "uid": "Meilah_170",
+      "chapter_number": 15,
+      "verse_number": 3,
+      "start_char": 12411,
+      "end_char": 12493,
+      "length": 83,
+      "text": "חטאת העוף מועלין בה משהוקדשה, נמלקה – הוכשרה להפסל בטבול יום ובמחוסר כפורים ובלינה."
+    },
+    {
+      "uid": "Meilah_171",
+      "chapter_number": 15,
+      "verse_number": 4,
+      "start_char": 12494,
+      "end_char": 12554,
+      "length": 61,
+      "text": "הוזה דמה – חייבין עליו משום פיגול, נותר, וטמא, ואין בה מעילה."
+    },
+    {
+      "uid": "Meilah_172",
+      "chapter_number": 15,
+      "verse_number": 5,
+      "start_char": 12555,
+      "end_char": 12640,
+      "length": 86,
+      "text": "גמ׳ קתני הוכשרה ליפסל בטבול יום, ובמחוסר כפורים, ובלינה. ליפסל – אין, אבל לטמויי – לא."
+    },
+    {
+      "uid": "Meilah_173",
+      "chapter_number": 15,
+      "verse_number": 6,
+      "start_char": 12641,
+      "end_char": 12693,
+      "length": 53,
+      "text": "מתניתין מני? רבנן היא, דתניא: אבא שאול אומר: טבול יום"
+    },
+    {
+      "uid": "Meilah_174",
+      "chapter_number": 16,
+      "verse_number": 1,
+      "start_char": 12694,
+      "end_char": 12703,
+      "length": 10,
+      "text": "תחלה לקדש."
+    },
+    {
+      "uid": "Meilah_175",
+      "chapter_number": 16,
+      "verse_number": 2,
+      "start_char": 12704,
+      "end_char": 12835,
+      "length": 132,
+      "text": "רבי מאיר אומר: מטמא את הקדש, ופוסל את התרומה. וחכמים אומרים: כשם שהוא פוסל משקה תרומה ואוכלי תרומה, כך הוא פוסל משקה קדש ואוכלי קדש."
+    },
+    {
+      "uid": "Meilah_176",
+      "chapter_number": 16,
+      "verse_number": 3,
+      "start_char": 12836,
+      "end_char": 12900,
+      "length": 65,
+      "text": "אמר רבא: לאבא שאול מעלה עשו בקדשים, שוינהו רבנן לטבול יום כראשון,"
+    },
+    {
+      "uid": "Meilah_177",
+      "chapter_number": 16,
+      "verse_number": 4,
+      "start_char": 12901,
+      "end_char": 12978,
+      "length": 78,
+      "text": "לרבי מאיר כאוכל שני. לרבנן, כיון דטבל – קלש טומאה, פסול – משוי, טמא – לא משוי."
+    },
+    {
+      "uid": "Meilah_178",
+      "chapter_number": 16,
+      "verse_number": 5,
+      "start_char": 12979,
+      "end_char": 13064,
+      "length": 86,
+      "text": "הוזה דמה – חייבין כו׳. מעילה הוא דליכא, אבל איסורא – איכא. ואמאי? הא ממונא דכהנים הוא!"
+    },
+    {
+      "uid": "Meilah_179",
+      "chapter_number": 16,
+      "verse_number": 6,
+      "start_char": 13065,
+      "end_char": 13146,
+      "length": 82,
+      "text": "אמר רבי חנינא: ליוצאין, ורבי עקיבא היא, דאמר זריקה מועלת ליוצא, דלאו בת אכילה היא."
+    },
+    {
+      "uid": "Meilah_180",
+      "chapter_number": 16,
+      "verse_number": 7,
+      "start_char": 13147,
+      "end_char": 13215,
+      "length": 69,
+      "text": "אמר רב הונא אמר רב: מיצוי חטאת העוף – אינו מעכב. דתני רב: ״הוזה דמה״."
+    },
+    {
+      "uid": "Meilah_181",
+      "chapter_number": 16,
+      "verse_number": 8,
+      "start_char": 13216,
+      "end_char": 13280,
+      "length": 65,
+      "text": "רב אדא בר אהבה אמר רב: מיצוי חטאת העוף מעכב. ותני רב: ״מיצה דמה״."
+    },
+    {
+      "uid": "Meilah_182",
+      "chapter_number": 16,
+      "verse_number": 9,
+      "start_char": 13281,
+      "end_char": 13424,
+      "length": 144,
+      "text": "תא שמע: ״והנשאר בדם ימצה אל יסוד המזבח חטאת היא״. בשלמא לרב אדא בר אהבה, היינו דכתיב: ״והנשאר בדם ימצה... חטאת היא״, אלא לרב הונא, מאי ״והנשאר״?"
+    },
+    {
+      "uid": "Meilah_183",
+      "chapter_number": 16,
+      "verse_number": 10,
+      "start_char": 13425,
+      "end_char": 13480,
+      "length": 56,
+      "text": "כדתניא דבי רבי ישמעאל: שאם נשאר. ומאי ״חטאת היא״? ארישא."
+    },
+    {
+      "uid": "Meilah_184",
+      "chapter_number": 16,
+      "verse_number": 11,
+      "start_char": 13481,
+      "end_char": 13589,
+      "length": 109,
+      "text": "אמר ליה רב אחא בריה דרבא לרב אשי: אלא מעתה, גבי מנחה דכתיב: ״והנותרת״. הכי נמי שאם ניתותר? וכי תימא: הכי נמי,"
+    },
+    {
+      "uid": "Meilah_185",
+      "chapter_number": 17,
+      "verse_number": 1,
+      "start_char": 13590,
+      "end_char": 13665,
+      "length": 76,
+      "text": "והתניא: ״מסלתה ומשמנה על כל לבנתה״ – פרט שחסרה סלתה וחסרה שמנה וחסרה לבונתה!"
+    },
+    {
+      "uid": "Meilah_186",
+      "chapter_number": 17,
+      "verse_number": 2,
+      "start_char": 13666,
+      "end_char": 13706,
+      "length": 41,
+      "text": "אמרי: התם כתיב ״והנותרת״, קרא יתירא כתיב."
+    },
+    {
+      "uid": "Meilah_187",
+      "chapter_number": 17,
+      "verse_number": 3,
+      "start_char": 13707,
+      "end_char": 13864,
+      "length": 158,
+      "text": "מתיב אבוה דשמואל לרב הונא: אחד חטאת העוף ואחד עולת העוף שמלקן ומיצה דמן חוץ למקומן – פסול ואין בו כרת. חוץ לזמנן – פיגול וחייבין עליו כרת. קתני מיהת מיצה דמן!"
+    },
+    {
+      "uid": "Meilah_188",
+      "chapter_number": 17,
+      "verse_number": 4,
+      "start_char": 13865,
+      "end_char": 13903,
+      "length": 39,
+      "text": "הוא מותיב לה והוא מפרק לה: לצדדין קתני."
+    },
+    {
+      "uid": "Meilah_189",
+      "chapter_number": 17,
+      "verse_number": 5,
+      "start_char": 13904,
+      "end_char": 13942,
+      "length": 39,
+      "text": "גופא, תנא דבי רבי ישמעאל: שאם נשאר בדם."
+    },
+    {
+      "uid": "Meilah_190",
+      "chapter_number": 17,
+      "verse_number": 6,
+      "start_char": 13943,
+      "end_char": 14057,
+      "length": 115,
+      "text": "והא תנא דבי רבי ישמעאל התם: שיריים מעכבין, ואמר רב פפא: מיצוי חטאת העוף איכא בינייהו! תרי תנאי, ואליבא דרבי ישמעאל."
+    },
+    {
+      "uid": "Meilah_191",
+      "chapter_number": 17,
+      "verse_number": 7,
+      "start_char": 14058,
+      "end_char": 14227,
+      "length": 170,
+      "text": "מתני׳ עולת העוף – מועלין בה משהוקדשה. נמלקה – הוכשרה ליפסל בטבול יום, ובמחוסר כפורים, ובלינה. מיצה דמה – חייבין עליו משום פיגול, נותר, וטמא. ומועלין בה עד שתצא לבית הדשן."
+    },
+    {
+      "uid": "Meilah_192",
+      "chapter_number": 17,
+      "verse_number": 8,
+      "start_char": 14228,
+      "end_char": 14420,
+      "length": 193,
+      "text": "פרים הנשרפים, ושעירים הנשרפים – מועלין בהן משהוקדשו. נשחטו – הוכשרו ליפסל בטבול יום, ובמחוסר כפורים, ובלינה. הוזה דמן – חייבין עליהן משום פיגול, נותר, וטמא, ומועלין בהן בבית הדשן עד שיתיך הבשר."
+    },
+    {
+      "uid": "Meilah_193",
+      "chapter_number": 17,
+      "verse_number": 9,
+      "start_char": 14421,
+      "end_char": 14607,
+      "length": 187,
+      "text": "העולה – מועלין בה משהוקדשה. נשחטה – הוכשרה ליפסל בטבול יום, ובמחוסר כפורים, ובלינה. משנזרק דמה – חייבין עליה משום פיגול, נותר, וטמא. ואין מועלין בעורות, אבל מועלין בבשר עד שתצא לבית הדשן."
+    },
+    {
+      "uid": "Meilah_194",
+      "chapter_number": 17,
+      "verse_number": 10,
+      "start_char": 14608,
+      "end_char": 14820,
+      "length": 213,
+      "text": "חטאת, ואשם, וזבחי שלמי ציבור – מועלין בהן משהוקדשו. נשחטו – הוכשרו ליפסל בטבול יום, ובמחוסר כפורים, ובלינה. נזרק דמן – חייבין עליהן משום פיגול, נותר, וטמא. אין מועלין בבשר, אבל מועלין באימוריהן עד שיצאו לבית הדשן."
+    },
+    {
+      "uid": "Meilah_195",
+      "chapter_number": 17,
+      "verse_number": 11,
+      "start_char": 14821,
+      "end_char": 15008,
+      "length": 188,
+      "text": "שתי הלחם – מועלין בהן משהוקדשו. קרמו בתנור – הוכשרו ליפסל בטבול יום, ובמחוסר כפורים, ובלינה, ולישחוט עליהן את הזבח. נזרק דמן של כבשים – חייבין עליהן משום פיגול, נותר, וטמא, ואין בהן מעילה."
+    },
+    {
+      "uid": "Meilah_196",
+      "chapter_number": 17,
+      "verse_number": 12,
+      "start_char": 15009,
+      "end_char": 15111,
+      "length": 103,
+      "text": "לחם הפנים – מועלין בו משהוקדשה. קרם בתנור – הוכשר ליפסל בטבול יום ובמחוסר כפורים, ולהסדר על גבי השולחן."
+    },
+    {
+      "uid": "Meilah_197",
+      "chapter_number": 17,
+      "verse_number": 13,
+      "start_char": 15112,
+      "end_char": 15176,
+      "length": 65,
+      "text": "קרבו הבזיכין – חייבין עליו משום פיגול, נותר, וטמא, ואין בו מעילה."
+    },
+    {
+      "uid": "Meilah_198",
+      "chapter_number": 17,
+      "verse_number": 14,
+      "start_char": 15177,
+      "end_char": 15265,
+      "length": 89,
+      "text": "המנחות – מועלין בהן משהוקדשו. קדשו בכלי – הוכשרו ליפסל בטבול יום, ובמחוסר כפורים, ובלינה."
+    },
+    {
+      "uid": "Meilah_199",
+      "chapter_number": 17,
+      "verse_number": 15,
+      "start_char": 15266,
+      "end_char": 15368,
+      "length": 103,
+      "text": "קרב הקומץ – חייבין עליו משום פיגול, נותר, וטמא. ואין מועלין בשירים, אבל מועלין בקומץ עד שיצא לבית הדשן."
+    },
+    {
+      "uid": "Meilah_200",
+      "chapter_number": 17,
+      "verse_number": 16,
+      "start_char": 15369,
+      "end_char": 15459,
+      "length": 91,
+      "text": "גמ׳ איתמר, הנהנה מאפר תפוח שעל גבי המזבח, רב אמר: אין מועלין בו, ורבי יוחנן אמר: מועלין בו."
+    },
+    {
+      "uid": "Meilah_201",
+      "chapter_number": 17,
+      "verse_number": 17,
+      "start_char": 15460,
+      "end_char": 15533,
+      "length": 74,
+      "text": "לפני תרומת הדשן כולי עלמא לא פליגי דמועלין בו. כי פליגי – לאחר תרומת הדשן."
+    },
+    {
+      "uid": "Meilah_202",
+      "chapter_number": 17,
+      "verse_number": 18,
+      "start_char": 15534,
+      "end_char": 15664,
+      "length": 131,
+      "text": "רב אמר: אין מועלין בו – הרי נעשה מצותו. ורבי יוחנן אמר: כיון דכתיב: ״ולבש הכהן מדו בד וגו׳״ – כיון דצריך לבגדי כהונה, בקדושתיה קאי."
+    },
+    {
+      "uid": "Meilah_203",
+      "chapter_number": 17,
+      "verse_number": 19,
+      "start_char": 15665,
+      "end_char": 15739,
+      "length": 75,
+      "text": "תנן: מועלין בהן עד שתצא לבית הדשן, קשיא לרב! אמר לך רב: עד שתראה לבית הדשן."
+    },
+    {
+      "uid": "Meilah_204",
+      "chapter_number": 18,
+      "verse_number": 1,
+      "start_char": 15740,
+      "end_char": 15851,
+      "length": 112,
+      "text": "מיתיבי: וכולן, שפקעו מעל גבי המזבח – לא יחזיר, וכן גחלת שפקעה מעל גבי המזבח – לא יחזיר. הא על גבי המזבח – יחזיר."
+    },
+    {
+      "uid": "Meilah_205",
+      "chapter_number": 18,
+      "verse_number": 2,
+      "start_char": 15852,
+      "end_char": 15926,
+      "length": 75,
+      "text": "בשלמא לרבי יוחנן, ניחא, אלא לרב, קשיא! אמר לך רב: שאני גחלת, דאית ביה מששא."
+    },
+    {
+      "uid": "Meilah_206",
+      "chapter_number": 18,
+      "verse_number": 3,
+      "start_char": 15927,
+      "end_char": 16073,
+      "length": 147,
+      "text": "איכא דאמר לה להך גיסא: טעמא משום גחלת, דאית ביה מששא, הא אפר דלית ביה מששא, אפילו לגבי מזבח – אין מועלין בו. בשלמא לרב, ניחא, אלא לרבי יוחנן, קשיא!"
+    },
+    {
+      "uid": "Meilah_207",
+      "chapter_number": 18,
+      "verse_number": 4,
+      "start_char": 16074,
+      "end_char": 16212,
+      "length": 139,
+      "text": "אמר לך רבי יוחנן: הוא הדין דאפילו אפר, והיינו טעמא דקתני גחלת – קאתי לאשמועינן דאפילו גחלת, דאית בה מששא, כי פקעה מעל גבי המזבח – לא יחזיר."
+    },
+    {
+      "uid": "Meilah_208",
+      "chapter_number": 18,
+      "verse_number": 5,
+      "start_char": 16213,
+      "end_char": 16355,
+      "length": 143,
+      "text": "איתמר: הנהנה מבשר קדשי קדשים לפני זריקת דמים, ואמורי קדשים קלים לאחר זריקת דמים, רב אמר: מה שנהנה – יפלו לנדבה. ולוי אמר: יביא דבר שכולו למזבח."
+    },
+    {
+      "uid": "Meilah_209",
+      "chapter_number": 18,
+      "verse_number": 6,
+      "start_char": 16356,
+      "end_char": 16459,
+      "length": 104,
+      "text": "תניא כוותיה דלוי: מעילה זו להיכן הולכת? הלמידין לפני חכמים אומרים: יביא דבר שכולו למזבח. מאי ניהו? קטרת."
+    },
+    {
+      "uid": "Meilah_210",
+      "chapter_number": 18,
+      "verse_number": 7,
+      "start_char": 16460,
+      "end_char": 16633,
+      "length": 174,
+      "text": "תניא כוותיה דרב: הנהנה מדמי חטאת ומדמי אשם, עד שלא קרבה חטאתו – יוסיף ויביא חטאתו. ועד שלא קרבה אשמו – יוסיף ויביא אשמו. קרב חטאתו – ילכו לים המלח. כבר קרב אשמו – יפלו לנדבה."
+    },
+    {
+      "uid": "Meilah_211",
+      "chapter_number": 18,
+      "verse_number": 8,
+      "start_char": 16634,
+      "end_char": 16810,
+      "length": 177,
+      "text": "הנהנה מקדשי קדשים לפני זריקת דמים, ואימורי קדשים קלים לאחר זריקת דמים – מה שנהנה יפלו לנדבה. כל קרבנות המזבח – למזבח. קרבנות קדשי בדק הבית – לבדק הבית. קרבנות צבור – לנדבת צבור."
+    },
+    {
+      "uid": "Meilah_212",
+      "chapter_number": 18,
+      "verse_number": 9,
+      "start_char": 16811,
+      "end_char": 16971,
+      "length": 161,
+      "text": "הא גופה קשיא, עד שלא קרבה חטאתו – יוסיף ויביא חטאתו, משקרבה חטאתו – ילכו לים המלח. וקתני כל קרבנות המזבח – למזבח, ולא שנא דאיכפור בעלים, ולא שנא היכא דלא איכפור!"
+    },
+    {
+      "uid": "Meilah_213",
+      "chapter_number": 18,
+      "verse_number": 10,
+      "start_char": 16972,
+      "end_char": 17025,
+      "length": 54,
+      "text": "רישא רבי שמעון היא, דאמר: כל חטאת שכיפרו בעליה – תמות."
+    },
+    {
+      "uid": "Meilah_214",
+      "chapter_number": 19,
+      "verse_number": 1,
+      "start_char": 17026,
+      "end_char": 17109,
+      "length": 84,
+      "text": "וסיפא רבנן?! אמר רב גביהא דבי כתיל לרב אשי, הכי אמר אביי: רישא רבי שמעון וסיפא רבנן."
+    },
+    {
+      "uid": "Meilah_215",
+      "chapter_number": 19,
+      "verse_number": 2,
+      "start_char": 17110,
+      "end_char": 17209,
+      "length": 100,
+      "text": "אמר רבא: הכל מודים שאם נהנה מבשר קדשי קדשים שנטמא קודם זריקה, ומאימורי קדשים קלין לאחר שהעלן, דפטור."
+    },
+    {
+      "uid": "Meilah_216",
+      "chapter_number": 19,
+      "verse_number": 3,
+      "start_char": 17210,
+      "end_char": 17229,
+      "length": 20,
+      "text": "פשיטא, מאי קא מפסיד?"
+    },
+    {
+      "uid": "Meilah_217",
+      "chapter_number": 19,
+      "verse_number": 4,
+      "start_char": 17230,
+      "end_char": 17350,
+      "length": 121,
+      "text": "מהו דתימא בשר קדשי קדשים שנטמא – אית ליה מצות שריפה לכהנים, אימורי קדשים קלין – איכא מצוה להפוכי בצינורא, קא משמע לן דלא."
+    },
+    {
+      "uid": "Meilah_218",
+      "chapter_number": 19,
+      "verse_number": 5,
+      "start_char": 17351,
+      "end_char": 17492,
+      "length": 142,
+      "text": "אמר רבא: הא דאמרת ״כבר קרבה חטאת ילכו לים המלח״, הני מילי דאתידע ליה קמי כפרה, אבל לאחר כפרה – יפלו לנדבה. מאי טעמא? אין מפרישין מתחלה לאיבוד."
+    },
+    {
+      "uid": "Meilah_219",
+      "chapter_number": 19,
+      "verse_number": 6,
+      "start_char": 17493,
+      "end_char": 17587,
+      "length": 95,
+      "text": "מתני׳, הקומץ, והלבונה, והקטורת, ומנחת כהנים, ומנחת כהן משיח, ומנחת נסכים – מועלין בהם משהוקדשו."
+    },
+    {
+      "uid": "Meilah_220",
+      "chapter_number": 19,
+      "verse_number": 7,
+      "start_char": 17588,
+      "end_char": 17694,
+      "length": 107,
+      "text": "קדשן בכלי – הוכשר ליפסל בטבול יום, ובמחוסר כפורים, ובלינה, וחייבין עליו משום נותר, ומשום טמא ופיגול אין בה."
+    },
+    {
+      "uid": "Meilah_221",
+      "chapter_number": 19,
+      "verse_number": 8,
+      "start_char": 17695,
+      "end_char": 17778,
+      "length": 84,
+      "text": "זה הכלל: כל שיש לו מתירין – אין חייבין עליו משום פיגול ונותר וטמא עד שיקריבו מתירין."
+    },
+    {
+      "uid": "Meilah_222",
+      "chapter_number": 19,
+      "verse_number": 9,
+      "start_char": 17779,
+      "end_char": 17858,
+      "length": 80,
+      "text": "וכל שאין לו מתירין, כיון שקידש בכלי – חייבין עליו משום נותר וטמא, ופיגול אין בה."
+    },
+    {
+      "uid": "Meilah_223",
+      "chapter_number": 20,
+      "verse_number": 1,
+      "start_char": 17859,
+      "end_char": 17937,
+      "length": 79,
+      "text": "גמ׳ מנא הני מילי? דתנו רבנן: יכול אין חייבין משום טומאה אלא בדבר שיש לו מתירין?"
+    },
+    {
+      "uid": "Meilah_224",
+      "chapter_number": 20,
+      "verse_number": 2,
+      "start_char": 17938,
+      "end_char": 18040,
+      "length": 103,
+      "text": "ודין הוא: ומה פיגול שהוא בידיעה אחת, וקרבנו קבוע, ולא הותר מכללו – אין חייבין אלא על דבר שיש לו מתירין,"
+    },
+    {
+      "uid": "Meilah_225",
+      "chapter_number": 20,
+      "verse_number": 3,
+      "start_char": 18041,
+      "end_char": 18147,
+      "length": 107,
+      "text": "טומאה, שהיא בשתי ידיעות, וקרבנו עולה ויורד, והותרה מכללה – אינו דין שלא יהא חייב אלא על דבר שיש לו מתירין?!"
+    },
+    {
+      "uid": "Meilah_226",
+      "chapter_number": 20,
+      "verse_number": 4,
+      "start_char": 18148,
+      "end_char": 18284,
+      "length": 137,
+      "text": "תלמוד לומר: ״אמר אלהם לדרתיכם כל איש אשר יקרב מכל זרעכם וגו׳״ – בכל הקדשים הכתוב מדבר. יכול יהו חייבין עליהן מיד? תלמוד לומר: ״אשר יקרב״."
+    },
+    {
+      "uid": "Meilah_227",
+      "chapter_number": 20,
+      "verse_number": 5,
+      "start_char": 18285,
+      "end_char": 18432,
+      "length": 148,
+      "text": "אמר רבי אלעזר: וכי יש נוגע שהוא חייב?! הא כיצד? כל דבר שיש לו מתירין – אינו חייב עד שיקרבו מתירין, וכל דבר שאין לו מתירין – אינו חייב עד שיקדש בכלי."
+    },
+    {
+      "uid": "Meilah_228",
+      "chapter_number": 20,
+      "verse_number": 6,
+      "start_char": 18433,
+      "end_char": 18451,
+      "length": 19,
+      "text": "הדרן עלך חטאת העוף."
+    },
+    {
+      "uid": "Meilah_229",
+      "chapter_number": 20,
+      "verse_number": 7,
+      "start_char": 18452,
+      "end_char": 18499,
+      "length": 48,
+      "text": "ולד חטאת, ותמורת חטאת, וחטאת שמתו בעליה – ימותו,"
+    },
+    {
+      "uid": "Meilah_230",
+      "chapter_number": 20,
+      "verse_number": 8,
+      "start_char": 18500,
+      "end_char": 18602,
+      "length": 103,
+      "text": "ושעיברה שנתה, ושאבדה ונמצאת בעלת מום, אם משכיפרו הבעלים – תמות. ואינה עושה תמורה, ולא נהנין ולא מועלין."
+    },
+    {
+      "uid": "Meilah_231",
+      "chapter_number": 21,
+      "verse_number": 1,
+      "start_char": 18603,
+      "end_char": 18692,
+      "length": 90,
+      "text": "ואם עד שלא כיפרו הבעלים – תרעה עד שתסתאב, ותמכר ויקחו בדמיה אחרת. ועושה תמורה, ומועלין בה."
+    },
+    {
+      "uid": "Meilah_232",
+      "chapter_number": 21,
+      "verse_number": 2,
+      "start_char": 18693,
+      "end_char": 18749,
+      "length": 57,
+      "text": "גמ׳ מאי שנא רישא דלא קא מיפלגי, ומאי שנא סיפא דקא מיפלגי?"
+    },
+    {
+      "uid": "Meilah_233",
+      "chapter_number": 21,
+      "verse_number": 3,
+      "start_char": 18750,
+      "end_char": 18787,
+      "length": 38,
+      "text": "רישא – פסיקא ליה, סיפא – לא פסיקא ליה."
+    },
+    {
+      "uid": "Meilah_234",
+      "chapter_number": 21,
+      "verse_number": 4,
+      "start_char": 18788,
+      "end_char": 18848,
+      "length": 61,
+      "text": "הא תנא ליה גבי תמורה! תנא התם משום תמורה, תנא הכא משום מעילה."
+    },
+    {
+      "uid": "Meilah_235",
+      "chapter_number": 21,
+      "verse_number": 5,
+      "start_char": 18849,
+      "end_char": 18928,
+      "length": 80,
+      "text": "מתני׳ המפריש מעות לנזירותו – לא נהנין ולא מועלין, מפני שהן ראוין לבא כולן שלמים."
+    },
+    {
+      "uid": "Meilah_236",
+      "chapter_number": 21,
+      "verse_number": 6,
+      "start_char": 18929,
+      "end_char": 19025,
+      "length": 97,
+      "text": "מת והיו לו מעות סתומין – יפלו לנדבה. מעות מפורשים, דמי חטאת – ילכו לים המלח, לא נהנין ולא מועלין."
+    },
+    {
+      "uid": "Meilah_237",
+      "chapter_number": 21,
+      "verse_number": 7,
+      "start_char": 19026,
+      "end_char": 19120,
+      "length": 95,
+      "text": "דמי עולה – יביאו עולה, ומועלין בהן. דמי שלמים – יביאו שלמים, ונאכלין ליום אחד. ואין טעונין לחם."
+    },
+    {
+      "uid": "Meilah_238",
+      "chapter_number": 21,
+      "verse_number": 8,
+      "start_char": 19121,
+      "end_char": 19175,
+      "length": 55,
+      "text": "גמ׳ מתקיף לה ריש לקיש: וליתני נמי: המפריש מעות לקינים –"
+    },
+    {
+      "uid": "Meilah_239",
+      "chapter_number": 21,
+      "verse_number": 9,
+      "start_char": 19176,
+      "end_char": 19257,
+      "length": 82,
+      "text": "לא נהנין ולא מועלין, מפני שהן ראוין להביא תורין שלא הגיע זמנן ובני יונה שעבר זמנן!"
+    },
+    {
+      "uid": "Meilah_240",
+      "chapter_number": 21,
+      "verse_number": 10,
+      "start_char": 19258,
+      "end_char": 19355,
+      "length": 98,
+      "text": "אמר רבא: אמרה תורה במעות סתומין: הבא שלמים, אמרה תורה: הבא תורין שלא הגיע זמנן? אינן ראויין למזבח!"
+    },
+    {
+      "uid": "Meilah_241",
+      "chapter_number": 21,
+      "verse_number": 11,
+      "start_char": 19356,
+      "end_char": 19435,
+      "length": 80,
+      "text": "מתני׳ רבי שמעון אומר: הדם – קל בתחלה וחמור בסופו. נסכין – חומר בתחלתן וקל בסופן."
+    },
+    {
+      "uid": "Meilah_242",
+      "chapter_number": 21,
+      "verse_number": 12,
+      "start_char": 19436,
+      "end_char": 19544,
+      "length": 109,
+      "text": "דם, בתחלתו – אין מועלין. יצא לנחל קדרון – מועלין בו. נסכין בתחלתן – מועלין בהן. ירדו לשיתין – אין מועלין בהן."
+    },
+    {
+      "uid": "Meilah_243",
+      "chapter_number": 21,
+      "verse_number": 13,
+      "start_char": 19545,
+      "end_char": 19624,
+      "length": 80,
+      "text": "גמ׳ תנו רבנן: מועלין בדמים, דברי רבי מאיר ורבי שמעון. וחכמים אומרים: אין מועלין."
+    },
+    {
+      "uid": "Meilah_244",
+      "chapter_number": 21,
+      "verse_number": 14,
+      "start_char": 19625,
+      "end_char": 19756,
+      "length": 132,
+      "text": "מאי טעמא דמאן דאמר אין מועלין? אמר עולא: אמר קרא: ״ואני נתתיו לכם״ – שלכם הוא. דבי רבי ישמעאל תנא: ״לכפר״ – לכפרה נתתיו, ולא למעילה."
+    },
+    {
+      "uid": "Meilah_245",
+      "chapter_number": 21,
+      "verse_number": 15,
+      "start_char": 19757,
+      "end_char": 19884,
+      "length": 128,
+      "text": "רבי יוחנן אמר, אמר קרא: ״כי הדם הוא בנפש יכפר״ – לפני כפרה כלאחר כפרה הוא. מה לאחר כפרה אין בו מעילה, אף לפני כפרה אין בו מעילה."
+    },
+    {
+      "uid": "Meilah_246",
+      "chapter_number": 21,
+      "verse_number": 16,
+      "start_char": 19885,
+      "end_char": 19946,
+      "length": 62,
+      "text": "ואימא: מה לפני כפרה – יש בו מעילה, אף לאחר כפרה – יש בו מעילה!"
+    },
+    {
+      "uid": "Meilah_247",
+      "chapter_number": 21,
+      "verse_number": 17,
+      "start_char": 19947,
+      "end_char": 19996,
+      "length": 50,
+      "text": "וכי יש לך דבר שנעשית מצותו ויש בו מעילה? אמאי לא?!"
+    },
+    {
+      "uid": "Meilah_248",
+      "chapter_number": 22,
+      "verse_number": 1,
+      "start_char": 19997,
+      "end_char": 20038,
+      "length": 42,
+      "text": "הרי תרומת הדשן, שנעשה מצותו, ויש בו מעילה!"
+    },
+    {
+      "uid": "Meilah_249",
+      "chapter_number": 22,
+      "verse_number": 2,
+      "start_char": 20039,
+      "end_char": 20144,
+      "length": 106,
+      "text": "משום דהוה ליה תרומת הדשן ואיברי שעיר המשתלח שני כתובין הבאין כאחד, וכל שני כתובין הבאין כאחד – אין מלמדין."
+    },
+    {
+      "uid": "Meilah_250",
+      "chapter_number": 22,
+      "verse_number": 3,
+      "start_char": 20145,
+      "end_char": 20236,
+      "length": 92,
+      "text": "הניחא למאן דאמר איברי שעיר המשתלח – אין נהנין מהן, אלא למאן דאמר נהנין מהן, מאי איכא למימר?!"
+    },
+    {
+      "uid": "Meilah_251",
+      "chapter_number": 22,
+      "verse_number": 4,
+      "start_char": 20237,
+      "end_char": 20335,
+      "length": 99,
+      "text": "משום דהוה ליה תרומת הדשן ובגדי כהונה שני כתובין הבאין כאחד, וכל שני כתובין הבאין כאחד – אין מלמדין."
+    },
+    {
+      "uid": "Meilah_252",
+      "chapter_number": 22,
+      "verse_number": 5,
+      "start_char": 20336,
+      "end_char": 20396,
+      "length": 61,
+      "text": "הניחא לרבנן דאמרי: ״והניחם שם״ – מלמד שהן טעונין גניזה, שפיר."
+    },
+    {
+      "uid": "Meilah_253",
+      "chapter_number": 22,
+      "verse_number": 6,
+      "start_char": 20397,
+      "end_char": 20459,
+      "length": 63,
+      "text": "אלא לרבי דוסא, דאמר: מותר להשתמש בהן כהן הדיוט, מאי איכא למימר?"
+    },
+    {
+      "uid": "Meilah_254",
+      "chapter_number": 22,
+      "verse_number": 7,
+      "start_char": 20460,
+      "end_char": 20514,
+      "length": 55,
+      "text": "משום דהוה תרומת הדשן ועגלה ערופה שני כתובין הבאין כאחד."
+    },
+    {
+      "uid": "Meilah_255",
+      "chapter_number": 22,
+      "verse_number": 8,
+      "start_char": 20515,
+      "end_char": 20579,
+      "length": 65,
+      "text": "הניחא למאן דאמר אין מלמדין, אלא למאן דאמר מלמדין, מאי איכא למימר?"
+    },
+    {
+      "uid": "Meilah_256",
+      "chapter_number": 22,
+      "verse_number": 9,
+      "start_char": 20580,
+      "end_char": 20616,
+      "length": 37,
+      "text": "תרי מיעוטי כתיבי. כתיב התם: ״הערופה״,"
+    },
+    {
+      "uid": "Meilah_257",
+      "chapter_number": 22,
+      "verse_number": 10,
+      "start_char": 20617,
+      "end_char": 20672,
+      "length": 56,
+      "text": "וכתיב התם ״ושמו אצל המזבח״, הני – אין, מידי אחרינא – לא."
+    },
+    {
+      "uid": "Meilah_258",
+      "chapter_number": 22,
+      "verse_number": 11,
+      "start_char": 20673,
+      "end_char": 20744,
+      "length": 72,
+      "text": "נסכים בתחילה מועלין בהן [וכו׳]. לימא מתניתין דלא כרבי אלעזר בר רבי צדוק,"
+    },
+    {
+      "uid": "Meilah_259",
+      "chapter_number": 22,
+      "verse_number": 12,
+      "start_char": 20745,
+      "end_char": 20990,
+      "length": 246,
+      "text": "דתניא, רבי אלעזר בר רבי צדוק אומר: לול קטן היה בין כבש למזבח, במערבו של כבש. אחת לשבעים שנה פרחי כהונה יורדין בו, ומביאין יין קרוש, שהוא דומה לעגולי דבילה, ושורפין אותה בקדושה. שנאמר: ״בקדש הסך נסך שכר לה׳״ – כשם שניסוכה בקדושה, כך שריפתה בקדושה."
+    },
+    {
+      "uid": "Meilah_260",
+      "chapter_number": 22,
+      "verse_number": 13,
+      "start_char": 20991,
+      "end_char": 21099,
+      "length": 109,
+      "text": "מאי משמע? ואמר רבינא: אתיא ״קדש״ ״קדש״. כתיב הכא: ״בקדש״, וכתיב התם: ״ושרפת את הנותר באש ולא יאכל כי קדש הם״,"
+    },
+    {
+      "uid": "Meilah_261",
+      "chapter_number": 22,
+      "verse_number": 14,
+      "start_char": 21100,
+      "end_char": 21142,
+      "length": 43,
+      "text": "מה נותר – שריפתו בקדושה, אף האי נמי בקדושה!"
+    },
+    {
+      "uid": "Meilah_262",
+      "chapter_number": 22,
+      "verse_number": 15,
+      "start_char": 21143,
+      "end_char": 21184,
+      "length": 42,
+      "text": "אפילו תימא רבי אלעזר בר רבי צדוק, דאי קלט."
+    },
+    {
+      "uid": "Meilah_263",
+      "chapter_number": 22,
+      "verse_number": 16,
+      "start_char": 21185,
+      "end_char": 21241,
+      "length": 57,
+      "text": "איכא דאמרי: לימא מתניתין כרבי אלעזר בר רבי צדוק, דאי קלט?"
+    },
+    {
+      "uid": "Meilah_264",
+      "chapter_number": 22,
+      "verse_number": 17,
+      "start_char": 21242,
+      "end_char": 21285,
+      "length": 44,
+      "text": "אמרי: לא, ומדרבנן. והא קרא קנסיב לה? אסמכתא."
+    },
+    {
+      "uid": "Meilah_265",
+      "chapter_number": 22,
+      "verse_number": 18,
+      "start_char": 21286,
+      "end_char": 21436,
+      "length": 151,
+      "text": "מתני׳ דישון מזבח הפנימי, והמנורה – לא נהנין ולא מועלין. המקדיש דישון בתחלה – מועלין בה. תורין שלא הגיע זמנן, ובני יונה שעבר זמנן – לא נהנין ולא מועלין."
+    },
+    {
+      "uid": "Meilah_266",
+      "chapter_number": 22,
+      "verse_number": 19,
+      "start_char": 21437,
+      "end_char": 21445,
+      "length": 9,
+      "text": "גמ׳ בשלמא"
+    },
+    {
+      "uid": "Meilah_267",
+      "chapter_number": 23,
+      "verse_number": 1,
+      "start_char": 21446,
+      "end_char": 21504,
+      "length": 59,
+      "text": "מזבח החיצון, דכתיב ביה: ״ושמו אצל המזבח״. מזבח הפנימי מנלן?"
+    },
+    {
+      "uid": "Meilah_268",
+      "chapter_number": 23,
+      "verse_number": 2,
+      "start_char": 21505,
+      "end_char": 21604,
+      "length": 100,
+      "text": "אמר רבי אלעזר: דאמר קרא: ״והסיר את מראתו בנצתה״ – אם אינו ענין למזבח החיצון, תנהו ענין למזבח הפנימי."
+    },
+    {
+      "uid": "Meilah_269",
+      "chapter_number": 23,
+      "verse_number": 3,
+      "start_char": 21605,
+      "end_char": 21650,
+      "length": 46,
+      "text": "אימא: אידי ואידי במזבח החיצון, ולקבוע לו מקום!"
+    },
+    {
+      "uid": "Meilah_270",
+      "chapter_number": 23,
+      "verse_number": 4,
+      "start_char": 21651,
+      "end_char": 21711,
+      "length": 61,
+      "text": "אם כן, לימא קרא: ״אצל המזבח״. מאי ״הדשן״? דאפילו מזבח הפנימי."
+    },
+    {
+      "uid": "Meilah_271",
+      "chapter_number": 23,
+      "verse_number": 5,
+      "start_char": 21712,
+      "end_char": 21737,
+      "length": 26,
+      "text": "מנורה מנלן? ״דשן״, ״הדשן״."
+    },
+    {
+      "uid": "Meilah_272",
+      "chapter_number": 23,
+      "verse_number": 6,
+      "start_char": 21738,
+      "end_char": 21837,
+      "length": 100,
+      "text": "מתני׳ רבי שמעון אומר תורין שלא הגיע זמנן – מועלין בהן, בני יונה שעבר זמנן – לא נהנין ולא מועלין בהן."
+    },
+    {
+      "uid": "Meilah_273",
+      "chapter_number": 23,
+      "verse_number": 7,
+      "start_char": 21838,
+      "end_char": 21961,
+      "length": 124,
+      "text": "גמ׳ בשלמא רבי שמעון, כדקתני טעמא: שהיה רבי שמעון אומר, כל הראוי לאחר זמן, והקדישו בתוך זמנו – הרי הוא בלא תעשה, ואין בו כרת."
+    },
+    {
+      "uid": "Meilah_274",
+      "chapter_number": 23,
+      "verse_number": 8,
+      "start_char": 21962,
+      "end_char": 21990,
+      "length": 29,
+      "text": "אלא רבנן: מאי שנא ממחוסר זמן?"
+    },
+    {
+      "uid": "Meilah_275",
+      "chapter_number": 23,
+      "verse_number": 9,
+      "start_char": 21991,
+      "end_char": 22103,
+      "length": 113,
+      "text": "אמרי: מחוסר זמן – מידי דהוה אבעל מום, דבר פדיון הוא. אבל הני עופות, כיון דאין מום פוסל בעופות – אין לעופות פדיון."
+    },
+    {
+      "uid": "Meilah_276",
+      "chapter_number": 23,
+      "verse_number": 10,
+      "start_char": 22104,
+      "end_char": 22165,
+      "length": 62,
+      "text": "אמר עולא, אמר רבי יוחנן: קדשים שמתו, יצאו מידי מעילה דבר תורה."
+    },
+    {
+      "uid": "Meilah_277",
+      "chapter_number": 23,
+      "verse_number": 11,
+      "start_char": 22166,
+      "end_char": 22265,
+      "length": 100,
+      "text": "יתיב עולא וקאמר להא שמעתא, אמר ליה רב חסדא: מאן שמע לך ולרבי יוחנן רבך?! וכי קדושה שבהן להיכן הלכה?!"
+    },
+    {
+      "uid": "Meilah_278",
+      "chapter_number": 23,
+      "verse_number": 12,
+      "start_char": 22266,
+      "end_char": 22391,
+      "length": 126,
+      "text": "אמר ליה: תיקשי מתניתין: ״תורין שלא הגיע זמנן ובני יונה שעבר זמנן – לא נהנין ולא מועלין״, הכא נמי נימא: קדושה שבהן להיכן הלכה?!"
+    },
+    {
+      "uid": "Meilah_279",
+      "chapter_number": 23,
+      "verse_number": 13,
+      "start_char": 22392,
+      "end_char": 22500,
+      "length": 109,
+      "text": "אמר ליה: מודינא לך דאיכא מעילה מדרבנן. וקשיא לי: מי איכא מידי דמעיקרא לא אית ביה מעילה, ולבסוף אית ביה מעילה?"
+    },
+    {
+      "uid": "Meilah_280",
+      "chapter_number": 23,
+      "verse_number": 14,
+      "start_char": 22501,
+      "end_char": 22621,
+      "length": 121,
+      "text": "ולא? והא איכא דם, דמעיקרא לית בה מעילה, ולבסוף אית בה מעילה, דתנן: דם, בתחלה – אין מועלין בו, יצא לנחל קדרון – מועלין בו!"
+    },
+    {
+      "uid": "Meilah_281",
+      "chapter_number": 23,
+      "verse_number": 15,
+      "start_char": 22622,
+      "end_char": 22653,
+      "length": 32,
+      "text": "אמרי: התם נמי איכא מעילה מעיקרא,"
+    },
+    {
+      "uid": "Meilah_282",
+      "chapter_number": 24,
+      "verse_number": 1,
+      "start_char": 22654,
+      "end_char": 22707,
+      "length": 54,
+      "text": "דאמר רב: המקיז דם לבהמת קדשים, אסור בהנאה, ומועלין בו."
+    },
+    {
+      "uid": "Meilah_283",
+      "chapter_number": 24,
+      "verse_number": 2,
+      "start_char": 22708,
+      "end_char": 22844,
+      "length": 137,
+      "text": "גופא. אמר רב הונא, אמר רב: המקיז דם לבהמת קדשים – אסור בהנאה, ומועלין בו. מתיב רב המנונא חלב המוקדשין, וביצי תורין – לא נהנין ולא מועלין!"
+    },
+    {
+      "uid": "Meilah_284",
+      "chapter_number": 24,
+      "verse_number": 3,
+      "start_char": 22845,
+      "end_char": 22927,
+      "length": 83,
+      "text": "אמר ליה: כי קאמרינן, לגבי דם, דלא מתקיימת בלא דם. אבל חלב, דקא מקיימא בלא חלב – לא."
+    },
+    {
+      "uid": "Meilah_285",
+      "chapter_number": 24,
+      "verse_number": 4,
+      "start_char": 22928,
+      "end_char": 23002,
+      "length": 75,
+      "text": "מתיב רב משרשיא: הזבל והפרש שבחצר – אין נהנין ואין מועלין. ויפלו דמיה ללשכה."
+    },
+    {
+      "uid": "Meilah_286",
+      "chapter_number": 24,
+      "verse_number": 5,
+      "start_char": 23003,
+      "end_char": 23119,
+      "length": 117,
+      "text": "אמאי? הכא נמי, לא מקיים בלא פרש! אמרי: מאי איריא, הדין פרש דמן עלמא קאתי לה, אזיל האי – אתי אחרינא. לאפוקי דם, מגופה."
+    },
+    {
+      "uid": "Meilah_287",
+      "chapter_number": 24,
+      "verse_number": 6,
+      "start_char": 23120,
+      "end_char": 23253,
+      "length": 134,
+      "text": "הא קתני לא נהנין ולא מועלין ודמיו ללשכה. מסייעא ליה לרבי אלעזר, דאמר רבי אלעזר: כל מקום שאמרו חכמים קדוש ואינו קדוש – דמיו יפלו ללשכה."
+    },
+    {
+      "uid": "Meilah_288",
+      "chapter_number": 24,
+      "verse_number": 7,
+      "start_char": 23254,
+      "end_char": 23306,
+      "length": 53,
+      "text": "מתני׳ חלב המוקדשין וביצי תורין – לא נהנין ולא מועלין."
+    },
+    {
+      "uid": "Meilah_289",
+      "chapter_number": 24,
+      "verse_number": 8,
+      "start_char": 23307,
+      "end_char": 23417,
+      "length": 111,
+      "text": "במה דברים אמורים – בקדשי מזבח. אבל בקדשי בדק הבית, הקדיש תרנגולת – מועלין בה ובביצתה, חמורה – מועלין בה ובחלבה."
+    },
+    {
+      "uid": "Meilah_290",
+      "chapter_number": 24,
+      "verse_number": 9,
+      "start_char": 23418,
+      "end_char": 23472,
+      "length": 55,
+      "text": "גמ׳ אלא גבי מזבח, כי אקדשה קדושת דמים, לא אית בה מעילה?"
+    },
+    {
+      "uid": "Meilah_291",
+      "chapter_number": 24,
+      "verse_number": 10,
+      "start_char": 23473,
+      "end_char": 23679,
+      "length": 207,
+      "text": "אמר רב פפא: חסורי מיחסרא והכי קתני: במה דברים אמורים – כשהקדיש קדושת הגוף לגבי מזבח, אבל הקדישו קדושת דמים לגבי מזבח – נעשה כמי שהקדישו לבדק הבית. הקדיש תרנגולת – מועלין בה ובביצתה, חמורה – מועלין בה ובחלבה."
+    },
+    {
+      "uid": "Meilah_292",
+      "chapter_number": 24,
+      "verse_number": 11,
+      "start_char": 23680,
+      "end_char": 23700,
+      "length": 21,
+      "text": "מתני׳, כל הראוי למזבח"
+    },
+    {
+      "uid": "Meilah_293",
+      "chapter_number": 25,
+      "verse_number": 1,
+      "start_char": 23701,
+      "end_char": 23777,
+      "length": 77,
+      "text": "ולא לבדק הבית, לבדק הבית ולא למזבח, לא למזבח ולא לבדק הבית – מועלין בה. כיצד?"
+    },
+    {
+      "uid": "Meilah_294",
+      "chapter_number": 25,
+      "verse_number": 2,
+      "start_char": 23778,
+      "end_char": 23828,
+      "length": 51,
+      "text": "הקדיש בור מלא מים, אשפות מלאות זבל, שובך מלא יונים,"
+    },
+    {
+      "uid": "Meilah_295",
+      "chapter_number": 25,
+      "verse_number": 3,
+      "start_char": 23829,
+      "end_char": 23860,
+      "length": 32,
+      "text": "אילן מלא פירות, שדה מלאה עשבים –"
+    },
+    {
+      "uid": "Meilah_296",
+      "chapter_number": 25,
+      "verse_number": 4,
+      "start_char": 23861,
+      "end_char": 23883,
+      "length": 23,
+      "text": "מועלין בהם ובמה שבתוכה."
+    },
+    {
+      "uid": "Meilah_297",
+      "chapter_number": 25,
+      "verse_number": 5,
+      "start_char": 23884,
+      "end_char": 24057,
+      "length": 174,
+      "text": "אבל אם הקדיש בור ואחר כך נתמלא מים, אשפה ואחר כך נתמלא זבל, שובך ואחר כך נתמלא יונים, אילן ואחר כך נתמלא פירות, שדה ואחר כך נתמלאה עשבים – מועלין בהם, ואין מועלין במה שבתוכה."
+    },
+    {
+      "uid": "Meilah_298",
+      "chapter_number": 25,
+      "verse_number": 6,
+      "start_char": 24058,
+      "end_char": 24138,
+      "length": 81,
+      "text": "רבי יוסי אומר: המקדיש את השדה והאילן – מועלין בהן ובגידולה, מפני שהן גידולי הקדש."
+    },
+    {
+      "uid": "Meilah_299",
+      "chapter_number": 25,
+      "verse_number": 7,
+      "start_char": 24139,
+      "end_char": 24245,
+      "length": 107,
+      "text": "ולד המעושרת – לא ינוק מן המעושרת, ואחרים מתנדבים כן. ולד המוקדשין – לא ינוק מן המוקדשין, ואחרים מתנדבים כן."
+    },
+    {
+      "uid": "Meilah_300",
+      "chapter_number": 25,
+      "verse_number": 8,
+      "start_char": 24246,
+      "end_char": 24300,
+      "length": 55,
+      "text": "הפועלים לא יאכלו מן גרוגרות הקדש. וכן פרה מכרשיני הקדש."
+    },
+    {
+      "uid": "Meilah_301",
+      "chapter_number": 25,
+      "verse_number": 9,
+      "start_char": 24301,
+      "end_char": 24352,
+      "length": 52,
+      "text": "גמ׳ קתני: ולד המעושרת לא ינק מן המעושרת. מנהני מילי?"
+    },
+    {
+      "uid": "Meilah_302",
+      "chapter_number": 25,
+      "verse_number": 10,
+      "start_char": 24353,
+      "end_char": 24447,
+      "length": 95,
+      "text": "אמר רב אחדבוי בר אמי: אתיא ״העברה״ ״העברה״ מבכור, מה בכור מועלין בו – אף חלב המעושרת מועלין בו."
+    },
+    {
+      "uid": "Meilah_303",
+      "chapter_number": 25,
+      "verse_number": 11,
+      "start_char": 24448,
+      "end_char": 24486,
+      "length": 39,
+      "text": "חלב המוקדש נמי, אתיא ״אמו״ ״אמו״ מבכור."
+    },
+    {
+      "uid": "Meilah_304",
+      "chapter_number": 25,
+      "verse_number": 12,
+      "start_char": 24487,
+      "end_char": 24601,
+      "length": 115,
+      "text": "הפועלין לא יאכלו כו׳. מאי טעמא? אמר רב אחדבוי בר אמי דאמר קרא: ״לא תחסם שור בדישו״, ״דישו״ – שלך, ולא דישו של הקדש."
+    },
+    {
+      "uid": "Meilah_305",
+      "chapter_number": 25,
+      "verse_number": 13,
+      "start_char": 24602,
+      "end_char": 24680,
+      "length": 79,
+      "text": "הדש קלעילין בשדה הקדש – מעל. והא בתלוש בעינן! אמר רבינא: שמע מינה אבקה מעלי לה."
+    },
+    {
+      "uid": "Meilah_306",
+      "chapter_number": 26,
+      "verse_number": 1,
+      "start_char": 24681,
+      "end_char": 24851,
+      "length": 171,
+      "text": "מתני׳ שרשי אילן של הדיוט הבאין בשל הקדש, ושל הקדש שבאין בשל הדיוט – לא נהנין ולא מועלין. מעין שהוא יוצא מתוך השדה של הקדש – לא נהנין ולא מועלין. יצא חוץ לשדה – נהנין ממנו."
+    },
+    {
+      "uid": "Meilah_307",
+      "chapter_number": 26,
+      "verse_number": 2,
+      "start_char": 24852,
+      "end_char": 24917,
+      "length": 66,
+      "text": "המים שבכד של זהב – לא נהנין ולא מועלין. נתנן בצלוחית – מועלין בהן."
+    },
+    {
+      "uid": "Meilah_308",
+      "chapter_number": 26,
+      "verse_number": 3,
+      "start_char": 24918,
+      "end_char": 25010,
+      "length": 93,
+      "text": "ערבה – לא נהנין ולא מועלין. רבי אלעזר ברבי צדוק אומר: נוהגין היו הזקנים שנהנים ממנו בלולביהן."
+    },
+    {
+      "uid": "Meilah_309",
+      "chapter_number": 26,
+      "verse_number": 4,
+      "start_char": 25011,
+      "end_char": 25068,
+      "length": 58,
+      "text": "גמ׳ אמר ריש לקיש: אין מועלין בכולן, אבל מועלין בשלש לוגין."
+    },
+    {
+      "uid": "Meilah_310",
+      "chapter_number": 26,
+      "verse_number": 5,
+      "start_char": 25069,
+      "end_char": 25146,
+      "length": 78,
+      "text": "והקתני סיפא: ״נתנו לצלוחית – מועלין בהן״, מכלל דרישא אפילו בשלשת לוגין נמי לא!"
+    },
+    {
+      "uid": "Meilah_311",
+      "chapter_number": 26,
+      "verse_number": 6,
+      "start_char": 25147,
+      "end_char": 25225,
+      "length": 79,
+      "text": "אלא אי איתמר אסיפא איתמר. מועלין בהן, אמר ריש לקיש: אין מועלין אלא בשלשה לוגין."
+    },
+    {
+      "uid": "Meilah_312",
+      "chapter_number": 26,
+      "verse_number": 7,
+      "start_char": 25226,
+      "end_char": 25346,
+      "length": 121,
+      "text": "ורבי יוחנן אמר – מועלין בכולן. למימרא דקסבר ריש לקיש: יש שיעור למים, והתנן, אמר רבי אליעזר: המנסך מי חג, בחג בחוץ – חייב."
+    },
+    {
+      "uid": "Meilah_313",
+      "chapter_number": 26,
+      "verse_number": 8,
+      "start_char": 25347,
+      "end_char": 25459,
+      "length": 113,
+      "text": "ואמר רבי יוחנן משום מנחם יודאפה: רבי אלעזר בשיטת רבי עקיבא אמר, דדריש ״נסכיהם״ – אחד ניסוך המים, ואחד ניסוך היין."
+    },
+    {
+      "uid": "Meilah_314",
+      "chapter_number": 26,
+      "verse_number": 9,
+      "start_char": 25460,
+      "end_char": 25573,
+      "length": 114,
+      "text": "ואמר ריש לקיש: אי מה יין שלש לוגין, אף מים שלש לוגין! מכלל דסבר ריש לקיש אין שיעור למים! לטעמא דמנחם יודאפה, קאמר."
+    },
+    {
+      "uid": "Meilah_315",
+      "chapter_number": 26,
+      "verse_number": 10,
+      "start_char": 25574,
+      "end_char": 25678,
+      "length": 105,
+      "text": "מתני׳ הקן שבראש האילן של הקדש – לא נהנין ולא מועלין. שבאשירה – יתיז בקנה. המקדיש את החורש – מועלין בכולו."
+    },
+    {
+      "uid": "Meilah_316",
+      "chapter_number": 27,
+      "verse_number": 1,
+      "start_char": 25679,
+      "end_char": 25757,
+      "length": 79,
+      "text": "גמ׳ איתמר, עבודה זרה שנשתברה מאליה. רבי יוחנן אמר: אסורה. וריש לקיש אמר: מותרת."
+    },
+    {
+      "uid": "Meilah_317",
+      "chapter_number": 27,
+      "verse_number": 2,
+      "start_char": 25758,
+      "end_char": 25857,
+      "length": 100,
+      "text": "רבי יוחנן אמר אסורה – דלא בטלה גוי. וריש לקיש אמר מותרת – מימר אמר: היא גופה לא מצלה, לדידי מצלה לי?"
+    },
+    {
+      "uid": "Meilah_318",
+      "chapter_number": 27,
+      "verse_number": 3,
+      "start_char": 25858,
+      "end_char": 25953,
+      "length": 96,
+      "text": "איתיביה ריש לקיש לרבי יוחנן: הקן שבראש האילן של הקדש – אין נהנין ואין מועלין. שבאשירה יתיז בקנה."
+    },
+    {
+      "uid": "Meilah_319",
+      "chapter_number": 27,
+      "verse_number": 4,
+      "start_char": 25954,
+      "end_char": 26015,
+      "length": 62,
+      "text": "מאי לאו דאיתבר מגופה, וקתני, יתיז בקנה? לא, דאייתי עצים מעלמא."
+    },
+    {
+      "uid": "Meilah_320",
+      "chapter_number": 27,
+      "verse_number": 5,
+      "start_char": 26016,
+      "end_char": 26058,
+      "length": 43,
+      "text": "אי הכי, אמאי של הקדש אין נהנין ואין מועלין?"
+    },
+    {
+      "uid": "Meilah_321",
+      "chapter_number": 27,
+      "verse_number": 6,
+      "start_char": 26059,
+      "end_char": 26115,
+      "length": 57,
+      "text": "אלא, בגידולין הבאין לאחר מכאן, וקסבר אין מועלין בגידולין."
+    },
+    {
+      "uid": "Meilah_322",
+      "chapter_number": 27,
+      "verse_number": 7,
+      "start_char": 26116,
+      "end_char": 26187,
+      "length": 72,
+      "text": "הכי נמי מסתברא, דאי סלקא דעתך דאייתי מעלמא, אמאי יתיז בקנה? לשקליה משקל!"
+    },
+    {
+      "uid": "Meilah_323",
+      "chapter_number": 27,
+      "verse_number": 8,
+      "start_char": 26188,
+      "end_char": 26262,
+      "length": 75,
+      "text": "אמר רבי אבהו, אמר רבי יוחנן: לעולם דאייתי מעלמא, ומאי ״יתיז״? יתיז אפרוחים."
+    },
+    {
+      "uid": "Meilah_324",
+      "chapter_number": 27,
+      "verse_number": 9,
+      "start_char": 26263,
+      "end_char": 26392,
+      "length": 130,
+      "text": "אמר ליה: רבי יעקב לרבי ירמיה אפרוחים כאן וכאן – מותרין. ביצים, כאן וכאן – אסורין. אמר רב אשי: אם אפרוחים צריכין לאמן – כביצים דמו."
+    },
+    {
+      "uid": "Meilah_325",
+      "chapter_number": 27,
+      "verse_number": 10,
+      "start_char": 26393,
+      "end_char": 26467,
+      "length": 75,
+      "text": "מתני׳ הגזברים שלקחו עצים – מועלין בעצים, ואין מועלין לא בשיפויי ולא בנבייה."
+    },
+    {
+      "uid": "Meilah_326",
+      "chapter_number": 27,
+      "verse_number": 11,
+      "start_char": 26468,
+      "end_char": 26509,
+      "length": 42,
+      "text": "גמ׳ אמר שמואל: בונין בחול ואחר כך מקדישין."
+    },
+    {
+      "uid": "Meilah_327",
+      "chapter_number": 27,
+      "verse_number": 12,
+      "start_char": 26510,
+      "end_char": 26576,
+      "length": 67,
+      "text": "מאי טעמא? מאן דמתנדב מעות מקדש להו, דאמר: ״תיחול קדושת מעות אבנין״,"
+    },
+    {
+      "uid": "Meilah_328",
+      "chapter_number": 27,
+      "verse_number": 13,
+      "start_char": 26577,
+      "end_char": 26601,
+      "length": 25,
+      "text": "ויהיב להון לאומנין בשכרן."
+    },
+    {
+      "uid": "Meilah_329",
+      "chapter_number": 28,
+      "verse_number": 1,
+      "start_char": 26602,
+      "end_char": 26666,
+      "length": 65,
+      "text": "מיתיבי: מותר הקטרת מה היו עושין בו? היו מפרישין ממנה שכר האומנין."
+    },
+    {
+      "uid": "Meilah_330",
+      "chapter_number": 28,
+      "verse_number": 2,
+      "start_char": 26667,
+      "end_char": 26751,
+      "length": 85,
+      "text": "ומחללין אותה על מעות האומנין, ונותנין אותה לאומנין, וחוזרין ונוטלין אותה מתרומה חדשה."
+    },
+    {
+      "uid": "Meilah_331",
+      "chapter_number": 28,
+      "verse_number": 3,
+      "start_char": 26752,
+      "end_char": 26771,
+      "length": 20,
+      "text": "ואמאי? ליחליה אבנין!"
+    },
+    {
+      "uid": "Meilah_332",
+      "chapter_number": 28,
+      "verse_number": 4,
+      "start_char": 26772,
+      "end_char": 26834,
+      "length": 63,
+      "text": "דלא איכא בנין. והא ״מעות האומנין״ קתני! דליכא בנין כשיעור מעות."
+    },
+    {
+      "uid": "Meilah_333",
+      "chapter_number": 28,
+      "verse_number": 5,
+      "start_char": 26835,
+      "end_char": 26919,
+      "length": 85,
+      "text": "והאמר שמואל: הקדש שוה מנה שחיללו על שוה פרוטה – מחולל! הני מילי דאי עבד, לכתחלה – לא."
+    },
+    {
+      "uid": "Meilah_334",
+      "chapter_number": 28,
+      "verse_number": 6,
+      "start_char": 26920,
+      "end_char": 27054,
+      "length": 135,
+      "text": "רב פפא אמר: היינו טעמא דבונין בחול – לא נתנה תורה למלאכי השרת, אמרי דלמא בעי למיזגא, וזגא עלייהו. אי בנא בקודשא – אישתכח דקמעיל בקודשא."
+    },
+    {
+      "uid": "Meilah_335",
+      "chapter_number": 28,
+      "verse_number": 7,
+      "start_char": 27055,
+      "end_char": 27130,
+      "length": 76,
+      "text": "תנן: הגזברין שלקחו את העצים – מועלין בהן, ואין מועלין לא בשיפויי ולא בנבייה."
+    },
+    {
+      "uid": "Meilah_336",
+      "chapter_number": 28,
+      "verse_number": 8,
+      "start_char": 27131,
+      "end_char": 27227,
+      "length": 97,
+      "text": "ואמאי מועלין בהן? הכא נמי ליעבד בחול, אמרי דדלמא בעי למיזגא, וזגא עליהן, ואישתכח דקא מועל בקדשים!"
+    },
+    {
+      "uid": "Meilah_337",
+      "chapter_number": 28,
+      "verse_number": 9,
+      "start_char": 27228,
+      "end_char": 27304,
+      "length": 77,
+      "text": "אמר רב פפא: אי בעצים דמכאן ואילך, הכי נמי. אלא כי תנן במתניתין, בעצים דיומיה."
+    },
+    {
+      "uid": "Meilah_338",
+      "chapter_number": 28,
+      "verse_number": 10,
+      "start_char": 27305,
+      "end_char": 27321,
+      "length": 17,
+      "text": "הדרן עלך ולד חטאת"
+    },
+    {
+      "uid": "Meilah_339",
+      "chapter_number": 29,
+      "verse_number": 1,
+      "start_char": 27322,
+      "end_char": 27481,
+      "length": 160,
+      "text": "קדשי מזבח, מצטרפין זה עם זה למעילה ולחייב עליהם משום פיגול ונותר וטמא. קדשי בדק הבית מצטרפין זה עם זה. אחד קדשי מזבח ואחד קדשי בדק הבית מצטרפין זה עם זה למעילה."
+    },
+    {
+      "uid": "Meilah_340",
+      "chapter_number": 29,
+      "verse_number": 2,
+      "start_char": 27482,
+      "end_char": 27641,
+      "length": 160,
+      "text": "גמ׳ השתא יש לומר דקתני: ״אחד קדשי מזבח ואחד קדשי בדק הבית״ דהאי קדושת הגוף והאי קדושת דמים, אפילו הכי קתני: ״מצטרפין זה עם זה״. ״קדשי מזבח עם קדשי מזבח״ מיבעיא?"
+    },
+    {
+      "uid": "Meilah_341",
+      "chapter_number": 29,
+      "verse_number": 3,
+      "start_char": 27642,
+      "end_char": 27741,
+      "length": 100,
+      "text": "משום דקתני עלה ״לחייב עליהן משום פיגול נותר וטמא״, דקדשי בדק הבית לא איכא הכי, משום הכי קא פליג ליה."
+    },
+    {
+      "uid": "Meilah_342",
+      "chapter_number": 29,
+      "verse_number": 4,
+      "start_char": 27742,
+      "end_char": 27866,
+      "length": 125,
+      "text": "אמר רבי ינאי: מחוורתא, אין חייבין משום מעילה אלא על קדשי בדק הבית ועולה בלבד. מאי טעמא? דאמר קרא: ״נפש כי תמעל מעל מקדשי ה׳״,"
+    },
+    {
+      "uid": "Meilah_343",
+      "chapter_number": 29,
+      "verse_number": 5,
+      "start_char": 27867,
+      "end_char": 27949,
+      "length": 83,
+      "text": "קדשים המיוחדין לה׳ – יש בהן מעילה. אבל קדשי מזבח – אית בהו לכהנים, ואית בהו לבעלים."
+    },
+    {
+      "uid": "Meilah_344",
+      "chapter_number": 29,
+      "verse_number": 6,
+      "start_char": 27950,
+      "end_char": 27996,
+      "length": 47,
+      "text": "תנן: קדשי מזבח מצטרפין זה עם זה למעילה! מדרבנן."
+    },
+    {
+      "uid": "Meilah_345",
+      "chapter_number": 29,
+      "verse_number": 7,
+      "start_char": 27997,
+      "end_char": 28040,
+      "length": 44,
+      "text": "קדשי קדשים ששחטן בדרום – מועלים בהן! מדרבנן."
+    },
+    {
+      "uid": "Meilah_346",
+      "chapter_number": 29,
+      "verse_number": 8,
+      "start_char": 28041,
+      "end_char": 28134,
+      "length": 94,
+      "text": "תנן: הנהנה מן החטאת כשהיא חיה – לא מעל עד שיפגום. כשהיא מתה, כיון שנהנה כל שהוא – מעל! מדרבנן."
+    },
+    {
+      "uid": "Meilah_347",
+      "chapter_number": 29,
+      "verse_number": 9,
+      "start_char": 28135,
+      "end_char": 28213,
+      "length": 79,
+      "text": "ומדאורייתא לא? והתניא, רבי אומר: ״כל חלב לה׳״ – לרבות אימורי קדשים קלים למעילה!"
+    },
+    {
+      "uid": "Meilah_348",
+      "chapter_number": 29,
+      "verse_number": 10,
+      "start_char": 28214,
+      "end_char": 28254,
+      "length": 41,
+      "text": "מדרבנן. והא קרא קא נסיב לה! אסמכתא בעלמא."
+    },
+    {
+      "uid": "Meilah_349",
+      "chapter_number": 29,
+      "verse_number": 11,
+      "start_char": 28255,
+      "end_char": 28420,
+      "length": 166,
+      "text": "והא אמר עולא, אמר רבי יוחנן: קדשים שמתו – יצאו מידי מעילה דבר תורה. במאי? אילימא בקדשי בדק הבית, אפילו כי מתו נמי, לא יהא אלא דאקדיש אשפה לבדק הבית, לאו אית בה מעילה?"
+    },
+    {
+      "uid": "Meilah_350",
+      "chapter_number": 29,
+      "verse_number": 12,
+      "start_char": 28421,
+      "end_char": 28462,
+      "length": 42,
+      "text": "אלא קדשי מזבח, דאורייתא! מי אית בהו מעילה?"
+    },
+    {
+      "uid": "Meilah_351",
+      "chapter_number": 29,
+      "verse_number": 13,
+      "start_char": 28463,
+      "end_char": 28551,
+      "length": 89,
+      "text": "אלא הכי קא אמרי דבי רבי ינאי: מהאי קרא קדשי בדק הבית שמעין מינה, קדשי מזבח לא שמעין מינה."
+    },
+    {
+      "uid": "Meilah_352",
+      "chapter_number": 30,
+      "verse_number": 1,
+      "start_char": 28552,
+      "end_char": 28679,
+      "length": 128,
+      "text": "מתני׳ חמשה דברים בעולה מצטרפין זה עם זה: הבשר, והחלב, והסולת, והיין, והשמן. וששה בתודה: הבשר, והחלב, והסולת, והיין, והשמן והלחם."
+    },
+    {
+      "uid": "Meilah_353",
+      "chapter_number": 30,
+      "verse_number": 2,
+      "start_char": 28680,
+      "end_char": 28868,
+      "length": 189,
+      "text": "גמ׳ מתני ליה רב הונא לרבא: ״חמשה דברים בעולם מצטרפין זה עם זה״. אמר ליה: ״בעולם״ קא אמרת? והא קתני בתודה ״ששה דברים שבתודה – הבשר והחלב והסולת והיין והשמן ולחמי תודה״! אמר ליה: תני ״בעולה״."
+    },
+    {
+      "uid": "Meilah_354",
+      "chapter_number": 30,
+      "verse_number": 3,
+      "start_char": 28869,
+      "end_char": 28967,
+      "length": 99,
+      "text": "תנינא להא דתנו רבנן: עולות ואימורים מצטרפין לכזית להעלותן בחוץ, ולחייב עליהן משום פיגול ונותר וטמא."
+    },
+    {
+      "uid": "Meilah_355",
+      "chapter_number": 30,
+      "verse_number": 4,
+      "start_char": 28968,
+      "end_char": 29124,
+      "length": 157,
+      "text": "קתני: בעולה – אין, בשלמים – לא. בשלמא להעלותן בחוץ, עולה דכליל היא – מצטרפין, שלמים – לא מצטרפין. אלא לחייב עליהן משום פיגול ונותר וטמא, שלמים אמאי לא מחייב?"
+    },
+    {
+      "uid": "Meilah_356",
+      "chapter_number": 30,
+      "verse_number": 5,
+      "start_char": 29125,
+      "end_char": 29190,
+      "length": 66,
+      "text": "והתנן: כל הפיגולים מצטרפין זה עם זה, וכל הנותרות מצטרפות זו עם זו!"
+    },
+    {
+      "uid": "Meilah_357",
+      "chapter_number": 30,
+      "verse_number": 6,
+      "start_char": 29191,
+      "end_char": 29256,
+      "length": 66,
+      "text": "אלא אימא: עולה ואימוריה מצטרפין זה עם זה לכזית ליזרק עליהן את הדם."
+    },
+    {
+      "uid": "Meilah_358",
+      "chapter_number": 30,
+      "verse_number": 7,
+      "start_char": 29257,
+      "end_char": 29296,
+      "length": 40,
+      "text": "וכיון דמצטרפין ליזרק את הדם – חייב וכו׳."
+    },
+    {
+      "uid": "Meilah_359",
+      "chapter_number": 30,
+      "verse_number": 8,
+      "start_char": 29297,
+      "end_char": 29457,
+      "length": 161,
+      "text": "ומאן קתני לה? רבי יהושע היא, דתניא: רבי יהושע אומר: כל הזבחים שבתורה שנשתייר מהן כזית בשר וכזית חלב – זורק את הדם, כחצי זית בשר וכחצי זית חלב – אינו זורק את הדם."
+    },
+    {
+      "uid": "Meilah_360",
+      "chapter_number": 30,
+      "verse_number": 9,
+      "start_char": 29458,
+      "end_char": 29566,
+      "length": 109,
+      "text": "ובעולה, אפילו כחצי זית בשר וכחצי זית חלב – זורק את הדם, מפני שכולה כליל. ובמנחה, אפילו כולה קיימת – לא יזרוק."
+    },
+    {
+      "uid": "Meilah_361",
+      "chapter_number": 30,
+      "verse_number": 10,
+      "start_char": 29567,
+      "end_char": 29607,
+      "length": 41,
+      "text": "מנחה מאי עבידתיה? אמר רב פפא: מנחת נסכים."
+    },
+    {
+      "uid": "Meilah_362",
+      "chapter_number": 30,
+      "verse_number": 11,
+      "start_char": 29608,
+      "end_char": 29783,
+      "length": 176,
+      "text": "מתני׳ התרומה, ותרומת מעשר, ותרומת מעשר של דמאי, והחלה, והביכורים – מצטרפין זה עם זה לאסור ולחייב עליהן את החומש. כל הפיגולים – מצטרפין זה עם זה. וכל הנותרים – מצטרפין זה עם זה."
+    },
+    {
+      "uid": "Meilah_363",
+      "chapter_number": 30,
+      "verse_number": 12,
+      "start_char": 29784,
+      "end_char": 29863,
+      "length": 80,
+      "text": "גמ׳ מאי טעמא? כולהו איקרו ״תרומה״. גבי חלה כתיב: ״ראשית ערסתכם חלה תרימו תרומה״,"
+    },
+    {
+      "uid": "Meilah_364",
+      "chapter_number": 30,
+      "verse_number": 13,
+      "start_char": 29864,
+      "end_char": 29949,
+      "length": 86,
+      "text": "גבי ביכורים נמי איקרו ״תרומה״, דתניא: ״ותרומת ידך״ – אלו ביכורים, אבל אינך – לא צריכא."
+    },
+    {
+      "uid": "Meilah_365",
+      "chapter_number": 30,
+      "verse_number": 14,
+      "start_char": 29950,
+      "end_char": 30016,
+      "length": 67,
+      "text": "מתני׳ כל הנבילות – מצטרפין זו עם זו. וכל השקצים – מצטרפין זה עם זה."
+    },
+    {
+      "uid": "Meilah_366",
+      "chapter_number": 30,
+      "verse_number": 15,
+      "start_char": 30017,
+      "end_char": 30027,
+      "length": 11,
+      "text": "גמ׳ אמר רב:"
+    },
+    {
+      "uid": "Meilah_367",
+      "chapter_number": 31,
+      "verse_number": 1,
+      "start_char": 30028,
+      "end_char": 30140,
+      "length": 113,
+      "text": "לא שנו אלא לענין טומאה, אבל לענין אכילה – טהורין בפני עצמן, וטמאים בפני עצמן. ולוי אמר: אפילו לאכילה נמי מצטרפין."
+    },
+    {
+      "uid": "Meilah_368",
+      "chapter_number": 31,
+      "verse_number": 2,
+      "start_char": 30141,
+      "end_char": 30226,
+      "length": 86,
+      "text": "ורב אסי אמר: טהורים לעצמן וטמאין לעצמן. איכא דאמרי: פליגא אדרב, ואיכא דאמרי: לא פליגא."
+    },
+    {
+      "uid": "Meilah_369",
+      "chapter_number": 31,
+      "verse_number": 3,
+      "start_char": 30227,
+      "end_char": 30316,
+      "length": 90,
+      "text": "מיתיבי: מיתת פרה, וחיי גמל – אין מצטרפין זה עם זה. הא מיתת שניהם – מצטרפין, וקשיא לרב אסי!"
+    },
+    {
+      "uid": "Meilah_370",
+      "chapter_number": 31,
+      "verse_number": 4,
+      "start_char": 30317,
+      "end_char": 30396,
+      "length": 80,
+      "text": "אימא: הא חיי שניהם – מצטרפין, ומני – רבי יהודה היא, דאמר: אבר מן החי נוהג בטמאה."
+    },
+    {
+      "uid": "Meilah_371",
+      "chapter_number": 31,
+      "verse_number": 5,
+      "start_char": 30397,
+      "end_char": 30507,
+      "length": 111,
+      "text": "אבל מיתת שניהם, מאי? לא מצטרפי? אם כן, מאי איריא דרהיט ותני ״מיתת פרה וחיי גמל״, הא אפילו מיתת שניהם לא מצטרפי!"
+    },
+    {
+      "uid": "Meilah_372",
+      "chapter_number": 31,
+      "verse_number": 6,
+      "start_char": 30508,
+      "end_char": 30693,
+      "length": 186,
+      "text": "ועוד, תניא: חצי זית פרה בחייה וחצי זית גמל במיתתה – אין מצטרפין. אבל חצי זית מפרה וחצי זית מגמל, בין בחייה בין במיתתה – מצטרפין. קשיא רישא אסיפא! אלא לאו שמע מינה: מיתת שניהם – מצטרפין!?"
+    },
+    {
+      "uid": "Meilah_373",
+      "chapter_number": 31,
+      "verse_number": 7,
+      "start_char": 30694,
+      "end_char": 30738,
+      "length": 45,
+      "text": "אמר לך רב אסי: האי תנא סבר איסור חל על איסור."
+    },
+    {
+      "uid": "Meilah_374",
+      "chapter_number": 32,
+      "verse_number": 1,
+      "start_char": 30739,
+      "end_char": 30818,
+      "length": 80,
+      "text": "אמר רב יהודה, אמר רב: אכילת שרצים – לוקה עליו בכזית. מאי טעמא? ׳אכילה׳ כתיב בהו."
+    },
+    {
+      "uid": "Meilah_375",
+      "chapter_number": 32,
+      "verse_number": 2,
+      "start_char": 30819,
+      "end_char": 31021,
+      "length": 203,
+      "text": "והתני רבי יוסי בר רבי חנינא קמיה דרבי יוחנן: ״והבדלתם בין הבהמה הטהרה לטמאה ובין העוף הטמא לטהר ולא תשקצו את נפשתיכם בבהמה ובעוף ובכל אשר תרמש האדמה אשר הבדלתי לכם לטמא״ – פתח הכתוב באכילה, וסיים בטומאה."
+    },
+    {
+      "uid": "Meilah_376",
+      "chapter_number": 32,
+      "verse_number": 3,
+      "start_char": 31022,
+      "end_char": 31084,
+      "length": 63,
+      "text": "מה טומאה בכעדשה, אף אכילה בכעדשה. וקלסיה רבי יוחנן, וקשיא לדרב!"
+    },
+    {
+      "uid": "Meilah_377",
+      "chapter_number": 32,
+      "verse_number": 4,
+      "start_char": 31085,
+      "end_char": 31120,
+      "length": 36,
+      "text": "לא קשיא: כאן – במיתתן, כאן – בחייהן."
+    },
+    {
+      "uid": "Meilah_378",
+      "chapter_number": 32,
+      "verse_number": 5,
+      "start_char": 31121,
+      "end_char": 31290,
+      "length": 170,
+      "text": "אמר ליה אביי: והא רב אמתניתין קאי, ומתניתין ״כל השרצים״ קתני, אפילו במיתתן. לאו דאיכא פורתא מהאי ופורתא מהאי? אמר ליה רב יוסף: ההיא דיוקא דילך הוא. רב – שמעתא בעלמא קאמר."
+    },
+    {
+      "uid": "Meilah_379",
+      "chapter_number": 32,
+      "verse_number": 6,
+      "start_char": 31291,
+      "end_char": 31436,
+      "length": 146,
+      "text": "וקלסיה רבי יוחנן. מיתיבי: האיברין – אין להן שיעור, אפילו פחות מכזית נבלה ופחות מכעדשה מן השרץ – מטמאין. ואמר רבי יוחנן: אין לוקין עליהן אלא בכזית!"
+    },
+    {
+      "uid": "Meilah_380",
+      "chapter_number": 32,
+      "verse_number": 7,
+      "start_char": 31437,
+      "end_char": 31464,
+      "length": 28,
+      "text": "אמר רבא: במובדלין דבר הכתוב."
+    },
+    {
+      "uid": "Meilah_381",
+      "chapter_number": 32,
+      "verse_number": 8,
+      "start_char": 31465,
+      "end_char": 31545,
+      "length": 81,
+      "text": "אמר ליה רב אדא בר אהבה לרבא: אלא מעתה, בהמה נמי, ליפלגי בין מובדלת לשאינה מובדלת."
+    },
+    {
+      "uid": "Meilah_382",
+      "chapter_number": 33,
+      "verse_number": 1,
+      "start_char": 31546,
+      "end_char": 31602,
+      "length": 57,
+      "text": "אמר ליה: כי קא מקיש רחמנא – לבל תשקצו, אבל לשיעורין – לא."
+    },
+    {
+      "uid": "Meilah_383",
+      "chapter_number": 33,
+      "verse_number": 2,
+      "start_char": 31603,
+      "end_char": 31695,
+      "length": 93,
+      "text": "מתני׳ דם השרץ והבשר – מצטרפין זה עם זה. כלל אמר רבי יהושע: כל שטומאתו ושיעורו שוין – מצטרפין."
+    },
+    {
+      "uid": "Meilah_384",
+      "chapter_number": 33,
+      "verse_number": 3,
+      "start_char": 31696,
+      "end_char": 31770,
+      "length": 75,
+      "text": "טומאתו ולא שיעורו, שיעורו ולא טומאתו, לא טומאתו [ולא] שיעורו – אין מצטרפין."
+    },
+    {
+      "uid": "Meilah_385",
+      "chapter_number": 33,
+      "verse_number": 4,
+      "start_char": 31771,
+      "end_char": 31799,
+      "length": 29,
+      "text": "גמ׳ אמר רב חנין אמר רב זעירא,"
+    },
+    {
+      "uid": "Meilah_386",
+      "chapter_number": 33,
+      "verse_number": 5,
+      "start_char": 31800,
+      "end_char": 31912,
+      "length": 113,
+      "text": "וכן אמר רבי יוסי בר רבי חנינא: ״הטמאין״ – מלמד שהן מצטרפין, ואפילו שרץ ושרץ, שרץ ודם, בין משם אחד, בין משני שמות!"
+    },
+    {
+      "uid": "Meilah_387",
+      "chapter_number": 33,
+      "verse_number": 6,
+      "start_char": 31913,
+      "end_char": 31960,
+      "length": 48,
+      "text": "אמר רב יוסף: לא קשיא, כאן – בכולו. כאן – במקצתו."
+    },
+    {
+      "uid": "Meilah_388",
+      "chapter_number": 33,
+      "verse_number": 7,
+      "start_char": 31961,
+      "end_char": 32053,
+      "length": 93,
+      "text": "ומנא תימרא? מדתניא: נשפך על הרצפה והיה מקומה קטפרס, איהל על מקצתו – טהור, איהל על כולו – טמא."
+    },
+    {
+      "uid": "Meilah_389",
+      "chapter_number": 33,
+      "verse_number": 8,
+      "start_char": 32054,
+      "end_char": 32136,
+      "length": 83,
+      "text": "מאי ״מקצתו״? אילימא מקצת דם, והא אמר רבי חנינא אמר רבי: רביעית דם שהגיס בה – טהורה!"
+    },
+    {
+      "uid": "Meilah_390",
+      "chapter_number": 33,
+      "verse_number": 9,
+      "start_char": 32137,
+      "end_char": 32190,
+      "length": 54,
+      "text": "אלא לאו שמע מינה: כאן – בכולו, כאן – במקצתו? שמע מינה."
+    },
+    {
+      "uid": "Meilah_391",
+      "chapter_number": 33,
+      "verse_number": 10,
+      "start_char": 32191,
+      "end_char": 32302,
+      "length": 112,
+      "text": "שאל רבי מתיא בן חרש את רבי שמעון בן יוחאי בעיר רומי: מנין לדם שרצים שהוא טמא? אמר ליה: דאמר קרא: ״וזה לכם הטמא״."
+    },
+    {
+      "uid": "Meilah_392",
+      "chapter_number": 33,
+      "verse_number": 11,
+      "start_char": 32303,
+      "end_char": 32471,
+      "length": 169,
+      "text": "אמרו לו תלמידיו: חכים ליה בן יוחאי. אמר להם: תלמוד ערוך בפיו של רבי אלעזר בר רבי יוסי. שפעם אחת גזרה המלכות גזרה שלא ישמרו את השבת, ושלא ימולו את בניהם, ושיבעלו את נדות."
+    },
+    {
+      "uid": "Meilah_393",
+      "chapter_number": 33,
+      "verse_number": 12,
+      "start_char": 32472,
+      "end_char": 32659,
+      "length": 188,
+      "text": "הלך רבי ראובן בן איסטרובלי, וסיפר קומי, והלך וישב עמהם. אמר להם: מי שיש לו אויב, יעני או יעשיר? אמרו לו: יעני. אמר להם: אם כן, לא יעשו מלאכה בשבת, כדי שיענו! אמרו: טבית אמר, ליבטל, ובטלוה."
+    },
+    {
+      "uid": "Meilah_394",
+      "chapter_number": 33,
+      "verse_number": 13,
+      "start_char": 32660,
+      "end_char": 32793,
+      "length": 134,
+      "text": "חזר ואמר להם: מי שיש לו אויב, יכחיש או יבריא? אמרו לו: יכחיש. אמר להם: אם כן, ימולו בניהם לשמונה ימים ויכחישו. אמרו: טבית אמר, ובטלוה."
+    },
+    {
+      "uid": "Meilah_395",
+      "chapter_number": 33,
+      "verse_number": 14,
+      "start_char": 32794,
+      "end_char": 32899,
+      "length": 106,
+      "text": "חזר ואמר להם: מי שיש לו אויב, ירבה או יתמעט? אמרו לו: יתמעט. אם כן, לא יבעלו נדות. אמרו: טבית אמר, ובטלוה."
+    },
+    {
+      "uid": "Meilah_396",
+      "chapter_number": 33,
+      "verse_number": 15,
+      "start_char": 32900,
+      "end_char": 32955,
+      "length": 56,
+      "text": "הכירו בו שהוא יהודי, החזירום. אמרו: מי ילך ויבטל הגזרות?"
+    },
+    {
+      "uid": "Meilah_397",
+      "chapter_number": 34,
+      "verse_number": 1,
+      "start_char": 32956,
+      "end_char": 33034,
+      "length": 79,
+      "text": "ילך רבי שמעון בן יוחאי, שהוא מלומד בנסים. ואחריו מי ילך? רבי אלעזר בר רבי יוסי."
+    },
+    {
+      "uid": "Meilah_398",
+      "chapter_number": 34,
+      "verse_number": 2,
+      "start_char": 33035,
+      "end_char": 33190,
+      "length": 156,
+      "text": "אמר להם רבי יוסי: ואילו היה אבא חלפתא קיים, יכולין אתם לומר לו: תן בנך להריגה? אמר להם ר׳ שמעון: אילו היה יוחאי אבא קיים, יכולין אתם לומר לו: תן בנך להריגה?"
+    },
+    {
+      "uid": "Meilah_399",
+      "chapter_number": 34,
+      "verse_number": 3,
+      "start_char": 33191,
+      "end_char": 33297,
+      "length": 107,
+      "text": "אמר להו רבי יוסי: אנא אזלין, דלמא עניש ליה רבי שמעון, דקא מסתפינא. קביל עליה דלא ליענשיה. אפילו הכי, ענשיה."
+    },
+    {
+      "uid": "Meilah_400",
+      "chapter_number": 34,
+      "verse_number": 4,
+      "start_char": 33298,
+      "end_char": 33494,
+      "length": 197,
+      "text": "כשהיו מהלכין בדרך, נשאלה שאלה זו בפניהם: מנין לדם השרץ שהוא טמא? עקם פיו רבי אלעזר בר רבי יוסי, ואמר: ״וזה לכם הטמא״. אמר ליה רבי שמעון: מעקימת שפתיך אתה ניכר שתלמיד חכם אתה, אל יחזור הבן אצל אביו."
+    },
+    {
+      "uid": "Meilah_401",
+      "chapter_number": 34,
+      "verse_number": 5,
+      "start_char": 33495,
+      "end_char": 33634,
+      "length": 140,
+      "text": "יצא לקראתו בן תמליון: רצונכם אבוא עמכם? בכה רבי שמעון ואמר: מה שפחה של בית אבא, נזדמן לה מלאך שלש פעמים. ואני, לא פעם אחת? יבא הנס מכל מקום."
+    },
+    {
+      "uid": "Meilah_402",
+      "chapter_number": 34,
+      "verse_number": 6,
+      "start_char": 33635,
+      "end_char": 33836,
+      "length": 202,
+      "text": "קדים הוא, על בברתיה דקיסר. כי מטא התם, אמר: בן תמליון, צא! בן תמליון, צא! וכיון דקרו ליה, נפק אזל. אמר להון: שאילו כל מה דאית לכון למישאל. ועיילינהו לגנזיה לשקול כל דבעו. אשכחו ההוא איגרא, שקלוה וקרעוה."
+    },
+    {
+      "uid": "Meilah_403",
+      "chapter_number": 34,
+      "verse_number": 7,
+      "start_char": 33837,
+      "end_char": 33917,
+      "length": 81,
+      "text": "והיינו דאמר רבי אלעזר בר רבי יוסי: אני ראיתיה בעיר רומי, והוו עליה כמה טיפי דמים."
+    },
+    {
+      "uid": "Meilah_404",
+      "chapter_number": 34,
+      "verse_number": 8,
+      "start_char": 33918,
+      "end_char": 34050,
+      "length": 133,
+      "text": "מתני׳ הפיגול והנותר – אין מצטרפין, מפני שהן שני שמות. השרץ והנבלה, וכן הנבלה ובשר המת – אין מצטרפין זה עם זה לטמא, אפילו בקל שבשניהן."
+    },
+    {
+      "uid": "Meilah_405",
+      "chapter_number": 34,
+      "verse_number": 9,
+      "start_char": 34051,
+      "end_char": 34237,
+      "length": 187,
+      "text": "גמ׳ אמר רב יהודה אמר שמואל: לא שנו אלא לטומאת הידים, דמדרבנן היא. אבל לענין אכילה – מצטרפין. דתניא, רבי אליעזר אומר: ״לא יאכל כי קדש הוא״ – כל שבקדש פסול, בא הכתוב ליתן לא תעשה על אכילתו."
+    },
+    {
+      "uid": "Meilah_406",
+      "chapter_number": 34,
+      "verse_number": 10,
+      "start_char": 34238,
+      "end_char": 34374,
+      "length": 137,
+      "text": "מתני׳ האוכל שנטמא באב הטומאה, ושנטמא בולד הטומאה – מצטרפין זה עם זה לטמא בקל שבשניהם. כל האוכלים מצטרפין זה עם זה לפסול הגוייה כבחצי פרס."
+    },
+    {
+      "uid": "Meilah_407",
+      "chapter_number": 34,
+      "verse_number": 11,
+      "start_char": 34375,
+      "end_char": 34546,
+      "length": 172,
+      "text": "כבמזון שתי סעודות לעירוב, וכביצה לטמא טומאת אוכלין, וכגרוגרת להוצאת שבת, וככותבת ביום הכפורים. כל המשקין מצטרפין זו עם זו לפסול את הגוייה ברביעית, וכמלא לוגמא ביום הכפורים."
+    },
+    {
+      "uid": "Meilah_408",
+      "chapter_number": 34,
+      "verse_number": 12,
+      "start_char": 34547,
+      "end_char": 34638,
+      "length": 92,
+      "text": "גמ׳ תניא, רבי שמעון אומר: מה טעם? שאפשר לשני שיעשה ראשון. ומי קא עביד שני ראשון? הא לא אפשר!"
+    },
+    {
+      "uid": "Meilah_409",
+      "chapter_number": 34,
+      "verse_number": 13,
+      "start_char": 34639,
+      "end_char": 34739,
+      "length": 101,
+      "text": "אמר רבא, הכי קאמר: מי גרם לשני? לאו ראשון?! רב אשי אמר: ראשון ושני, לגבי שלישי – בני חדא ביקתא אינון."
+    },
+    {
+      "uid": "Meilah_410",
+      "chapter_number": 35,
+      "verse_number": 1,
+      "start_char": 34740,
+      "end_char": 34810,
+      "length": 71,
+      "text": "מתני׳ הערלה וכלאי הכרם – מצטרפין זה עם זה. רבי שמעון אומר: אין מצטרפין."
+    },
+    {
+      "uid": "Meilah_411",
+      "chapter_number": 35,
+      "verse_number": 2,
+      "start_char": 34811,
+      "end_char": 34901,
+      "length": 91,
+      "text": "גמ׳ ומי צריך רבי שמעון לצרופי? והתניא, רבי שמעון אומר: כל שהוא למכות? תני: אין צריכין לצרף."
+    },
+    {
+      "uid": "Meilah_412",
+      "chapter_number": 35,
+      "verse_number": 3,
+      "start_char": 34902,
+      "end_char": 34964,
+      "length": 63,
+      "text": "מתני׳ הבגד והשק, השק והעור, העור והמפץ – כולן מצטרפין זה עם זה."
+    },
+    {
+      "uid": "Meilah_413",
+      "chapter_number": 35,
+      "verse_number": 4,
+      "start_char": 34965,
+      "end_char": 35014,
+      "length": 50,
+      "text": "אמר רבי שמעון: מה טעם? מפני שהן ראוין ליטמא במושב."
+    },
+    {
+      "uid": "Meilah_414",
+      "chapter_number": 35,
+      "verse_number": 5,
+      "start_char": 35015,
+      "end_char": 35096,
+      "length": 82,
+      "text": "גמ׳ תנא: קיצע מכולן שלשה, ועשה מהן בגד למשכב – שלשה, למושב – טפח, לאחיזה – כל שהו."
+    },
+    {
+      "uid": "Meilah_415",
+      "chapter_number": 35,
+      "verse_number": 6,
+      "start_char": 35097,
+      "end_char": 35191,
+      "length": 95,
+      "text": "מאי לאחיזה? אמר ריש לקיש, אמר רבי ינאי: שכן עומד לנוולה. במתניתא תנא: הואיל וראוי לקוצצי תאנים."
+    },
+    {
+      "uid": "Meilah_416",
+      "chapter_number": 35,
+      "verse_number": 7,
+      "start_char": 35192,
+      "end_char": 35209,
+      "length": 18,
+      "text": "הדרן עלך קדשי מזבח"
+    },
+    {
+      "uid": "Meilah_417",
+      "chapter_number": 35,
+      "verse_number": 8,
+      "start_char": 35210,
+      "end_char": 35360,
+      "length": 151,
+      "text": "הנהנה מן ההקדש שוה פרוטה, אף על פי שלא פגם – מעל, דברי רבי עקיבא. וחכמים אומרים: כל דבר שיש בו פגם – לא מעל, עד שיפגום. ושאין בו פגם, כיון שנהנה – מעל."
+    },
+    {
+      "uid": "Meilah_418",
+      "chapter_number": 35,
+      "verse_number": 9,
+      "start_char": 35361,
+      "end_char": 35483,
+      "length": 123,
+      "text": "כיצד? נתנה קטלא בצוארה, טבעת בידה, שתה בכוס של זהב, כיון שנהנה – מעל. לבש בחלוק, כסה בטלית, ביקע בקרדום – לא מעל עד שיפגום."
+    },
+    {
+      "uid": "Meilah_419",
+      "chapter_number": 35,
+      "verse_number": 10,
+      "start_char": 35484,
+      "end_char": 35558,
+      "length": 75,
+      "text": "הנהנה מן החטאת, כשהיא חיה – לא מעל, עד שיפגום. כשהיא מתה, כיון שנהנה – מעל."
+    },
+    {
+      "uid": "Meilah_420",
+      "chapter_number": 35,
+      "verse_number": 11,
+      "start_char": 35559,
+      "end_char": 35623,
+      "length": 65,
+      "text": "גמ׳: תנא: מודה רבי עקיבא לחכמים בדבר שיש בו פגם. במאי קא מיפלגי?!"
+    },
+    {
+      "uid": "Meilah_421",
+      "chapter_number": 35,
+      "verse_number": 12,
+      "start_char": 35624,
+      "end_char": 35653,
+      "length": 30,
+      "text": "אמר רבא: בלבוש מציעאה, ומלמלא."
+    },
+    {
+      "uid": "Meilah_422",
+      "chapter_number": 35,
+      "verse_number": 13,
+      "start_char": 35654,
+      "end_char": 35705,
+      "length": 52,
+      "text": "תנו רבנן: ״נפש״ – אחד היחיד, ואחד הנשיא, ואחד המשיח."
+    },
+    {
+      "uid": "Meilah_423",
+      "chapter_number": 35,
+      "verse_number": 14,
+      "start_char": 35706,
+      "end_char": 35811,
+      "length": 106,
+      "text": "״כי תמעל מעל״, אין ״מעל״ אלא שנוי, וכן הוא אומר: ״איש איש כי תשטה אשתו ומעלה בו מעל״, ואומר: ״וימעלו באלהי"
+    },
+    {
+      "uid": "Meilah_424",
+      "chapter_number": 36,
+      "verse_number": 1,
+      "start_char": 35812,
+      "end_char": 35837,
+      "length": 26,
+      "text": "אבתיהם ויזנו אחרי הבעלים״."
+    },
+    {
+      "uid": "Meilah_425",
+      "chapter_number": 36,
+      "verse_number": 2,
+      "start_char": 35838,
+      "end_char": 35872,
+      "length": 35,
+      "text": "יכול פגם ולא נהנה, או נהנה ולא פגם,"
+    },
+    {
+      "uid": "Meilah_426",
+      "chapter_number": 36,
+      "verse_number": 3,
+      "start_char": 35873,
+      "end_char": 35907,
+      "length": 35,
+      "text": "ובמחובר לקרקע, ובשליח שעשה שליחותו?"
+    },
+    {
+      "uid": "Meilah_427",
+      "chapter_number": 36,
+      "verse_number": 4,
+      "start_char": 35908,
+      "end_char": 35967,
+      "length": 60,
+      "text": "תלמוד לומר ״וחטאה״. נאמר: ״חטא״ בתרומה, ונאמר: ״חטא״ במעילה."
+    },
+    {
+      "uid": "Meilah_428",
+      "chapter_number": 36,
+      "verse_number": 5,
+      "start_char": 35968,
+      "end_char": 36097,
+      "length": 130,
+      "text": "מה ״חטא״ האמור בתרומה, פוגם ונהנה, ומי שפגם נהנה, ובדבר שפוגם בו נהנה, ופגימתו והנאתו כאחד, ובתלוש מן הקרקע, ובשליח שעשה שליחותו –"
+    },
+    {
+      "uid": "Meilah_429",
+      "chapter_number": 36,
+      "verse_number": 6,
+      "start_char": 36098,
+      "end_char": 36226,
+      "length": 129,
+      "text": "אף ״חטא״ האמור במעילה, פוגם ונהנה, ומי שפגם נהנה, ובדבר שפוגם בו נהנה, ופגימתו והנאתו כאחד, ובתלוש מן הקרקע, ובשליח שעשה שליחותו."
+    },
+    {
+      "uid": "Meilah_430",
+      "chapter_number": 36,
+      "verse_number": 7,
+      "start_char": 36227,
+      "end_char": 36272,
+      "length": 46,
+      "text": "אין לי אלא אוכל, ונהנה בדבר שאין בו פגם, מנין?"
+    },
+    {
+      "uid": "Meilah_431",
+      "chapter_number": 36,
+      "verse_number": 8,
+      "start_char": 36273,
+      "end_char": 36392,
+      "length": 120,
+      "text": "אכילתו ואכילת חברו, הנייתו והניית חברו, הנאתו ואכילת חברו, אכילתו והניית חברו שמצטרפין זה עם זה, אפילו לזמן מרובה, מנין?"
+    },
+    {
+      "uid": "Meilah_432",
+      "chapter_number": 36,
+      "verse_number": 9,
+      "start_char": 36393,
+      "end_char": 36426,
+      "length": 34,
+      "text": "תלמוד לומר: ״תמעל מעל״ – מכל מקום."
+    },
+    {
+      "uid": "Meilah_433",
+      "chapter_number": 36,
+      "verse_number": 10,
+      "start_char": 36427,
+      "end_char": 36605,
+      "length": 179,
+      "text": "אי מה ״חטא״ האמור בתרומה – לא צירף שתי אכילות כאחד, אף ״חטא״ האמור במעילה – לא צירף שתי אכילות כאחד. מנין אכל היום ואכל למחר, ואפילו לזמן מרובה? תלמוד לומר: ״תמעל מעל״ – מכל מקום."
+    },
+    {
+      "uid": "Meilah_434",
+      "chapter_number": 36,
+      "verse_number": 11,
+      "start_char": 36606,
+      "end_char": 36744,
+      "length": 139,
+      "text": "אי מה ״חטא״ האמור בתרומה – פגימתו והנאתו כאחד, מנין לאכילתו ואכילת חברו? ואפילו מכאן ועד שלש שנים, מנין? תלמוד לומר: ״תמעל מעל״ – מכל מקום."
+    },
+    {
+      "uid": "Meilah_435",
+      "chapter_number": 36,
+      "verse_number": 12,
+      "start_char": 36745,
+      "end_char": 36768,
+      "length": 24,
+      "text": "אי מה ״חטא״ האמור בתרומה"
+    },
+    {
+      "uid": "Meilah_436",
+      "chapter_number": 37,
+      "verse_number": 1,
+      "start_char": 36769,
+      "end_char": 36791,
+      "length": 23,
+      "text": "– עד שיצא מן הקדש לחול."
+    },
+    {
+      "uid": "Meilah_437",
+      "chapter_number": 37,
+      "verse_number": 2,
+      "start_char": 36792,
+      "end_char": 36851,
+      "length": 60,
+      "text": "מן הקדש לקדש, כגון: לקח קיני זבים, וקיני זבות, וקיני יולדות,"
+    },
+    {
+      "uid": "Meilah_438",
+      "chapter_number": 37,
+      "verse_number": 3,
+      "start_char": 36852,
+      "end_char": 36997,
+      "length": 146,
+      "text": "ושקל שקלו, והביא חטאתו ואשמו מן ההקדש – כיון שהוציא – מעל, דברי רבי שמעון. רבי יהודה אומר: עד שיזרוק הדם. מנין? תלמוד לומר: ״תמעל מעל״ – מכל מקום."
+    },
+    {
+      "uid": "Meilah_439",
+      "chapter_number": 37,
+      "verse_number": 4,
+      "start_char": 36998,
+      "end_char": 37082,
+      "length": 85,
+      "text": "אמר מר: ״נפש״ – אחד היחיד ואחד הנשיא ואחד המשוח במשמע. שיכול, מאי? פשיטא, ״נפש״ כתיב!"
+    },
+    {
+      "uid": "Meilah_440",
+      "chapter_number": 37,
+      "verse_number": 5,
+      "start_char": 37083,
+      "end_char": 37174,
+      "length": 92,
+      "text": "מהו דתימא, אמר רחמנא ״ואשר יתן ממנו על זר״, והאי לאו ״זר״ הוא, דהא אימשח בגוויה, קא משמע לן."
+    },
+    {
+      "uid": "Meilah_441",
+      "chapter_number": 37,
+      "verse_number": 6,
+      "start_char": 37175,
+      "end_char": 37277,
+      "length": 103,
+      "text": "ואקשה רחמנא לסוטה, ולעבודה זרה, ולתרומה. לסוטה, דאף על גב דלא פגם, גבי הקדש נמי, נתנה טבעת בידה – מעלה."
+    },
+    {
+      "uid": "Meilah_442",
+      "chapter_number": 37,
+      "verse_number": 7,
+      "start_char": 37278,
+      "end_char": 37365,
+      "length": 88,
+      "text": "כי אקשה רחמנא לעבודה זרה, דעד דאית בה שינוי, גבי הקדש נמי, עד דביקע בקרדום, ויפגם ופגום."
+    },
+    {
+      "uid": "Meilah_443",
+      "chapter_number": 37,
+      "verse_number": 8,
+      "start_char": 37366,
+      "end_char": 37465,
+      "length": 100,
+      "text": "אקשה רחמנא לתרומה: מה תרומה, ״כי יאכל״ – פרט למזיק, גבי הקדש נמי – כל דבר אכילה, כי מזיק ליה – פטור."
+    },
+    {
+      "uid": "Meilah_444",
+      "chapter_number": 37,
+      "verse_number": 9,
+      "start_char": 37466,
+      "end_char": 37570,
+      "length": 105,
+      "text": "כיצד? נתנה קטלא כו׳. אמר ליה רב כהנא לרב זביד: ודהבא לאו בר איפגומי הוא? והא דהבא דכלתיה דנון, להיכא אזל?"
+    },
+    {
+      "uid": "Meilah_445",
+      "chapter_number": 37,
+      "verse_number": 10,
+      "start_char": 37571,
+      "end_char": 37667,
+      "length": 97,
+      "text": "אמר ליה: דלמא, דהבא דרמיין כלתיך הוא. ועוד: נהי דלא איכא נהנה ופגם לאלתר, לעולם מי לא איכא פגימה?"
+    },
+    {
+      "uid": "Meilah_446",
+      "chapter_number": 37,
+      "verse_number": 11,
+      "start_char": 37668,
+      "end_char": 37756,
+      "length": 89,
+      "text": "הנהנה מן החטאת וכו׳. מכדי אי בבהמה תמימה, היינו כוס של זהב! אמר רב פפא: בבעלת מום עסקינן."
+    },
+    {
+      "uid": "Meilah_447",
+      "chapter_number": 38,
+      "verse_number": 1,
+      "start_char": 37757,
+      "end_char": 37906,
+      "length": 150,
+      "text": "מתני׳ נהנה כבחצי פרוטה ופגם כחצי פרוטה, או שנהנה בשוה פרוטה בדבר אחד ופגם בשוה פרוטה בדבר אחר – לא מעל, עד שיהנה בשוה פרוטה ויפגם בשוה פרוטה בדבר אחד."
+    },
+    {
+      "uid": "Meilah_448",
+      "chapter_number": 38,
+      "verse_number": 2,
+      "start_char": 37907,
+      "end_char": 38190,
+      "length": 284,
+      "text": "אין מועל אחר מועל במוקדשין אלא בהמה וכלי שרת בלבד. כיצד? רכב על גבי בהמה, ובא חברו ורכב, ובא חברו ורכב – כולן מעלו. שתה בכוס של זהב, ובא חברו ושתה, ובא חברו ושתה – כולן מעלו. תלש מן החטאת, ובא חברו ותלש, ובא חברו ותלש – כולן מעלו. רבי אומר: כל דבר שאין לו פדיון – יש בו מועל אחר מועל."
+    },
+    {
+      "uid": "Meilah_449",
+      "chapter_number": 38,
+      "verse_number": 3,
+      "start_char": 38191,
+      "end_char": 38293,
+      "length": 103,
+      "text": "גמ׳ מני? מתניתין רבי נחמיה, היא: דתניא אין מועל אחר מועל אלא בבהמה בלבד. רבי נחמיה אומר: בהמה וכלי שרת."
+    },
+    {
+      "uid": "Meilah_450",
+      "chapter_number": 38,
+      "verse_number": 4,
+      "start_char": 38294,
+      "end_char": 38354,
+      "length": 61,
+      "text": "מאי טעמא דתנא קמא? קסבר: בעניינא דבהמה כתיב, דכתיב באיל האשם."
+    },
+    {
+      "uid": "Meilah_451",
+      "chapter_number": 38,
+      "verse_number": 5,
+      "start_char": 38355,
+      "end_char": 38428,
+      "length": 74,
+      "text": "ורבי נחמיה, אמר לך: קל וחומר: אם אחרים מביא לקדושתן, הוא עצמו – לא כל שכן!"
+    },
+    {
+      "uid": "Meilah_452",
+      "chapter_number": 38,
+      "verse_number": 6,
+      "start_char": 38429,
+      "end_char": 38510,
+      "length": 82,
+      "text": "רבי אומר: כל דבר שאין לו פדיון, יש כו׳. היינו תנא קמא! אמר רבא: איכא בינייהו עצים."
+    },
+    {
+      "uid": "Meilah_453",
+      "chapter_number": 38,
+      "verse_number": 7,
+      "start_char": 38511,
+      "end_char": 38619,
+      "length": 109,
+      "text": "דתנו רבנן: האומר ״הרי עלי עצים״ – לא יפחות משני גזירין. רבי אומר: עצים – קרבן הן, וטעונין מלח, וטעונין תנופה."
+    },
+    {
+      "uid": "Meilah_454",
+      "chapter_number": 38,
+      "verse_number": 8,
+      "start_char": 38620,
+      "end_char": 38699,
+      "length": 80,
+      "text": "אמר רבא: לדברי רבי, עצים טעונין עצים. ואמר רב פפא: לדברי רבי, עצים צריכין קמיצה."
+    },
+    {
+      "uid": "Meilah_455",
+      "chapter_number": 38,
+      "verse_number": 9,
+      "start_char": 38700,
+      "end_char": 38769,
+      "length": 70,
+      "text": "רב פפא אמר: קדשי מזבח תמימין ונעשו בעלי מומין ועבר ושחטן איכא בינייהו."
+    },
+    {
+      "uid": "Meilah_456",
+      "chapter_number": 38,
+      "verse_number": 10,
+      "start_char": 38770,
+      "end_char": 38841,
+      "length": 72,
+      "text": "והתניא: קדשי מזבח תמימין, ונעשו בעלי מומין, ועבר ושחטן, רבי אומר: יקברו,"
+    },
+    {
+      "uid": "Meilah_457",
+      "chapter_number": 38,
+      "verse_number": 11,
+      "start_char": 38842,
+      "end_char": 38861,
+      "length": 20,
+      "text": "וחכמים אומרים: יפדו."
+    },
+    {
+      "uid": "Meilah_458",
+      "chapter_number": 38,
+      "verse_number": 12,
+      "start_char": 38862,
+      "end_char": 38907,
+      "length": 46,
+      "text": "מתני׳ נטל אבן או קורה של הקדש – הרי זה לא מעל."
+    },
+    {
+      "uid": "Meilah_459",
+      "chapter_number": 39,
+      "verse_number": 1,
+      "start_char": 38908,
+      "end_char": 39001,
+      "length": 94,
+      "text": "נתנה לחברו – הוא מעל, וחברו לא מעל. בנאה בתוך ביתו – הרי זה לא מעל, עד שידור תחתיה בשוה פרוטה."
+    },
+    {
+      "uid": "Meilah_460",
+      "chapter_number": 39,
+      "verse_number": 2,
+      "start_char": 39002,
+      "end_char": 39152,
+      "length": 151,
+      "text": "נטל פרוטה של הקדש – הרי זה לא מעל. נתנה לחברו – הוא מעל, וחברו לא מעל. נתנה לבלן, אף על פי שלא רחץ מעל, שהוא אומר לו: הרי המרחץ פתוח לפניך, הכנס ורחוץ."
+    },
+    {
+      "uid": "Meilah_461",
+      "chapter_number": 39,
+      "verse_number": 3,
+      "start_char": 39153,
+      "end_char": 39269,
+      "length": 117,
+      "text": "אכילתו ואכילת חברו, הנייתו והניית חברו, אכילתו והניית חברו, הנייתו ואכילת חברו – מצטרפין זה עם זה, ואפילו לזמן מרובה."
+    },
+    {
+      "uid": "Meilah_462",
+      "chapter_number": 39,
+      "verse_number": 4,
+      "start_char": 39270,
+      "end_char": 39340,
+      "length": 71,
+      "text": "גמ׳ מאי שנא הוא, ומאי שנא חבירו?! אמר שמואל: בגזבר, המסורות לו, עסקינן."
+    },
+    {
+      "uid": "Meilah_463",
+      "chapter_number": 39,
+      "verse_number": 5,
+      "start_char": 39341,
+      "end_char": 39445,
+      "length": 105,
+      "text": "בנאה בתוך ביתו – אינו חייב כו׳. למה לי עד שידור תחתיה? כיון דשניה – מעל! אמר רב: כגון שהניחה על פי ארובה."
+    },
+    {
+      "uid": "Meilah_464",
+      "chapter_number": 39,
+      "verse_number": 6,
+      "start_char": 39446,
+      "end_char": 39519,
+      "length": 74,
+      "text": "וכיון דבני לה, מיהת מעל. לימא מסייע ליה לרב, דאמר רב: המשתחוה לבית – אסרו."
+    },
+    {
+      "uid": "Meilah_465",
+      "chapter_number": 39,
+      "verse_number": 7,
+      "start_char": 39520,
+      "end_char": 39573,
+      "length": 54,
+      "text": "אמר רב אחא בריה דרב איקא: הנאה הנראת לעינים אסרה תורה."
+    },
+    {
+      "uid": "Meilah_466",
+      "chapter_number": 39,
+      "verse_number": 8,
+      "start_char": 39574,
+      "end_char": 39669,
+      "length": 96,
+      "text": "לימא מסייע ליה: הדר בבית של הקדש, כיון שנהנה ממנה – מעל. אמר ריש לקיש: התם בשהקדישו ולבסוף בנאו."
+    },
+    {
+      "uid": "Meilah_467",
+      "chapter_number": 39,
+      "verse_number": 9,
+      "start_char": 39670,
+      "end_char": 39806,
+      "length": 137,
+      "text": "אבל בנאו ולבסוף הקדישו, מאי – לא מעל? מאי איריא רהיט ותני הדר בבית של מערה – לא מעל. לימא הדר בבית של אבנים שבנאו ולבסוף הקדישו – לא מעל!"
+    },
+    {
+      "uid": "Meilah_468",
+      "chapter_number": 39,
+      "verse_number": 10,
+      "start_char": 39807,
+      "end_char": 39843,
+      "length": 37,
+      "text": "אמרי: הא פסיקא ליה., הא לא פסיקא ליה."
+    },
+    {
+      "uid": "Meilah_469",
+      "chapter_number": 39,
+      "verse_number": 11,
+      "start_char": 39844,
+      "end_char": 39857,
+      "length": 14,
+      "text": "הדרן עלך הנהנה"
+    },
+    {
+      "uid": "Meilah_470",
+      "chapter_number": 39,
+      "verse_number": 12,
+      "start_char": 39858,
+      "end_char": 39919,
+      "length": 62,
+      "text": "השליח שעשה שליחותו – בעל הבית מעל. לא עשה שליחותו – השליח מעל."
+    },
+    {
+      "uid": "Meilah_471",
+      "chapter_number": 39,
+      "verse_number": 13,
+      "start_char": 39920,
+      "end_char": 40071,
+      "length": 152,
+      "text": "כיצד? אמר לו: ״תן בשר לאורחים״, ונתן להם כבד כבד, ונתן להם בשר – השליח מעל. אמר לו: ״תן להם חתיכה חתיכה״, והוא אומר: טלו שתים! והם נטלו שלש – כולם מעלו."
+    },
+    {
+      "uid": "Meilah_472",
+      "chapter_number": 40,
+      "verse_number": 1,
+      "start_char": 40072,
+      "end_char": 40125,
+      "length": 54,
+      "text": "גמ׳ מאן תנא דכל מילתא דמימלך עלה שליח תרתי מילי הויין?"
+    },
+    {
+      "uid": "Meilah_473",
+      "chapter_number": 40,
+      "verse_number": 2,
+      "start_char": 40126,
+      "end_char": 40207,
+      "length": 82,
+      "text": "אמר רב חסדא: דלא כרבי עקיבא, דתנן: הנודר מן הירק – מותר בדילועין, ורבי עקיבא אוסר."
+    },
+    {
+      "uid": "Meilah_474",
+      "chapter_number": 40,
+      "verse_number": 3,
+      "start_char": 40208,
+      "end_char": 40308,
+      "length": 101,
+      "text": "אביי אמר: אפילו תימא רבי עקיבא, מי לא בעי לאימלוכי? כי אמרו רבנן קמיה דרבא, אמר להו: שפיר קאמר נחמני!"
+    },
+    {
+      "uid": "Meilah_475",
+      "chapter_number": 40,
+      "verse_number": 4,
+      "start_char": 40309,
+      "end_char": 40559,
+      "length": 251,
+      "text": "מאן תנא דפליג עליה דרבי עקיבא? רבן שמעון בן גמליאל היא, דתניא: הנודר מן הבשר – אסור בכל מיני בשר, ואסור בראש וברגלים, בקנה ובכבד ובלב. ואסור בבשר עופות, ומותר בבשר דגים וחגבים. רבן שמעון בן גמליאל מתיר בראש וברגלים, בקנה ובכבד, ובעופות ובדגים ובחגבים."
+    },
+    {
+      "uid": "Meilah_476",
+      "chapter_number": 40,
+      "verse_number": 5,
+      "start_char": 40560,
+      "end_char": 40634,
+      "length": 75,
+      "text": "וכן היה רבן שמעון בן גמליאל אומר: קרביים לאו בשר הן, ואוכליהן לאו בר איניש."
+    },
+    {
+      "uid": "Meilah_477",
+      "chapter_number": 40,
+      "verse_number": 6,
+      "start_char": 40635,
+      "end_char": 40797,
+      "length": 163,
+      "text": "ולתנא קמא, מאי שנא בבשר עופות? משום דרגיל איניש דאמר: לא אשכחי בשרא דחיותא, ואתאי בשרא דציפרא. אי הכי, הכי נמי עביד איניש למימרא: לא אשכחי בשרא דחיותא, ואתאי דגים!"
+    },
+    {
+      "uid": "Meilah_478",
+      "chapter_number": 40,
+      "verse_number": 7,
+      "start_char": 40798,
+      "end_char": 40847,
+      "length": 50,
+      "text": "אמר רב פפא: ביום הקזה עסקינן, דלא אכיל איניש דגים."
+    },
+    {
+      "uid": "Meilah_479",
+      "chapter_number": 40,
+      "verse_number": 8,
+      "start_char": 40848,
+      "end_char": 40995,
+      "length": 148,
+      "text": "אי הכי, ציפרא נמי לא ניכול, דאמר שמואל: דמסוכר ואכל ציפרא – פרח ליביה כציפרא! ועוד, תניא: אין מקיזין דם לא על הדגים, ולא על העופות, ולא על בשר מליח."
+    },
+    {
+      "uid": "Meilah_480",
+      "chapter_number": 40,
+      "verse_number": 9,
+      "start_char": 40996,
+      "end_char": 41057,
+      "length": 62,
+      "text": "אלא אמר רב פפא: ביומא דכייבין ליה עיניה עסקינן, דלא אכיל דגים."
+    },
+    {
+      "uid": "Meilah_481",
+      "chapter_number": 40,
+      "verse_number": 10,
+      "start_char": 41058,
+      "end_char": 41120,
+      "length": 63,
+      "text": "אמר לו: תן לו חתיכה כו׳. שמע מינה: מוסיף על שליחותו – הוי שליח!"
+    },
+    {
+      "uid": "Meilah_482",
+      "chapter_number": 40,
+      "verse_number": 11,
+      "start_char": 41121,
+      "end_char": 41168,
+      "length": 48,
+      "text": "אמר רב ששת: דאמר שליח: טול אחת מדעתו ואחת מדעתי."
+    },
+    {
+      "uid": "Meilah_483",
+      "chapter_number": 41,
+      "verse_number": 1,
+      "start_char": 41169,
+      "end_char": 41231,
+      "length": 63,
+      "text": "מהו דתימא: עקר שליח שליחותיה דבעל הבית, ולא למעול – קא משמע לן."
+    },
+    {
+      "uid": "Meilah_484",
+      "chapter_number": 41,
+      "verse_number": 2,
+      "start_char": 41232,
+      "end_char": 41466,
+      "length": 235,
+      "text": "מתני׳ אמר לו: ״הבא לי מן החלון או מן הדלוסקמא״, והביא לו. אף על פי שאמר בעל הבית: ״לא היה בלבי אלא מזה״, והביא מזה – בעל הבית מעל. אבל אם אמר לו: ״הבא לי מן החלון״, והביא לו מן הדלוסקמא, או ״מן הדלוסקמא״, והביא לו מן החלון – השליח מעל."
+    },
+    {
+      "uid": "Meilah_485",
+      "chapter_number": 41,
+      "verse_number": 3,
+      "start_char": 41467,
+      "end_char": 41548,
+      "length": 82,
+      "text": "שלח ביד חרש שוטה וקטן, אם עשו שליחותו – בעל הבית מעל, לא עשו שליחותו – חנווני מעל."
+    },
+    {
+      "uid": "Meilah_486",
+      "chapter_number": 41,
+      "verse_number": 4,
+      "start_char": 41549,
+      "end_char": 41612,
+      "length": 64,
+      "text": "שלח ביד פקח, ונזכר עד שלא הגיע אצל חנווני – חנווני מעל לכשיוציא."
+    },
+    {
+      "uid": "Meilah_487",
+      "chapter_number": 41,
+      "verse_number": 5,
+      "start_char": 41613,
+      "end_char": 41719,
+      "length": 107,
+      "text": "כיצד יעשה? נוטל פרוטה או כלי, ואומר: ״פרוטה של הקדש בכל מקום שהוא מחולל על זה״, שההקדש נפדה בכסף ובשוה כסף."
+    },
+    {
+      "uid": "Meilah_488",
+      "chapter_number": 41,
+      "verse_number": 6,
+      "start_char": 41720,
+      "end_char": 41761,
+      "length": 42,
+      "text": "גמ׳ מאי קא משמע לן? דברים שבלב אינם דברים."
+    },
+    {
+      "uid": "Meilah_489",
+      "chapter_number": 41,
+      "verse_number": 7,
+      "start_char": 41762,
+      "end_char": 41826,
+      "length": 65,
+      "text": "שילח ביד חרש שוטה וקטן, אם עשו [וכו׳]. והא לאו בני שליחותא נינהו!"
+    },
+    {
+      "uid": "Meilah_490",
+      "chapter_number": 41,
+      "verse_number": 8,
+      "start_char": 41827,
+      "end_char": 41862,
+      "length": 36,
+      "text": "אמר רבי אלעזר: עשאום כמעטן של זיתים,"
+    },
+    {
+      "uid": "Meilah_491",
+      "chapter_number": 41,
+      "verse_number": 9,
+      "start_char": 41863,
+      "end_char": 41932,
+      "length": 70,
+      "text": "דתנן: הזיתים, מאימתי מקבלין טומאה? משיזיעו זיעת המעטן, ולא זיעת הקופה."
+    },
+    {
+      "uid": "Meilah_492",
+      "chapter_number": 41,
+      "verse_number": 10,
+      "start_char": 41933,
+      "end_char": 42097,
+      "length": 165,
+      "text": "רבי יוחנן אמר: כאותה ששנינו, נתנו על גבי הקוף והוליכו, או על גבי הפיל והוליכו, ואמר לאחר לקבלו ממנו – הרי זה עירוב. אלמא קא עבדא שליחותיה. הכי נמי, איתעביד שליחותיה."
+    },
+    {
+      "uid": "Meilah_493",
+      "chapter_number": 41,
+      "verse_number": 11,
+      "start_char": 42098,
+      "end_char": 42215,
+      "length": 118,
+      "text": "שלח ביד פקח וכו׳. ואף על גב דלא אידכר שליח. ורמינהי: נזכר בעל הבית ולא נזכר שליח – השליח מעל, נזכרו שניהם – חנוני מעל!"
+    },
+    {
+      "uid": "Meilah_494",
+      "chapter_number": 41,
+      "verse_number": 12,
+      "start_char": 42216,
+      "end_char": 42254,
+      "length": 39,
+      "text": "אמר רב ששת: מתניתין נמי, כשנזכרו שניהם."
+    },
+    {
+      "uid": "Meilah_495",
+      "chapter_number": 41,
+      "verse_number": 13,
+      "start_char": 42255,
+      "end_char": 42462,
+      "length": 208,
+      "text": "מתני׳ נתן לו פרוטה, אמר לו: ״הבא לי בחציה נרות ובחציה פתילות״ והלך והביא לו בכולה פתילות או בכולה נרות, או שאמר לו: ״הבא לי בכולה נרות״, או ״בכולה פתילות״, והלך והביא בחציה נרות ובחציה פתילות – שניהם לא מעלו."
+    },
+    {
+      "uid": "Meilah_496",
+      "chapter_number": 41,
+      "verse_number": 14,
+      "start_char": 42463,
+      "end_char": 42600,
+      "length": 138,
+      "text": "אבל אם אמר לו: ״הבא לי בחציה נרות ממקום פלוני ובחציה פתילות ממקום פלוני״, והלך והביא לו נרות ממקום פתילות, ופתילות ממקום נרות – השליח מעל."
+    },
+    {
+      "uid": "Meilah_497",
+      "chapter_number": 41,
+      "verse_number": 15,
+      "start_char": 42601,
+      "end_char": 42786,
+      "length": 186,
+      "text": "נתן לו שתי פרוטות, ואמר לו: ״לך והבא לי אתרוג״, והלך והביא לו באחת אתרוג ובאחת רימון – שניהם מעלו. רבי יהודה אומר: בעל הבית לא מעל, שהוא אומר לו: אתרוג גדול הייתי מבקש, והבאת לי קטן ורע."
+    },
+    {
+      "uid": "Meilah_498",
+      "chapter_number": 41,
+      "verse_number": 16,
+      "start_char": 42787,
+      "end_char": 42828,
+      "length": 42,
+      "text": "נתן לו דינר זהב, ואמר לו: לך והבא לי חלוק,"
+    },
+    {
+      "uid": "Meilah_499",
+      "chapter_number": 42,
+      "verse_number": 1,
+      "start_char": 42829,
+      "end_char": 42965,
+      "length": 137,
+      "text": "והלך והביא לו בשלשה חלוק ובשלשה טלית – שניהם מעלו. רבי יהודה אומר: בעל הבית לא מעל, שהוא אומר לו: חלוק גדול הייתי מבקש, והבאת לי קטן ורע."
+    },
+    {
+      "uid": "Meilah_500",
+      "chapter_number": 42,
+      "verse_number": 2,
+      "start_char": 42966,
+      "end_char": 43053,
+      "length": 88,
+      "text": "גמ׳ שמעת מינה, מאן דאמר לשלוחו: ״זיל זבן לי כורא דארעא״, ואזל וזבן ליה ליתכא – קני לוקח!"
+    },
+    {
+      "uid": "Meilah_501",
+      "chapter_number": 42,
+      "verse_number": 3,
+      "start_char": 43054,
+      "end_char": 43102,
+      "length": 49,
+      "text": "אמרי: הכא היכי דמי – כגון דאייתי ליה שוה שש בשלש."
+    },
+    {
+      "uid": "Meilah_502",
+      "chapter_number": 42,
+      "verse_number": 4,
+      "start_char": 43103,
+      "end_char": 43211,
+      "length": 109,
+      "text": "אימא סיפא: רבי יהודה אומר: בעל הבית לא מעל, שהוא יכול לומר לו: ״חלוק גדול הייתי מבקש, והבאת לי חלוק קטן ורע״!"
+    },
+    {
+      "uid": "Meilah_503",
+      "chapter_number": 42,
+      "verse_number": 5,
+      "start_char": 43212,
+      "end_char": 43266,
+      "length": 55,
+      "text": "דאמר ליה: אי יהבת דינר כוליה, אייתית לי שוה שני דינרין."
+    },
+    {
+      "uid": "Meilah_504",
+      "chapter_number": 42,
+      "verse_number": 6,
+      "start_char": 43267,
+      "end_char": 43357,
+      "length": 91,
+      "text": "הכי נמי מסתברא, דקתני סיפא: מודה רבי יהודה בקטנית ששניהם מעלו, שהקטנית בפרוטה וקטנית בדינר."
+    },
+    {
+      "uid": "Meilah_505",
+      "chapter_number": 42,
+      "verse_number": 7,
+      "start_char": 43358,
+      "end_char": 43500,
+      "length": 143,
+      "text": "היכי דמי? אי באתרא דזבני בשומא – גבי קטנית נמי, דיהב סלע מוזלי ליה טפי! אמר רב פפא: בדוכתא דמזבני בכני כני, כנא כנא בפרוטה, דהתם פסיק מילתייהו."
+    },
+    {
+      "uid": "Meilah_506",
+      "chapter_number": 42,
+      "verse_number": 8,
+      "start_char": 43501,
+      "end_char": 43755,
+      "length": 255,
+      "text": "מתני׳ המפקיד מעות אצל שולחני, אם צרורין – לא ישתמש בהן. לפיכך, אם הוציא – מעל. אם מותרין – ישתמש בהן. לפיכך, אם הוציא – לא מעל. אצל בעל הבית – בין כך ובין כך לא ישתמש בהן. לפיכך, אם הוציא – מעל. החנווני – כבעל הבית, דברי רבי מאיר. רבי יהודה אומר: כשולחני."
+    },
+    {
+      "uid": "Meilah_507",
+      "chapter_number": 42,
+      "verse_number": 9,
+      "start_char": 43756,
+      "end_char": 43897,
+      "length": 142,
+      "text": "נפלה פרוטה של הקדש בתוך כיסו, או שאמר ״פרוטה בכיס זה הקדש״, כיון שהוציא את הראשונה – מעל, דברי רבי עקיבא. וחכמים אומרים: עד שיוציא את כל הכיס."
+    },
+    {
+      "uid": "Meilah_508",
+      "chapter_number": 42,
+      "verse_number": 10,
+      "start_char": 43898,
+      "end_char": 43988,
+      "length": 91,
+      "text": "ומודה רבי עקיבא לחכמים באומר ״פרוטה מן כיס זה הקדש״, שהוא מוציא והולך עד שיוציא את כל הכיס."
+    },
+    {
+      "uid": "Meilah_509",
+      "chapter_number": 42,
+      "verse_number": 11,
+      "start_char": 43989,
+      "end_char": 44069,
+      "length": 81,
+      "text": "גמ׳ כי אתא רב דימי, אמר: רמי ליה ריש לקיש לרבי יוחנן: מאי שנא רישא ומאי שנא סיפא?"
+    },
+    {
+      "uid": "Meilah_510",
+      "chapter_number": 42,
+      "verse_number": 12,
+      "start_char": 44070,
+      "end_char": 44116,
+      "length": 47,
+      "text": "אמר ליה: סיפא באומר ״לא יפטור כיס זה מן ההקדש״."
+    },
+    {
+      "uid": "Meilah_511",
+      "chapter_number": 42,
+      "verse_number": 13,
+      "start_char": 44117,
+      "end_char": 44266,
+      "length": 150,
+      "text": "כי אתא רבין אמר: כיסין אשוורים רמא ליה, דתנן: האומר ״אחד משווריי הקדש״ – היו לו שנים, הגדול שבהן הקדש! אמר ליה: סיפא באומר ״לא יפטור כיס זה מן ההקדש״."
+    },
+    {
+      "uid": "Meilah_512",
+      "chapter_number": 43,
+      "verse_number": 1,
+      "start_char": 44267,
+      "end_char": 44327,
+      "length": 61,
+      "text": "רב פפא אמר: כיסין אלוגין רמא ליה, דתנן: הלוקח יין מבין הכותים"
+    },
+    {
+      "uid": "Meilah_513",
+      "chapter_number": 43,
+      "verse_number": 2,
+      "start_char": 44328,
+      "end_char": 44445,
+      "length": 118,
+      "text": "אומר: ״שני לוגין שאני עתיד להפריש – הרי הן תרומה, עשרה – מעשר ראשון, תשעה – מעשר שני״, ומיחל ושותה מיד, דברי רבי מאיר."
+    },
+    {
+      "uid": "Meilah_514",
+      "chapter_number": 43,
+      "verse_number": 3,
+      "start_char": 44446,
+      "end_char": 44539,
+      "length": 94,
+      "text": "רבי יהודה ורבי יוסי ורבי שמעון אוסרים! אמר ליה: סיפא דמתניתין באומר ״לא יפטר כיס זה מן ההקדש״."
+    },
+    {
+      "uid": "Meilah_515",
+      "chapter_number": 43,
+      "verse_number": 4,
+      "start_char": 44540,
+      "end_char": 44587,
+      "length": 48,
+      "text": "הדרן עלך השליח שעשה שליחותו וסליקא לה מסכת מעילה"
+    }
+  ]
+}

@@ -1,0 +1,3909 @@
+{
+  "title": "Yedid Nefesh",
+  "categories": [
+    "Liturgy",
+    "Piyutim"
+  ],
+  "sectionNames": [
+    "Liturgy"
+  ],
+  "lines": [
+    {
+      "uid": "Yedid_Nefesh_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 1,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 2,
+      "end_char": 2,
+      "length": 1,
+      "text": "ד"
+    },
+    {
+      "uid": "Yedid_Nefesh_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 3,
+      "end_char": 3,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 4,
+      "end_char": 4,
+      "length": 1,
+      "text": "ד"
+    },
+    {
+      "uid": "Yedid_Nefesh_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 5,
+      "end_char": 5,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 6,
+      "end_char": 6,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 7,
+      "end_char": 7,
+      "length": 1,
+      "text": "פ"
+    },
+    {
+      "uid": "Yedid_Nefesh_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 8,
+      "end_char": 8,
+      "length": 1,
+      "text": "ש"
+    },
+    {
+      "uid": "Yedid_Nefesh_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 9,
+      "end_char": 9,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 10,
+      "end_char": 10,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 11,
+      "end_char": 11,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 12,
+      "end_char": 12,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 13,
+      "end_char": 13,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 14,
+      "end_char": 14,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 15,
+      "end_char": 15,
+      "length": 1,
+      "text": "ח"
+    },
+    {
+      "uid": "Yedid_Nefesh_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 16,
+      "end_char": 16,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 17,
+      "end_char": 17,
+      "length": 1,
+      "text": "ן"
+    },
+    {
+      "uid": "Yedid_Nefesh_18",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 18,
+      "end_char": 18,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_19",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 19,
+      "end_char": 19,
+      "length": 1,
+      "text": "ש"
+    },
+    {
+      "uid": "Yedid_Nefesh_20",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 20,
+      "end_char": 20,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_21",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 21,
+      "end_char": 21,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_22",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 22,
+      "end_char": 22,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_23",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 23,
+      "end_char": 23,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_24",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 24,
+      "end_char": 24,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_25",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 25,
+      "end_char": 25,
+      "length": 1,
+      "text": "ד"
+    },
+    {
+      "uid": "Yedid_Nefesh_26",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 26,
+      "end_char": 26,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_27",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 27,
+      "end_char": 27,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_28",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 28,
+      "end_char": 28,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_29",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 29,
+      "end_char": 29,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_30",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 30,
+      "end_char": 30,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_31",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 31,
+      "end_char": 31,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_32",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 32,
+      "end_char": 32,
+      "length": 1,
+      "text": "צ"
+    },
+    {
+      "uid": "Yedid_Nefesh_33",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 33,
+      "end_char": 33,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_34",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 34,
+      "end_char": 34,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_35",
+      "chapter_number": 2,
+      "verse_number": 18,
+      "start_char": 35,
+      "end_char": 35,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_36",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 36,
+      "end_char": 36,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_37",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 37,
+      "end_char": 37,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_38",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 38,
+      "end_char": 38,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_39",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 39,
+      "end_char": 39,
+      "length": 1,
+      "text": "ץ"
+    },
+    {
+      "uid": "Yedid_Nefesh_40",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 40,
+      "end_char": 40,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_41",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 41,
+      "end_char": 41,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_42",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 42,
+      "end_char": 42,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_43",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 43,
+      "end_char": 43,
+      "length": 1,
+      "text": "ד"
+    },
+    {
+      "uid": "Yedid_Nefesh_44",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 44,
+      "end_char": 44,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_45",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 45,
+      "end_char": 45,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_46",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 46,
+      "end_char": 46,
+      "length": 1,
+      "text": "כ"
+    },
+    {
+      "uid": "Yedid_Nefesh_47",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 47,
+      "end_char": 47,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_48",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 48,
+      "end_char": 48,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_49",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 49,
+      "end_char": 49,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_50",
+      "chapter_number": 3,
+      "verse_number": 15,
+      "start_char": 50,
+      "end_char": 50,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_51",
+      "chapter_number": 3,
+      "verse_number": 16,
+      "start_char": 51,
+      "end_char": 51,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_52",
+      "chapter_number": 3,
+      "verse_number": 17,
+      "start_char": 52,
+      "end_char": 51,
+      "length": 0,
+      "text": ""
+    },
+    {
+      "uid": "Yedid_Nefesh_53",
+      "chapter_number": 3,
+      "verse_number": 18,
+      "start_char": 52,
+      "end_char": 52,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_54",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 53,
+      "end_char": 53,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_55",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 54,
+      "end_char": 54,
+      "length": 1,
+      "text": "ש"
+    },
+    {
+      "uid": "Yedid_Nefesh_56",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 55,
+      "end_char": 55,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_57",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 56,
+      "end_char": 56,
+      "length": 1,
+      "text": "ח"
+    },
+    {
+      "uid": "Yedid_Nefesh_58",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 57,
+      "end_char": 57,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_59",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 58,
+      "end_char": 58,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_60",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 59,
+      "end_char": 59,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_61",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 60,
+      "end_char": 60,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_62",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 61,
+      "end_char": 61,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_63",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 62,
+      "end_char": 62,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_64",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 63,
+      "end_char": 63,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_65",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 64,
+      "end_char": 64,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_66",
+      "chapter_number": 4,
+      "verse_number": 13,
+      "start_char": 65,
+      "end_char": 65,
+      "length": 1,
+      "text": "ד"
+    },
+    {
+      "uid": "Yedid_Nefesh_67",
+      "chapter_number": 4,
+      "verse_number": 14,
+      "start_char": 66,
+      "end_char": 66,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_68",
+      "chapter_number": 4,
+      "verse_number": 15,
+      "start_char": 67,
+      "end_char": 67,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_69",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 68,
+      "end_char": 68,
+      "length": 1,
+      "text": "כ"
+    },
+    {
+      "uid": "Yedid_Nefesh_70",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 69,
+      "end_char": 69,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_71",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 70,
+      "end_char": 70,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_72",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 71,
+      "end_char": 71,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_73",
+      "chapter_number": 5,
+      "verse_number": 5,
+      "start_char": 72,
+      "end_char": 72,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_74",
+      "chapter_number": 5,
+      "verse_number": 6,
+      "start_char": 73,
+      "end_char": 73,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_75",
+      "chapter_number": 5,
+      "verse_number": 7,
+      "start_char": 74,
+      "end_char": 74,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_76",
+      "chapter_number": 5,
+      "verse_number": 8,
+      "start_char": 75,
+      "end_char": 75,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_77",
+      "chapter_number": 5,
+      "verse_number": 9,
+      "start_char": 76,
+      "end_char": 76,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_78",
+      "chapter_number": 5,
+      "verse_number": 10,
+      "start_char": 77,
+      "end_char": 77,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_79",
+      "chapter_number": 5,
+      "verse_number": 11,
+      "start_char": 78,
+      "end_char": 78,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_80",
+      "chapter_number": 5,
+      "verse_number": 12,
+      "start_char": 79,
+      "end_char": 79,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_81",
+      "chapter_number": 5,
+      "verse_number": 13,
+      "start_char": 80,
+      "end_char": 80,
+      "length": 1,
+      "text": "ד"
+    },
+    {
+      "uid": "Yedid_Nefesh_82",
+      "chapter_number": 5,
+      "verse_number": 14,
+      "start_char": 81,
+      "end_char": 81,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_83",
+      "chapter_number": 5,
+      "verse_number": 15,
+      "start_char": 82,
+      "end_char": 82,
+      "length": 1,
+      "text": "ד"
+    },
+    {
+      "uid": "Yedid_Nefesh_84",
+      "chapter_number": 5,
+      "verse_number": 16,
+      "start_char": 83,
+      "end_char": 83,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_85",
+      "chapter_number": 5,
+      "verse_number": 17,
+      "start_char": 84,
+      "end_char": 84,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_86",
+      "chapter_number": 5,
+      "verse_number": 18,
+      "start_char": 85,
+      "end_char": 85,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_87",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 86,
+      "end_char": 86,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_88",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 87,
+      "end_char": 87,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_89",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 88,
+      "end_char": 88,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_90",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 89,
+      "end_char": 89,
+      "length": 1,
+      "text": "פ"
+    },
+    {
+      "uid": "Yedid_Nefesh_91",
+      "chapter_number": 6,
+      "verse_number": 5,
+      "start_char": 90,
+      "end_char": 90,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_92",
+      "chapter_number": 6,
+      "verse_number": 6,
+      "start_char": 91,
+      "end_char": 91,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_93",
+      "chapter_number": 6,
+      "verse_number": 7,
+      "start_char": 92,
+      "end_char": 92,
+      "length": 1,
+      "text": "צ"
+    },
+    {
+      "uid": "Yedid_Nefesh_94",
+      "chapter_number": 6,
+      "verse_number": 8,
+      "start_char": 93,
+      "end_char": 93,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_95",
+      "chapter_number": 6,
+      "verse_number": 9,
+      "start_char": 94,
+      "end_char": 94,
+      "length": 1,
+      "text": "ף"
+    },
+    {
+      "uid": "Yedid_Nefesh_96",
+      "chapter_number": 6,
+      "verse_number": 10,
+      "start_char": 95,
+      "end_char": 95,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_97",
+      "chapter_number": 6,
+      "verse_number": 11,
+      "start_char": 96,
+      "end_char": 96,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_98",
+      "chapter_number": 6,
+      "verse_number": 12,
+      "start_char": 97,
+      "end_char": 97,
+      "length": 1,
+      "text": "כ"
+    },
+    {
+      "uid": "Yedid_Nefesh_99",
+      "chapter_number": 6,
+      "verse_number": 13,
+      "start_char": 98,
+      "end_char": 98,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_100",
+      "chapter_number": 6,
+      "verse_number": 14,
+      "start_char": 99,
+      "end_char": 99,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_101",
+      "chapter_number": 6,
+      "verse_number": 15,
+      "start_char": 100,
+      "end_char": 100,
+      "length": 1,
+      "text": "ט"
+    },
+    {
+      "uid": "Yedid_Nefesh_102",
+      "chapter_number": 6,
+      "verse_number": 16,
+      "start_char": 101,
+      "end_char": 101,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_103",
+      "chapter_number": 6,
+      "verse_number": 17,
+      "start_char": 102,
+      "end_char": 102,
+      "length": 1,
+      "text": "ם"
+    },
+    {
+      "uid": "Yedid_Nefesh_104",
+      "chapter_number": 6,
+      "verse_number": 18,
+      "start_char": 103,
+      "end_char": 103,
+      "length": 1,
+      "text": "."
+    },
+    {
+      "uid": "Yedid_Nefesh_105",
+      "chapter_number": 6,
+      "verse_number": 19,
+      "start_char": 104,
+      "end_char": 104,
+      "length": 1,
+      "text": "<"
+    },
+    {
+      "uid": "Yedid_Nefesh_106",
+      "chapter_number": 6,
+      "verse_number": 20,
+      "start_char": 105,
+      "end_char": 105,
+      "length": 1,
+      "text": "b"
+    },
+    {
+      "uid": "Yedid_Nefesh_107",
+      "chapter_number": 6,
+      "verse_number": 21,
+      "start_char": 106,
+      "end_char": 106,
+      "length": 1,
+      "text": "r"
+    },
+    {
+      "uid": "Yedid_Nefesh_108",
+      "chapter_number": 6,
+      "verse_number": 22,
+      "start_char": 107,
+      "end_char": 107,
+      "length": 1,
+      "text": ">"
+    },
+    {
+      "uid": "Yedid_Nefesh_109",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 108,
+      "end_char": 108,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_110",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 109,
+      "end_char": 109,
+      "length": 1,
+      "text": "ד"
+    },
+    {
+      "uid": "Yedid_Nefesh_111",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 110,
+      "end_char": 110,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_112",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 111,
+      "end_char": 111,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_113",
+      "chapter_number": 7,
+      "verse_number": 5,
+      "start_char": 112,
+      "end_char": 112,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_114",
+      "chapter_number": 7,
+      "verse_number": 6,
+      "start_char": 113,
+      "end_char": 113,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_115",
+      "chapter_number": 7,
+      "verse_number": 7,
+      "start_char": 114,
+      "end_char": 114,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_116",
+      "chapter_number": 7,
+      "verse_number": 8,
+      "start_char": 115,
+      "end_char": 115,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_117",
+      "chapter_number": 7,
+      "verse_number": 9,
+      "start_char": 116,
+      "end_char": 116,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_118",
+      "chapter_number": 7,
+      "verse_number": 10,
+      "start_char": 117,
+      "end_char": 117,
+      "length": 1,
+      "text": "ז"
+    },
+    {
+      "uid": "Yedid_Nefesh_119",
+      "chapter_number": 7,
+      "verse_number": 11,
+      "start_char": 118,
+      "end_char": 118,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_120",
+      "chapter_number": 7,
+      "verse_number": 12,
+      "start_char": 119,
+      "end_char": 119,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_121",
+      "chapter_number": 7,
+      "verse_number": 13,
+      "start_char": 120,
+      "end_char": 120,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_122",
+      "chapter_number": 7,
+      "verse_number": 14,
+      "start_char": 121,
+      "end_char": 121,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_123",
+      "chapter_number": 7,
+      "verse_number": 15,
+      "start_char": 122,
+      "end_char": 122,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_124",
+      "chapter_number": 7,
+      "verse_number": 16,
+      "start_char": 123,
+      "end_char": 123,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_125",
+      "chapter_number": 7,
+      "verse_number": 17,
+      "start_char": 124,
+      "end_char": 124,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_126",
+      "chapter_number": 7,
+      "verse_number": 18,
+      "start_char": 125,
+      "end_char": 125,
+      "length": 1,
+      "text": "ם"
+    },
+    {
+      "uid": "Yedid_Nefesh_127",
+      "chapter_number": 8,
+      "verse_number": 1,
+      "start_char": 126,
+      "end_char": 126,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_128",
+      "chapter_number": 8,
+      "verse_number": 2,
+      "start_char": 127,
+      "end_char": 127,
+      "length": 1,
+      "text": "פ"
+    },
+    {
+      "uid": "Yedid_Nefesh_129",
+      "chapter_number": 8,
+      "verse_number": 3,
+      "start_char": 128,
+      "end_char": 128,
+      "length": 1,
+      "text": "ש"
+    },
+    {
+      "uid": "Yedid_Nefesh_130",
+      "chapter_number": 8,
+      "verse_number": 4,
+      "start_char": 129,
+      "end_char": 129,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_131",
+      "chapter_number": 8,
+      "verse_number": 5,
+      "start_char": 130,
+      "end_char": 130,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_132",
+      "chapter_number": 8,
+      "verse_number": 6,
+      "start_char": 131,
+      "end_char": 131,
+      "length": 1,
+      "text": "ח"
+    },
+    {
+      "uid": "Yedid_Nefesh_133",
+      "chapter_number": 8,
+      "verse_number": 7,
+      "start_char": 132,
+      "end_char": 132,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_134",
+      "chapter_number": 8,
+      "verse_number": 8,
+      "start_char": 133,
+      "end_char": 133,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_135",
+      "chapter_number": 8,
+      "verse_number": 9,
+      "start_char": 134,
+      "end_char": 134,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_136",
+      "chapter_number": 8,
+      "verse_number": 10,
+      "start_char": 135,
+      "end_char": 135,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_137",
+      "chapter_number": 8,
+      "verse_number": 11,
+      "start_char": 136,
+      "end_char": 136,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_138",
+      "chapter_number": 8,
+      "verse_number": 12,
+      "start_char": 137,
+      "end_char": 137,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_139",
+      "chapter_number": 8,
+      "verse_number": 13,
+      "start_char": 138,
+      "end_char": 138,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_140",
+      "chapter_number": 8,
+      "verse_number": 14,
+      "start_char": 139,
+      "end_char": 139,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_141",
+      "chapter_number": 8,
+      "verse_number": 15,
+      "start_char": 140,
+      "end_char": 140,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_142",
+      "chapter_number": 9,
+      "verse_number": 1,
+      "start_char": 141,
+      "end_char": 141,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_143",
+      "chapter_number": 9,
+      "verse_number": 2,
+      "start_char": 142,
+      "end_char": 142,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_144",
+      "chapter_number": 9,
+      "verse_number": 3,
+      "start_char": 143,
+      "end_char": 143,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_145",
+      "chapter_number": 9,
+      "verse_number": 4,
+      "start_char": 144,
+      "end_char": 144,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_146",
+      "chapter_number": 9,
+      "verse_number": 5,
+      "start_char": 145,
+      "end_char": 145,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_147",
+      "chapter_number": 9,
+      "verse_number": 6,
+      "start_char": 146,
+      "end_char": 146,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_148",
+      "chapter_number": 9,
+      "verse_number": 7,
+      "start_char": 147,
+      "end_char": 147,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_149",
+      "chapter_number": 9,
+      "verse_number": 8,
+      "start_char": 148,
+      "end_char": 148,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_150",
+      "chapter_number": 9,
+      "verse_number": 9,
+      "start_char": 149,
+      "end_char": 149,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_151",
+      "chapter_number": 9,
+      "verse_number": 10,
+      "start_char": 150,
+      "end_char": 150,
+      "length": 1,
+      "text": ","
+    },
+    {
+      "uid": "Yedid_Nefesh_152",
+      "chapter_number": 9,
+      "verse_number": 11,
+      "start_char": 151,
+      "end_char": 151,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_153",
+      "chapter_number": 9,
+      "verse_number": 12,
+      "start_char": 152,
+      "end_char": 152,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_154",
+      "chapter_number": 9,
+      "verse_number": 13,
+      "start_char": 153,
+      "end_char": 153,
+      "length": 1,
+      "text": "פ"
+    },
+    {
+      "uid": "Yedid_Nefesh_155",
+      "chapter_number": 9,
+      "verse_number": 14,
+      "start_char": 154,
+      "end_char": 154,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_156",
+      "chapter_number": 9,
+      "verse_number": 15,
+      "start_char": 155,
+      "end_char": 155,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_157",
+      "chapter_number": 9,
+      "verse_number": 16,
+      "start_char": 156,
+      "end_char": 156,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_158",
+      "chapter_number": 9,
+      "verse_number": 17,
+      "start_char": 157,
+      "end_char": 157,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_159",
+      "chapter_number": 9,
+      "verse_number": 18,
+      "start_char": 158,
+      "end_char": 158,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_160",
+      "chapter_number": 9,
+      "verse_number": 19,
+      "start_char": 159,
+      "end_char": 159,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_161",
+      "chapter_number": 9,
+      "verse_number": 20,
+      "start_char": 160,
+      "end_char": 160,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_162",
+      "chapter_number": 10,
+      "verse_number": 1,
+      "start_char": 161,
+      "end_char": 161,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_163",
+      "chapter_number": 10,
+      "verse_number": 2,
+      "start_char": 162,
+      "end_char": 162,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_164",
+      "chapter_number": 10,
+      "verse_number": 3,
+      "start_char": 163,
+      "end_char": 163,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_165",
+      "chapter_number": 10,
+      "verse_number": 4,
+      "start_char": 164,
+      "end_char": 164,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_166",
+      "chapter_number": 10,
+      "verse_number": 5,
+      "start_char": 165,
+      "end_char": 165,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_167",
+      "chapter_number": 10,
+      "verse_number": 6,
+      "start_char": 166,
+      "end_char": 166,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_168",
+      "chapter_number": 10,
+      "verse_number": 7,
+      "start_char": 167,
+      "end_char": 167,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_169",
+      "chapter_number": 10,
+      "verse_number": 8,
+      "start_char": 168,
+      "end_char": 168,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_170",
+      "chapter_number": 10,
+      "verse_number": 9,
+      "start_char": 169,
+      "end_char": 169,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_171",
+      "chapter_number": 10,
+      "verse_number": 10,
+      "start_char": 170,
+      "end_char": 170,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_172",
+      "chapter_number": 10,
+      "verse_number": 11,
+      "start_char": 171,
+      "end_char": 171,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_173",
+      "chapter_number": 10,
+      "verse_number": 12,
+      "start_char": 172,
+      "end_char": 172,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_174",
+      "chapter_number": 10,
+      "verse_number": 13,
+      "start_char": 173,
+      "end_char": 173,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_175",
+      "chapter_number": 10,
+      "verse_number": 14,
+      "start_char": 174,
+      "end_char": 174,
+      "length": 1,
+      "text": "ם"
+    },
+    {
+      "uid": "Yedid_Nefesh_176",
+      "chapter_number": 10,
+      "verse_number": 15,
+      "start_char": 175,
+      "end_char": 175,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_177",
+      "chapter_number": 10,
+      "verse_number": 16,
+      "start_char": 176,
+      "end_char": 176,
+      "length": 1,
+      "text": "ז"
+    },
+    {
+      "uid": "Yedid_Nefesh_178",
+      "chapter_number": 10,
+      "verse_number": 17,
+      "start_char": 177,
+      "end_char": 177,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_179",
+      "chapter_number": 10,
+      "verse_number": 18,
+      "start_char": 178,
+      "end_char": 178,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_180",
+      "chapter_number": 10,
+      "verse_number": 19,
+      "start_char": 179,
+      "end_char": 179,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_181",
+      "chapter_number": 11,
+      "verse_number": 1,
+      "start_char": 180,
+      "end_char": 180,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_182",
+      "chapter_number": 11,
+      "verse_number": 2,
+      "start_char": 181,
+      "end_char": 181,
+      "length": 1,
+      "text": "ז"
+    },
+    {
+      "uid": "Yedid_Nefesh_183",
+      "chapter_number": 11,
+      "verse_number": 3,
+      "start_char": 182,
+      "end_char": 182,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_184",
+      "chapter_number": 11,
+      "verse_number": 4,
+      "start_char": 183,
+      "end_char": 183,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_185",
+      "chapter_number": 11,
+      "verse_number": 5,
+      "start_char": 184,
+      "end_char": 184,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_186",
+      "chapter_number": 11,
+      "verse_number": 6,
+      "start_char": 185,
+      "end_char": 185,
+      "length": 1,
+      "text": "ח"
+    },
+    {
+      "uid": "Yedid_Nefesh_187",
+      "chapter_number": 11,
+      "verse_number": 7,
+      "start_char": 186,
+      "end_char": 186,
+      "length": 1,
+      "text": "ז"
+    },
+    {
+      "uid": "Yedid_Nefesh_188",
+      "chapter_number": 11,
+      "verse_number": 8,
+      "start_char": 187,
+      "end_char": 187,
+      "length": 1,
+      "text": "ק"
+    },
+    {
+      "uid": "Yedid_Nefesh_189",
+      "chapter_number": 11,
+      "verse_number": 9,
+      "start_char": 188,
+      "end_char": 188,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_190",
+      "chapter_number": 11,
+      "verse_number": 10,
+      "start_char": 189,
+      "end_char": 189,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_191",
+      "chapter_number": 11,
+      "verse_number": 11,
+      "start_char": 190,
+      "end_char": 190,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_192",
+      "chapter_number": 11,
+      "verse_number": 12,
+      "start_char": 191,
+      "end_char": 191,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_193",
+      "chapter_number": 11,
+      "verse_number": 13,
+      "start_char": 192,
+      "end_char": 192,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_194",
+      "chapter_number": 11,
+      "verse_number": 14,
+      "start_char": 193,
+      "end_char": 193,
+      "length": 1,
+      "text": "פ"
+    },
+    {
+      "uid": "Yedid_Nefesh_195",
+      "chapter_number": 11,
+      "verse_number": 15,
+      "start_char": 194,
+      "end_char": 194,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_196",
+      "chapter_number": 12,
+      "verse_number": 1,
+      "start_char": 195,
+      "end_char": 195,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_197",
+      "chapter_number": 12,
+      "verse_number": 2,
+      "start_char": 196,
+      "end_char": 196,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_198",
+      "chapter_number": 12,
+      "verse_number": 3,
+      "start_char": 197,
+      "end_char": 197,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_199",
+      "chapter_number": 12,
+      "verse_number": 4,
+      "start_char": 198,
+      "end_char": 198,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_200",
+      "chapter_number": 12,
+      "verse_number": 5,
+      "start_char": 199,
+      "end_char": 199,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_201",
+      "chapter_number": 12,
+      "verse_number": 6,
+      "start_char": 200,
+      "end_char": 200,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_202",
+      "chapter_number": 12,
+      "verse_number": 7,
+      "start_char": 201,
+      "end_char": 201,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_203",
+      "chapter_number": 12,
+      "verse_number": 8,
+      "start_char": 202,
+      "end_char": 201,
+      "length": 0,
+      "text": ""
+    },
+    {
+      "uid": "Yedid_Nefesh_204",
+      "chapter_number": 12,
+      "verse_number": 9,
+      "start_char": 202,
+      "end_char": 202,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_205",
+      "chapter_number": 12,
+      "verse_number": 10,
+      "start_char": 203,
+      "end_char": 202,
+      "length": 0,
+      "text": ""
+    },
+    {
+      "uid": "Yedid_Nefesh_206",
+      "chapter_number": 12,
+      "verse_number": 11,
+      "start_char": 203,
+      "end_char": 203,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_207",
+      "chapter_number": 12,
+      "verse_number": 12,
+      "start_char": 204,
+      "end_char": 204,
+      "length": 1,
+      "text": "ש"
+    },
+    {
+      "uid": "Yedid_Nefesh_208",
+      "chapter_number": 12,
+      "verse_number": 13,
+      "start_char": 205,
+      "end_char": 205,
+      "length": 1,
+      "text": "פ"
+    },
+    {
+      "uid": "Yedid_Nefesh_209",
+      "chapter_number": 12,
+      "verse_number": 14,
+      "start_char": 206,
+      "end_char": 206,
+      "length": 1,
+      "text": "ח"
+    },
+    {
+      "uid": "Yedid_Nefesh_210",
+      "chapter_number": 12,
+      "verse_number": 15,
+      "start_char": 207,
+      "end_char": 207,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_211",
+      "chapter_number": 12,
+      "verse_number": 16,
+      "start_char": 208,
+      "end_char": 208,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_212",
+      "chapter_number": 12,
+      "verse_number": 17,
+      "start_char": 209,
+      "end_char": 209,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_213",
+      "chapter_number": 12,
+      "verse_number": 18,
+      "start_char": 210,
+      "end_char": 210,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_214",
+      "chapter_number": 12,
+      "verse_number": 19,
+      "start_char": 211,
+      "end_char": 211,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_215",
+      "chapter_number": 12,
+      "verse_number": 20,
+      "start_char": 212,
+      "end_char": 212,
+      "length": 1,
+      "text": "ם"
+    },
+    {
+      "uid": "Yedid_Nefesh_216",
+      "chapter_number": 12,
+      "verse_number": 21,
+      "start_char": 213,
+      "end_char": 213,
+      "length": 1,
+      "text": "."
+    },
+    {
+      "uid": "Yedid_Nefesh_217",
+      "chapter_number": 12,
+      "verse_number": 22,
+      "start_char": 214,
+      "end_char": 214,
+      "length": 1,
+      "text": "<"
+    },
+    {
+      "uid": "Yedid_Nefesh_218",
+      "chapter_number": 12,
+      "verse_number": 23,
+      "start_char": 215,
+      "end_char": 215,
+      "length": 1,
+      "text": "b"
+    },
+    {
+      "uid": "Yedid_Nefesh_219",
+      "chapter_number": 12,
+      "verse_number": 24,
+      "start_char": 216,
+      "end_char": 216,
+      "length": 1,
+      "text": "r"
+    },
+    {
+      "uid": "Yedid_Nefesh_220",
+      "chapter_number": 12,
+      "verse_number": 25,
+      "start_char": 217,
+      "end_char": 217,
+      "length": 1,
+      "text": ">"
+    },
+    {
+      "uid": "Yedid_Nefesh_221",
+      "chapter_number": 13,
+      "verse_number": 1,
+      "start_char": 218,
+      "end_char": 218,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_222",
+      "chapter_number": 13,
+      "verse_number": 2,
+      "start_char": 219,
+      "end_char": 219,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_223",
+      "chapter_number": 13,
+      "verse_number": 3,
+      "start_char": 220,
+      "end_char": 220,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_224",
+      "chapter_number": 13,
+      "verse_number": 4,
+      "start_char": 221,
+      "end_char": 221,
+      "length": 1,
+      "text": "ק"
+    },
+    {
+      "uid": "Yedid_Nefesh_225",
+      "chapter_number": 13,
+      "verse_number": 5,
+      "start_char": 222,
+      "end_char": 222,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_226",
+      "chapter_number": 13,
+      "verse_number": 6,
+      "start_char": 223,
+      "end_char": 223,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_227",
+      "chapter_number": 13,
+      "verse_number": 7,
+      "start_char": 224,
+      "end_char": 224,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_228",
+      "chapter_number": 13,
+      "verse_number": 8,
+      "start_char": 225,
+      "end_char": 225,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_229",
+      "chapter_number": 13,
+      "verse_number": 9,
+      "start_char": 226,
+      "end_char": 226,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_230",
+      "chapter_number": 13,
+      "verse_number": 10,
+      "start_char": 227,
+      "end_char": 227,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_231",
+      "chapter_number": 13,
+      "verse_number": 11,
+      "start_char": 228,
+      "end_char": 228,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_232",
+      "chapter_number": 13,
+      "verse_number": 12,
+      "start_char": 229,
+      "end_char": 229,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_233",
+      "chapter_number": 13,
+      "verse_number": 13,
+      "start_char": 230,
+      "end_char": 230,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_234",
+      "chapter_number": 13,
+      "verse_number": 14,
+      "start_char": 231,
+      "end_char": 231,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_235",
+      "chapter_number": 13,
+      "verse_number": 15,
+      "start_char": 232,
+      "end_char": 232,
+      "length": 1,
+      "text": "ח"
+    },
+    {
+      "uid": "Yedid_Nefesh_236",
+      "chapter_number": 13,
+      "verse_number": 16,
+      "start_char": 233,
+      "end_char": 233,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_237",
+      "chapter_number": 13,
+      "verse_number": 17,
+      "start_char": 234,
+      "end_char": 234,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_238",
+      "chapter_number": 13,
+      "verse_number": 18,
+      "start_char": 235,
+      "end_char": 235,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_239",
+      "chapter_number": 14,
+      "verse_number": 1,
+      "start_char": 236,
+      "end_char": 236,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_240",
+      "chapter_number": 14,
+      "verse_number": 2,
+      "start_char": 237,
+      "end_char": 237,
+      "length": 1,
+      "text": "ח"
+    },
+    {
+      "uid": "Yedid_Nefesh_241",
+      "chapter_number": 14,
+      "verse_number": 3,
+      "start_char": 238,
+      "end_char": 238,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_242",
+      "chapter_number": 14,
+      "verse_number": 4,
+      "start_char": 239,
+      "end_char": 239,
+      "length": 1,
+      "text": "ס"
+    },
+    {
+      "uid": "Yedid_Nefesh_243",
+      "chapter_number": 14,
+      "verse_number": 5,
+      "start_char": 240,
+      "end_char": 240,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_244",
+      "chapter_number": 14,
+      "verse_number": 6,
+      "start_char": 241,
+      "end_char": 241,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_245",
+      "chapter_number": 14,
+      "verse_number": 7,
+      "start_char": 242,
+      "end_char": 242,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_246",
+      "chapter_number": 14,
+      "verse_number": 8,
+      "start_char": 243,
+      "end_char": 243,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_247",
+      "chapter_number": 14,
+      "verse_number": 9,
+      "start_char": 244,
+      "end_char": 244,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_248",
+      "chapter_number": 14,
+      "verse_number": 10,
+      "start_char": 245,
+      "end_char": 245,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_249",
+      "chapter_number": 14,
+      "verse_number": 11,
+      "start_char": 246,
+      "end_char": 246,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_250",
+      "chapter_number": 14,
+      "verse_number": 12,
+      "start_char": 247,
+      "end_char": 247,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_251",
+      "chapter_number": 14,
+      "verse_number": 13,
+      "start_char": 248,
+      "end_char": 248,
+      "length": 1,
+      "text": "ן"
+    },
+    {
+      "uid": "Yedid_Nefesh_252",
+      "chapter_number": 14,
+      "verse_number": 14,
+      "start_char": 249,
+      "end_char": 249,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_253",
+      "chapter_number": 14,
+      "verse_number": 15,
+      "start_char": 250,
+      "end_char": 250,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_254",
+      "chapter_number": 14,
+      "verse_number": 16,
+      "start_char": 251,
+      "end_char": 251,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_255",
+      "chapter_number": 14,
+      "verse_number": 17,
+      "start_char": 252,
+      "end_char": 252,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_256",
+      "chapter_number": 14,
+      "verse_number": 18,
+      "start_char": 253,
+      "end_char": 253,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_257",
+      "chapter_number": 14,
+      "verse_number": 19,
+      "start_char": 254,
+      "end_char": 254,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_258",
+      "chapter_number": 15,
+      "verse_number": 1,
+      "start_char": 255,
+      "end_char": 255,
+      "length": 1,
+      "text": "כ"
+    },
+    {
+      "uid": "Yedid_Nefesh_259",
+      "chapter_number": 15,
+      "verse_number": 2,
+      "start_char": 256,
+      "end_char": 256,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_260",
+      "chapter_number": 15,
+      "verse_number": 3,
+      "start_char": 257,
+      "end_char": 257,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_261",
+      "chapter_number": 15,
+      "verse_number": 4,
+      "start_char": 258,
+      "end_char": 258,
+      "length": 1,
+      "text": "ז"
+    },
+    {
+      "uid": "Yedid_Nefesh_262",
+      "chapter_number": 15,
+      "verse_number": 5,
+      "start_char": 259,
+      "end_char": 259,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_263",
+      "chapter_number": 15,
+      "verse_number": 6,
+      "start_char": 260,
+      "end_char": 260,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_264",
+      "chapter_number": 15,
+      "verse_number": 7,
+      "start_char": 261,
+      "end_char": 261,
+      "length": 1,
+      "text": "כ"
+    },
+    {
+      "uid": "Yedid_Nefesh_265",
+      "chapter_number": 15,
+      "verse_number": 8,
+      "start_char": 262,
+      "end_char": 262,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_266",
+      "chapter_number": 15,
+      "verse_number": 9,
+      "start_char": 263,
+      "end_char": 263,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_267",
+      "chapter_number": 15,
+      "verse_number": 10,
+      "start_char": 264,
+      "end_char": 264,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_268",
+      "chapter_number": 15,
+      "verse_number": 11,
+      "start_char": 265,
+      "end_char": 265,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_269",
+      "chapter_number": 15,
+      "verse_number": 12,
+      "start_char": 266,
+      "end_char": 266,
+      "length": 1,
+      "text": "כ"
+    },
+    {
+      "uid": "Yedid_Nefesh_270",
+      "chapter_number": 15,
+      "verse_number": 13,
+      "start_char": 267,
+      "end_char": 267,
+      "length": 1,
+      "text": "ס"
+    },
+    {
+      "uid": "Yedid_Nefesh_271",
+      "chapter_number": 15,
+      "verse_number": 14,
+      "start_char": 268,
+      "end_char": 268,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_272",
+      "chapter_number": 15,
+      "verse_number": 15,
+      "start_char": 269,
+      "end_char": 269,
+      "length": 1,
+      "text": "ף"
+    },
+    {
+      "uid": "Yedid_Nefesh_273",
+      "chapter_number": 15,
+      "verse_number": 16,
+      "start_char": 270,
+      "end_char": 270,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_274",
+      "chapter_number": 15,
+      "verse_number": 17,
+      "start_char": 271,
+      "end_char": 271,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_275",
+      "chapter_number": 15,
+      "verse_number": 18,
+      "start_char": 272,
+      "end_char": 272,
+      "length": 1,
+      "text": "כ"
+    },
+    {
+      "uid": "Yedid_Nefesh_276",
+      "chapter_number": 15,
+      "verse_number": 19,
+      "start_char": 273,
+      "end_char": 273,
+      "length": 1,
+      "text": "ס"
+    },
+    {
+      "uid": "Yedid_Nefesh_277",
+      "chapter_number": 15,
+      "verse_number": 20,
+      "start_char": 274,
+      "end_char": 274,
+      "length": 1,
+      "text": "ף"
+    },
+    {
+      "uid": "Yedid_Nefesh_278",
+      "chapter_number": 16,
+      "verse_number": 1,
+      "start_char": 275,
+      "end_char": 275,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_279",
+      "chapter_number": 16,
+      "verse_number": 2,
+      "start_char": 276,
+      "end_char": 276,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_280",
+      "chapter_number": 16,
+      "verse_number": 3,
+      "start_char": 277,
+      "end_char": 277,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_281",
+      "chapter_number": 16,
+      "verse_number": 4,
+      "start_char": 278,
+      "end_char": 278,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_282",
+      "chapter_number": 16,
+      "verse_number": 5,
+      "start_char": 279,
+      "end_char": 279,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_283",
+      "chapter_number": 16,
+      "verse_number": 6,
+      "start_char": 280,
+      "end_char": 280,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_284",
+      "chapter_number": 16,
+      "verse_number": 7,
+      "start_char": 281,
+      "end_char": 281,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_285",
+      "chapter_number": 16,
+      "verse_number": 8,
+      "start_char": 282,
+      "end_char": 282,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_286",
+      "chapter_number": 16,
+      "verse_number": 9,
+      "start_char": 283,
+      "end_char": 283,
+      "length": 1,
+      "text": "פ"
+    },
+    {
+      "uid": "Yedid_Nefesh_287",
+      "chapter_number": 16,
+      "verse_number": 10,
+      "start_char": 284,
+      "end_char": 284,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_288",
+      "chapter_number": 16,
+      "verse_number": 11,
+      "start_char": 285,
+      "end_char": 285,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_289",
+      "chapter_number": 16,
+      "verse_number": 12,
+      "start_char": 286,
+      "end_char": 286,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_290",
+      "chapter_number": 16,
+      "verse_number": 13,
+      "start_char": 287,
+      "end_char": 287,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_291",
+      "chapter_number": 16,
+      "verse_number": 14,
+      "start_char": 288,
+      "end_char": 288,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_292",
+      "chapter_number": 16,
+      "verse_number": 15,
+      "start_char": 289,
+      "end_char": 289,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_293",
+      "chapter_number": 16,
+      "verse_number": 16,
+      "start_char": 290,
+      "end_char": 290,
+      "length": 1,
+      "text": "ז"
+    },
+    {
+      "uid": "Yedid_Nefesh_294",
+      "chapter_number": 16,
+      "verse_number": 17,
+      "start_char": 291,
+      "end_char": 291,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_295",
+      "chapter_number": 17,
+      "verse_number": 1,
+      "start_char": 292,
+      "end_char": 292,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_296",
+      "chapter_number": 17,
+      "verse_number": 2,
+      "start_char": 293,
+      "end_char": 293,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_297",
+      "chapter_number": 17,
+      "verse_number": 3,
+      "start_char": 294,
+      "end_char": 294,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_298",
+      "chapter_number": 17,
+      "verse_number": 4,
+      "start_char": 295,
+      "end_char": 295,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_299",
+      "chapter_number": 17,
+      "verse_number": 5,
+      "start_char": 296,
+      "end_char": 296,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_300",
+      "chapter_number": 17,
+      "verse_number": 6,
+      "start_char": 297,
+      "end_char": 297,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_301",
+      "chapter_number": 17,
+      "verse_number": 7,
+      "start_char": 298,
+      "end_char": 298,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_302",
+      "chapter_number": 17,
+      "verse_number": 8,
+      "start_char": 299,
+      "end_char": 299,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_303",
+      "chapter_number": 17,
+      "verse_number": 9,
+      "start_char": 300,
+      "end_char": 300,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_304",
+      "chapter_number": 17,
+      "verse_number": 10,
+      "start_char": 301,
+      "end_char": 301,
+      "length": 1,
+      "text": "ח"
+    },
+    {
+      "uid": "Yedid_Nefesh_305",
+      "chapter_number": 17,
+      "verse_number": 11,
+      "start_char": 302,
+      "end_char": 302,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_306",
+      "chapter_number": 17,
+      "verse_number": 12,
+      "start_char": 303,
+      "end_char": 303,
+      "length": 1,
+      "text": "ד"
+    },
+    {
+      "uid": "Yedid_Nefesh_307",
+      "chapter_number": 17,
+      "verse_number": 13,
+      "start_char": 304,
+      "end_char": 304,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_308",
+      "chapter_number": 17,
+      "verse_number": 14,
+      "start_char": 305,
+      "end_char": 305,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_309",
+      "chapter_number": 17,
+      "verse_number": 15,
+      "start_char": 306,
+      "end_char": 306,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_310",
+      "chapter_number": 17,
+      "verse_number": 16,
+      "start_char": 307,
+      "end_char": 307,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_311",
+      "chapter_number": 17,
+      "verse_number": 17,
+      "start_char": 308,
+      "end_char": 308,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_312",
+      "chapter_number": 18,
+      "verse_number": 1,
+      "start_char": 309,
+      "end_char": 309,
+      "length": 1,
+      "text": "ח"
+    },
+    {
+      "uid": "Yedid_Nefesh_313",
+      "chapter_number": 18,
+      "verse_number": 2,
+      "start_char": 310,
+      "end_char": 310,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_314",
+      "chapter_number": 18,
+      "verse_number": 3,
+      "start_char": 311,
+      "end_char": 311,
+      "length": 1,
+      "text": "ש"
+    },
+    {
+      "uid": "Yedid_Nefesh_315",
+      "chapter_number": 18,
+      "verse_number": 4,
+      "start_char": 312,
+      "end_char": 312,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_316",
+      "chapter_number": 18,
+      "verse_number": 5,
+      "start_char": 313,
+      "end_char": 313,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_317",
+      "chapter_number": 18,
+      "verse_number": 6,
+      "start_char": 314,
+      "end_char": 314,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_318",
+      "chapter_number": 18,
+      "verse_number": 7,
+      "start_char": 315,
+      "end_char": 315,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_319",
+      "chapter_number": 18,
+      "verse_number": 8,
+      "start_char": 316,
+      "end_char": 316,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_320",
+      "chapter_number": 18,
+      "verse_number": 9,
+      "start_char": 317,
+      "end_char": 317,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_321",
+      "chapter_number": 18,
+      "verse_number": 10,
+      "start_char": 318,
+      "end_char": 318,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_322",
+      "chapter_number": 18,
+      "verse_number": 11,
+      "start_char": 319,
+      "end_char": 319,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_323",
+      "chapter_number": 18,
+      "verse_number": 12,
+      "start_char": 320,
+      "end_char": 320,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_324",
+      "chapter_number": 18,
+      "verse_number": 13,
+      "start_char": 321,
+      "end_char": 321,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_325",
+      "chapter_number": 18,
+      "verse_number": 14,
+      "start_char": 322,
+      "end_char": 322,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_326",
+      "chapter_number": 18,
+      "verse_number": 15,
+      "start_char": 323,
+      "end_char": 323,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_327",
+      "chapter_number": 18,
+      "verse_number": 16,
+      "start_char": 324,
+      "end_char": 324,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_328",
+      "chapter_number": 18,
+      "verse_number": 17,
+      "start_char": 325,
+      "end_char": 325,
+      "length": 1,
+      "text": "ם"
+    },
+    {
+      "uid": "Yedid_Nefesh_329",
+      "chapter_number": 18,
+      "verse_number": 18,
+      "start_char": 326,
+      "end_char": 326,
+      "length": 1,
+      "text": "."
+    },
+    {
+      "uid": "Yedid_Nefesh_330",
+      "chapter_number": 18,
+      "verse_number": 19,
+      "start_char": 327,
+      "end_char": 327,
+      "length": 1,
+      "text": "<"
+    },
+    {
+      "uid": "Yedid_Nefesh_331",
+      "chapter_number": 18,
+      "verse_number": 20,
+      "start_char": 328,
+      "end_char": 328,
+      "length": 1,
+      "text": "b"
+    },
+    {
+      "uid": "Yedid_Nefesh_332",
+      "chapter_number": 18,
+      "verse_number": 21,
+      "start_char": 329,
+      "end_char": 329,
+      "length": 1,
+      "text": "r"
+    },
+    {
+      "uid": "Yedid_Nefesh_333",
+      "chapter_number": 18,
+      "verse_number": 22,
+      "start_char": 330,
+      "end_char": 330,
+      "length": 1,
+      "text": ">"
+    },
+    {
+      "uid": "Yedid_Nefesh_334",
+      "chapter_number": 19,
+      "verse_number": 1,
+      "start_char": 331,
+      "end_char": 331,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_335",
+      "chapter_number": 19,
+      "verse_number": 2,
+      "start_char": 332,
+      "end_char": 332,
+      "length": 1,
+      "text": "ג"
+    },
+    {
+      "uid": "Yedid_Nefesh_336",
+      "chapter_number": 19,
+      "verse_number": 3,
+      "start_char": 333,
+      "end_char": 333,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_337",
+      "chapter_number": 19,
+      "verse_number": 4,
+      "start_char": 334,
+      "end_char": 334,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_338",
+      "chapter_number": 19,
+      "verse_number": 5,
+      "start_char": 335,
+      "end_char": 335,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_339",
+      "chapter_number": 19,
+      "verse_number": 6,
+      "start_char": 336,
+      "end_char": 336,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_340",
+      "chapter_number": 19,
+      "verse_number": 7,
+      "start_char": 337,
+      "end_char": 337,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_341",
+      "chapter_number": 19,
+      "verse_number": 8,
+      "start_char": 338,
+      "end_char": 338,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_342",
+      "chapter_number": 19,
+      "verse_number": 9,
+      "start_char": 339,
+      "end_char": 339,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_343",
+      "chapter_number": 19,
+      "verse_number": 10,
+      "start_char": 340,
+      "end_char": 340,
+      "length": 1,
+      "text": "פ"
+    },
+    {
+      "uid": "Yedid_Nefesh_344",
+      "chapter_number": 19,
+      "verse_number": 11,
+      "start_char": 341,
+      "end_char": 341,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_345",
+      "chapter_number": 19,
+      "verse_number": 12,
+      "start_char": 342,
+      "end_char": 342,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_346",
+      "chapter_number": 19,
+      "verse_number": 13,
+      "start_char": 343,
+      "end_char": 343,
+      "length": 1,
+      "text": "ס"
+    },
+    {
+      "uid": "Yedid_Nefesh_347",
+      "chapter_number": 19,
+      "verse_number": 14,
+      "start_char": 344,
+      "end_char": 344,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_348",
+      "chapter_number": 19,
+      "verse_number": 15,
+      "start_char": 345,
+      "end_char": 345,
+      "length": 1,
+      "text": "ח"
+    },
+    {
+      "uid": "Yedid_Nefesh_349",
+      "chapter_number": 19,
+      "verse_number": 16,
+      "start_char": 346,
+      "end_char": 346,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_350",
+      "chapter_number": 19,
+      "verse_number": 17,
+      "start_char": 347,
+      "end_char": 347,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_351",
+      "chapter_number": 19,
+      "verse_number": 18,
+      "start_char": 348,
+      "end_char": 348,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_352",
+      "chapter_number": 20,
+      "verse_number": 1,
+      "start_char": 349,
+      "end_char": 349,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_353",
+      "chapter_number": 20,
+      "verse_number": 2,
+      "start_char": 350,
+      "end_char": 350,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_354",
+      "chapter_number": 20,
+      "verse_number": 3,
+      "start_char": 351,
+      "end_char": 351,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_355",
+      "chapter_number": 20,
+      "verse_number": 4,
+      "start_char": 352,
+      "end_char": 352,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_356",
+      "chapter_number": 20,
+      "verse_number": 5,
+      "start_char": 353,
+      "end_char": 353,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_357",
+      "chapter_number": 20,
+      "verse_number": 6,
+      "start_char": 354,
+      "end_char": 354,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_358",
+      "chapter_number": 20,
+      "verse_number": 7,
+      "start_char": 355,
+      "end_char": 355,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_359",
+      "chapter_number": 20,
+      "verse_number": 8,
+      "start_char": 356,
+      "end_char": 356,
+      "length": 1,
+      "text": "ס"
+    },
+    {
+      "uid": "Yedid_Nefesh_360",
+      "chapter_number": 20,
+      "verse_number": 9,
+      "start_char": 357,
+      "end_char": 357,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_361",
+      "chapter_number": 20,
+      "verse_number": 10,
+      "start_char": 358,
+      "end_char": 358,
+      "length": 1,
+      "text": "כ"
+    },
+    {
+      "uid": "Yedid_Nefesh_362",
+      "chapter_number": 20,
+      "verse_number": 11,
+      "start_char": 359,
+      "end_char": 359,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_363",
+      "chapter_number": 20,
+      "verse_number": 12,
+      "start_char": 360,
+      "end_char": 360,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_364",
+      "chapter_number": 20,
+      "verse_number": 13,
+      "start_char": 361,
+      "end_char": 361,
+      "length": 1,
+      "text": "ש"
+    },
+    {
+      "uid": "Yedid_Nefesh_365",
+      "chapter_number": 20,
+      "verse_number": 14,
+      "start_char": 362,
+      "end_char": 362,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_366",
+      "chapter_number": 20,
+      "verse_number": 15,
+      "start_char": 363,
+      "end_char": 363,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_367",
+      "chapter_number": 20,
+      "verse_number": 16,
+      "start_char": 364,
+      "end_char": 364,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_368",
+      "chapter_number": 20,
+      "verse_number": 17,
+      "start_char": 365,
+      "end_char": 365,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_369",
+      "chapter_number": 21,
+      "verse_number": 1,
+      "start_char": 366,
+      "end_char": 366,
+      "length": 1,
+      "text": "ת"
+    },
+    {
+      "uid": "Yedid_Nefesh_370",
+      "chapter_number": 21,
+      "verse_number": 2,
+      "start_char": 367,
+      "end_char": 367,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_371",
+      "chapter_number": 21,
+      "verse_number": 3,
+      "start_char": 368,
+      "end_char": 368,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_372",
+      "chapter_number": 21,
+      "verse_number": 4,
+      "start_char": 369,
+      "end_char": 369,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_373",
+      "chapter_number": 21,
+      "verse_number": 5,
+      "start_char": 370,
+      "end_char": 370,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_374",
+      "chapter_number": 21,
+      "verse_number": 6,
+      "start_char": 371,
+      "end_char": 371,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_375",
+      "chapter_number": 21,
+      "verse_number": 7,
+      "start_char": 372,
+      "end_char": 372,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_376",
+      "chapter_number": 21,
+      "verse_number": 8,
+      "start_char": 373,
+      "end_char": 373,
+      "length": 1,
+      "text": "ץ"
+    },
+    {
+      "uid": "Yedid_Nefesh_377",
+      "chapter_number": 21,
+      "verse_number": 9,
+      "start_char": 374,
+      "end_char": 374,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_378",
+      "chapter_number": 21,
+      "verse_number": 10,
+      "start_char": 375,
+      "end_char": 375,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_379",
+      "chapter_number": 21,
+      "verse_number": 11,
+      "start_char": 376,
+      "end_char": 376,
+      "length": 1,
+      "text": "כ"
+    },
+    {
+      "uid": "Yedid_Nefesh_380",
+      "chapter_number": 21,
+      "verse_number": 12,
+      "start_char": 377,
+      "end_char": 377,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_381",
+      "chapter_number": 21,
+      "verse_number": 13,
+      "start_char": 378,
+      "end_char": 378,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_382",
+      "chapter_number": 21,
+      "verse_number": 14,
+      "start_char": 379,
+      "end_char": 379,
+      "length": 1,
+      "text": "ד"
+    },
+    {
+      "uid": "Yedid_Nefesh_383",
+      "chapter_number": 21,
+      "verse_number": 15,
+      "start_char": 380,
+      "end_char": 380,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_384",
+      "chapter_number": 22,
+      "verse_number": 1,
+      "start_char": 381,
+      "end_char": 381,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_385",
+      "chapter_number": 22,
+      "verse_number": 2,
+      "start_char": 382,
+      "end_char": 382,
+      "length": 1,
+      "text": "ג"
+    },
+    {
+      "uid": "Yedid_Nefesh_386",
+      "chapter_number": 22,
+      "verse_number": 3,
+      "start_char": 383,
+      "end_char": 383,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_387",
+      "chapter_number": 22,
+      "verse_number": 4,
+      "start_char": 384,
+      "end_char": 384,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_388",
+      "chapter_number": 22,
+      "verse_number": 5,
+      "start_char": 385,
+      "end_char": 385,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_389",
+      "chapter_number": 22,
+      "verse_number": 6,
+      "start_char": 386,
+      "end_char": 386,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_390",
+      "chapter_number": 22,
+      "verse_number": 7,
+      "start_char": 387,
+      "end_char": 387,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_391",
+      "chapter_number": 22,
+      "verse_number": 8,
+      "start_char": 388,
+      "end_char": 388,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_392",
+      "chapter_number": 22,
+      "verse_number": 9,
+      "start_char": 389,
+      "end_char": 389,
+      "length": 1,
+      "text": "ש"
+    },
+    {
+      "uid": "Yedid_Nefesh_393",
+      "chapter_number": 22,
+      "verse_number": 10,
+      "start_char": 390,
+      "end_char": 390,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_394",
+      "chapter_number": 22,
+      "verse_number": 11,
+      "start_char": 391,
+      "end_char": 391,
+      "length": 1,
+      "text": "ח"
+    },
+    {
+      "uid": "Yedid_Nefesh_395",
+      "chapter_number": 22,
+      "verse_number": 12,
+      "start_char": 392,
+      "end_char": 392,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_396",
+      "chapter_number": 22,
+      "verse_number": 13,
+      "start_char": 393,
+      "end_char": 393,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_397",
+      "chapter_number": 22,
+      "verse_number": 14,
+      "start_char": 394,
+      "end_char": 394,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_398",
+      "chapter_number": 22,
+      "verse_number": 15,
+      "start_char": 395,
+      "end_char": 395,
+      "length": 1,
+      "text": "ך"
+    },
+    {
+      "uid": "Yedid_Nefesh_399",
+      "chapter_number": 23,
+      "verse_number": 1,
+      "start_char": 396,
+      "end_char": 396,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_400",
+      "chapter_number": 23,
+      "verse_number": 2,
+      "start_char": 397,
+      "end_char": 397,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_401",
+      "chapter_number": 23,
+      "verse_number": 3,
+      "start_char": 398,
+      "end_char": 398,
+      "length": 1,
+      "text": "ר"
+    },
+    {
+      "uid": "Yedid_Nefesh_402",
+      "chapter_number": 23,
+      "verse_number": 4,
+      "start_char": 399,
+      "end_char": 399,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_403",
+      "chapter_number": 23,
+      "verse_number": 5,
+      "start_char": 400,
+      "end_char": 400,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_404",
+      "chapter_number": 23,
+      "verse_number": 6,
+      "start_char": 401,
+      "end_char": 401,
+      "length": 1,
+      "text": "ה"
+    },
+    {
+      "uid": "Yedid_Nefesh_405",
+      "chapter_number": 23,
+      "verse_number": 7,
+      "start_char": 402,
+      "end_char": 402,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_406",
+      "chapter_number": 23,
+      "verse_number": 8,
+      "start_char": 403,
+      "end_char": 403,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_407",
+      "chapter_number": 23,
+      "verse_number": 9,
+      "start_char": 404,
+      "end_char": 404,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_408",
+      "chapter_number": 23,
+      "verse_number": 10,
+      "start_char": 405,
+      "end_char": 405,
+      "length": 1,
+      "text": "כ"
+    },
+    {
+      "uid": "Yedid_Nefesh_409",
+      "chapter_number": 23,
+      "verse_number": 11,
+      "start_char": 406,
+      "end_char": 406,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_410",
+      "chapter_number": 23,
+      "verse_number": 12,
+      "start_char": 407,
+      "end_char": 407,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_411",
+      "chapter_number": 23,
+      "verse_number": 13,
+      "start_char": 408,
+      "end_char": 408,
+      "length": 1,
+      "text": "ב"
+    },
+    {
+      "uid": "Yedid_Nefesh_412",
+      "chapter_number": 23,
+      "verse_number": 14,
+      "start_char": 409,
+      "end_char": 409,
+      "length": 1,
+      "text": "א"
+    },
+    {
+      "uid": "Yedid_Nefesh_413",
+      "chapter_number": 23,
+      "verse_number": 15,
+      "start_char": 410,
+      "end_char": 410,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_414",
+      "chapter_number": 23,
+      "verse_number": 16,
+      "start_char": 411,
+      "end_char": 411,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_415",
+      "chapter_number": 23,
+      "verse_number": 17,
+      "start_char": 412,
+      "end_char": 412,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_416",
+      "chapter_number": 23,
+      "verse_number": 18,
+      "start_char": 413,
+      "end_char": 413,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_417",
+      "chapter_number": 23,
+      "verse_number": 19,
+      "start_char": 414,
+      "end_char": 414,
+      "length": 1,
+      "text": "ד"
+    },
+    {
+      "uid": "Yedid_Nefesh_418",
+      "chapter_number": 24,
+      "verse_number": 1,
+      "start_char": 415,
+      "end_char": 415,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_419",
+      "chapter_number": 24,
+      "verse_number": 2,
+      "start_char": 416,
+      "end_char": 416,
+      "length": 1,
+      "text": "ח"
+    },
+    {
+      "uid": "Yedid_Nefesh_420",
+      "chapter_number": 24,
+      "verse_number": 3,
+      "start_char": 417,
+      "end_char": 417,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_421",
+      "chapter_number": 24,
+      "verse_number": 4,
+      "start_char": 418,
+      "end_char": 418,
+      "length": 1,
+      "text": "נ"
+    },
+    {
+      "uid": "Yedid_Nefesh_422",
+      "chapter_number": 24,
+      "verse_number": 5,
+      "start_char": 419,
+      "end_char": 419,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_423",
+      "chapter_number": 24,
+      "verse_number": 6,
+      "start_char": 420,
+      "end_char": 420,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_424",
+      "chapter_number": 24,
+      "verse_number": 7,
+      "start_char": 421,
+      "end_char": 421,
+      "length": 1,
+      "text": "כ"
+    },
+    {
+      "uid": "Yedid_Nefesh_425",
+      "chapter_number": 24,
+      "verse_number": 8,
+      "start_char": 422,
+      "end_char": 422,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_426",
+      "chapter_number": 24,
+      "verse_number": 9,
+      "start_char": 423,
+      "end_char": 423,
+      "length": 1,
+      "text": "מ"
+    },
+    {
+      "uid": "Yedid_Nefesh_427",
+      "chapter_number": 24,
+      "verse_number": 10,
+      "start_char": 424,
+      "end_char": 424,
+      "length": 1,
+      "text": "י"
+    },
+    {
+      "uid": "Yedid_Nefesh_428",
+      "chapter_number": 24,
+      "verse_number": 11,
+      "start_char": 425,
+      "end_char": 425,
+      "length": 1,
+      "text": " "
+    },
+    {
+      "uid": "Yedid_Nefesh_429",
+      "chapter_number": 24,
+      "verse_number": 12,
+      "start_char": 426,
+      "end_char": 426,
+      "length": 1,
+      "text": "ע"
+    },
+    {
+      "uid": "Yedid_Nefesh_430",
+      "chapter_number": 24,
+      "verse_number": 13,
+      "start_char": 427,
+      "end_char": 427,
+      "length": 1,
+      "text": "ו"
+    },
+    {
+      "uid": "Yedid_Nefesh_431",
+      "chapter_number": 24,
+      "verse_number": 14,
+      "start_char": 428,
+      "end_char": 428,
+      "length": 1,
+      "text": "ל"
+    },
+    {
+      "uid": "Yedid_Nefesh_432",
+      "chapter_number": 24,
+      "verse_number": 15,
+      "start_char": 429,
+      "end_char": 429,
+      "length": 1,
+      "text": "ם"
+    },
+    {
+      "uid": "Yedid_Nefesh_433",
+      "chapter_number": 24,
+      "verse_number": 16,
+      "start_char": 430,
+      "end_char": 430,
+      "length": 1,
+      "text": "."
+    }
+  ]
+}

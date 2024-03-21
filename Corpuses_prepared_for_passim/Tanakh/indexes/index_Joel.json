@@ -1,0 +1,670 @@
+{
+  "title": "Joel",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Joel_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 34,
+      "length": 34,
+      "text": "דבר־יהוה אשר היה אל־יואל בן־פתואל׃"
+    },
+    {
+      "uid": "Joel_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 35,
+      "end_char": 105,
+      "length": 71,
+      "text": "שמעו־זאת הזקנים והאזינו כל יושבי הארץ ההיתה זאת בימיכם ואם בימי אבתיכם׃"
+    },
+    {
+      "uid": "Joel_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 106,
+      "end_char": 152,
+      "length": 47,
+      "text": "עליה לבניכם ספרו ובניכם לבניהם ובניהם לדור אחר׃"
+    },
+    {
+      "uid": "Joel_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 153,
+      "end_char": 211,
+      "length": 59,
+      "text": "יתר הגזם אכל הארבה ויתר הארבה אכל הילק ויתר הילק אכל החסיל׃"
+    },
+    {
+      "uid": "Joel_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 212,
+      "end_char": 269,
+      "length": 58,
+      "text": "הקיצו שכורים ובכו והיללו כל־שתי יין על־עסיס כי נכרת מפיכם׃"
+    },
+    {
+      "uid": "Joel_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 270,
+      "end_char": 333,
+      "length": 64,
+      "text": "כי־גוי עלה על־ארצי עצום ואין מספר שניו שני אריה ומתלעות לביא לו׃"
+    },
+    {
+      "uid": "Joel_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 334,
+      "end_char": 389,
+      "length": 56,
+      "text": "שם גפני לשמה ותאנתי לקצפה חשף חשפה והשליך הלבינו שריגיה׃"
+    },
+    {
+      "uid": "Joel_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 390,
+      "end_char": 422,
+      "length": 33,
+      "text": "אלי כבתולה חגרת־שק על־בעל נעוריה׃"
+    },
+    {
+      "uid": "Joel_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 423,
+      "end_char": 470,
+      "length": 48,
+      "text": "הכרת מנחה ונסך מבית יהוה אבלו הכהנים משרתי יהוה׃"
+    },
+    {
+      "uid": "Joel_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 471,
+      "end_char": 521,
+      "length": 51,
+      "text": "שדד שדה אבלה אדמה כי שדד דגן הוביש תירוש אמלל יצהר׃"
+    },
+    {
+      "uid": "Joel_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 522,
+      "end_char": 578,
+      "length": 57,
+      "text": "הבישו אכרים הילילו כרמים על־חטה ועל־שערה כי אבד קציר שדה׃"
+    },
+    {
+      "uid": "Joel_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 579,
+      "end_char": 662,
+      "length": 84,
+      "text": "הגפן הובישה והתאנה אמללה רמון גם־תמר ותפוח כל־עצי השדה יבשו כי־הביש ששון מן־בני אדם׃"
+    },
+    {
+      "uid": "Joel_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 663,
+      "end_char": 754,
+      "length": 92,
+      "text": "חגרו וספדו הכהנים הילילו משרתי מזבח באו לינו בשקים משרתי אלהי כי נמנע מבית אלהיכם מנחה ונסך׃"
+    },
+    {
+      "uid": "Joel_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 755,
+      "end_char": 827,
+      "length": 73,
+      "text": "קדשו־צום קראו עצרה אספו זקנים כל ישבי הארץ בית יהוה אלהיכם וזעקו אל־יהוה׃"
+    },
+    {
+      "uid": "Joel_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 828,
+      "end_char": 868,
+      "length": 41,
+      "text": "אהה ליום כי קרוב יום יהוה וכשד משדי יבוא׃"
+    },
+    {
+      "uid": "Joel_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 869,
+      "end_char": 915,
+      "length": 47,
+      "text": "הלוא נגד עינינו אכל נכרת מבית אלהינו שמחה וגיל׃"
+    },
+    {
+      "uid": "Joel_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 916,
+      "end_char": 975,
+      "length": 60,
+      "text": "עבשו פרדות תחת מגרפתיהם נשמו אצרות נהרסו ממגרות כי הביש דגן׃"
+    },
+    {
+      "uid": "Joel_18",
+      "chapter_number": 1,
+      "verse_number": 18,
+      "start_char": 976,
+      "end_char": 1038,
+      "length": 63,
+      "text": "מה־נאנחה בהמה נבכו עדרי בקר כי אין מרעה להם גם־עדרי הצאן נאשמו׃"
+    },
+    {
+      "uid": "Joel_19",
+      "chapter_number": 1,
+      "verse_number": 19,
+      "start_char": 1039,
+      "end_char": 1097,
+      "length": 59,
+      "text": "אליך יהוה אקרא כי אש אכלה נאות מדבר ולהבה להטה כל־עצי השדה׃"
+    },
+    {
+      "uid": "Joel_20",
+      "chapter_number": 1,
+      "verse_number": 20,
+      "start_char": 1098,
+      "end_char": 1159,
+      "length": 62,
+      "text": "גם־בהמות שדה תערוג אליך כי יבשו אפיקי מים ואש אכלה נאות המדבר׃"
+    },
+    {
+      "uid": "Joel_21",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 1160,
+      "end_char": 1233,
+      "length": 74,
+      "text": "תקעו שופר בציון והריעו בהר קדשי ירגזו כל ישבי הארץ כי־בא יום־יהוה כי קרוב׃"
+    },
+    {
+      "uid": "Joel_22",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1234,
+      "end_char": 1344,
+      "length": 111,
+      "text": "יום חשך ואפלה יום ענן וערפל כשחר פרש על־ההרים עם רב ועצום כמהו לא נהיה מן־העולם ואחריו לא יוסף עד־שני דור ודור׃"
+    },
+    {
+      "uid": "Joel_23",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1345,
+      "end_char": 1432,
+      "length": 88,
+      "text": "לפניו אכלה אש ואחריו תלהט להבה כגן־עדן הארץ לפניו ואחריו מדבר שממה וגם־פליטה לא־היתה לו׃"
+    },
+    {
+      "uid": "Joel_24",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 1433,
+      "end_char": 1468,
+      "length": 36,
+      "text": "כמראה סוסים מראהו וכפרשים כן ירוצון׃"
+    },
+    {
+      "uid": "Joel_25",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1469,
+      "end_char": 1541,
+      "length": 73,
+      "text": "כקול מרכבות על־ראשי ההרים ירקדון כקול להב אש אכלה קש כעם עצום ערוך מלחמה׃"
+    },
+    {
+      "uid": "Joel_26",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1542,
+      "end_char": 1577,
+      "length": 36,
+      "text": "מפניו יחילו עמים כל־פנים קבצו פארור׃"
+    },
+    {
+      "uid": "Joel_27",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1578,
+      "end_char": 1649,
+      "length": 72,
+      "text": "כגבורים ירצון כאנשי מלחמה יעלו חומה ואיש בדרכיו ילכון ולא יעבטון ארחותם׃"
+    },
+    {
+      "uid": "Joel_28",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1650,
+      "end_char": 1710,
+      "length": 61,
+      "text": "ואיש אחיו לא ידחקון גבר במסלתו ילכון ובעד השלח יפלו לא יבצעו׃"
+    },
+    {
+      "uid": "Joel_29",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1711,
+      "end_char": 1765,
+      "length": 55,
+      "text": "בעיר ישקו בחומה ירצון בבתים יעלו בעד החלונים יבאו כגנב׃"
+    },
+    {
+      "uid": "Joel_30",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 1766,
+      "end_char": 1822,
+      "length": 57,
+      "text": "לפניו רגזה ארץ רעשו שמים שמש וירח קדרו וכוכבים אספו נגהם׃"
+    },
+    {
+      "uid": "Joel_31",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 1823,
+      "end_char": 1918,
+      "length": 96,
+      "text": "ויהוה נתן קולו לפני חילו כי רב מאד מחנהו כי עצום עשה דברו כי־גדול יום־יהוה ונורא מאד ומי יכילנו׃"
+    },
+    {
+      "uid": "Joel_32",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 1919,
+      "end_char": 1972,
+      "length": 54,
+      "text": "וגם־עתה נאם־יהוה שבו עדי בכל־לבבכם ובצום ובבכי ובמספד׃"
+    },
+    {
+      "uid": "Joel_33",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 1973,
+      "end_char": 2064,
+      "length": 92,
+      "text": "וקרעו לבבכם ואל־בגדיכם ושובו אל־יהוה אלהיכם כי־חנון ורחום הוא ארך אפים ורב־חסד ונחם על־הרעה׃"
+    },
+    {
+      "uid": "Joel_34",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 2065,
+      "end_char": 2123,
+      "length": 59,
+      "text": "מי יודע ישוב ונחם והשאיר אחריו ברכה מנחה ונסך ליהוה אלהיכם׃"
+    },
+    {
+      "uid": "Joel_35",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 2124,
+      "end_char": 2158,
+      "length": 35,
+      "text": "תקעו שופר בציון קדשו־צום קראו עצרה׃"
+    },
+    {
+      "uid": "Joel_36",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 2159,
+      "end_char": 2234,
+      "length": 76,
+      "text": "אספו־עם קדשו קהל קבצו זקנים אספו עוללים וינקי שדים יצא חתן מחדרו וכלה מחפתה׃"
+    },
+    {
+      "uid": "Joel_37",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 2235,
+      "end_char": 2358,
+      "length": 124,
+      "text": "בין האולם ולמזבח יבכו הכהנים משרתי יהוה ויאמרו חוסה יהוה על־עמך ואל־תתן נחלתך לחרפה למשל־בם גוים למה יאמרו בעמים איה אלהיהם׃"
+    },
+    {
+      "uid": "Joel_38",
+      "chapter_number": 2,
+      "verse_number": 18,
+      "start_char": 2359,
+      "end_char": 2388,
+      "length": 30,
+      "text": "ויקנא יהוה לארצו ויחמל על־עמו׃"
+    },
+    {
+      "uid": "Joel_39",
+      "chapter_number": 2,
+      "verse_number": 19,
+      "start_char": 2389,
+      "end_char": 2484,
+      "length": 96,
+      "text": "ויען יהוה ויאמר לעמו הנני שלח לכם את־הדגן והתירוש והיצהר ושבעתם אתו ולא־אתן אתכם עוד חרפה בגוים׃"
+    },
+    {
+      "uid": "Joel_40",
+      "chapter_number": 2,
+      "verse_number": 20,
+      "start_char": 2485,
+      "end_char": 2610,
+      "length": 126,
+      "text": "ואת־הצפוני ארחיק מעליכם והדחתיו אל־ארץ ציה ושממה את־פניו אל־הים הקדמני וספו אל־הים האחרון ועלה באשו ותעל צחנתו כי הגדיל לעשות׃"
+    },
+    {
+      "uid": "Joel_41",
+      "chapter_number": 2,
+      "verse_number": 21,
+      "start_char": 2611,
+      "end_char": 2655,
+      "length": 45,
+      "text": "אל־תיראי אדמה גילי ושמחי כי־הגדיל יהוה לעשות׃"
+    },
+    {
+      "uid": "Joel_42",
+      "chapter_number": 2,
+      "verse_number": 22,
+      "start_char": 2656,
+      "end_char": 2727,
+      "length": 72,
+      "text": "אל־תיראו בהמות שדי כי דשאו נאות מדבר כי־עץ נשא פריו תאנה וגפן נתנו חילם׃"
+    },
+    {
+      "uid": "Joel_43",
+      "chapter_number": 2,
+      "verse_number": 23,
+      "start_char": 2728,
+      "end_char": 2820,
+      "length": 93,
+      "text": "ובני ציון גילו ושמחו ביהוה אלהיכם כי־נתן לכם את־המורה לצדקה ויורד לכם גשם מורה ומלקוש בראשון׃"
+    },
+    {
+      "uid": "Joel_44",
+      "chapter_number": 2,
+      "verse_number": 24,
+      "start_char": 2821,
+      "end_char": 2862,
+      "length": 42,
+      "text": "ומלאו הגרנות בר והשיקו היקבים תירוש ויצהר׃"
+    },
+    {
+      "uid": "Joel_45",
+      "chapter_number": 2,
+      "verse_number": 25,
+      "start_char": 2863,
+      "end_char": 2939,
+      "length": 77,
+      "text": "ושלמתי לכם את־השנים אשר אכל הארבה הילק והחסיל והגזם חילי הגדול אשר שלחתי בכם׃"
+    },
+    {
+      "uid": "Joel_46",
+      "chapter_number": 2,
+      "verse_number": 26,
+      "start_char": 2940,
+      "end_char": 3021,
+      "length": 82,
+      "text": "ואכלתם אכול ושבוע והללתם את־שם יהוה אלהיכם אשר־עשה עמכם להפליא ולא־יבשו עמי לעולם׃"
+    },
+    {
+      "uid": "Joel_47",
+      "chapter_number": 2,
+      "verse_number": 27,
+      "start_char": 3022,
+      "end_char": 3091,
+      "length": 70,
+      "text": "וידעתם כי בקרב ישראל אני ואני יהוה אלהיכם ואין עוד ולא־יבשו עמי לעולם׃"
+    },
+    {
+      "uid": "Joel_48",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 3092,
+      "end_char": 3189,
+      "length": 98,
+      "text": "והיה אחרי־כן אשפוך את־רוחי על־כל־בשר ונבאו בניכם ובנותיכם זקניכם חלמות יחלמון בחוריכם חזינות יראו׃"
+    },
+    {
+      "uid": "Joel_49",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 3190,
+      "end_char": 3239,
+      "length": 50,
+      "text": "וגם על־העבדים ועל־השפחות בימים ההמה אשפוך את־רוחי׃"
+    },
+    {
+      "uid": "Joel_50",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 3240,
+      "end_char": 3283,
+      "length": 44,
+      "text": "ונתתי מופתים בשמים ובארץ דם ואש ותימרות עשן׃"
+    },
+    {
+      "uid": "Joel_51",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 3284,
+      "end_char": 3339,
+      "length": 56,
+      "text": "השמש יהפך לחשך והירח לדם לפני בוא יום יהוה הגדול והנורא׃"
+    },
+    {
+      "uid": "Joel_52",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 3340,
+      "end_char": 3439,
+      "length": 100,
+      "text": "והיה כל אשר־יקרא בשם יהוה ימלט כי בהר־ציון ובירושל͏ם תהיה פליטה כאשר אמר יהוה ובשרידים אשר יהוה קרא׃"
+    },
+    {
+      "uid": "Joel_53",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 3440,
+      "end_char": 3508,
+      "length": 69,
+      "text": "כי הנה בימים ההמה ובעת ההיא אשר (אשוב) [אשיב] את־שבות יהודה וירושל͏ם׃"
+    },
+    {
+      "uid": "Joel_54",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 3509,
+      "end_char": 3614,
+      "length": 106,
+      "text": "וקבצתי את־כל־הגוים והורדתים אל־עמק יהושפט ונשפטתי עמם שם על־עמי ונחלתי ישראל אשר פזרו בגוים ואת־ארצי חלקו׃"
+    },
+    {
+      "uid": "Joel_55",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 3615,
+      "end_char": 3671,
+      "length": 57,
+      "text": "ואל־עמי ידו גורל ויתנו הילד בזונה והילדה מכרו ביין וישתו׃"
+    },
+    {
+      "uid": "Joel_56",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 3672,
+      "end_char": 3776,
+      "length": 105,
+      "text": "וגם מה־אתם לי צר וצידון וכל גלילות פלשת הגמול אתם משלמים עלי ואם־גמלים אתם עלי קל מהרה אשיב גמלכם בראשכם׃"
+    },
+    {
+      "uid": "Joel_57",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 3777,
+      "end_char": 3825,
+      "length": 49,
+      "text": "אשר־כספי וזהבי לקחתם ומחמדי הטבים הבאתם להיכליכם׃"
+    },
+    {
+      "uid": "Joel_58",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 3826,
+      "end_char": 3889,
+      "length": 64,
+      "text": "ובני יהודה ובני ירושל͏ם מכרתם לבני היונים למען הרחיקם מעל גבולם׃"
+    },
+    {
+      "uid": "Joel_59",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 3890,
+      "end_char": 3947,
+      "length": 58,
+      "text": "הנני מעירם מן־המקום אשר־מכרתם אתם שמה והשבתי גמלכם בראשכם׃"
+    },
+    {
+      "uid": "Joel_60",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 3948,
+      "end_char": 4027,
+      "length": 80,
+      "text": "ומכרתי את־בניכם ואת־בנותיכם ביד בני יהודה ומכרום לשבאים אל־גוי רחוק כי יהוה דבר׃"
+    },
+    {
+      "uid": "Joel_61",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 4028,
+      "end_char": 4092,
+      "length": 65,
+      "text": "קראו־זאת בגוים קדשו מלחמה העירו הגבורים יגשו יעלו כל אנשי המלחמה׃"
+    },
+    {
+      "uid": "Joel_62",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 4093,
+      "end_char": 4145,
+      "length": 53,
+      "text": "כתו אתיכם לחרבות ומזמרתיכם לרמחים החלש יאמר גבור אני׃"
+    },
+    {
+      "uid": "Joel_63",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 4146,
+      "end_char": 4198,
+      "length": 53,
+      "text": "עושו ובאו כל־הגוים מסביב ונקבצו שמה הנחת יהוה גבוריך׃"
+    },
+    {
+      "uid": "Joel_64",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 4199,
+      "end_char": 4263,
+      "length": 65,
+      "text": "יעורו ויעלו הגוים אל־עמק יהושפט כי שם אשב לשפט את־כל־הגוים מסביב׃"
+    },
+    {
+      "uid": "Joel_65",
+      "chapter_number": 4,
+      "verse_number": 13,
+      "start_char": 4264,
+      "end_char": 4328,
+      "length": 65,
+      "text": "שלחו מגל כי בשל קציר באו רדו כי־מלאה גת השיקו היקבים כי רבה רעתם׃"
+    },
+    {
+      "uid": "Joel_66",
+      "chapter_number": 4,
+      "verse_number": 14,
+      "start_char": 4329,
+      "end_char": 4381,
+      "length": 53,
+      "text": "המונים המונים בעמק החרוץ כי קרוב יום יהוה בעמק החרוץ׃"
+    },
+    {
+      "uid": "Joel_67",
+      "chapter_number": 4,
+      "verse_number": 15,
+      "start_char": 4382,
+      "end_char": 4413,
+      "length": 32,
+      "text": "שמש וירח קדרו וכוכבים אספו נגהם׃"
+    },
+    {
+      "uid": "Joel_68",
+      "chapter_number": 4,
+      "verse_number": 16,
+      "start_char": 4414,
+      "end_char": 4498,
+      "length": 85,
+      "text": "ויהוה מציון ישאג ומירושל͏ם יתן קולו ורעשו שמים וארץ ויהוה מחסה לעמו ומעוז לבני ישראל׃"
+    },
+    {
+      "uid": "Joel_69",
+      "chapter_number": 4,
+      "verse_number": 17,
+      "start_char": 4499,
+      "end_char": 4582,
+      "length": 84,
+      "text": "וידעתם כי אני יהוה אלהיכם שכן בציון הר־קדשי והיתה ירושל͏ם קדש וזרים לא־יעברו־בה עוד׃"
+    },
+    {
+      "uid": "Joel_70",
+      "chapter_number": 4,
+      "verse_number": 18,
+      "start_char": 4583,
+      "end_char": 4695,
+      "length": 113,
+      "text": "והיה ביום ההוא יטפו ההרים עסיס והגבעות תלכנה חלב וכל־אפיקי יהודה ילכו מים ומעין מבית יהוה יצא והשקה את־נחל השטים׃"
+    },
+    {
+      "uid": "Joel_71",
+      "chapter_number": 4,
+      "verse_number": 19,
+      "start_char": 4696,
+      "end_char": 4772,
+      "length": 77,
+      "text": "מצרים לשממה תהיה ואדום למדבר שממה תהיה מחמס בני יהודה אשר־שפכו דם־נקיא בארצם׃"
+    },
+    {
+      "uid": "Joel_72",
+      "chapter_number": 4,
+      "verse_number": 20,
+      "start_char": 4773,
+      "end_char": 4808,
+      "length": 36,
+      "text": "ויהודה לעולם תשב וירושל͏ם לדור ודור׃"
+    },
+    {
+      "uid": "Joel_73",
+      "chapter_number": 4,
+      "verse_number": 21,
+      "start_char": 4809,
+      "end_char": 4844,
+      "length": 36,
+      "text": "ונקיתי דמם לא־נקיתי ויהוה שכן בציון׃"
+    }
+  ]
+}

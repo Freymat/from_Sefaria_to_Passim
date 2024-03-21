@@ -1,0 +1,6268 @@
+{
+  "title": "II Samuel",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "II_Samuel_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 67,
+      "length": 67,
+      "text": "ויהי אחרי מות שאול ודוד שב מהכות את־העמלק וישב דוד בצקלג ימים שנים׃"
+    },
+    {
+      "uid": "II_Samuel_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 68,
+      "end_char": 176,
+      "length": 109,
+      "text": "ויהי׀ ביום השלישי והנה איש בא מן־המחנה מעם שאול ובגדיו קרעים ואדמה על־ראשו ויהי בבאו אל־דוד ויפל ארצה וישתחו׃"
+    },
+    {
+      "uid": "II_Samuel_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 177,
+      "end_char": 231,
+      "length": 55,
+      "text": "ויאמר לו דוד אי מזה תבוא ויאמר אליו ממחנה ישראל נמלטתי׃"
+    },
+    {
+      "uid": "II_Samuel_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 232,
+      "end_char": 346,
+      "length": 115,
+      "text": "ויאמר אליו דוד מה־היה הדבר הגד־נא לי ויאמר אשר־נס העם מן־המלחמה וגם־הרבה נפל מן־העם וימתו וגם שאול ויהונתן בנו מתו׃"
+    },
+    {
+      "uid": "II_Samuel_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 347,
+      "end_char": 405,
+      "length": 59,
+      "text": "ויאמר דוד אל־הנער המגיד לו איך ידעת כי־מת שאול ויהונתן בנו׃"
+    },
+    {
+      "uid": "II_Samuel_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 406,
+      "end_char": 502,
+      "length": 97,
+      "text": "ויאמר הנער׀ המגיד לו נקרא נקריתי בהר הגלבע והנה שאול נשען על־חניתו והנה הרכב ובעלי הפרשים הדבקהו׃"
+    },
+    {
+      "uid": "II_Samuel_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 503,
+      "end_char": 540,
+      "length": 38,
+      "text": "ויפן אחריו ויראני ויקרא אלי ואמר הנני׃"
+    },
+    {
+      "uid": "II_Samuel_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 541,
+      "end_char": 587,
+      "length": 47,
+      "text": "ויאמר לי מי־אתה (ויאמר) [ואמר] אליו עמלקי אנכי׃"
+    },
+    {
+      "uid": "II_Samuel_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 588,
+      "end_char": 647,
+      "length": 60,
+      "text": "ויאמר אלי עמד־נא עלי ומתתני כי אחזני השבץ כי־כל־עוד נפשי בי׃"
+    },
+    {
+      "uid": "II_Samuel_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 648,
+      "end_char": 757,
+      "length": 110,
+      "text": "ואעמד עליו ואמתתהו כי ידעתי כי לא יחיה אחרי נפלו ואקח הנזר׀ אשר על־ראשו ואצעדה אשר על־זרעו ואביאם אל־אדני הנה׃"
+    },
+    {
+      "uid": "II_Samuel_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 758,
+      "end_char": 802,
+      "length": 45,
+      "text": "ויחזק דוד בבגדו ויקרעם וגם כל־האנשים אשר אתו׃"
+    },
+    {
+      "uid": "II_Samuel_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 803,
+      "end_char": 891,
+      "length": 89,
+      "text": "ויספדו ויבכו ויצמו עד־הערב על־שאול ועל־יהונתן בנו ועל־עם יהוה ועל־בית ישראל כי נפלו בחרב׃"
+    },
+    {
+      "uid": "II_Samuel_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 892,
+      "end_char": 956,
+      "length": 65,
+      "text": "ויאמר דוד אל־הנער המגיד לו אי מזה אתה ויאמר בן־איש גר עמלקי אנכי׃"
+    },
+    {
+      "uid": "II_Samuel_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 957,
+      "end_char": 1010,
+      "length": 54,
+      "text": "ויאמר אליו דוד איך לא יראת לשלח ידך לשחת את־משיח יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 1011,
+      "end_char": 1060,
+      "length": 50,
+      "text": "ויקרא דוד לאחד מהנערים ויאמר גש פגע־בו ויכהו וימת׃"
+    },
+    {
+      "uid": "II_Samuel_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 1061,
+      "end_char": 1138,
+      "length": 78,
+      "text": "ויאמר אליו דוד (דמיך) [דמך] על־ראשך כי פיך ענה בך לאמר אנכי מתתי את־משיח יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 1139,
+      "end_char": 1185,
+      "length": 47,
+      "text": "ויקנן דוד את־הקינה הזאת על־שאול ועל־יהונתן בנו׃"
+    },
+    {
+      "uid": "II_Samuel_18",
+      "chapter_number": 1,
+      "verse_number": 18,
+      "start_char": 1186,
+      "end_char": 1232,
+      "length": 47,
+      "text": "ויאמר ללמד בני־יהודה קשת הנה כתובה על־ספר הישר׃"
+    },
+    {
+      "uid": "II_Samuel_19",
+      "chapter_number": 1,
+      "verse_number": 19,
+      "start_char": 1233,
+      "end_char": 1273,
+      "length": 41,
+      "text": "הצבי ישראל על־במותיך חלל איך נפלו גבורים׃"
+    },
+    {
+      "uid": "II_Samuel_20",
+      "chapter_number": 1,
+      "verse_number": 20,
+      "start_char": 1274,
+      "end_char": 1352,
+      "length": 79,
+      "text": "אל־תגידו בגת אל־תבשרו בחוצת אשקלון פן־תשמחנה בנות פלשתים פן־תעלזנה בנות הערלים׃"
+    },
+    {
+      "uid": "II_Samuel_21",
+      "chapter_number": 1,
+      "verse_number": 21,
+      "start_char": 1353,
+      "end_char": 1438,
+      "length": 86,
+      "text": "הרי בגלבע אל־טל ואל־מטר עליכם ושדי תרומת כי שם נגעל מגן גבורים מגן שאול בלי משיח בשמן׃"
+    },
+    {
+      "uid": "II_Samuel_22",
+      "chapter_number": 1,
+      "verse_number": 22,
+      "start_char": 1439,
+      "end_char": 1507,
+      "length": 69,
+      "text": "מדם חללים מחלב גבורים קשת יהונתן לא נשוג אחור וחרב שאול לא תשוב ריקם׃"
+    },
+    {
+      "uid": "II_Samuel_23",
+      "chapter_number": 1,
+      "verse_number": 23,
+      "start_char": 1508,
+      "end_char": 1582,
+      "length": 75,
+      "text": "שאול ויהונתן הנאהבים והנעימם בחייהם ובמותם לא נפרדו מנשרים קלו מאריות גברו׃"
+    },
+    {
+      "uid": "II_Samuel_24",
+      "chapter_number": 1,
+      "verse_number": 24,
+      "start_char": 1583,
+      "end_char": 1652,
+      "length": 70,
+      "text": "בנות ישראל אל־שאול בכינה המלבשכם שני עם־עדנים המעלה עדי זהב על לבושכן׃"
+    },
+    {
+      "uid": "II_Samuel_25",
+      "chapter_number": 1,
+      "verse_number": 25,
+      "start_char": 1653,
+      "end_char": 1700,
+      "length": 48,
+      "text": "איך נפלו גברים בתוך המלחמה יהונתן על־במותיך חלל׃"
+    },
+    {
+      "uid": "II_Samuel_26",
+      "chapter_number": 1,
+      "verse_number": 26,
+      "start_char": 1701,
+      "end_char": 1761,
+      "length": 61,
+      "text": "צר־לי עליך אחי יהונתן נעמת לי מאד נפלאתה אהבתך לי מאהבת נשים׃"
+    },
+    {
+      "uid": "II_Samuel_27",
+      "chapter_number": 1,
+      "verse_number": 27,
+      "start_char": 1762,
+      "end_char": 1794,
+      "length": 33,
+      "text": "איך נפלו גבורים ויאבדו כלי מלחמה׃"
+    },
+    {
+      "uid": "II_Samuel_28",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 1795,
+      "end_char": 1900,
+      "length": 106,
+      "text": "ויהי אחרי־כן וישאל דוד ביהוה׀לאמר האעלה באחת ערי יהודה ויאמר יהוה אליו עלה ויאמר דוד אנה אעלה ויאמר חברנה׃"
+    },
+    {
+      "uid": "II_Samuel_29",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1901,
+      "end_char": 1964,
+      "length": 64,
+      "text": "ויעל שם דוד וגם שתי נשיו אחינעם היזרעלית ואביגיל אשת נבל הכרמלי׃"
+    },
+    {
+      "uid": "II_Samuel_30",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1965,
+      "end_char": 2015,
+      "length": 51,
+      "text": "ואנשיו אשר־עמו העלה דוד איש וביתו וישבו בערי חברון׃"
+    },
+    {
+      "uid": "II_Samuel_31",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 2016,
+      "end_char": 2115,
+      "length": 100,
+      "text": "ויבאו אנשי יהודה וימשחו־שם את־דוד למלך על־בית יהודה ויגדו לדוד לאמר אנשי יביש גלעד אשר קברו את־שאול׃"
+    },
+    {
+      "uid": "II_Samuel_32",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 2116,
+      "end_char": 2226,
+      "length": 111,
+      "text": "וישלח דוד מלאכים אל־אנשי יביש גלעד ויאמר אליהם ברכים אתם ליהוה אשר עשיתם החסד הזה עם־אדניכם עם־שאול ותקברו אתו׃"
+    },
+    {
+      "uid": "II_Samuel_33",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 2227,
+      "end_char": 2303,
+      "length": 77,
+      "text": "ועתה יעש־יהוה עמכם חסד ואמת וגם אנכי אעשה אתכם הטובה הזאת אשר עשיתם הדבר הזה׃"
+    },
+    {
+      "uid": "II_Samuel_34",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 2304,
+      "end_char": 2388,
+      "length": 85,
+      "text": "ועתה׀ תחזקנה ידיכם והיו לבני־חיל כי־מת אדניכם שאול וגם־אתי משחו בית־יהודה למלך עליהם׃"
+    },
+    {
+      "uid": "II_Samuel_35",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 2389,
+      "end_char": 2454,
+      "length": 66,
+      "text": "ואבנר בן־נר שר־צבא אשר לשאול לקח את־איש בשת בן־שאול ויעברהו מחנים׃"
+    },
+    {
+      "uid": "II_Samuel_36",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 2455,
+      "end_char": 2527,
+      "length": 73,
+      "text": "וימלכהו אל־הגלעד ואל־האשורי ואל־יזרעאל ועל־אפרים ועל־בנימן ועל־ישראל כלה׃"
+    },
+    {
+      "uid": "II_Samuel_37",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 2528,
+      "end_char": 2613,
+      "length": 86,
+      "text": "בן־ארבעים שנה איש־בשת בן־שאול במלכו על־ישראל ושתים שנים מלך אך בית יהודה היו אחרי דוד׃"
+    },
+    {
+      "uid": "II_Samuel_38",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 2614,
+      "end_char": 2685,
+      "length": 72,
+      "text": "ויהי מספר הימים אשר היה דוד מלך בחברון על־בית יהודה שבע שנים וששה חדשים׃"
+    },
+    {
+      "uid": "II_Samuel_39",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 2686,
+      "end_char": 2737,
+      "length": 52,
+      "text": "ויצא אבנר בן־נר ועבדי איש־בשת בן־שאול ממחנים גבעונה׃"
+    },
+    {
+      "uid": "II_Samuel_40",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 2738,
+      "end_char": 2835,
+      "length": 98,
+      "text": "ויואב בן־צרויה ועבדי דוד יצאו ויפגשום על־ברכת גבעון יחדו וישבו אלה על־הברכה מזה ואלה על־הברכה מזה׃"
+    },
+    {
+      "uid": "II_Samuel_41",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 2836,
+      "end_char": 2900,
+      "length": 65,
+      "text": "ויאמר אבנר אל־יואב יקומו נא הנערים וישחקו לפנינו ויאמר יואב יקמו׃"
+    },
+    {
+      "uid": "II_Samuel_42",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 2901,
+      "end_char": 2973,
+      "length": 73,
+      "text": "ויקמו ויעברו במספר שנים עשר לבנימן ולאיש בשת בן־שאול ושנים עשר מעבדי דוד׃"
+    },
+    {
+      "uid": "II_Samuel_43",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 2974,
+      "end_char": 3060,
+      "length": 87,
+      "text": "ויחזקו איש׀ בראש רעהו וחרבו בצד רעהו ויפלו יחדו ויקרא למקום ההוא חלקת הצרים אשר בגבעון׃"
+    },
+    {
+      "uid": "II_Samuel_44",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 3061,
+      "end_char": 3130,
+      "length": 70,
+      "text": "ותהי המלחמה קשה עד־מאד ביום ההוא וינגף אבנר ואנשי ישראל לפני עבדי דוד׃"
+    },
+    {
+      "uid": "II_Samuel_45",
+      "chapter_number": 2,
+      "verse_number": 18,
+      "start_char": 3131,
+      "end_char": 3210,
+      "length": 80,
+      "text": "ויהיו־שם שלשה בני צרויה יואב ואבישי ועשהאל ועשהאל קל ברגליו כאחד הצבים אשר בשדה׃"
+    },
+    {
+      "uid": "II_Samuel_46",
+      "chapter_number": 2,
+      "verse_number": 19,
+      "start_char": 3211,
+      "end_char": 3276,
+      "length": 66,
+      "text": "וירדף עשהאל אחרי אבנר ולא־נטה ללכת על־הימין ועל־השמאול מאחרי אבנר׃"
+    },
+    {
+      "uid": "II_Samuel_47",
+      "chapter_number": 2,
+      "verse_number": 20,
+      "start_char": 3277,
+      "end_char": 3323,
+      "length": 47,
+      "text": "ויפן אבנר אחריו ויאמר האתה זה עשהאל ויאמר אנכי׃"
+    },
+    {
+      "uid": "II_Samuel_48",
+      "chapter_number": 2,
+      "verse_number": 21,
+      "start_char": 3324,
+      "end_char": 3427,
+      "length": 104,
+      "text": "ויאמר לו אבנר נטה לך על־ימינך או על־שמאלך ואחז לך אחד מהנערים וקח־לך את־חלצתו ולא־אבה עשהאל לסור מאחריו׃"
+    },
+    {
+      "uid": "II_Samuel_49",
+      "chapter_number": 2,
+      "verse_number": 22,
+      "start_char": 3428,
+      "end_char": 3508,
+      "length": 81,
+      "text": "ויסף עוד אבנר לאמר אל־עשהאל סור לך מאחרי למה אככה ארצה ואיך אשא פני אל־יואב אחיך׃"
+    },
+    {
+      "uid": "II_Samuel_50",
+      "chapter_number": 2,
+      "verse_number": 23,
+      "start_char": 3509,
+      "end_char": 3636,
+      "length": 128,
+      "text": "וימאן לסור ויכהו אבנר באחרי החנית אל־החמש ותצא החנית מאחריו ויפל־שם וימת תחתו ויהי כל־הבא אל־המקום אשר־נפל שם עשהאל וימת ויעמדו׃"
+    },
+    {
+      "uid": "II_Samuel_51",
+      "chapter_number": 2,
+      "verse_number": 24,
+      "start_char": 3637,
+      "end_char": 3726,
+      "length": 90,
+      "text": "וירדפו יואב ואבישי אחרי אבנר והשמש באה והמה באו עד־גבעת אמה אשר על־פני־גיח דרך מדבר גבעון׃"
+    },
+    {
+      "uid": "II_Samuel_52",
+      "chapter_number": 2,
+      "verse_number": 25,
+      "start_char": 3727,
+      "end_char": 3793,
+      "length": 67,
+      "text": "ויתקבצו בני־בנימן אחרי אבנר ויהיו לאגדה אחת ויעמדו על ראש־גבעה אחת׃"
+    },
+    {
+      "uid": "II_Samuel_53",
+      "chapter_number": 2,
+      "verse_number": 26,
+      "start_char": 3794,
+      "end_char": 3901,
+      "length": 108,
+      "text": "ויקרא אבנר אל־יואב ויאמר הלנצח תאכל חרב הלוא ידעתה כי־מרה תהיה באחרונה ועד־מתי לא־תאמר לעם לשוב מאחרי אחיהם׃"
+    },
+    {
+      "uid": "II_Samuel_54",
+      "chapter_number": 2,
+      "verse_number": 27,
+      "start_char": 3902,
+      "end_char": 3971,
+      "length": 70,
+      "text": "ויאמר יואב חי האלהים כי לולא דברת כי אז מהבקר נעלה העם איש מאחרי אחיו׃"
+    },
+    {
+      "uid": "II_Samuel_55",
+      "chapter_number": 2,
+      "verse_number": 28,
+      "start_char": 3972,
+      "end_char": 4046,
+      "length": 75,
+      "text": "ויתקע יואב בשופר ויעמדו כל־העם ולא־ירדפו עוד אחרי ישראל ולא־יספו עוד להלחם׃"
+    },
+    {
+      "uid": "II_Samuel_56",
+      "chapter_number": 2,
+      "verse_number": 29,
+      "start_char": 4047,
+      "end_char": 4128,
+      "length": 82,
+      "text": "ואבנר ואנשיו הלכו בערבה כל הלילה ההוא ויעברו את־הירדן וילכו כל־הבתרון ויבאו מחנים׃"
+    },
+    {
+      "uid": "II_Samuel_57",
+      "chapter_number": 2,
+      "verse_number": 30,
+      "start_char": 4129,
+      "end_char": 4201,
+      "length": 73,
+      "text": "ויואב שב מאחרי אבנר ויקבץ את־כל־העם ויפקדו מעבדי דוד תשעה־עשר איש ועשהאל׃"
+    },
+    {
+      "uid": "II_Samuel_58",
+      "chapter_number": 2,
+      "verse_number": 31,
+      "start_char": 4202,
+      "end_char": 4257,
+      "length": 56,
+      "text": "ועבדי דוד הכו מבנימן ובאנשי אבנר שלש־מאות וששים איש מתו׃"
+    },
+    {
+      "uid": "II_Samuel_59",
+      "chapter_number": 2,
+      "verse_number": 32,
+      "start_char": 4258,
+      "end_char": 4345,
+      "length": 88,
+      "text": "וישאו את־עשהאל ויקברהו בקבר אביו אשר בית לחם וילכו כל־הלילה יואב ואנשיו ויאר להם בחברון׃"
+    },
+    {
+      "uid": "II_Samuel_60",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 4346,
+      "end_char": 4424,
+      "length": 79,
+      "text": "ותהי המלחמה ארכה בין בית שאול ובין בית דוד ודוד הלך וחזק ובית שאול הלכים ודלים׃"
+    },
+    {
+      "uid": "II_Samuel_61",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 4425,
+      "end_char": 4492,
+      "length": 68,
+      "text": "(וילדו) [ויולדו] לדוד בנים בחברון ויהי בכורו אמנון לאחינעם היזרעאלת׃"
+    },
+    {
+      "uid": "II_Samuel_62",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 4493,
+      "end_char": 4577,
+      "length": 85,
+      "text": "ומשנהו כלאב (לאביגל) [לאביגיל] אשת נבל הכרמלי והשלשי אבשלום בן־מעכה בת־תלמי מלך גשור׃"
+    },
+    {
+      "uid": "II_Samuel_63",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 4578,
+      "end_char": 4622,
+      "length": 45,
+      "text": "והרביעי אדניה בן־חגית והחמישי שפטיה בן־אביטל׃"
+    },
+    {
+      "uid": "II_Samuel_64",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 4623,
+      "end_char": 4669,
+      "length": 47,
+      "text": "והששי יתרעם לעגלה אשת דוד אלה ילדו לדוד בחברון׃"
+    },
+    {
+      "uid": "II_Samuel_65",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 4670,
+      "end_char": 4739,
+      "length": 70,
+      "text": "ויהי בהיות המלחמה בין בית שאול ובין בית דוד ואבנר היה מתחזק בבית שאול׃"
+    },
+    {
+      "uid": "II_Samuel_66",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 4740,
+      "end_char": 4805,
+      "length": 66,
+      "text": "ולשאול פלגש ושמה רצפה בת־איה ויאמר אל־אבנר מדוע באתה אל־פילגש אבי׃"
+    },
+    {
+      "uid": "II_Samuel_67",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 4806,
+      "end_char": 4960,
+      "length": 155,
+      "text": "ויחר לאבנר מאד על־דברי איש־בשת ויאמר הראש כלב אנכי אשר ליהודה היום אעשה־חסד עם־בית׀ שאול אביך אל־אחיו ואל־מרעהו ולא המציתך ביד־דוד ותפקד עלי עון האשה היום׃"
+    },
+    {
+      "uid": "II_Samuel_68",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 4961,
+      "end_char": 5029,
+      "length": 69,
+      "text": "כה־יעשה אלהים לאבנר וכה יסיף לו כי כאשר נשבע יהוה לדוד כי־כן אעשה־לו׃"
+    },
+    {
+      "uid": "II_Samuel_69",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 5030,
+      "end_char": 5106,
+      "length": 77,
+      "text": "להעביר הממלכה מבית שאול ולהקים את־כסא דוד על־ישראל ועל־יהודה מדן ועד־באר שבע׃"
+    },
+    {
+      "uid": "II_Samuel_70",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 5107,
+      "end_char": 5147,
+      "length": 41,
+      "text": "ולא־יכל עוד להשיב את־אבנר דבר מיראתו אתו׃"
+    },
+    {
+      "uid": "II_Samuel_71",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 5148,
+      "end_char": 5245,
+      "length": 98,
+      "text": "וישלח אבנר מלאכים׀אל־דוד תחתו לאמר למי־ארץ לאמר כרתה בריתך אתי והנה ידי עמך להסב אליך את־כל־ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_72",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 5246,
+      "end_char": 5370,
+      "length": 125,
+      "text": "ויאמר טוב אני אכרת אתך ברית אך דבר אחד אנכי שאל מאתך לאמר לא־תראה את־פני כי׀ אם־לפני הביאך את מיכל בת־שאול בבאך לראות את־פני׃"
+    },
+    {
+      "uid": "II_Samuel_73",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 5371,
+      "end_char": 5462,
+      "length": 92,
+      "text": "וישלח דוד מלאכים אל־איש־בשת בן־שאול לאמר תנה את־אשתי את־מיכל אשר ארשתי לי במאה ערלות פלשתים׃"
+    },
+    {
+      "uid": "II_Samuel_74",
+      "chapter_number": 3,
+      "verse_number": 15,
+      "start_char": 5463,
+      "end_char": 5516,
+      "length": 54,
+      "text": "וישלח איש בשת ויקחה מעם איש מעם פלטיאל בן־[ליש] (לוש)׃"
+    },
+    {
+      "uid": "II_Samuel_75",
+      "chapter_number": 3,
+      "verse_number": 16,
+      "start_char": 5517,
+      "end_char": 5583,
+      "length": 67,
+      "text": "וילך אתה אישה הלוך ובכה אחריה עד־בחרים ויאמר אליו אבנר לך שוב וישב׃"
+    },
+    {
+      "uid": "II_Samuel_76",
+      "chapter_number": 3,
+      "verse_number": 17,
+      "start_char": 5584,
+      "end_char": 5663,
+      "length": 80,
+      "text": "ודבר־אבנר היה עם־זקני ישראל לאמר גם־תמול גם־שלשם הייתם מבקשים את־דוד למלך עליכם׃"
+    },
+    {
+      "uid": "II_Samuel_77",
+      "chapter_number": 3,
+      "verse_number": 18,
+      "start_char": 5664,
+      "end_char": 5755,
+      "length": 92,
+      "text": "ועתה עשו כי יהוה אמר אל־דוד לאמר ביד׀ דוד עבדי הושיע את־עמי ישראל מיד פלשתים ומיד כל־איביהם׃"
+    },
+    {
+      "uid": "II_Samuel_78",
+      "chapter_number": 3,
+      "verse_number": 19,
+      "start_char": 5756,
+      "end_char": 5863,
+      "length": 108,
+      "text": "וידבר גם־אבנר באזני בנימין וילך גם־אבנר לדבר באזני דוד בחברון את כל־אשר־טוב בעיני ישראל ובעיני כל־בית בנימן׃"
+    },
+    {
+      "uid": "II_Samuel_79",
+      "chapter_number": 3,
+      "verse_number": 20,
+      "start_char": 5864,
+      "end_char": 5939,
+      "length": 76,
+      "text": "ויבא אבנר אל־דוד חברון ואתו עשרים אנשים ויעש דוד לאבנר ולאנשים אשר־אתו משתה׃"
+    },
+    {
+      "uid": "II_Samuel_80",
+      "chapter_number": 3,
+      "verse_number": 21,
+      "start_char": 5940,
+      "end_char": 6070,
+      "length": 131,
+      "text": "ויאמר אבנר אל־דוד אקומה׀ואלכה ואקבצה אל־אדני המלך את־כל־ישראל ויכרתו אתך ברית ומלכת בכל אשר־תאוה נפשך וישלח דוד את־אבנר וילך בשלום׃"
+    },
+    {
+      "uid": "II_Samuel_81",
+      "chapter_number": 3,
+      "verse_number": 22,
+      "start_char": 6071,
+      "end_char": 6163,
+      "length": 93,
+      "text": "והנה עבדי דוד ויואב בא מהגדוד ושלל רב עמם הביאו ואבנר איננו עם־דוד בחברון כי שלחו וילך בשלום׃"
+    },
+    {
+      "uid": "II_Samuel_82",
+      "chapter_number": 3,
+      "verse_number": 23,
+      "start_char": 6164,
+      "end_char": 6248,
+      "length": 85,
+      "text": "ויואב וכל־הצבא אשר־אתו באו ויגדו ליואב לאמר בא־אבנר בן־נר אל־המלך וישלחהו וילך בשלום׃"
+    },
+    {
+      "uid": "II_Samuel_83",
+      "chapter_number": 3,
+      "verse_number": 24,
+      "start_char": 6249,
+      "end_char": 6321,
+      "length": 73,
+      "text": "ויבא יואב אל־המלך ויאמר מה עשיתה הנה־בא אבנר אליך למה־זה שלחתו וילך הלוך׃"
+    },
+    {
+      "uid": "II_Samuel_84",
+      "chapter_number": 3,
+      "verse_number": 25,
+      "start_char": 6322,
+      "end_char": 6411,
+      "length": 90,
+      "text": "ידעת את־אבנר בן־נר כי לפתתך בא ולדעת את־מוצאך ואת־[מובאך] (מבואך) ולדעת את כל־אשר אתה עשה׃"
+    },
+    {
+      "uid": "II_Samuel_85",
+      "chapter_number": 3,
+      "verse_number": 26,
+      "start_char": 6412,
+      "end_char": 6484,
+      "length": 73,
+      "text": "ויצא יואב מעם דוד וישלח מלאכים אחרי אבנר וישבו אתו מבור הסרה ודוד לא ידע׃"
+    },
+    {
+      "uid": "II_Samuel_86",
+      "chapter_number": 3,
+      "verse_number": 27,
+      "start_char": 6485,
+      "end_char": 6571,
+      "length": 87,
+      "text": "וישב אבנר חברון ויטהו יואב אל־תוך השער לדבר אתו בשלי ויכהו שם החמש וימת בדם עשהאל אחיו׃"
+    },
+    {
+      "uid": "II_Samuel_87",
+      "chapter_number": 3,
+      "verse_number": 28,
+      "start_char": 6572,
+      "end_char": 6646,
+      "length": 75,
+      "text": "וישמע דוד מאחרי כן ויאמר נקי אנכי וממלכתי מעם יהוה עד־עולם מדמי אבנר בן־נר׃"
+    },
+    {
+      "uid": "II_Samuel_88",
+      "chapter_number": 3,
+      "verse_number": 29,
+      "start_char": 6647,
+      "end_char": 6738,
+      "length": 92,
+      "text": "יחלו על־ראש יואב ואל כל־בית אביו ואל־יכרת מבית יואב זב ומצרע ומחזיק בפלך ונפל בחרב וחסר־לחם׃"
+    },
+    {
+      "uid": "II_Samuel_89",
+      "chapter_number": 3,
+      "verse_number": 30,
+      "start_char": 6739,
+      "end_char": 6808,
+      "length": 70,
+      "text": "ויואב ואבישי אחיו הרגו לאבנר על אשר המית את־עשהאל אחיהם בגבעון במלחמה׃"
+    },
+    {
+      "uid": "II_Samuel_90",
+      "chapter_number": 3,
+      "verse_number": 31,
+      "start_char": 6809,
+      "end_char": 6908,
+      "length": 100,
+      "text": "ויאמר דוד אל־יואב ואל־כל־העם אשר־אתו קרעו בגדיכם וחגרו שקים וספדו לפני אבנר והמלך דוד הלך אחרי המטה׃"
+    },
+    {
+      "uid": "II_Samuel_91",
+      "chapter_number": 3,
+      "verse_number": 32,
+      "start_char": 6909,
+      "end_char": 6978,
+      "length": 70,
+      "text": "ויקברו את־אבנר בחברון וישא המלך את־קולו ויבך אל־קבר אבנר ויבכו כל־העם׃"
+    },
+    {
+      "uid": "II_Samuel_92",
+      "chapter_number": 3,
+      "verse_number": 33,
+      "start_char": 6979,
+      "end_char": 7023,
+      "length": 45,
+      "text": "ויקנן המלך אל־אבנר ויאמר הכמות נבל ימות אבנר׃"
+    },
+    {
+      "uid": "II_Samuel_93",
+      "chapter_number": 3,
+      "verse_number": 34,
+      "start_char": 7024,
+      "end_char": 7108,
+      "length": 85,
+      "text": "ידך לא־אסרות ורגליך לא־לנחשתים הגשו כנפול לפני בני־עולה נפלת ויספו כל־העם לבכות עליו׃"
+    },
+    {
+      "uid": "II_Samuel_94",
+      "chapter_number": 3,
+      "verse_number": 35,
+      "start_char": 7109,
+      "end_char": 7230,
+      "length": 122,
+      "text": "ויבא כל־העם להברות את־דוד לחם בעוד היום וישבע דוד לאמר כה יעשה־לי אלהים וכה יסיף כי אם־לפני בוא־השמש אטעם־לחם או כל־מאומה׃"
+    },
+    {
+      "uid": "II_Samuel_95",
+      "chapter_number": 3,
+      "verse_number": 36,
+      "start_char": 7231,
+      "end_char": 7292,
+      "length": 62,
+      "text": "וכל־העם הכירו וייטב בעיניהם ככל אשר עשה המלך בעיני כל־העם טוב׃"
+    },
+    {
+      "uid": "II_Samuel_96",
+      "chapter_number": 3,
+      "verse_number": 37,
+      "start_char": 7293,
+      "end_char": 7362,
+      "length": 70,
+      "text": "וידעו כל־העם וכל־ישראל ביום ההוא כי לא היתה מהמלך להמית את־אבנר בן־נר׃"
+    },
+    {
+      "uid": "II_Samuel_97",
+      "chapter_number": 3,
+      "verse_number": 38,
+      "start_char": 7363,
+      "end_char": 7424,
+      "length": 62,
+      "text": "ויאמר המלך אל־עבדיו הלוא תדעו כי־שר וגדול נפל היום הזה בישראל׃"
+    },
+    {
+      "uid": "II_Samuel_98",
+      "chapter_number": 3,
+      "verse_number": 39,
+      "start_char": 7425,
+      "end_char": 7507,
+      "length": 83,
+      "text": "ואנכי היום רך ומשוח מלך והאנשים האלה בני צרויה קשים ממני ישלם יהוה לעשה הרעה כרעתו׃"
+    },
+    {
+      "uid": "II_Samuel_99",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 7508,
+      "end_char": 7566,
+      "length": 59,
+      "text": "וישמע בן־שאול כי מת אבנר בחברון וירפו ידיו וכל־ישראל נבהלו׃"
+    },
+    {
+      "uid": "II_Samuel_100",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 7567,
+      "end_char": 7679,
+      "length": 113,
+      "text": "ושני אנשים שרי־גדודים היו בן־שאול שם האחד בענה ושם השני רכב בני רמון הבארתי מבני בנימן כי גם־בארות תחשב על־בנימן׃"
+    },
+    {
+      "uid": "II_Samuel_101",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 7680,
+      "end_char": 7726,
+      "length": 47,
+      "text": "ויברחו הבארתים גתימה ויהיו־שם גרים עד היום הזה׃"
+    },
+    {
+      "uid": "II_Samuel_102",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 7727,
+      "end_char": 7859,
+      "length": 133,
+      "text": "וליהונתן בן־שאול בן נכה רגלים בן־חמש שנים היה בבא שמעת שאול ויהונתן מיזרעאל ותשאהו אמנתו ותנס ויהי בחפזה לנוס ויפל ויפסח ושמו מפיבשת׃"
+    },
+    {
+      "uid": "II_Samuel_103",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 7860,
+      "end_char": 7945,
+      "length": 86,
+      "text": "וילכו בני־רמון הבארתי רכב ובענה ויבאו כחם היום אל־בית איש בשת והוא שכב את משכב הצהרים׃"
+    },
+    {
+      "uid": "II_Samuel_104",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 7946,
+      "end_char": 8012,
+      "length": 67,
+      "text": "והנה באו עד־תוך הבית לקחי חטים ויכהו אל־החמש ורכב ובענה אחיו נמלטו׃"
+    },
+    {
+      "uid": "II_Samuel_105",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 8013,
+      "end_char": 8118,
+      "length": 106,
+      "text": "ויבאו הבית והוא־שכב על־מטתו בחדר משכבו ויכהו וימתהו ויסירו את־ראשו ויקחו את־ראשו וילכו דרך הערבה כל־הלילה׃"
+    },
+    {
+      "uid": "II_Samuel_106",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 8119,
+      "end_char": 8261,
+      "length": 143,
+      "text": "ויבאו את־ראש איש־בשת אל־דוד חברון ויאמרו אל־המלך הנה־ראש איש־בשת בן־שאול איבך אשר בקש את־נפשך ויתן יהוה לאדני המלך נקמות היום הזה משאול ומזרעו׃"
+    },
+    {
+      "uid": "II_Samuel_107",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 8262,
+      "end_char": 8350,
+      "length": 89,
+      "text": "ויען דוד את־רכב׀ ואת־בענה אחיו בני רמון הבארתי ויאמר להם חי־יהוה אשר־פדה את־נפשי מכל־צרה׃"
+    },
+    {
+      "uid": "II_Samuel_108",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 8351,
+      "end_char": 8441,
+      "length": 91,
+      "text": "כי המגיד לי לאמר הנה־מת שאול והוא־היה כמבשר בעיניו ואחזה בו ואהרגהו בצקלג אשר לתתי־לו בשרה׃"
+    },
+    {
+      "uid": "II_Samuel_109",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 8442,
+      "end_char": 8539,
+      "length": 98,
+      "text": "אף כי־אנשים רשעים הרגו את־איש־צדיק בביתו על־משכבו ועתה הלוא אבקש את־דמו מידכם ובערתי אתכם מן־הארץ׃"
+    },
+    {
+      "uid": "II_Samuel_110",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 8540,
+      "end_char": 8660,
+      "length": 121,
+      "text": "ויצו דוד את־הנערים ויהרגום ויקצצו את־ידיהם ואת־רגליהם ויתלו על־הברכה בחברון ואת ראש איש־בשת לקחו ויקברו בקבר־אבנר בחברון׃"
+    },
+    {
+      "uid": "II_Samuel_111",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 8661,
+      "end_char": 8728,
+      "length": 68,
+      "text": "ויבאו כל־שבטי ישראל אל־דוד חברונה ויאמרו לאמר הננו עצמך ובשרך אנחנו׃"
+    },
+    {
+      "uid": "II_Samuel_112",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 8729,
+      "end_char": 8878,
+      "length": 150,
+      "text": "גם־אתמול גם־שלשום בהיות שאול מלך עלינו אתה (הייתה מוציא) [היית המוציא] והמבי את־ישראל ויאמר יהוה לך אתה תרעה את־עמי את־ישראל ואתה תהיה לנגיד על־ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_113",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 8879,
+      "end_char": 8982,
+      "length": 104,
+      "text": "ויבאו כל־זקני ישראל אל־המלך חברונה ויכרת להם המלך דוד ברית בחברון לפני יהוה וימשחו את־דוד למלך על־ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_114",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 8983,
+      "end_char": 9020,
+      "length": 38,
+      "text": "בן־שלשים שנה דוד במלכו ארבעים שנה מלך׃"
+    },
+    {
+      "uid": "II_Samuel_115",
+      "chapter_number": 5,
+      "verse_number": 5,
+      "start_char": 9021,
+      "end_char": 9108,
+      "length": 88,
+      "text": "בחברון מלך על־יהודה שבע שנים וששה חדשים ובירושל͏ם מלך שלשים ושלש שנה על כל־ישראל ויהודה׃"
+    },
+    {
+      "uid": "II_Samuel_116",
+      "chapter_number": 5,
+      "verse_number": 6,
+      "start_char": 9109,
+      "end_char": 9228,
+      "length": 120,
+      "text": "וילך המלך ואנשיו ירושל͏ם אל־היבסי יושב הארץ ויאמר לדוד לאמר לא־תבוא הנה כי אם־הסירך העורים והפסחים לאמר לא־יבוא דוד הנה׃"
+    },
+    {
+      "uid": "II_Samuel_117",
+      "chapter_number": 5,
+      "verse_number": 7,
+      "start_char": 9229,
+      "end_char": 9263,
+      "length": 35,
+      "text": "וילכד דוד את מצדת ציון היא עיר דוד׃"
+    },
+    {
+      "uid": "II_Samuel_118",
+      "chapter_number": 5,
+      "verse_number": 8,
+      "start_char": 9264,
+      "end_char": 9388,
+      "length": 125,
+      "text": "ויאמר דוד ביום ההוא כל־מכה יבסי ויגע בצנור ואת־הפסחים ואת־העורים (שנאו) [שנואי] נפש דוד על־כן יאמרו עור ופסח לא יבוא אל־הבית׃"
+    },
+    {
+      "uid": "II_Samuel_119",
+      "chapter_number": 5,
+      "verse_number": 9,
+      "start_char": 9389,
+      "end_char": 9449,
+      "length": 61,
+      "text": "וישב דוד במצדה ויקרא־לה עיר דוד ויבן דוד סביב מן־המלוא וביתה׃"
+    },
+    {
+      "uid": "II_Samuel_120",
+      "chapter_number": 5,
+      "verse_number": 10,
+      "start_char": 9450,
+      "end_char": 9490,
+      "length": 41,
+      "text": "וילך דוד הלוך וגדול ויהוה אלהי צבאות עמו׃"
+    },
+    {
+      "uid": "II_Samuel_121",
+      "chapter_number": 5,
+      "verse_number": 11,
+      "start_char": 9491,
+      "end_char": 9571,
+      "length": 81,
+      "text": "וישלח חירם מלך־צר מלאכים אל־דוד ועצי ארזים וחרשי עץ וחרשי אבן קיר ויבנו־בית לדוד׃"
+    },
+    {
+      "uid": "II_Samuel_122",
+      "chapter_number": 5,
+      "verse_number": 12,
+      "start_char": 9572,
+      "end_char": 9639,
+      "length": 68,
+      "text": "וידע דוד כי־הכינו יהוה למלך על־ישראל וכי נשא ממלכתו בעבור עמו ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_123",
+      "chapter_number": 5,
+      "verse_number": 13,
+      "start_char": 9640,
+      "end_char": 9717,
+      "length": 78,
+      "text": "ויקח דוד עוד פלגשים ונשים מירושל͏ם אחרי באו מחברון ויולדו עוד לדוד בנים ובנות׃"
+    },
+    {
+      "uid": "II_Samuel_124",
+      "chapter_number": 5,
+      "verse_number": 14,
+      "start_char": 9718,
+      "end_char": 9768,
+      "length": 51,
+      "text": "ואלה שמות הילדים לו בירושל͏ם שמוע ושובב ונתן ושלמה׃"
+    },
+    {
+      "uid": "II_Samuel_125",
+      "chapter_number": 5,
+      "verse_number": 15,
+      "start_char": 9769,
+      "end_char": 9793,
+      "length": 25,
+      "text": "ויבחר ואלישוע ונפג ויפיע׃"
+    },
+    {
+      "uid": "II_Samuel_126",
+      "chapter_number": 5,
+      "verse_number": 16,
+      "start_char": 9794,
+      "end_char": 9816,
+      "length": 23,
+      "text": "ואלישמע ואלידע ואליפלט׃"
+    },
+    {
+      "uid": "II_Samuel_127",
+      "chapter_number": 5,
+      "verse_number": 17,
+      "start_char": 9817,
+      "end_char": 9912,
+      "length": 96,
+      "text": "וישמעו פלשתים כי־משחו את־דוד למלך על־ישראל ויעלו כל־פלשתים לבקש את־דוד וישמע דוד וירד אל־המצודה׃"
+    },
+    {
+      "uid": "II_Samuel_128",
+      "chapter_number": 5,
+      "verse_number": 18,
+      "start_char": 9913,
+      "end_char": 9942,
+      "length": 30,
+      "text": "ופלשתים באו וינטשו בעמק רפאים׃"
+    },
+    {
+      "uid": "II_Samuel_129",
+      "chapter_number": 5,
+      "verse_number": 19,
+      "start_char": 9943,
+      "end_char": 10038,
+      "length": 96,
+      "text": "וישאל דוד ביהוה לאמר האעלה אל־פלשתים התתנם בידיויאמר יהוה אל־דוד עלה כי־נתן אתן את־הפלשתים בידך׃"
+    },
+    {
+      "uid": "II_Samuel_130",
+      "chapter_number": 5,
+      "verse_number": 20,
+      "start_char": 10039,
+      "end_char": 10141,
+      "length": 103,
+      "text": "ויבא דוד בבעל־פרצים ויכם שם דוד ויאמר פרץ יהוה את־איבי לפני כפרץ מים על־כן קרא שם־המקום ההוא בעל פרצים׃"
+    },
+    {
+      "uid": "II_Samuel_131",
+      "chapter_number": 5,
+      "verse_number": 21,
+      "start_char": 10142,
+      "end_char": 10178,
+      "length": 37,
+      "text": "ויעזבו שם את־עצביהם וישאם דוד ואנשיו׃"
+    },
+    {
+      "uid": "II_Samuel_132",
+      "chapter_number": 5,
+      "verse_number": 22,
+      "start_char": 10179,
+      "end_char": 10219,
+      "length": 41,
+      "text": "ויספו עוד פלשתים לעלות וינטשו בעמק רפאים׃"
+    },
+    {
+      "uid": "II_Samuel_133",
+      "chapter_number": 5,
+      "verse_number": 23,
+      "start_char": 10220,
+      "end_char": 10283,
+      "length": 64,
+      "text": "וישאל דוד ביהוה ויאמר לא תעלה הסב אל־אחריהם ובאת להם ממול בכאים׃"
+    },
+    {
+      "uid": "II_Samuel_134",
+      "chapter_number": 5,
+      "verse_number": 24,
+      "start_char": 10284,
+      "end_char": 10377,
+      "length": 94,
+      "text": "ויהי (בשמעך) [כשמעך] את־קול צעדה בראשי הבכאים אז תחרץ כי אז יצא יהוה לפניך להכות במחנה פלשתים׃"
+    },
+    {
+      "uid": "II_Samuel_135",
+      "chapter_number": 5,
+      "verse_number": 25,
+      "start_char": 10378,
+      "end_char": 10434,
+      "length": 57,
+      "text": "ויעש דוד כן כאשר צוהו יהוה ויך את־פלשתים מגבע עד־באך גזר׃"
+    },
+    {
+      "uid": "II_Samuel_136",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 10435,
+      "end_char": 10475,
+      "length": 41,
+      "text": "ויסף עוד דוד את־כל־בחור בישראל שלשים אלף׃"
+    },
+    {
+      "uid": "II_Samuel_137",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 10476,
+      "end_char": 10586,
+      "length": 111,
+      "text": "ויקם׀ וילך דוד וכל־העם אשר אתו מבעלי יהודה להעלות משם את ארון האלהים אשר־נקרא שם שם יהוה צבאות ישב הכרבים עליו׃"
+    },
+    {
+      "uid": "II_Samuel_138",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 10587,
+      "end_char": 10692,
+      "length": 106,
+      "text": "וירכבו את־ארון האלהים אל־עגלה חדשה וישאהו מבית אבינדב אשר בגבעה ועזא ואחיו בני אבינדב נהגים את־העגלה חדשה׃"
+    },
+    {
+      "uid": "II_Samuel_139",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 10693,
+      "end_char": 10757,
+      "length": 65,
+      "text": "וישאהו מבית אבינדב אשר בגבעה עם ארון האלהים ואחיו הלך לפני הארון׃"
+    },
+    {
+      "uid": "II_Samuel_140",
+      "chapter_number": 6,
+      "verse_number": 5,
+      "start_char": 10758,
+      "end_char": 10851,
+      "length": 94,
+      "text": "ודוד׀ וכל־בית ישראל משחקים לפני יהוה בכל עצי ברושים ובכנרות ובנבלים ובתפים ובמנענעים ובצלצלים׃"
+    },
+    {
+      "uid": "II_Samuel_141",
+      "chapter_number": 6,
+      "verse_number": 6,
+      "start_char": 10852,
+      "end_char": 10916,
+      "length": 65,
+      "text": "ויבאו עד־גרן נכון וישלח עזה אל־ארון האלהים ויאחז בו כי שמטו הבקר׃"
+    },
+    {
+      "uid": "II_Samuel_142",
+      "chapter_number": 6,
+      "verse_number": 7,
+      "start_char": 10917,
+      "end_char": 10980,
+      "length": 64,
+      "text": "ויחר־אף יהוה בעזה ויכהו שם האלהים על־השל וימת שם עם ארון האלהים׃"
+    },
+    {
+      "uid": "II_Samuel_143",
+      "chapter_number": 6,
+      "verse_number": 8,
+      "start_char": 10981,
+      "end_char": 11052,
+      "length": 72,
+      "text": "ויחר לדוד על אשר פרץ יהוה פרץ בעזה ויקרא למקום ההוא פרץ עזה עד היום הזה׃"
+    },
+    {
+      "uid": "II_Samuel_144",
+      "chapter_number": 6,
+      "verse_number": 9,
+      "start_char": 11053,
+      "end_char": 11108,
+      "length": 56,
+      "text": "וירא דוד את־יהוה ביום ההוא ויאמר איך יבוא אלי ארון יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_145",
+      "chapter_number": 6,
+      "verse_number": 10,
+      "start_char": 11109,
+      "end_char": 11182,
+      "length": 74,
+      "text": "ולא־אבה דוד להסיר אליו את־ארון יהוה על־עיר דוד ויטהו דוד בית עבד־אדם הגתי׃"
+    },
+    {
+      "uid": "II_Samuel_146",
+      "chapter_number": 6,
+      "verse_number": 11,
+      "start_char": 11183,
+      "end_char": 11259,
+      "length": 77,
+      "text": "וישב ארון יהוה בית עבד אדם הגתי שלשה חדשים ויברך יהוה את־עבד אדם ואת־כל־ביתו׃"
+    },
+    {
+      "uid": "II_Samuel_147",
+      "chapter_number": 6,
+      "verse_number": 12,
+      "start_char": 11260,
+      "end_char": 11390,
+      "length": 131,
+      "text": "ויגד למלך דוד לאמר ברך יהוה את־בית עבד אדם ואת־כל־אשר־לו בעבור ארון האלהים וילך דוד ויעל את־ארון האלהים מבית עבד אדם עיר דוד בשמחה׃"
+    },
+    {
+      "uid": "II_Samuel_148",
+      "chapter_number": 6,
+      "verse_number": 13,
+      "start_char": 11391,
+      "end_char": 11444,
+      "length": 54,
+      "text": "ויהי כי צעדו נשאי ארון־יהוה ששה צעדים ויזבח שור ומריא׃"
+    },
+    {
+      "uid": "II_Samuel_149",
+      "chapter_number": 6,
+      "verse_number": 14,
+      "start_char": 11445,
+      "end_char": 11490,
+      "length": 46,
+      "text": "ודוד מכרכר בכל־עז לפני יהוה ודוד חגור אפוד בד׃"
+    },
+    {
+      "uid": "II_Samuel_150",
+      "chapter_number": 6,
+      "verse_number": 15,
+      "start_char": 11491,
+      "end_char": 11546,
+      "length": 56,
+      "text": "ודוד וכל־בית ישראל מעלים את־ארון יהוה בתרועה ובקול שופר׃"
+    },
+    {
+      "uid": "II_Samuel_151",
+      "chapter_number": 6,
+      "verse_number": 16,
+      "start_char": 11547,
+      "end_char": 11655,
+      "length": 109,
+      "text": "והיה ארון יהוה בא עיר דוד ומיכל בת־שאול נשקפה׀ בעד החלון ותרא את־המלך דוד מפזז ומכרכר לפני יהוה ותבז לו בלבה׃"
+    },
+    {
+      "uid": "II_Samuel_152",
+      "chapter_number": 6,
+      "verse_number": 17,
+      "start_char": 11656,
+      "end_char": 11747,
+      "length": 92,
+      "text": "ויבאו את־ארון יהוה ויצגו אתו במקומו בתוך האהל אשר נטה־לו דוד ויעל דוד עלות לפני יהוה ושלמים׃"
+    },
+    {
+      "uid": "II_Samuel_153",
+      "chapter_number": 6,
+      "verse_number": 18,
+      "start_char": 11748,
+      "end_char": 11805,
+      "length": 58,
+      "text": "ויכל דוד מהעלות העולה והשלמים ויברך את־העם בשם יהוה צבאות׃"
+    },
+    {
+      "uid": "II_Samuel_154",
+      "chapter_number": 6,
+      "verse_number": 19,
+      "start_char": 11806,
+      "end_char": 11908,
+      "length": 103,
+      "text": "ויחלק לכל־העם לכל־המון ישראל למאיש ועד־אשה לאיש חלת לחם אחת ואשפר אחד ואשישה אחת וילך כל־העם איש לביתו׃"
+    },
+    {
+      "uid": "II_Samuel_155",
+      "chapter_number": 6,
+      "verse_number": 20,
+      "start_char": 11909,
+      "end_char": 12041,
+      "length": 133,
+      "text": "וישב דוד לברך את־ביתוותצא מיכל בת־שאול לקראת דוד ותאמר מה־נכבד היום מלך ישראל אשר נגלה היום לעיני אמהות עבדיו כהגלות נגלות אחד הרקים׃"
+    },
+    {
+      "uid": "II_Samuel_156",
+      "chapter_number": 6,
+      "verse_number": 21,
+      "start_char": 12042,
+      "end_char": 12147,
+      "length": 106,
+      "text": "ויאמר דוד אל־מיכל לפני יהוה אשר בחר־בי מאביך ומכל־ביתו לצות אתי נגיד על־עם יהוה על־ישראל ושחקתי לפני יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_157",
+      "chapter_number": 6,
+      "verse_number": 22,
+      "start_char": 12148,
+      "end_char": 12210,
+      "length": 63,
+      "text": "ונקלתי עוד מזאת והייתי שפל בעיני ועם־האמהות אשר אמרת עמם אכבדה׃"
+    },
+    {
+      "uid": "II_Samuel_158",
+      "chapter_number": 6,
+      "verse_number": 23,
+      "start_char": 12211,
+      "end_char": 12251,
+      "length": 41,
+      "text": "ולמיכל בת־שאול לא־היה לה ילד עד יום מותה׃"
+    },
+    {
+      "uid": "II_Samuel_159",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 12252,
+      "end_char": 12304,
+      "length": 53,
+      "text": "ויהי כי־ישב המלך בביתו ויהוה הניח־לו מסביב מכל־איביו׃"
+    },
+    {
+      "uid": "II_Samuel_160",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 12305,
+      "end_char": 12385,
+      "length": 81,
+      "text": "ויאמר המלך אל־נתן הנביא ראה נא אנכי יושב בבית ארזים וארון האלהים ישב בתוך היריעה׃"
+    },
+    {
+      "uid": "II_Samuel_161",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 12386,
+      "end_char": 12435,
+      "length": 50,
+      "text": "ויאמר נתן אל־המלך כל אשר בלבבך לך עשה כי יהוה עמך׃"
+    },
+    {
+      "uid": "II_Samuel_162",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 12436,
+      "end_char": 12476,
+      "length": 41,
+      "text": "ויהי בלילה ההואויהי דבר־יהוה אל־נתן לאמר׃"
+    },
+    {
+      "uid": "II_Samuel_163",
+      "chapter_number": 7,
+      "verse_number": 5,
+      "start_char": 12477,
+      "end_char": 12534,
+      "length": 58,
+      "text": "לך ואמרת אל־עבדי אל־דודכה אמר יהוה האתה תבנה־לי בית לשבתי׃"
+    },
+    {
+      "uid": "II_Samuel_164",
+      "chapter_number": 7,
+      "verse_number": 6,
+      "start_char": 12535,
+      "end_char": 12620,
+      "length": 86,
+      "text": "כי לא ישבתי בבית למיום העלתי את־בני ישראל ממצרים ועד היום הזה ואהיה מתהלך באהל ובמשכן׃"
+    },
+    {
+      "uid": "II_Samuel_165",
+      "chapter_number": 7,
+      "verse_number": 7,
+      "start_char": 12621,
+      "end_char": 12742,
+      "length": 122,
+      "text": "בכל אשר־התהלכתי בכל־בני ישראל הדבר דברתי את־אחד שבטי ישראל אשר צויתי לרעות את־עמי את־ישראל לאמר למה לא־בניתם לי בית ארזים׃"
+    },
+    {
+      "uid": "II_Samuel_166",
+      "chapter_number": 7,
+      "verse_number": 8,
+      "start_char": 12743,
+      "end_char": 12840,
+      "length": 98,
+      "text": "ועתה כה־תאמר לעבדי לדוד כה אמר יהוה צבאות אני לקחתיך מן־הנוה מאחר הצאן להיות נגיד על־עמי על־ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_167",
+      "chapter_number": 7,
+      "verse_number": 9,
+      "start_char": 12841,
+      "end_char": 12925,
+      "length": 85,
+      "text": "ואהיה עמך בכל אשר הלכת ואכרתה את־כל־איביך מפניך ועשתי־לך שם גדול כשם הגדלים אשר בארץ׃"
+    },
+    {
+      "uid": "II_Samuel_168",
+      "chapter_number": 7,
+      "verse_number": 10,
+      "start_char": 12926,
+      "end_char": 13019,
+      "length": 94,
+      "text": "ושמתי מקום לעמי לישראל ונטעתיו ושכן תחתיו ולא ירגז עוד ולא־יסיפו בני־עולה לענותו כאשר בראשונה׃"
+    },
+    {
+      "uid": "II_Samuel_169",
+      "chapter_number": 7,
+      "verse_number": 11,
+      "start_char": 13020,
+      "end_char": 13113,
+      "length": 94,
+      "text": "ולמן־היום אשר צויתי שפטים על־עמי ישראל והניחתי לך מכל־איביך והגיד לך יהוה כי־בית יעשה־לך יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_170",
+      "chapter_number": 7,
+      "verse_number": 12,
+      "start_char": 13114,
+      "end_char": 13197,
+      "length": 84,
+      "text": "כי׀ ימלאו ימיך ושכבת את־אבתיך והקימתי את־זרעך אחריך אשר יצא ממעיך והכינתי את־ממלכתו׃"
+    },
+    {
+      "uid": "II_Samuel_171",
+      "chapter_number": 7,
+      "verse_number": 13,
+      "start_char": 13198,
+      "end_char": 13244,
+      "length": 47,
+      "text": "הוא יבנה־בית לשמי וכננתי את־כסא ממלכתו עד־עולם׃"
+    },
+    {
+      "uid": "II_Samuel_172",
+      "chapter_number": 7,
+      "verse_number": 14,
+      "start_char": 13245,
+      "end_char": 13322,
+      "length": 78,
+      "text": "אני אהיה־לו לאב והוא יהיה־לי לבן אשר בהעותו והכחתיו בשבט אנשים ובנגעי בני אדם׃"
+    },
+    {
+      "uid": "II_Samuel_173",
+      "chapter_number": 7,
+      "verse_number": 15,
+      "start_char": 13323,
+      "end_char": 13378,
+      "length": 56,
+      "text": "וחסדי לא־יסור ממנו כאשר הסרתי מעם שאול אשר הסרתי מלפניך׃"
+    },
+    {
+      "uid": "II_Samuel_174",
+      "chapter_number": 7,
+      "verse_number": 16,
+      "start_char": 13379,
+      "end_char": 13434,
+      "length": 56,
+      "text": "ונאמן ביתך וממלכתך עד־עולם לפניך כסאך יהיה נכון עד־עולם׃"
+    },
+    {
+      "uid": "II_Samuel_175",
+      "chapter_number": 7,
+      "verse_number": 17,
+      "start_char": 13435,
+      "end_char": 13484,
+      "length": 50,
+      "text": "ככל הדברים האלה וככל החזיון הזה כן דבר נתן אל־דוד׃"
+    },
+    {
+      "uid": "II_Samuel_176",
+      "chapter_number": 7,
+      "verse_number": 18,
+      "start_char": 13485,
+      "end_char": 13563,
+      "length": 79,
+      "text": "ויבא המלך דוד וישב לפני יהוה ויאמר מי אנכי אדני יהוה ומי ביתי כי הבאתני עד־הלם׃"
+    },
+    {
+      "uid": "II_Samuel_177",
+      "chapter_number": 7,
+      "verse_number": 19,
+      "start_char": 13564,
+      "end_char": 13647,
+      "length": 84,
+      "text": "ותקטן עוד זאת בעיניך אדני יהוה ותדבר גם אל־בית־עבדך למרחוק וזאת תורת האדם אדני יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_178",
+      "chapter_number": 7,
+      "verse_number": 20,
+      "start_char": 13648,
+      "end_char": 13703,
+      "length": 56,
+      "text": "ומה־יוסיף דוד עוד לדבר אליך ואתה ידעת את־עבדך אדני יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_179",
+      "chapter_number": 7,
+      "verse_number": 21,
+      "start_char": 13704,
+      "end_char": 13758,
+      "length": 55,
+      "text": "בעבור דברך וכלבך עשית את כל־הגדולה הזאת להודיע את־עבדך׃"
+    },
+    {
+      "uid": "II_Samuel_180",
+      "chapter_number": 7,
+      "verse_number": 22,
+      "start_char": 13759,
+      "end_char": 13831,
+      "length": 73,
+      "text": "על־כן גדלת יהוה אלהים כי־אין כמוך ואין אלהים זולתך בכל אשר־שמענו באזנינו׃"
+    },
+    {
+      "uid": "II_Samuel_181",
+      "chapter_number": 7,
+      "verse_number": 23,
+      "start_char": 13832,
+      "end_char": 13971,
+      "length": 140,
+      "text": "ומי כעמך כישראל גוי אחד בארץ אשר הלכו־אלהים לפדות־לו לעם ולשום לו שם ולעשות לכם הגדולה ונראות לארצך מפני עמך אשר פדית לך ממצרים גוים ואלהיו׃"
+    },
+    {
+      "uid": "II_Samuel_182",
+      "chapter_number": 7,
+      "verse_number": 24,
+      "start_char": 13972,
+      "end_char": 14035,
+      "length": 64,
+      "text": "ותכונן לך את־עמך ישראל׀לך לעם עד־עולם ואתה יהוה היית להם לאלהים׃"
+    },
+    {
+      "uid": "II_Samuel_183",
+      "chapter_number": 7,
+      "verse_number": 25,
+      "start_char": 14036,
+      "end_char": 14109,
+      "length": 74,
+      "text": "ועתה יהוה אלהים הדבר אשר דברת על־עבדך ועל־ביתו הקם עד־עולם ועשה כאשר דברת׃"
+    },
+    {
+      "uid": "II_Samuel_184",
+      "chapter_number": 7,
+      "verse_number": 26,
+      "start_char": 14110,
+      "end_char": 14188,
+      "length": 79,
+      "text": "ויגדל שמך עד־עולם לאמר יהוה צבאות אלהים על־ישראל ובית עבדך דוד יהיה נכון לפניך׃"
+    },
+    {
+      "uid": "II_Samuel_185",
+      "chapter_number": 7,
+      "verse_number": 27,
+      "start_char": 14189,
+      "end_char": 14300,
+      "length": 112,
+      "text": "כי־אתה יהוה צבאות אלהי ישראל גליתה את־אזן עבדך לאמר בית אבנה־לך על־כן מצא עבדך את־לבו להתפלל אליך את־התפלה הזאת׃"
+    },
+    {
+      "uid": "II_Samuel_186",
+      "chapter_number": 7,
+      "verse_number": 28,
+      "start_char": 14301,
+      "end_char": 14375,
+      "length": 75,
+      "text": "ועתה׀ אדני יהוה אתה־הוא האלהים ודבריך יהיו אמת ותדבר אל־עבדך את־הטובה הזאת׃"
+    },
+    {
+      "uid": "II_Samuel_187",
+      "chapter_number": 7,
+      "verse_number": 29,
+      "start_char": 14376,
+      "end_char": 14470,
+      "length": 95,
+      "text": "ועתה הואל וברך את־בית עבדך להיות לעולם לפניך כי־אתה אדני יהוה דברת ומברכתך יברך בית־עבדך לעולם׃"
+    },
+    {
+      "uid": "II_Samuel_188",
+      "chapter_number": 8,
+      "verse_number": 1,
+      "start_char": 14471,
+      "end_char": 14541,
+      "length": 71,
+      "text": "ויהי אחרי־כן ויך דוד את־פלשתים ויכניעם ויקח דוד את־מתג האמה מיד פלשתים׃"
+    },
+    {
+      "uid": "II_Samuel_189",
+      "chapter_number": 8,
+      "verse_number": 2,
+      "start_char": 14542,
+      "end_char": 14651,
+      "length": 110,
+      "text": "ויך את־מואב וימדדם בחבל השכב אותם ארצה וימדד שני־חבלים להמית ומלא החבל להחיות ותהי מואב לדוד לעבדים נשאי מנחה׃"
+    },
+    {
+      "uid": "II_Samuel_190",
+      "chapter_number": 8,
+      "verse_number": 3,
+      "start_char": 14652,
+      "end_char": 14719,
+      "length": 68,
+      "text": "ויך דוד את־הדדעזר בן־רחב מלך צובה בלכתו להשיב ידו (בנהר) [בנהר־פרת]׃"
+    },
+    {
+      "uid": "II_Samuel_191",
+      "chapter_number": 8,
+      "verse_number": 4,
+      "start_char": 14720,
+      "end_char": 14814,
+      "length": 95,
+      "text": "וילכד דוד ממנו אלף ושבע־מאות פרשים ועשרים אלף איש רגלי ויעקר דוד את־כל־הרכב ויותר ממנו מאה רכב׃"
+    },
+    {
+      "uid": "II_Samuel_192",
+      "chapter_number": 8,
+      "verse_number": 5,
+      "start_char": 14815,
+      "end_char": 14883,
+      "length": 69,
+      "text": "ותבא ארם דמשק לעזר להדדעזר מלך צובה ויך דוד בארם עשרים־ושנים אלף איש׃"
+    },
+    {
+      "uid": "II_Samuel_193",
+      "chapter_number": 8,
+      "verse_number": 6,
+      "start_char": 14884,
+      "end_char": 14969,
+      "length": 86,
+      "text": "וישם דוד נצבים בארם דמשק ותהי ארם לדוד לעבדים נושאי מנחה וישע יהוה את־דוד בכל אשר הלך׃"
+    },
+    {
+      "uid": "II_Samuel_194",
+      "chapter_number": 8,
+      "verse_number": 7,
+      "start_char": 14970,
+      "end_char": 15029,
+      "length": 60,
+      "text": "ויקח דוד את שלטי הזהב אשר היו אל עבדי הדדעזר ויביאם ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Samuel_195",
+      "chapter_number": 8,
+      "verse_number": 8,
+      "start_char": 15030,
+      "end_char": 15080,
+      "length": 51,
+      "text": "ומבטח ומברתי ערי הדדעזר לקח המלך דוד נחשת הרבה מאד׃"
+    },
+    {
+      "uid": "II_Samuel_196",
+      "chapter_number": 8,
+      "verse_number": 9,
+      "start_char": 15081,
+      "end_char": 15126,
+      "length": 46,
+      "text": "וישמע תעי מלך חמת כי הכה דוד את כל־חיל הדדעזר׃"
+    },
+    {
+      "uid": "II_Samuel_197",
+      "chapter_number": 8,
+      "verse_number": 10,
+      "start_char": 15127,
+      "end_char": 15273,
+      "length": 147,
+      "text": "וישלח תעי את־יורם־בנו אל־המלך־דוד לשאל־לו לשלום ולברכו על אשר נלחם בהדדעזר ויכהו כי־איש מלחמות תעי היה הדדעזר ובידו היו כלי־כסף וכלי־זהב וכלי נחשת׃"
+    },
+    {
+      "uid": "II_Samuel_198",
+      "chapter_number": 8,
+      "verse_number": 11,
+      "start_char": 15274,
+      "end_char": 15343,
+      "length": 70,
+      "text": "גם־אתם הקדיש המלך דוד ליהוה עם־הכסף והזהב אשר הקדיש מכל־הגוים אשר כבש׃"
+    },
+    {
+      "uid": "II_Samuel_199",
+      "chapter_number": 8,
+      "verse_number": 12,
+      "start_char": 15344,
+      "end_char": 15411,
+      "length": 68,
+      "text": "מארם וממואב ומבני עמון ומפלשתים ומעמלק ומשלל הדדעזר בן־רחב מלך צובה׃"
+    },
+    {
+      "uid": "II_Samuel_200",
+      "chapter_number": 8,
+      "verse_number": 13,
+      "start_char": 15412,
+      "end_char": 15465,
+      "length": 54,
+      "text": "ויעש דוד שם בשבו מהכותו את־ארם בגיא־מלח שמונה עשר אלף׃"
+    },
+    {
+      "uid": "II_Samuel_201",
+      "chapter_number": 8,
+      "verse_number": 14,
+      "start_char": 15466,
+      "end_char": 15554,
+      "length": 89,
+      "text": "וישם באדום נצבים בכל־אדום שם נצבים ויהי כל־אדום עבדים לדוד ויושע יהוה את־דוד בכל אשר הלך׃"
+    },
+    {
+      "uid": "II_Samuel_202",
+      "chapter_number": 8,
+      "verse_number": 15,
+      "start_char": 15555,
+      "end_char": 15608,
+      "length": 54,
+      "text": "וימלך דוד על־כל־ישראל ויהי דוד עשה משפט וצדקה לכל־עמו׃"
+    },
+    {
+      "uid": "II_Samuel_203",
+      "chapter_number": 8,
+      "verse_number": 16,
+      "start_char": 15609,
+      "end_char": 15655,
+      "length": 47,
+      "text": "ויואב בן־צרויה על־הצבא ויהושפט בן־אחילוד מזכיר׃"
+    },
+    {
+      "uid": "II_Samuel_204",
+      "chapter_number": 8,
+      "verse_number": 17,
+      "start_char": 15656,
+      "end_char": 15705,
+      "length": 50,
+      "text": "וצדוק בן־אחיטוב ואחימלך בן־אביתר כהנים ושריה סופר׃"
+    },
+    {
+      "uid": "II_Samuel_205",
+      "chapter_number": 8,
+      "verse_number": 18,
+      "start_char": 15706,
+      "end_char": 15755,
+      "length": 50,
+      "text": "ובניהו בן־יהוידע והכרתי והפלתי ובני דוד כהנים היו׃"
+    },
+    {
+      "uid": "II_Samuel_206",
+      "chapter_number": 9,
+      "verse_number": 1,
+      "start_char": 15756,
+      "end_char": 15822,
+      "length": 67,
+      "text": "ויאמר דוד הכי יש־עוד אשר נותר לבית שאול ואעשה עמו חסד בעבור יהונתן׃"
+    },
+    {
+      "uid": "II_Samuel_207",
+      "chapter_number": 9,
+      "verse_number": 2,
+      "start_char": 15823,
+      "end_char": 15901,
+      "length": 79,
+      "text": "ולבית שאול עבד ושמו ציבא ויקראו־לו אל־דוד ויאמר המלך אליו האתה ציבא ויאמר עבדך׃"
+    },
+    {
+      "uid": "II_Samuel_208",
+      "chapter_number": 9,
+      "verse_number": 3,
+      "start_char": 15902,
+      "end_char": 15999,
+      "length": 98,
+      "text": "ויאמר המלך האפס עוד איש לבית שאול ואעשה עמו חסד אלהים ויאמר ציבא אל־המלך עוד בן ליהונתן נכה רגלים׃"
+    },
+    {
+      "uid": "II_Samuel_209",
+      "chapter_number": 9,
+      "verse_number": 4,
+      "start_char": 16000,
+      "end_char": 16075,
+      "length": 76,
+      "text": "ויאמר־לו המלך איפה הוא ויאמר ציבא אל־המלך הנה־הוא בית מכיר בן־עמיאל בלו דבר׃"
+    },
+    {
+      "uid": "II_Samuel_210",
+      "chapter_number": 9,
+      "verse_number": 5,
+      "start_char": 16076,
+      "end_char": 16124,
+      "length": 49,
+      "text": "וישלח המלך דוד ויקחהו מבית מכיר בן־עמיאל מלו דבר׃"
+    },
+    {
+      "uid": "II_Samuel_211",
+      "chapter_number": 9,
+      "verse_number": 6,
+      "start_char": 16125,
+      "end_char": 16213,
+      "length": 89,
+      "text": "ויבא מפיבשת בן־יהונתן בן־שאול אל־דוד ויפל על־פניו וישתחו ויאמר דוד מפיבשת ויאמר הנה עבדך׃"
+    },
+    {
+      "uid": "II_Samuel_212",
+      "chapter_number": 9,
+      "verse_number": 7,
+      "start_char": 16214,
+      "end_char": 16330,
+      "length": 117,
+      "text": "ויאמר לו דוד אל־תירא כי עשה אעשה עמך חסד בעבור יהונתן אביך והשבתי לך את־כל־שדה שאול אביך ואתה תאכל לחם על־שלחני תמיד׃"
+    },
+    {
+      "uid": "II_Samuel_213",
+      "chapter_number": 9,
+      "verse_number": 8,
+      "start_char": 16331,
+      "end_char": 16381,
+      "length": 51,
+      "text": "וישתחו ויאמר מה עבדך כי פנית אל־הכלב המת אשר כמוני׃"
+    },
+    {
+      "uid": "II_Samuel_214",
+      "chapter_number": 9,
+      "verse_number": 9,
+      "start_char": 16382,
+      "end_char": 16462,
+      "length": 81,
+      "text": "ויקרא המלך אל־ציבא נער שאול ויאמר אליו כל אשר היה לשאול ולכל־ביתו נתתי לבן־אדניך׃"
+    },
+    {
+      "uid": "II_Samuel_215",
+      "chapter_number": 9,
+      "verse_number": 10,
+      "start_char": 16463,
+      "end_char": 16602,
+      "length": 140,
+      "text": "ועבדת לו את־האדמה אתה ובניך ועבדיך והבאת והיה לבן־אדניך לחם ואכלו ומפיבשת בן־אדניך יאכל תמיד לחם על־שלחני ולציבא חמשה עשר בנים ועשרים עבדים׃"
+    },
+    {
+      "uid": "II_Samuel_216",
+      "chapter_number": 9,
+      "verse_number": 11,
+      "start_char": 16603,
+      "end_char": 16701,
+      "length": 99,
+      "text": "ויאמר ציבא אל־המלך ככל אשר יצוה אדני המלך את־עבדו כן יעשה עבדך ומפיבשת אכל על־שלחני כאחד מבני המלך׃"
+    },
+    {
+      "uid": "II_Samuel_217",
+      "chapter_number": 9,
+      "verse_number": 12,
+      "start_char": 16702,
+      "end_char": 16759,
+      "length": 58,
+      "text": "ולמפיבשת בן־קטן ושמו מיכא וכל מושב בית־ציבא עבדים למפיבשת׃"
+    },
+    {
+      "uid": "II_Samuel_218",
+      "chapter_number": 9,
+      "verse_number": 13,
+      "start_char": 16760,
+      "end_char": 16828,
+      "length": 69,
+      "text": "ומפיבשת ישב בירושל͏ם כי על־שלחן המלך תמיד הוא אכל והוא פסח שתי רגליו׃"
+    },
+    {
+      "uid": "II_Samuel_219",
+      "chapter_number": 10,
+      "verse_number": 1,
+      "start_char": 16829,
+      "end_char": 16880,
+      "length": 52,
+      "text": "ויהי אחרי־כן וימת מלך בני עמון וימלך חנון בנו תחתיו׃"
+    },
+    {
+      "uid": "II_Samuel_220",
+      "chapter_number": 10,
+      "verse_number": 2,
+      "start_char": 16881,
+      "end_char": 17000,
+      "length": 120,
+      "text": "ויאמר דוד אעשה־חסד׀ עם־חנון בן־נחש כאשר עשה אביו עמדי חסד וישלח דוד לנחמו ביד־עבדיו אל־אביו ויבאו עבדי דוד ארץ בני עמון׃"
+    },
+    {
+      "uid": "II_Samuel_221",
+      "chapter_number": 10,
+      "verse_number": 3,
+      "start_char": 17001,
+      "end_char": 17136,
+      "length": 136,
+      "text": "ויאמרו שרי בני־עמון אל־חנון אדניהם המכבד דוד את־אביך בעיניך כי־שלח לך מנחמים הלוא בעבור חקר את־העיר ולרגלה ולהפכה שלח דוד את־עבדיו אליך׃"
+    },
+    {
+      "uid": "II_Samuel_222",
+      "chapter_number": 10,
+      "verse_number": 4,
+      "start_char": 17137,
+      "end_char": 17215,
+      "length": 79,
+      "text": "ויקח חנון את־עבדי דוד ויגלח את־חצי זקנם ויכרת את־מדויהם בחצי עד שתותיהם וישלחם׃"
+    },
+    {
+      "uid": "II_Samuel_223",
+      "chapter_number": 10,
+      "verse_number": 5,
+      "start_char": 17216,
+      "end_char": 17305,
+      "length": 90,
+      "text": "ויגדו לדוד וישלח לקראתם כי־היו האנשים נכלמים מאד ויאמר המלך שבו בירחו עד־יצמח זקנכם ושבתם׃"
+    },
+    {
+      "uid": "II_Samuel_224",
+      "chapter_number": 10,
+      "verse_number": 6,
+      "start_char": 17306,
+      "end_char": 17448,
+      "length": 143,
+      "text": "ויראו בני עמון כי נבאשו בדוד וישלחו בני־עמון וישכרו את־ארם בית־רחוב ואת־ארם צובא עשרים אלף רגלי ואת־מלך מעכה אלף איש ואיש טוב שנים־עשר אלף איש׃"
+    },
+    {
+      "uid": "II_Samuel_225",
+      "chapter_number": 10,
+      "verse_number": 7,
+      "start_char": 17449,
+      "end_char": 17491,
+      "length": 43,
+      "text": "וישמע דוד וישלח את־יואב ואת כל־הצבא הגברים׃"
+    },
+    {
+      "uid": "II_Samuel_226",
+      "chapter_number": 10,
+      "verse_number": 8,
+      "start_char": 17492,
+      "end_char": 17569,
+      "length": 78,
+      "text": "ויצאו בני עמון ויערכו מלחמה פתח השער וארם צובא ורחוב ואיש־טוב ומעכה לבדם בשדה׃"
+    },
+    {
+      "uid": "II_Samuel_227",
+      "chapter_number": 10,
+      "verse_number": 9,
+      "start_char": 17570,
+      "end_char": 17665,
+      "length": 96,
+      "text": "וירא יואב כי־היתה אליו פני המלחמה מפנים ומאחור ויבחר מכל בחורי (בישראל) [ישראל] ויערך לקראת ארם׃"
+    },
+    {
+      "uid": "II_Samuel_228",
+      "chapter_number": 10,
+      "verse_number": 10,
+      "start_char": 17666,
+      "end_char": 17716,
+      "length": 51,
+      "text": "ואת יתר העם נתן ביד אבשי אחיו ויערך לקראת בני עמון׃"
+    },
+    {
+      "uid": "II_Samuel_229",
+      "chapter_number": 10,
+      "verse_number": 11,
+      "start_char": 17717,
+      "end_char": 17795,
+      "length": 79,
+      "text": "ויאמר אם־תחזק ארם ממני והיתה לי לישועה ואם־בני עמון יחזקו ממך והלכתי להושיע לך׃"
+    },
+    {
+      "uid": "II_Samuel_230",
+      "chapter_number": 10,
+      "verse_number": 12,
+      "start_char": 17796,
+      "end_char": 17854,
+      "length": 59,
+      "text": "חזק ונתחזק בעד־עמנו ובעד ערי אלהינו ויהוה יעשה הטוב בעיניו׃"
+    },
+    {
+      "uid": "II_Samuel_231",
+      "chapter_number": 10,
+      "verse_number": 13,
+      "start_char": 17855,
+      "end_char": 17901,
+      "length": 47,
+      "text": "ויגש יואב והעם אשר עמו למלחמה בארם וינסו מפניו׃"
+    },
+    {
+      "uid": "II_Samuel_232",
+      "chapter_number": 10,
+      "verse_number": 14,
+      "start_char": 17902,
+      "end_char": 17989,
+      "length": 88,
+      "text": "ובני עמון ראו כי־נס ארם וינסו מפני אבישי ויבאו העיר וישב יואב מעל בני עמון ויבא ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Samuel_233",
+      "chapter_number": 10,
+      "verse_number": 15,
+      "start_char": 17990,
+      "end_char": 18027,
+      "length": 38,
+      "text": "וירא ארם כי נגף לפני ישראל ויאספו יחד׃"
+    },
+    {
+      "uid": "II_Samuel_234",
+      "chapter_number": 10,
+      "verse_number": 16,
+      "start_char": 18028,
+      "end_char": 18104,
+      "length": 77,
+      "text": "וישלח הדדעזר ויצא את־ארם אשר מעבר הנהר ויבאו חילם ושובך שר־צבא הדדעזר לפניהם׃"
+    },
+    {
+      "uid": "II_Samuel_235",
+      "chapter_number": 10,
+      "verse_number": 17,
+      "start_char": 18105,
+      "end_char": 18190,
+      "length": 86,
+      "text": "ויגד לדוד ויאסף את־כל־ישראל ויעבר את־הירדן ויבא חלאמה ויערכו ארם לקראת דוד וילחמו עמו׃"
+    },
+    {
+      "uid": "II_Samuel_236",
+      "chapter_number": 10,
+      "verse_number": 18,
+      "start_char": 18191,
+      "end_char": 18285,
+      "length": 95,
+      "text": "וינס ארם מפני ישראל ויהרג דוד מארם שבע מאות רכב וארבעים אלף פרשים ואת שובך שר־צבאו הכה וימת שם׃"
+    },
+    {
+      "uid": "II_Samuel_237",
+      "chapter_number": 10,
+      "verse_number": 19,
+      "start_char": 18286,
+      "end_char": 18389,
+      "length": 104,
+      "text": "ויראו כל־המלכים עבדי הדדעזר כי נגפו לפני ישראל וישלמו את־ישראל ויעבדום ויראו ארם להושיע עוד את־בני עמון׃"
+    },
+    {
+      "uid": "II_Samuel_238",
+      "chapter_number": 11,
+      "verse_number": 1,
+      "start_char": 18390,
+      "end_char": 18519,
+      "length": 130,
+      "text": "ויהי לתשובת השנה לעת׀ צאת המלאכים וישלח דוד את־יואב ואת־עבדיו עמו ואת־כל־ישראל וישחתו את־בני עמון ויצרו על־רבה ודוד יושב בירושל͏ם׃"
+    },
+    {
+      "uid": "II_Samuel_239",
+      "chapter_number": 11,
+      "verse_number": 2,
+      "start_char": 18520,
+      "end_char": 18617,
+      "length": 98,
+      "text": "ויהי׀ לעת הערב ויקם דוד מעל משכבו ויתהלך על־גג בית־המלך וירא אשה רחצת מעל הגג והאשה טובת מראה מאד׃"
+    },
+    {
+      "uid": "II_Samuel_240",
+      "chapter_number": 11,
+      "verse_number": 3,
+      "start_char": 18618,
+      "end_char": 18684,
+      "length": 67,
+      "text": "וישלח דוד וידרש לאשה ויאמר הלוא־זאת בת־שבע בת־אליעם אשת אוריה החתי׃"
+    },
+    {
+      "uid": "II_Samuel_241",
+      "chapter_number": 11,
+      "verse_number": 4,
+      "start_char": 18685,
+      "end_char": 18760,
+      "length": 76,
+      "text": "וישלח דוד מלאכים ויקחה ותבוא אליו וישכב עמה והיא מתקדשת מטמאתה ותשב אל־ביתה׃"
+    },
+    {
+      "uid": "II_Samuel_242",
+      "chapter_number": 11,
+      "verse_number": 5,
+      "start_char": 18761,
+      "end_char": 18801,
+      "length": 41,
+      "text": "ותהר האשה ותשלח ותגד לדוד ותאמר הרה אנכי׃"
+    },
+    {
+      "uid": "II_Samuel_243",
+      "chapter_number": 11,
+      "verse_number": 6,
+      "start_char": 18802,
+      "end_char": 18868,
+      "length": 67,
+      "text": "וישלח דוד אל־יואב שלח אלי את־אוריה החתי וישלח יואב את־אוריה אל־דוד׃"
+    },
+    {
+      "uid": "II_Samuel_244",
+      "chapter_number": 11,
+      "verse_number": 7,
+      "start_char": 18869,
+      "end_char": 18930,
+      "length": 62,
+      "text": "ויבא אוריה אליו וישאל דוד לשלום יואב ולשלום העם ולשלום המלחמה׃"
+    },
+    {
+      "uid": "II_Samuel_245",
+      "chapter_number": 11,
+      "verse_number": 8,
+      "start_char": 18931,
+      "end_char": 19009,
+      "length": 79,
+      "text": "ויאמר דוד לאוריה רד לביתך ורחץ רגליך ויצא אוריה מבית המלך ותצא אחריו משאת המלך׃"
+    },
+    {
+      "uid": "II_Samuel_246",
+      "chapter_number": 11,
+      "verse_number": 9,
+      "start_char": 19010,
+      "end_char": 19067,
+      "length": 58,
+      "text": "וישכב אוריה פתח בית המלך את כל־עבדי אדניו ולא ירד אל־ביתו׃"
+    },
+    {
+      "uid": "II_Samuel_247",
+      "chapter_number": 11,
+      "verse_number": 10,
+      "start_char": 19068,
+      "end_char": 19161,
+      "length": 94,
+      "text": "ויגדו לדוד לאמר לא־ירד אוריה אל־ביתו ויאמר דוד אל־אוריה הלוא מדרך אתה בא מדוע לא־ירדת אל־ביתך׃"
+    },
+    {
+      "uid": "II_Samuel_248",
+      "chapter_number": 11,
+      "verse_number": 11,
+      "start_char": 19162,
+      "end_char": 19328,
+      "length": 167,
+      "text": "ויאמר אוריה אל־דוד הארון וישראל ויהודה ישבים בסכות ואדני יואב ועבדי אדני על־פני השדה חנים ואני אבוא אל־ביתי לאכל ולשתות ולשכב עם־אשתי חיך וחי נפשך אם־אעשה את־הדבר הזה׃"
+    },
+    {
+      "uid": "II_Samuel_249",
+      "chapter_number": 11,
+      "verse_number": 12,
+      "start_char": 19329,
+      "end_char": 19410,
+      "length": 82,
+      "text": "ויאמר דוד אל־אוריה שב בזה גם־היום ומחר אשלחך וישב אוריה בירושל͏ם ביום ההוא וממחרת׃"
+    },
+    {
+      "uid": "II_Samuel_250",
+      "chapter_number": 11,
+      "verse_number": 13,
+      "start_char": 19411,
+      "end_char": 19500,
+      "length": 90,
+      "text": "ויקרא־לו דוד ויאכל לפניו וישת וישכרהו ויצא בערב לשכב במשכבו עם־עבדי אדניו ואל־ביתו לא ירד׃"
+    },
+    {
+      "uid": "II_Samuel_251",
+      "chapter_number": 11,
+      "verse_number": 14,
+      "start_char": 19501,
+      "end_char": 19548,
+      "length": 48,
+      "text": "ויהי בבקר ויכתב דוד ספר אל־יואב וישלח ביד אוריה׃"
+    },
+    {
+      "uid": "II_Samuel_252",
+      "chapter_number": 11,
+      "verse_number": 15,
+      "start_char": 19549,
+      "end_char": 19623,
+      "length": 75,
+      "text": "ויכתב בספר לאמר הבו את־אוריה אל־מול פני המלחמה החזקה ושבתם מאחריו ונכה ומת׃"
+    },
+    {
+      "uid": "II_Samuel_253",
+      "chapter_number": 11,
+      "verse_number": 16,
+      "start_char": 19624,
+      "end_char": 19693,
+      "length": 70,
+      "text": "ויהי בשמור יואב אל־העיר ויתן את־אוריה אל־המקום אשר ידע כי אנשי־חיל שם׃"
+    },
+    {
+      "uid": "II_Samuel_254",
+      "chapter_number": 11,
+      "verse_number": 17,
+      "start_char": 19694,
+      "end_char": 19765,
+      "length": 72,
+      "text": "ויצאו אנשי העיר וילחמו את־יואב ויפל מן־העם מעבדי דוד וימת גם אוריה החתי׃"
+    },
+    {
+      "uid": "II_Samuel_255",
+      "chapter_number": 11,
+      "verse_number": 18,
+      "start_char": 19766,
+      "end_char": 19804,
+      "length": 39,
+      "text": "וישלח יואב ויגד לדוד את־כל־דברי המלחמה׃"
+    },
+    {
+      "uid": "II_Samuel_256",
+      "chapter_number": 11,
+      "verse_number": 19,
+      "start_char": 19805,
+      "end_char": 19861,
+      "length": 57,
+      "text": "ויצו את־המלאך לאמר ככלותך את כל־דברי המלחמה לדבר אל־המלך׃"
+    },
+    {
+      "uid": "II_Samuel_257",
+      "chapter_number": 11,
+      "verse_number": 20,
+      "start_char": 19862,
+      "end_char": 19948,
+      "length": 87,
+      "text": "והיה אם־תעלה חמת המלך ואמר לך מדוע נגשתם אל־העיר להלחם הלוא ידעתם את אשר־ירו מעל החומה׃"
+    },
+    {
+      "uid": "II_Samuel_258",
+      "chapter_number": 11,
+      "verse_number": 21,
+      "start_char": 19949,
+      "end_char": 20070,
+      "length": 122,
+      "text": "מי־הכה את־אבימלך בן־ירבשת הלוא־אשה השליכה עליו פלח רכב מעל החומה וימת בתבץ למה נגשתם אל־החומה ואמרת גם עבדך אוריה החתי מת׃"
+    },
+    {
+      "uid": "II_Samuel_259",
+      "chapter_number": 11,
+      "verse_number": 22,
+      "start_char": 20071,
+      "end_char": 20116,
+      "length": 46,
+      "text": "וילך המלאך ויבא ויגד לדוד את כל־אשר שלחו יואב׃"
+    },
+    {
+      "uid": "II_Samuel_260",
+      "chapter_number": 11,
+      "verse_number": 23,
+      "start_char": 20117,
+      "end_char": 20197,
+      "length": 81,
+      "text": "ויאמר המלאך אל־דוד כי־גברו עלינו האנשים ויצאו אלינו השדה ונהיה עליהם עד־פתח השער׃"
+    },
+    {
+      "uid": "II_Samuel_261",
+      "chapter_number": 11,
+      "verse_number": 24,
+      "start_char": 20198,
+      "end_char": 20271,
+      "length": 74,
+      "text": "ויראו המוראים אל־עבדיך מעל החומה וימותו מעבדי המלך וגם עבדך אוריה החתי מת׃"
+    },
+    {
+      "uid": "II_Samuel_262",
+      "chapter_number": 11,
+      "verse_number": 25,
+      "start_char": 20272,
+      "end_char": 20387,
+      "length": 116,
+      "text": "ויאמר דוד אל־המלאך כה־תאמר אל־יואב אל־ירע בעיניך את־הדבר הזה כי־כזה וכזה תאכל החרב החזק מלחמתך אל־העיר והרסה וחזקהו׃"
+    },
+    {
+      "uid": "II_Samuel_263",
+      "chapter_number": 11,
+      "verse_number": 26,
+      "start_char": 20388,
+      "end_char": 20434,
+      "length": 47,
+      "text": "ותשמע אשת אוריה כי־מת אוריה אישה ותספד על־בעלה׃"
+    },
+    {
+      "uid": "II_Samuel_264",
+      "chapter_number": 11,
+      "verse_number": 27,
+      "start_char": 20435,
+      "end_char": 20527,
+      "length": 93,
+      "text": "ויעבר האבל וישלח דוד ויאספה אל־ביתו ותהי־לו לאשה ותלד לו בן וירע הדבר אשר־עשה דוד בעיני יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_265",
+      "chapter_number": 12,
+      "verse_number": 1,
+      "start_char": 20528,
+      "end_char": 20612,
+      "length": 85,
+      "text": "וישלח יהוה את־נתן אל־דוד ויבא אליו ויאמר לו שני אנשים היו בעיר אחת אחד עשיר ואחד ראש׃"
+    },
+    {
+      "uid": "II_Samuel_266",
+      "chapter_number": 12,
+      "verse_number": 2,
+      "start_char": 20613,
+      "end_char": 20640,
+      "length": 28,
+      "text": "לעשיר היה צאן ובקר הרבה מאד׃"
+    },
+    {
+      "uid": "II_Samuel_267",
+      "chapter_number": 12,
+      "verse_number": 3,
+      "start_char": 20641,
+      "end_char": 20755,
+      "length": 115,
+      "text": "ולרש אין־כל כי אם־כבשה אחת קטנה אשר קנה ויחיה ותגדל עמו ועם־בניו יחדו מפתו תאכל ומכסו תשתה ובחיקו תשכב ותהי־לו כבת׃"
+    },
+    {
+      "uid": "II_Samuel_268",
+      "chapter_number": 12,
+      "verse_number": 4,
+      "start_char": 20756,
+      "end_char": 20860,
+      "length": 105,
+      "text": "ויבא הלך לאיש העשיר ויחמל לקחת מצאנו ומבקרו לעשות לארח הבא־לו ויקח את־כבשת האיש הראש ויעשה לאיש הבא אליו׃"
+    },
+    {
+      "uid": "II_Samuel_269",
+      "chapter_number": 12,
+      "verse_number": 5,
+      "start_char": 20861,
+      "end_char": 20926,
+      "length": 66,
+      "text": "ויחר־אף דוד באיש מאד ויאמר אל־נתן חי־יהוה כי בן־מות האיש העשה זאת׃"
+    },
+    {
+      "uid": "II_Samuel_270",
+      "chapter_number": 12,
+      "verse_number": 6,
+      "start_char": 20927,
+      "end_char": 20988,
+      "length": 62,
+      "text": "ואת־הכבשה ישלם ארבעתים עקב אשר עשה את־הדבר הזה ועל אשר לא־חמל׃"
+    },
+    {
+      "uid": "II_Samuel_271",
+      "chapter_number": 12,
+      "verse_number": 7,
+      "start_char": 20989,
+      "end_char": 21084,
+      "length": 96,
+      "text": "ויאמר נתן אל־דוד אתה האישכה־אמר יהוה אלהי ישראל אנכי משחתיך למלך על־ישראל ואנכי הצלתיך מיד שאול׃"
+    },
+    {
+      "uid": "II_Samuel_272",
+      "chapter_number": 12,
+      "verse_number": 8,
+      "start_char": 21085,
+      "end_char": 21183,
+      "length": 99,
+      "text": "ואתנה לך את־בית אדניך ואת־נשי אדניך בחיקך ואתנה לך את־בית ישראל ויהודה ואם־מעט ואספה לך כהנה וכהנה׃"
+    },
+    {
+      "uid": "II_Samuel_273",
+      "chapter_number": 12,
+      "verse_number": 9,
+      "start_char": 21184,
+      "end_char": 21302,
+      "length": 119,
+      "text": "מדוע בזית׀ את־דבר יהוה לעשות הרע (בעינו) [בעיני] את אוריה החתי הכית בחרב ואת־אשתו לקחת לך לאשה ואתו הרגת בחרב בני עמון׃"
+    },
+    {
+      "uid": "II_Samuel_274",
+      "chapter_number": 12,
+      "verse_number": 10,
+      "start_char": 21303,
+      "end_char": 21383,
+      "length": 81,
+      "text": "ועתה לא־תסור חרב מביתך עד־עולם עקב כי בזתני ותקח את־אשת אוריה החתי להיות לך לאשה׃"
+    },
+    {
+      "uid": "II_Samuel_275",
+      "chapter_number": 12,
+      "verse_number": 11,
+      "start_char": 21384,
+      "end_char": 21484,
+      "length": 101,
+      "text": "כה׀ אמר יהוה הנני מקים עליך רעה מביתך ולקחתי את־נשיך לעיניך ונתתי לרעיך ושכב עם־נשיך לעיני השמש הזאת׃"
+    },
+    {
+      "uid": "II_Samuel_276",
+      "chapter_number": 12,
+      "verse_number": 12,
+      "start_char": 21485,
+      "end_char": 21546,
+      "length": 62,
+      "text": "כי אתה עשית בסתר ואני אעשה את־הדבר הזה נגד כל־ישראל ונגד השמש׃"
+    },
+    {
+      "uid": "II_Samuel_277",
+      "chapter_number": 12,
+      "verse_number": 13,
+      "start_char": 21547,
+      "end_char": 21619,
+      "length": 73,
+      "text": "ויאמר דוד אל־נתן חטאתי ליהוהויאמר נתן אל־דוד גם־יהוה העביר חטאתך לא תמות׃"
+    },
+    {
+      "uid": "II_Samuel_278",
+      "chapter_number": 12,
+      "verse_number": 14,
+      "start_char": 21620,
+      "end_char": 21682,
+      "length": 63,
+      "text": "אפס כי־נאץ נאצת את־איבי יהוה בדבר הזה גם הבן הילוד לך מות ימות׃"
+    },
+    {
+      "uid": "II_Samuel_279",
+      "chapter_number": 12,
+      "verse_number": 15,
+      "start_char": 21683,
+      "end_char": 21747,
+      "length": 65,
+      "text": "וילך נתן אל־ביתו ויגף יהוה את־הילד אשר ילדה אשת־אוריה לדוד ויאנש׃"
+    },
+    {
+      "uid": "II_Samuel_280",
+      "chapter_number": 12,
+      "verse_number": 16,
+      "start_char": 21748,
+      "end_char": 21807,
+      "length": 60,
+      "text": "ויבקש דוד את־האלהים בעד הנער ויצם דוד צום ובא ולן ושכב ארצה׃"
+    },
+    {
+      "uid": "II_Samuel_281",
+      "chapter_number": 12,
+      "verse_number": 17,
+      "start_char": 21808,
+      "end_char": 21867,
+      "length": 60,
+      "text": "ויקמו זקני ביתו עליו להקימו מן־הארץ ולא אבה ולא־ברא אתם לחם׃"
+    },
+    {
+      "uid": "II_Samuel_282",
+      "chapter_number": 12,
+      "verse_number": 18,
+      "start_char": 21868,
+      "end_char": 22014,
+      "length": 147,
+      "text": "ויהי ביום השביעי וימת הילד ויראו עבדי דוד להגיד לו׀ כי־מת הילד כי אמרו הנה בהיות הילד חי דברנו אליו ולא־שמע בקולנו ואיך נאמר אליו מת הילד ועשה רעה׃"
+    },
+    {
+      "uid": "II_Samuel_283",
+      "chapter_number": 12,
+      "verse_number": 19,
+      "start_char": 22015,
+      "end_char": 22098,
+      "length": 84,
+      "text": "וירא דוד כי עבדיו מתלחשים ויבן דוד כי מת הילד ויאמר דוד אל־עבדיו המת הילד ויאמרו מת׃"
+    },
+    {
+      "uid": "II_Samuel_284",
+      "chapter_number": 12,
+      "verse_number": 20,
+      "start_char": 22099,
+      "end_char": 22196,
+      "length": 98,
+      "text": "ויקם דוד מהארץ וירחץ ויסך ויחלף שמלתו ויבא בית־יהוה וישתחו ויבא אל־ביתו וישאל וישימו לו לחם ויאכל׃"
+    },
+    {
+      "uid": "II_Samuel_285",
+      "chapter_number": 12,
+      "verse_number": 21,
+      "start_char": 22197,
+      "end_char": 22287,
+      "length": 91,
+      "text": "ויאמרו עבדיו אליו מה־הדבר הזה אשר עשיתה בעבור הילד חי צמת ותבך וכאשר מת הילד קמת ותאכל לחם׃"
+    },
+    {
+      "uid": "II_Samuel_286",
+      "chapter_number": 12,
+      "verse_number": 22,
+      "start_char": 22288,
+      "end_char": 22364,
+      "length": 77,
+      "text": "ויאמר בעוד הילד חי צמתי ואבכה כי אמרתי מי יודע (יחנני) [וחנני] יהוה וחי הילד׃"
+    },
+    {
+      "uid": "II_Samuel_287",
+      "chapter_number": 12,
+      "verse_number": 23,
+      "start_char": 22365,
+      "end_char": 22434,
+      "length": 70,
+      "text": "ועתה׀ מת למה זה אני צם האוכל להשיבו עוד אני הלך אליו והוא לא־ישוב אלי׃"
+    },
+    {
+      "uid": "II_Samuel_288",
+      "chapter_number": 12,
+      "verse_number": 24,
+      "start_char": 22435,
+      "end_char": 22526,
+      "length": 92,
+      "text": "וינחם דוד את בת־שבע אשתו ויבא אליה וישכב עמה ותלד בן (ויקרא) [ותקרא] את־שמו שלמה ויהוה אהבו׃"
+    },
+    {
+      "uid": "II_Samuel_289",
+      "chapter_number": 12,
+      "verse_number": 25,
+      "start_char": 22527,
+      "end_char": 22577,
+      "length": 51,
+      "text": "וישלח ביד נתן הנביא ויקרא את־שמו ידידיה בעבור יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_290",
+      "chapter_number": 12,
+      "verse_number": 26,
+      "start_char": 22578,
+      "end_char": 22622,
+      "length": 45,
+      "text": "וילחם יואב ברבת בני עמון וילכד את־עיר המלוכה׃"
+    },
+    {
+      "uid": "II_Samuel_291",
+      "chapter_number": 12,
+      "verse_number": 27,
+      "start_char": 22623,
+      "end_char": 22686,
+      "length": 64,
+      "text": "וישלח יואב מלאכים אל־דוד ויאמר נלחמתי ברבה גם־לכדתי את־עיר המים׃"
+    },
+    {
+      "uid": "II_Samuel_292",
+      "chapter_number": 12,
+      "verse_number": 28,
+      "start_char": 22687,
+      "end_char": 22760,
+      "length": 74,
+      "text": "ועתה אסף את־יתר העם וחנה על־העיר ולכדה פן־אלכד אני את־העיר ונקרא שמי עליה׃"
+    },
+    {
+      "uid": "II_Samuel_293",
+      "chapter_number": 12,
+      "verse_number": 29,
+      "start_char": 22761,
+      "end_char": 22806,
+      "length": 46,
+      "text": "ויאסף דוד את־כל־העם וילך רבתה וילחם בה וילכדה׃"
+    },
+    {
+      "uid": "II_Samuel_294",
+      "chapter_number": 12,
+      "verse_number": 30,
+      "start_char": 22807,
+      "end_char": 22899,
+      "length": 93,
+      "text": "ויקח את־עטרת־מלכם מעל ראשו ומשקלה ככר זהב ואבן יקרה ותהי על־ראש דוד ושלל העיר הוציא הרבה מאד׃"
+    },
+    {
+      "uid": "II_Samuel_295",
+      "chapter_number": 12,
+      "verse_number": 31,
+      "start_char": 22900,
+      "end_char": 23037,
+      "length": 138,
+      "text": "ואת־העם אשר־בה הוציא וישם במגרה ובחרצי הברזל ובמגזרת הברזל והעביר אותם (במלכן) [במלבן] וכן יעשה לכל ערי בני־עמון וישב דוד וכל־העם ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Samuel_296",
+      "chapter_number": 13,
+      "verse_number": 1,
+      "start_char": 23038,
+      "end_char": 23104,
+      "length": 67,
+      "text": "ויהי אחרי־כן ולאבשלום בן־דוד אחות יפה ושמה תמר ויאהבה אמנון בן־דוד׃"
+    },
+    {
+      "uid": "II_Samuel_297",
+      "chapter_number": 13,
+      "verse_number": 2,
+      "start_char": 23105,
+      "end_char": 23185,
+      "length": 81,
+      "text": "ויצר לאמנון להתחלות בעבור תמר אחתו כי בתולה היא ויפלא בעיני אמנון לעשות לה מאומה׃"
+    },
+    {
+      "uid": "II_Samuel_298",
+      "chapter_number": 13,
+      "verse_number": 3,
+      "start_char": 23186,
+      "end_char": 23242,
+      "length": 57,
+      "text": "ולאמנון רע ושמו יונדב בן־שמעה אחי דוד ויונדב איש חכם מאד׃"
+    },
+    {
+      "uid": "II_Samuel_299",
+      "chapter_number": 13,
+      "verse_number": 4,
+      "start_char": 23243,
+      "end_char": 23343,
+      "length": 101,
+      "text": "ויאמר לו מדוע אתה ככה דל בן־המלך בבקר בבקר הלוא תגיד לי ויאמר לו אמנון את־תמר אחות אבשלם אחי אני אהב׃"
+    },
+    {
+      "uid": "II_Samuel_300",
+      "chapter_number": 13,
+      "verse_number": 5,
+      "start_char": 23344,
+      "end_char": 23480,
+      "length": 137,
+      "text": "ויאמר לו יהונדב שכב על־משכבך והתחל ובא אביך לראותך ואמרת אליו תבא נא תמר אחותי ותברני לחם ועשתה לעיני את־הבריה למען אשר אראה ואכלתי מידה׃"
+    },
+    {
+      "uid": "II_Samuel_301",
+      "chapter_number": 13,
+      "verse_number": 6,
+      "start_char": 23481,
+      "end_char": 23585,
+      "length": 105,
+      "text": "וישכב אמנון ויתחל ויבא המלך לראותו ויאמר אמנון אל־המלך תבוא־נא תמר אחתי ותלבב לעיני שתי לבבות ואברה מידה׃"
+    },
+    {
+      "uid": "II_Samuel_302",
+      "chapter_number": 13,
+      "verse_number": 7,
+      "start_char": 23586,
+      "end_char": 23649,
+      "length": 64,
+      "text": "וישלח דוד אל־תמר הביתה לאמר לכי נא בית אמנון אחיך ועשי־לו הבריה׃"
+    },
+    {
+      "uid": "II_Samuel_303",
+      "chapter_number": 13,
+      "verse_number": 8,
+      "start_char": 23650,
+      "end_char": 23739,
+      "length": 90,
+      "text": "ותלך תמר בית אמנון אחיה והוא שכב ותקח את־הבצק (ותלוש) [ותלש] ותלבב לעיניו ותבשל את־הלבבות׃"
+    },
+    {
+      "uid": "II_Samuel_304",
+      "chapter_number": 13,
+      "verse_number": 9,
+      "start_char": 23740,
+      "end_char": 23826,
+      "length": 87,
+      "text": "ותקח את־המשרת ותצק לפניו וימאן לאכול ויאמר אמנון הוציאו כל־איש מעלי ויצאו כל־איש מעליו׃"
+    },
+    {
+      "uid": "II_Samuel_305",
+      "chapter_number": 13,
+      "verse_number": 10,
+      "start_char": 23827,
+      "end_char": 23924,
+      "length": 98,
+      "text": "ויאמר אמנון אל־תמר הביאי הבריה החדר ואברה מידך ותקח תמר את־הלבבות אשר עשתה ותבא לאמנון אחיה החדרה׃"
+    },
+    {
+      "uid": "II_Samuel_306",
+      "chapter_number": 13,
+      "verse_number": 11,
+      "start_char": 23925,
+      "end_char": 23977,
+      "length": 53,
+      "text": "ותגש אליו לאכל ויחזק־בה ויאמר לה בואי שכבי עמי אחותי׃"
+    },
+    {
+      "uid": "II_Samuel_307",
+      "chapter_number": 13,
+      "verse_number": 12,
+      "start_char": 23978,
+      "end_char": 24045,
+      "length": 68,
+      "text": "ותאמר לו אל־אחי אל־תענני כי לא־יעשה כן בישראל אל־תעשה את־הנבלה הזאת׃"
+    },
+    {
+      "uid": "II_Samuel_308",
+      "chapter_number": 13,
+      "verse_number": 13,
+      "start_char": 24046,
+      "end_char": 24135,
+      "length": 90,
+      "text": "ואני אנה אוליך את־חרפתי ואתה תהיה כאחד הנבלים בישראל ועתה דבר־נא אל־המלך כי לא ימנעני ממך׃"
+    },
+    {
+      "uid": "II_Samuel_309",
+      "chapter_number": 13,
+      "verse_number": 14,
+      "start_char": 24136,
+      "end_char": 24181,
+      "length": 46,
+      "text": "ולא אבה לשמע בקולה ויחזק ממנה ויענה וישכב אתה׃"
+    },
+    {
+      "uid": "II_Samuel_310",
+      "chapter_number": 13,
+      "verse_number": 15,
+      "start_char": 24182,
+      "end_char": 24272,
+      "length": 91,
+      "text": "וישנאה אמנון שנאה גדולה מאד כי גדולה השנאה אשר שנאה מאהבה אשר אהבה ויאמר־לה אמנון קומי לכי׃"
+    },
+    {
+      "uid": "II_Samuel_311",
+      "chapter_number": 13,
+      "verse_number": 16,
+      "start_char": 24273,
+      "end_char": 24348,
+      "length": 76,
+      "text": "ותאמר לו אל־אודת הרעה הגדולה הזאת מאחרת אשר־עשית עמי לשלחני ולא אבה לשמע לה׃"
+    },
+    {
+      "uid": "II_Samuel_312",
+      "chapter_number": 13,
+      "verse_number": 17,
+      "start_char": 24349,
+      "end_char": 24416,
+      "length": 68,
+      "text": "ויקרא את־נערו משרתו ויאמר שלחו־נא את־זאת מעלי החוצה ונעל הדלת אחריה׃"
+    },
+    {
+      "uid": "II_Samuel_313",
+      "chapter_number": 13,
+      "verse_number": 18,
+      "start_char": 24417,
+      "end_char": 24505,
+      "length": 89,
+      "text": "ועליה כתנת פסים כי כן תלבשן בנות־המלך הבתולת מעילים ויצא אותה משרתו החוץ ונעל הדלת אחריה׃"
+    },
+    {
+      "uid": "II_Samuel_314",
+      "chapter_number": 13,
+      "verse_number": 19,
+      "start_char": 24506,
+      "end_char": 24585,
+      "length": 80,
+      "text": "ותקח תמר אפר על־ראשה וכתנת הפסים אשר עליה קרעה ותשם ידה על־ראשה ותלך הלוך וזעקה׃"
+    },
+    {
+      "uid": "II_Samuel_315",
+      "chapter_number": 13,
+      "verse_number": 20,
+      "start_char": 24586,
+      "end_char": 24712,
+      "length": 127,
+      "text": "ויאמר אליה אבשלום אחיה האמינון אחיך היה עמך ועתה אחותי החרישי אחיך הוא אל־תשיתי את־לבך לדבר הזה ותשב תמר ושממה בית אבשלום אחיה׃"
+    },
+    {
+      "uid": "II_Samuel_316",
+      "chapter_number": 13,
+      "verse_number": 21,
+      "start_char": 24713,
+      "end_char": 24756,
+      "length": 44,
+      "text": "והמלך דוד שמע את כל־הדברים האלה ויחר לו מאד׃"
+    },
+    {
+      "uid": "II_Samuel_317",
+      "chapter_number": 13,
+      "verse_number": 22,
+      "start_char": 24757,
+      "end_char": 24843,
+      "length": 87,
+      "text": "ולא־דבר אבשלום עם־אמנון למרע ועד־טוב כי־שנא אבשלום את־אמנון על־דבר אשר ענה את תמר אחתו׃"
+    },
+    {
+      "uid": "II_Samuel_318",
+      "chapter_number": 13,
+      "verse_number": 23,
+      "start_char": 24844,
+      "end_char": 24929,
+      "length": 86,
+      "text": "ויהי לשנתים ימים ויהיו גזזים לאבשלום בבעל חצור אשר עם־אפרים ויקרא אבשלום לכל־בני המלך׃"
+    },
+    {
+      "uid": "II_Samuel_319",
+      "chapter_number": 13,
+      "verse_number": 24,
+      "start_char": 24930,
+      "end_char": 25001,
+      "length": 72,
+      "text": "ויבא אבשלום אל־המלך ויאמר הנה־נא גזזים לעבדך ילך־נא המלך ועבדיו עם־עבדך׃"
+    },
+    {
+      "uid": "II_Samuel_320",
+      "chapter_number": 13,
+      "verse_number": 25,
+      "start_char": 25002,
+      "end_char": 25088,
+      "length": 87,
+      "text": "ויאמר המלך אל־אבשלום אל־בני אל־נא נלך כלנו ולא נכבד עליך ויפרץ־בו ולא־אבה ללכת ויברכהו׃"
+    },
+    {
+      "uid": "II_Samuel_321",
+      "chapter_number": 13,
+      "verse_number": 26,
+      "start_char": 25089,
+      "end_char": 25153,
+      "length": 65,
+      "text": "ויאמר אבשלום ולא ילך־נא אתנו אמנון אחי ויאמר לו המלך למה ילך עמך׃"
+    },
+    {
+      "uid": "II_Samuel_322",
+      "chapter_number": 13,
+      "verse_number": 27,
+      "start_char": 25154,
+      "end_char": 25204,
+      "length": 51,
+      "text": "ויפרץ־בו אבשלום וישלח אתו את־אמנון ואת כל־בני המלך׃"
+    },
+    {
+      "uid": "II_Samuel_323",
+      "chapter_number": 13,
+      "verse_number": 28,
+      "start_char": 25205,
+      "end_char": 25344,
+      "length": 140,
+      "text": "ויצו אבשלום את־נעריו לאמר ראו נא כטוב לב־אמנון ביין ואמרתי אליכם הכו את־אמנון והמתם אתו אל־תיראו הלוא כי אנכי צויתי אתכם חזקו והיו לבני־חיל׃"
+    },
+    {
+      "uid": "II_Samuel_324",
+      "chapter_number": 13,
+      "verse_number": 29,
+      "start_char": 25345,
+      "end_char": 25429,
+      "length": 85,
+      "text": "ויעשו נערי אבשלום לאמנון כאשר צוה אבשלום ויקמו׀ כל־בני המלך וירכבו איש על־פרדו וינסו׃"
+    },
+    {
+      "uid": "II_Samuel_325",
+      "chapter_number": 13,
+      "verse_number": 30,
+      "start_char": 25430,
+      "end_char": 25509,
+      "length": 80,
+      "text": "ויהי המה בדרך והשמעה באה אל־דוד לאמר הכה אבשלום את־כל־בני המלך ולא־נותר מהם אחד׃"
+    },
+    {
+      "uid": "II_Samuel_326",
+      "chapter_number": 13,
+      "verse_number": 31,
+      "start_char": 25510,
+      "end_char": 25572,
+      "length": 63,
+      "text": "ויקם המלך ויקרע את־בגדיו וישכב ארצה וכל־עבדיו נצבים קרעי בגדים׃"
+    },
+    {
+      "uid": "II_Samuel_327",
+      "chapter_number": 13,
+      "verse_number": 32,
+      "start_char": 25573,
+      "end_char": 25712,
+      "length": 140,
+      "text": "ויען יונדב׀ בן־שמעה אחי־דוד ויאמר אל־יאמר אדני את כל־הנערים בני־המלך המיתו כי־אמנון לבדו מת כי־על־פי אבשלום היתה שומה מיום ענתו את תמר אחתו׃"
+    },
+    {
+      "uid": "II_Samuel_328",
+      "chapter_number": 13,
+      "verse_number": 33,
+      "start_char": 25713,
+      "end_char": 25788,
+      "length": 76,
+      "text": "ועתה אל־ישם אדני המלך אל־לבו דבר לאמר כל־בני המלך מתו כי־(אם)־אמנון לבדו מת׃"
+    },
+    {
+      "uid": "II_Samuel_329",
+      "chapter_number": 13,
+      "verse_number": 34,
+      "start_char": 25789,
+      "end_char": 25865,
+      "length": 77,
+      "text": "ויברח אבשלום וישא הנער הצפה את־עינו וירא והנה עם־רב הלכים מדרך אחריו מצד ההר׃"
+    },
+    {
+      "uid": "II_Samuel_330",
+      "chapter_number": 13,
+      "verse_number": 35,
+      "start_char": 25866,
+      "end_char": 25919,
+      "length": 54,
+      "text": "ויאמר יונדב אל־המלך הנה בני־המלך באו כדבר עבדך כן היה׃"
+    },
+    {
+      "uid": "II_Samuel_331",
+      "chapter_number": 13,
+      "verse_number": 36,
+      "start_char": 25920,
+      "end_char": 26007,
+      "length": 88,
+      "text": "ויהי׀ ככלתו לדבר והנה בני־המלך באו וישאו קולם ויבכו וגם־המלך וכל־עבדיו בכו בכי גדול מאד׃"
+    },
+    {
+      "uid": "II_Samuel_332",
+      "chapter_number": 13,
+      "verse_number": 37,
+      "start_char": 26008,
+      "end_char": 26085,
+      "length": 78,
+      "text": "ואבשלום ברח וילך אל־תלמי בן־[עמיהוד] (עמיחור) מלך גשור ויתאבל על־בנו כל־הימים׃"
+    },
+    {
+      "uid": "II_Samuel_333",
+      "chapter_number": 13,
+      "verse_number": 38,
+      "start_char": 26086,
+      "end_char": 26124,
+      "length": 39,
+      "text": "ואבשלום ברח וילך גשור ויהי־שם שלש שנים׃"
+    },
+    {
+      "uid": "II_Samuel_334",
+      "chapter_number": 13,
+      "verse_number": 39,
+      "start_char": 26125,
+      "end_char": 26175,
+      "length": 51,
+      "text": "ותכל דוד המלך לצאת אל־אבשלום כי־נחם על־אמנון כי־מת׃"
+    },
+    {
+      "uid": "II_Samuel_335",
+      "chapter_number": 14,
+      "verse_number": 1,
+      "start_char": 26176,
+      "end_char": 26214,
+      "length": 39,
+      "text": "וידע יואב בן־צריה כי־לב המלך על־אבשלום׃"
+    },
+    {
+      "uid": "II_Samuel_336",
+      "chapter_number": 14,
+      "verse_number": 2,
+      "start_char": 26215,
+      "end_char": 26339,
+      "length": 125,
+      "text": "וישלח יואב תקועה ויקח משם אשה חכמה ויאמר אליה התאבלי־נא ולבשי־נא בגדי־אבל ואל־תסוכי שמן והיית כאשה זה ימים רבים מתאבלת על־מת׃"
+    },
+    {
+      "uid": "II_Samuel_337",
+      "chapter_number": 14,
+      "verse_number": 3,
+      "start_char": 26340,
+      "end_char": 26397,
+      "length": 58,
+      "text": "ובאת אל־המלך ודברת אליו כדבר הזה וישם יואב את־הדברים בפיה׃"
+    },
+    {
+      "uid": "II_Samuel_338",
+      "chapter_number": 14,
+      "verse_number": 4,
+      "start_char": 26398,
+      "end_char": 26465,
+      "length": 68,
+      "text": "ותאמר האשה התקעית אל־המלך ותפל על־אפיה ארצה ותשתחו ותאמר הושעה המלך׃"
+    },
+    {
+      "uid": "II_Samuel_339",
+      "chapter_number": 14,
+      "verse_number": 5,
+      "start_char": 26466,
+      "end_char": 26519,
+      "length": 54,
+      "text": "ויאמר־לה המלך מה־לך ותאמר אבל אשה־אלמנה אני וימת אישי׃"
+    },
+    {
+      "uid": "II_Samuel_340",
+      "chapter_number": 14,
+      "verse_number": 6,
+      "start_char": 26520,
+      "end_char": 26597,
+      "length": 78,
+      "text": "ולשפחתך שני בנים וינצו שניהם בשדה ואין מציל ביניהם ויכו האחד את־האחד וימת אתו׃"
+    },
+    {
+      "uid": "II_Samuel_341",
+      "chapter_number": 14,
+      "verse_number": 7,
+      "start_char": 26598,
+      "end_char": 26765,
+      "length": 168,
+      "text": "והנה קמה כל־המשפחה על־שפחתך ויאמרו תני׀ את־מכה אחיו ונמתהו בנפש אחיו אשר הרג ונשמידה גם את־היורש וכבו את־גחלתי אשר נשארה לבלתי (שום) [שים־]לאישי שם ושארית על־פני האדמה׃"
+    },
+    {
+      "uid": "II_Samuel_342",
+      "chapter_number": 14,
+      "verse_number": 8,
+      "start_char": 26766,
+      "end_char": 26809,
+      "length": 44,
+      "text": "ויאמר המלך אל־האשה לכי לביתך ואני אצוה עליך׃"
+    },
+    {
+      "uid": "II_Samuel_343",
+      "chapter_number": 14,
+      "verse_number": 9,
+      "start_char": 26810,
+      "end_char": 26883,
+      "length": 74,
+      "text": "ותאמר האשה התקועית אל־המלך עלי אדני המלך העון ועל־בית אבי והמלך וכסאו נקי׃"
+    },
+    {
+      "uid": "II_Samuel_344",
+      "chapter_number": 14,
+      "verse_number": 10,
+      "start_char": 26884,
+      "end_char": 26937,
+      "length": 54,
+      "text": "ויאמר המלך המדבר אליך והבאתו אלי ולא־יסיף עוד לגעת בך׃"
+    },
+    {
+      "uid": "II_Samuel_345",
+      "chapter_number": 14,
+      "verse_number": 11,
+      "start_char": 26938,
+      "end_char": 27054,
+      "length": 117,
+      "text": "ותאמר יזכר־נא המלך את־יהוה אלהיך (מהרבית) [מהרבת] גאל הדם לשחת ולא ישמידו את־בני ויאמר חי־יהוה אם־יפל משערת בנך ארצה׃"
+    },
+    {
+      "uid": "II_Samuel_346",
+      "chapter_number": 14,
+      "verse_number": 12,
+      "start_char": 27055,
+      "end_char": 27107,
+      "length": 53,
+      "text": "ותאמר האשה תדבר־נא שפחתך אל־אדני המלך דבר ויאמר דברי׃"
+    },
+    {
+      "uid": "II_Samuel_347",
+      "chapter_number": 14,
+      "verse_number": 13,
+      "start_char": 27108,
+      "end_char": 27195,
+      "length": 88,
+      "text": "ותאמר האשה ולמה חשבתה כזאת על־עם אלהים ומדבר המלך הדבר הזה כאשם לבלתי השיב המלך את־נדחו׃"
+    },
+    {
+      "uid": "II_Samuel_348",
+      "chapter_number": 14,
+      "verse_number": 14,
+      "start_char": 27196,
+      "end_char": 27287,
+      "length": 92,
+      "text": "כי־מות נמות וכמים הנגרים ארצה אשר לא יאספו ולא־ישא אלהים נפש וחשב מחשבות לבלתי ידח ממנו נדח׃"
+    },
+    {
+      "uid": "II_Samuel_349",
+      "chapter_number": 14,
+      "verse_number": 15,
+      "start_char": 27288,
+      "end_char": 27400,
+      "length": 113,
+      "text": "ועתה אשר־באתי לדבר אל־המלך אדני את־הדבר הזה כי יראני העם ותאמר שפחתך אדברה־נא אל־המלך אולי יעשה המלך את־דבר אמתו׃"
+    },
+    {
+      "uid": "II_Samuel_350",
+      "chapter_number": 14,
+      "verse_number": 16,
+      "start_char": 27401,
+      "end_char": 27471,
+      "length": 71,
+      "text": "כי ישמע המלך להציל את־אמתו מכף האיש להשמיד אתי ואת־בני יחד מנחלת אלהים׃"
+    },
+    {
+      "uid": "II_Samuel_351",
+      "chapter_number": 14,
+      "verse_number": 17,
+      "start_char": 27472,
+      "end_char": 27576,
+      "length": 105,
+      "text": "ותאמר שפחתך יהיה־נא דבר־אדני המלך למנחה כי׀ כמלאך האלהים כן אדני המלך לשמע הטוב והרע ויהוה אלהיך יהי עמך׃"
+    },
+    {
+      "uid": "II_Samuel_352",
+      "chapter_number": 14,
+      "verse_number": 18,
+      "start_char": 27577,
+      "end_char": 27667,
+      "length": 91,
+      "text": "ויען המלך ויאמר אל־האשה אל־נא תכחדי ממני דבר אשר אנכי שאל אתך ותאמר האשה ידבר־נא אדני המלך׃"
+    },
+    {
+      "uid": "II_Samuel_353",
+      "chapter_number": 14,
+      "verse_number": 19,
+      "start_char": 27668,
+      "end_char": 27834,
+      "length": 167,
+      "text": "ויאמר המלך היד יואב אתך בכל־זאת ותען האשה ותאמר חי־נפשך אדני המלך אם־אש׀ להמין ולהשמיל מכל אשר־דבר אדני המלך כי־עבדך יואב הוא צוני והוא שם בפי שפחתך את כל־הדברים האלה׃"
+    },
+    {
+      "uid": "II_Samuel_354",
+      "chapter_number": 14,
+      "verse_number": 20,
+      "start_char": 27835,
+      "end_char": 27931,
+      "length": 97,
+      "text": "לבעבור סבב את־פני הדבר עשה עבדך יואב את־הדבר הזה ואדני חכם כחכמת מלאך האלהים לדעת את־כל־אשר בארץ׃"
+    },
+    {
+      "uid": "II_Samuel_355",
+      "chapter_number": 14,
+      "verse_number": 21,
+      "start_char": 27932,
+      "end_char": 28001,
+      "length": 70,
+      "text": "ויאמר המלך אל־יואב הנה־נא עשיתי את־הדבר הזה ולך השב את־הנער את־אבשלום׃"
+    },
+    {
+      "uid": "II_Samuel_356",
+      "chapter_number": 14,
+      "verse_number": 22,
+      "start_char": 28002,
+      "end_char": 28133,
+      "length": 132,
+      "text": "ויפל יואב אל־פניו ארצה וישתחו ויברך את־המלך ויאמר יואב היום ידע עבדך כי־מצאתי חן בעיניך אדני המלך אשר־עשה המלך את־דבר (עבדו) [עבדך]׃"
+    },
+    {
+      "uid": "II_Samuel_357",
+      "chapter_number": 14,
+      "verse_number": 23,
+      "start_char": 28134,
+      "end_char": 28177,
+      "length": 44,
+      "text": "ויקם יואב וילך גשורה ויבא את־אבשלום ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Samuel_358",
+      "chapter_number": 14,
+      "verse_number": 24,
+      "start_char": 28178,
+      "end_char": 28250,
+      "length": 73,
+      "text": "ויאמר המלך יסב אל־ביתו ופני לא יראה ויסב אבשלום אל־ביתו ופני המלך לא ראה׃"
+    },
+    {
+      "uid": "II_Samuel_359",
+      "chapter_number": 14,
+      "verse_number": 25,
+      "start_char": 28251,
+      "end_char": 28326,
+      "length": 76,
+      "text": "וכאבשלום לא־היה איש־יפה בכל־ישראל להלל מאד מכף רגלו ועד קדקדו לא־היה בו מום׃"
+    },
+    {
+      "uid": "II_Samuel_360",
+      "chapter_number": 14,
+      "verse_number": 26,
+      "start_char": 28327,
+      "end_char": 28427,
+      "length": 101,
+      "text": "ובגלחו את־ראשו והיה מקץ ימים׀לימים אשר יגלח כי־כבד עליו וגלחו ושקל את־שער ראשו מאתים שקלים באבן המלך׃"
+    },
+    {
+      "uid": "II_Samuel_361",
+      "chapter_number": 14,
+      "verse_number": 27,
+      "start_char": 28428,
+      "end_char": 28492,
+      "length": 65,
+      "text": "ויולדו לאבשלום שלושה בנים ובת אחת ושמה תמר היא היתה אשה יפת מראה׃"
+    },
+    {
+      "uid": "II_Samuel_362",
+      "chapter_number": 14,
+      "verse_number": 28,
+      "start_char": 28493,
+      "end_char": 28541,
+      "length": 49,
+      "text": "וישב אבשלום בירושל͏ם שנתים ימים ופני המלך לא ראה׃"
+    },
+    {
+      "uid": "II_Samuel_363",
+      "chapter_number": 14,
+      "verse_number": 29,
+      "start_char": 28542,
+      "end_char": 28625,
+      "length": 84,
+      "text": "וישלח אבשלום אל־יואב לשלח אתו אל־המלך ולא אבה לבוא אליו וישלח עוד שנית ולא אבה לבוא׃"
+    },
+    {
+      "uid": "II_Samuel_364",
+      "chapter_number": 14,
+      "verse_number": 30,
+      "start_char": 28626,
+      "end_char": 28733,
+      "length": 108,
+      "text": "ויאמר אל־עבדיו ראו חלקת יואב אל־ידי ולו־שם שערים לכו (והוצתיה) [והציתוה] באש ויצתו עבדי אבשלום את־החלקה באש׃"
+    },
+    {
+      "uid": "II_Samuel_365",
+      "chapter_number": 14,
+      "verse_number": 31,
+      "start_char": 28734,
+      "end_char": 28811,
+      "length": 78,
+      "text": "ויקם יואב ויבא אל־אבשלום הביתה ויאמר אליו למה הציתו עבדיך את־החלקה אשר־לי באש׃"
+    },
+    {
+      "uid": "II_Samuel_366",
+      "chapter_number": 14,
+      "verse_number": 32,
+      "start_char": 28812,
+      "end_char": 28955,
+      "length": 144,
+      "text": "ויאמר אבשלום אל־יואב הנה שלחתי אליך׀לאמר בא הנה ואשלחה אתך אל־המלך לאמר למה באתי מגשור טוב לי עד אני־שם ועתה אראה פני המלך ואם־יש־בי עון והמתני׃"
+    },
+    {
+      "uid": "II_Samuel_367",
+      "chapter_number": 14,
+      "verse_number": 33,
+      "start_char": 28956,
+      "end_char": 29061,
+      "length": 106,
+      "text": "ויבא יואב אל־המלך ויגד־לו ויקרא אל־אבשלום ויבא אל־המלך וישתחו לו על־אפיו ארצה לפני המלך וישק המלך לאבשלום׃"
+    },
+    {
+      "uid": "II_Samuel_368",
+      "chapter_number": 15,
+      "verse_number": 1,
+      "start_char": 29062,
+      "end_char": 29124,
+      "length": 63,
+      "text": "ויהי מאחרי כן ויעש לו אבשלום מרכבה וססים וחמשים איש רצים לפניו׃"
+    },
+    {
+      "uid": "II_Samuel_369",
+      "chapter_number": 15,
+      "verse_number": 2,
+      "start_char": 29125,
+      "end_char": 29272,
+      "length": 148,
+      "text": "והשכים אבשלום ועמד על־יד דרך השער ויהי כל־האיש אשר־יהיה־לו־ריב לבוא אל־המלך למשפט ויקרא אבשלום אליו ויאמר אי־מזה עיר אתה ויאמר מאחד שבטי־ישראל עבדך׃"
+    },
+    {
+      "uid": "II_Samuel_370",
+      "chapter_number": 15,
+      "verse_number": 3,
+      "start_char": 29273,
+      "end_char": 29334,
+      "length": 62,
+      "text": "ויאמר אליו אבשלום ראה דבריך טובים ונכחים ושמע אין־לך מאת המלך׃"
+    },
+    {
+      "uid": "II_Samuel_371",
+      "chapter_number": 15,
+      "verse_number": 4,
+      "start_char": 29335,
+      "end_char": 29413,
+      "length": 79,
+      "text": "ויאמר אבשלום מי־ישמני שפט בארץ ועלי יבוא כל־איש אשר־יהיה־לו־ריב ומשפט והצדקתיו׃"
+    },
+    {
+      "uid": "II_Samuel_372",
+      "chapter_number": 15,
+      "verse_number": 5,
+      "start_char": 29414,
+      "end_char": 29468,
+      "length": 55,
+      "text": "והיה בקרב־איש להשתחות לו ושלח את־ידו והחזיק לו ונשק לו׃"
+    },
+    {
+      "uid": "II_Samuel_373",
+      "chapter_number": 15,
+      "verse_number": 6,
+      "start_char": 29469,
+      "end_char": 29552,
+      "length": 84,
+      "text": "ויעש אבשלום כדבר הזה לכל־ישראל אשר־יבאו למשפט אל־המלך ויגנב אבשלום את־לב אנשי ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_374",
+      "chapter_number": 15,
+      "verse_number": 7,
+      "start_char": 29553,
+      "end_char": 29638,
+      "length": 86,
+      "text": "ויהי מקץ ארבעים שנה ויאמר אבשלום אל־המלך אלכה נא ואשלם את־נדרי אשר־נדרתי ליהוה בחברון׃"
+    },
+    {
+      "uid": "II_Samuel_375",
+      "chapter_number": 15,
+      "verse_number": 8,
+      "start_char": 29639,
+      "end_char": 29728,
+      "length": 90,
+      "text": "כי־נדר נדר עבדך בשבתי בגשור בארם לאמר אם־[ישוב] (ישיב) ישיבני יהוה ירושל͏ם ועבדתי את־יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_376",
+      "chapter_number": 15,
+      "verse_number": 9,
+      "start_char": 29729,
+      "end_char": 29768,
+      "length": 40,
+      "text": "ויאמר־לו המלך לך בשלום ויקם וילך חברונה׃"
+    },
+    {
+      "uid": "II_Samuel_377",
+      "chapter_number": 15,
+      "verse_number": 10,
+      "start_char": 29769,
+      "end_char": 29852,
+      "length": 84,
+      "text": "וישלח אבשלום מרגלים בכל־שבטי ישראל לאמר כשמעכם את־קול השפר ואמרתם מלך אבשלום בחברון׃"
+    },
+    {
+      "uid": "II_Samuel_378",
+      "chapter_number": 15,
+      "verse_number": 11,
+      "start_char": 29853,
+      "end_char": 29921,
+      "length": 69,
+      "text": "ואת־אבשלום הלכו מאתים איש מירושל͏ם קראים והלכים לתמם ולא ידעו כל־דבר׃"
+    },
+    {
+      "uid": "II_Samuel_379",
+      "chapter_number": 15,
+      "verse_number": 12,
+      "start_char": 29922,
+      "end_char": 30025,
+      "length": 104,
+      "text": "וישלח אבשלום את־אחיתפל הגילני יועץ דוד מעירו מגלה בזבחו את־הזבחים ויהי הקשר אמץ והעם הולך ורב את־אבשלום׃"
+    },
+    {
+      "uid": "II_Samuel_380",
+      "chapter_number": 15,
+      "verse_number": 13,
+      "start_char": 30026,
+      "end_char": 30077,
+      "length": 52,
+      "text": "ויבא המגיד אל־דוד לאמר היה לב־איש ישראל אחרי אבשלום׃"
+    },
+    {
+      "uid": "II_Samuel_381",
+      "chapter_number": 15,
+      "verse_number": 14,
+      "start_char": 30078,
+      "end_char": 30221,
+      "length": 144,
+      "text": "ויאמר דוד לכל־עבדיו אשר־אתו בירושל͏ם קומו ונברחה כי לא־תהיה־לנו פליטה מפני אבשלם מהרו ללכת פן־ימהר והשגנו והדיח עלינו את־הרעה והכה העיר לפי־חרב׃"
+    },
+    {
+      "uid": "II_Samuel_382",
+      "chapter_number": 15,
+      "verse_number": 15,
+      "start_char": 30222,
+      "end_char": 30279,
+      "length": 58,
+      "text": "ויאמרו עבדי־המלך אל־המלך ככל אשר־יבחר אדני המלך הנה עבדיך׃"
+    },
+    {
+      "uid": "II_Samuel_383",
+      "chapter_number": 15,
+      "verse_number": 16,
+      "start_char": 30280,
+      "end_char": 30345,
+      "length": 66,
+      "text": "ויצא המלך וכל־ביתו ברגליו ויעזב המלך את עשר נשים פלגשים לשמר הבית׃"
+    },
+    {
+      "uid": "II_Samuel_384",
+      "chapter_number": 15,
+      "verse_number": 17,
+      "start_char": 30346,
+      "end_char": 30387,
+      "length": 42,
+      "text": "ויצא המלך וכל־העם ברגליו ויעמדו בית המרחק׃"
+    },
+    {
+      "uid": "II_Samuel_385",
+      "chapter_number": 15,
+      "verse_number": 18,
+      "start_char": 30388,
+      "end_char": 30488,
+      "length": 101,
+      "text": "וכל־עבדיו עברים על־ידו וכל־הכרתי וכל־הפלתי וכל־הגתים שש־מאות איש אשר־באו ברגלו מגת עברים על־פני המלך׃"
+    },
+    {
+      "uid": "II_Samuel_386",
+      "chapter_number": 15,
+      "verse_number": 19,
+      "start_char": 30489,
+      "end_char": 30578,
+      "length": 90,
+      "text": "ויאמר המלך אל־אתי הגתי למה תלך גם־אתה אתנו שוב ושב עם־המלך כי־נכרי אתה וגם־גלה אתה למקומך׃"
+    },
+    {
+      "uid": "II_Samuel_387",
+      "chapter_number": 15,
+      "verse_number": 20,
+      "start_char": 30579,
+      "end_char": 30677,
+      "length": 99,
+      "text": "תמול׀ בואך והיום (אנועך) [אניעך] עמנו ללכת ואני הולך על אשר־אני הולך שוב והשב את־אחיך עמך חסד ואמת׃"
+    },
+    {
+      "uid": "II_Samuel_388",
+      "chapter_number": 15,
+      "verse_number": 21,
+      "start_char": 30678,
+      "end_char": 30792,
+      "length": 115,
+      "text": "ויען אתי את־המלך ויאמר חי־יהוה וחי אדני המלך כי (אם) במקום אשר יהיה־שם׀ אדני המלך אם־למות אם־לחיים כי־שם יהיה עבדך׃"
+    },
+    {
+      "uid": "II_Samuel_389",
+      "chapter_number": 15,
+      "verse_number": 22,
+      "start_char": 30793,
+      "end_char": 30858,
+      "length": 66,
+      "text": "ויאמר דוד אל־אתי לך ועבר ויעבר אתי הגתי וכל־אנשיו וכל־הטף אשר אתו׃"
+    },
+    {
+      "uid": "II_Samuel_390",
+      "chapter_number": 15,
+      "verse_number": 23,
+      "start_char": 30859,
+      "end_char": 30951,
+      "length": 93,
+      "text": "וכל־הארץ בוכים קול גדול וכל־העם עברים והמלך עבר בנחל קדרון וכל־העם עברים על־פני־דרך את־המדבר׃"
+    },
+    {
+      "uid": "II_Samuel_391",
+      "chapter_number": 15,
+      "verse_number": 24,
+      "start_char": 30952,
+      "end_char": 31063,
+      "length": 112,
+      "text": "והנה גם־צדוק וכל־הלוים אתו נשאים את־ארון ברית האלהים ויצקו את־ארון האלהים ויעל אביתר עד־תם כל־העם לעבור מן־העיר׃"
+    },
+    {
+      "uid": "II_Samuel_392",
+      "chapter_number": 15,
+      "verse_number": 25,
+      "start_char": 31064,
+      "end_char": 31153,
+      "length": 90,
+      "text": "ויאמר המלך לצדוק השב את־ארון האלהים העיר אם־אמצא חן בעיני יהוה והשבני והראני אתו ואת־נוהו׃"
+    },
+    {
+      "uid": "II_Samuel_393",
+      "chapter_number": 15,
+      "verse_number": 26,
+      "start_char": 31154,
+      "end_char": 31206,
+      "length": 53,
+      "text": "ואם כה יאמר לא חפצתי בך הנני יעשה־לי כאשר טוב בעיניו׃"
+    },
+    {
+      "uid": "II_Samuel_394",
+      "chapter_number": 15,
+      "verse_number": 27,
+      "start_char": 31207,
+      "end_char": 31299,
+      "length": 93,
+      "text": "ויאמר המלך אל־צדוק הכהן הרואה אתה שבה העיר בשלום ואחימעץ בנך ויהונתן בן־אביתר שני בניכם אתכם׃"
+    },
+    {
+      "uid": "II_Samuel_395",
+      "chapter_number": 15,
+      "verse_number": 28,
+      "start_char": 31300,
+      "end_char": 31365,
+      "length": 66,
+      "text": "ראו אנכי מתמהמה (בעברות) [בערבות] המדבר עד בוא דבר מעמכם להגיד לי׃"
+    },
+    {
+      "uid": "II_Samuel_396",
+      "chapter_number": 15,
+      "verse_number": 29,
+      "start_char": 31366,
+      "end_char": 31414,
+      "length": 49,
+      "text": "וישב צדוק ואביתר את־ארון האלהים ירושל͏ם וישבו שם׃"
+    },
+    {
+      "uid": "II_Samuel_397",
+      "chapter_number": 15,
+      "verse_number": 30,
+      "start_char": 31415,
+      "end_char": 31516,
+      "length": 102,
+      "text": "ודוד עלה במעלה הזיתים עלה׀ ובוכה וראש לו חפוי והוא הלך יחף וכל־העם אשר־אתו חפו איש ראשו ועלו עלה ובכה׃"
+    },
+    {
+      "uid": "II_Samuel_398",
+      "chapter_number": 15,
+      "verse_number": 31,
+      "start_char": 31517,
+      "end_char": 31591,
+      "length": 75,
+      "text": "ודוד הגיד לאמר אחיתפל בקשרים עם־אבשלום ויאמר דוד סכל־נא את־עצת אחיתפל יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_399",
+      "chapter_number": 15,
+      "verse_number": 32,
+      "start_char": 31592,
+      "end_char": 31680,
+      "length": 89,
+      "text": "ויהי דוד בא עד־הראש אשר־ישתחוה שם לאלהים והנה לקראתו חושי הארכי קרוע כתנתו ואדמה על־ראשו׃"
+    },
+    {
+      "uid": "II_Samuel_400",
+      "chapter_number": 15,
+      "verse_number": 33,
+      "start_char": 31681,
+      "end_char": 31719,
+      "length": 39,
+      "text": "ויאמר לו דוד אם עברת אתי והית עלי למשא׃"
+    },
+    {
+      "uid": "II_Samuel_401",
+      "chapter_number": 15,
+      "verse_number": 34,
+      "start_char": 31720,
+      "end_char": 31823,
+      "length": 104,
+      "text": "ואם־העיר תשוב ואמרת לאבשלום עבדך אני המלך אהיה עבד אביך ואני מאז ועתה ואני עבדך והפרתה לי את עצת אחיתפל׃"
+    },
+    {
+      "uid": "II_Samuel_402",
+      "chapter_number": 15,
+      "verse_number": 35,
+      "start_char": 31824,
+      "end_char": 31913,
+      "length": 90,
+      "text": "והלוא עמך שם צדוק ואביתר הכהנים והיה כל־הדבר אשר תשמע מבית המלך תגיד לצדוק ולאביתר הכהנים׃"
+    },
+    {
+      "uid": "II_Samuel_403",
+      "chapter_number": 15,
+      "verse_number": 36,
+      "start_char": 31914,
+      "end_char": 31995,
+      "length": 82,
+      "text": "הנה־שם עמם שני בניהם אחימעץ לצדוק ויהונתן לאביתר ושלחתם בידם אלי כל־דבר אשר תשמעו׃"
+    },
+    {
+      "uid": "II_Samuel_404",
+      "chapter_number": 15,
+      "verse_number": 37,
+      "start_char": 31996,
+      "end_char": 32039,
+      "length": 44,
+      "text": "ויבא חושי רעה דוד העיר ואבשלום יבוא ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Samuel_405",
+      "chapter_number": 16,
+      "verse_number": 1,
+      "start_char": 32040,
+      "end_char": 32150,
+      "length": 111,
+      "text": "ודוד עבר מעט מהראש והנה ציבא נער מפיבשת לקראתו וצמד חמרים חבשים ועליהם מאתים לחם ומאה צמוקים ומאה קיץ ונבל יין׃"
+    },
+    {
+      "uid": "II_Samuel_406",
+      "chapter_number": 16,
+      "verse_number": 2,
+      "start_char": 32151,
+      "end_char": 32272,
+      "length": 122,
+      "text": "ויאמר המלך אל־ציבא מה־אלה לך ויאמר ציבא החמורים לבית־המלך לרכב (ולהלחם) [והלחם] והקיץ לאכול הנערים והיין לשתות היעף במדבר׃"
+    },
+    {
+      "uid": "II_Samuel_407",
+      "chapter_number": 16,
+      "verse_number": 3,
+      "start_char": 32273,
+      "end_char": 32379,
+      "length": 107,
+      "text": "ויאמר המלך ואיה בן־אדניך ויאמר ציבא אל־המלך הנה יושב בירושל͏ם כי אמר היום ישיבו לי בית ישראל את ממלכות אבי׃"
+    },
+    {
+      "uid": "II_Samuel_408",
+      "chapter_number": 16,
+      "verse_number": 4,
+      "start_char": 32380,
+      "end_char": 32462,
+      "length": 83,
+      "text": "ויאמר המלך לצבא הנה לך כל אשר למפיבשת ויאמר ציבא השתחויתי אמצא־חן בעיניך אדני המלך׃"
+    },
+    {
+      "uid": "II_Samuel_409",
+      "chapter_number": 16,
+      "verse_number": 5,
+      "start_char": 32463,
+      "end_char": 32551,
+      "length": 89,
+      "text": "ובא המלך דוד עד־בחורים והנה משם איש יוצא ממשפחת בית־שאול ושמו שמעי בן־גרא יצא יצוא ומקלל׃"
+    },
+    {
+      "uid": "II_Samuel_410",
+      "chapter_number": 16,
+      "verse_number": 6,
+      "start_char": 32552,
+      "end_char": 32626,
+      "length": 75,
+      "text": "ויסקל באבנים את־דוד ואת־כל־עבדי המלך דוד וכל־העם וכל־הגברים מימינו ומשמאלו׃"
+    },
+    {
+      "uid": "II_Samuel_411",
+      "chapter_number": 16,
+      "verse_number": 7,
+      "start_char": 32627,
+      "end_char": 32673,
+      "length": 47,
+      "text": "וכה־אמר שמעי בקללו צא צא איש הדמים ואיש הבליעל׃"
+    },
+    {
+      "uid": "II_Samuel_412",
+      "chapter_number": 16,
+      "verse_number": 8,
+      "start_char": 32674,
+      "end_char": 32781,
+      "length": 108,
+      "text": "השיב עליך יהוה כל׀ דמי בית־שאול אשר מלכת תחתו ויתן יהוה את־המלוכה ביד אבשלום בנך והנך ברעתך כי איש דמים אתה׃"
+    },
+    {
+      "uid": "II_Samuel_413",
+      "chapter_number": 16,
+      "verse_number": 9,
+      "start_char": 32782,
+      "end_char": 32869,
+      "length": 88,
+      "text": "ויאמר אבישי בן־צרויה אל־המלך למה יקלל הכלב המת הזה את־אדני המלך אעברה־נא ואסירה את־ראשו׃"
+    },
+    {
+      "uid": "II_Samuel_414",
+      "chapter_number": 16,
+      "verse_number": 10,
+      "start_char": 32870,
+      "end_char": 32972,
+      "length": 103,
+      "text": "ויאמר המלך מה־לי ולכם בני צריה (כי) [כה] יקלל (וכי) [כי] יהוה אמר לו קלל את־דוד ומי יאמר מדוע עשיתה כן׃"
+    },
+    {
+      "uid": "II_Samuel_415",
+      "chapter_number": 16,
+      "verse_number": 11,
+      "start_char": 32973,
+      "end_char": 33088,
+      "length": 116,
+      "text": "ויאמר דוד אל־אבישי ואל־כל־עבדיו הנה בני אשר־יצא ממעי מבקש את־נפשי ואף כי־עתה בן־הימיני הנחו לו ויקלל כי אמר־לו יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_416",
+      "chapter_number": 16,
+      "verse_number": 12,
+      "start_char": 33089,
+      "end_char": 33157,
+      "length": 69,
+      "text": "אולי יראה יהוה (בעוני) [בעיני] והשיב יהוה לי טובה תחת קללתו היום הזה׃"
+    },
+    {
+      "uid": "II_Samuel_417",
+      "chapter_number": 16,
+      "verse_number": 13,
+      "start_char": 33158,
+      "end_char": 33242,
+      "length": 85,
+      "text": "וילך דוד ואנשיו בדרךושמעי הלך בצלע ההר לעמתו הלוך ויקלל ויסקל באבנים לעמתו ועפר בעפר׃"
+    },
+    {
+      "uid": "II_Samuel_418",
+      "chapter_number": 16,
+      "verse_number": 14,
+      "start_char": 33243,
+      "end_char": 33283,
+      "length": 41,
+      "text": "ויבא המלך וכל־העם אשר־אתו עיפים וינפש שם׃"
+    },
+    {
+      "uid": "II_Samuel_419",
+      "chapter_number": 16,
+      "verse_number": 15,
+      "start_char": 33284,
+      "end_char": 33333,
+      "length": 50,
+      "text": "ואבשלום וכל־העם איש ישראל באו ירושל͏ם ואחיתפל אתו׃"
+    },
+    {
+      "uid": "II_Samuel_420",
+      "chapter_number": 16,
+      "verse_number": 16,
+      "start_char": 33334,
+      "end_char": 33414,
+      "length": 81,
+      "text": "ויהי כאשר־בא חושי הארכי רעה דוד אל־אבשלום ויאמר חושי אל־אבשלום יחי המלך יחי המלך׃"
+    },
+    {
+      "uid": "II_Samuel_421",
+      "chapter_number": 16,
+      "verse_number": 17,
+      "start_char": 33415,
+      "end_char": 33469,
+      "length": 55,
+      "text": "ויאמר אבשלום אל־חושי זה חסדך את־רעך למה לא־הלכת את־רעך׃"
+    },
+    {
+      "uid": "II_Samuel_422",
+      "chapter_number": 16,
+      "verse_number": 18,
+      "start_char": 33470,
+      "end_char": 33555,
+      "length": 86,
+      "text": "ויאמר חושי אל־אבשלם לא כי אשר בחר יהוה והעם הזה וכל־איש ישראל (לא) [לו] אהיה ואתו אשב׃"
+    },
+    {
+      "uid": "II_Samuel_423",
+      "chapter_number": 16,
+      "verse_number": 19,
+      "start_char": 33556,
+      "end_char": 33624,
+      "length": 69,
+      "text": "והשנית למי אני אעבד הלוא לפני בנו כאשר עבדתי לפני אביך כן אהיה לפניך׃"
+    },
+    {
+      "uid": "II_Samuel_424",
+      "chapter_number": 16,
+      "verse_number": 20,
+      "start_char": 33625,
+      "end_char": 33667,
+      "length": 43,
+      "text": "ויאמר אבשלום אל־אחיתפל הבו לכם עצה מה־נעשה׃"
+    },
+    {
+      "uid": "II_Samuel_425",
+      "chapter_number": 16,
+      "verse_number": 21,
+      "start_char": 33668,
+      "end_char": 33779,
+      "length": 112,
+      "text": "ויאמר אחיתפל אל־אבשלם בוא אל־פלגשי אביך אשר הניח לשמור הבית ושמע כל־ישראל כי־נבאשת את־אביך וחזקו ידי כל־אשר אתך׃"
+    },
+    {
+      "uid": "II_Samuel_426",
+      "chapter_number": 16,
+      "verse_number": 22,
+      "start_char": 33780,
+      "end_char": 33845,
+      "length": 66,
+      "text": "ויטו לאבשלום האהל על־הגג ויבא אבשלום אל־פלגשי אביו לעיני כל־ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_427",
+      "chapter_number": 16,
+      "verse_number": 23,
+      "start_char": 33846,
+      "end_char": 33938,
+      "length": 93,
+      "text": "ועצת אחיתפל אשר יעץ בימים ההם כאשר ישאל־[איש] בדבר האלהים כן כל־עצת אחיתפל גם־לדוד גם לאבשלם׃"
+    },
+    {
+      "uid": "II_Samuel_428",
+      "chapter_number": 17,
+      "verse_number": 1,
+      "start_char": 33939,
+      "end_char": 34016,
+      "length": 78,
+      "text": "ויאמר אחיתפל אל־אבשלום אבחרה נא שנים־עשר אלף איש ואקומה וארדפה אחרי־דוד הלילה׃"
+    },
+    {
+      "uid": "II_Samuel_429",
+      "chapter_number": 17,
+      "verse_number": 2,
+      "start_char": 34017,
+      "end_char": 34097,
+      "length": 81,
+      "text": "ואבוא עליו והוא יגע ורפה ידים והחרדתי אתו ונס כל־העם אשר־אתו והכיתי את־המלך לבדו׃"
+    },
+    {
+      "uid": "II_Samuel_430",
+      "chapter_number": 17,
+      "verse_number": 3,
+      "start_char": 34098,
+      "end_char": 34160,
+      "length": 63,
+      "text": "ואשיבה כל־העם אליך כשוב הכל האיש אשר אתה מבקש כל־העם יהיה שלום׃"
+    },
+    {
+      "uid": "II_Samuel_431",
+      "chapter_number": 17,
+      "verse_number": 4,
+      "start_char": 34161,
+      "end_char": 34204,
+      "length": 44,
+      "text": "ויישר הדבר בעיני אבשלם ובעיני כל־זקני ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_432",
+      "chapter_number": 17,
+      "verse_number": 5,
+      "start_char": 34205,
+      "end_char": 34261,
+      "length": 57,
+      "text": "ויאמר אבשלום קרא נא גם לחושי הארכי ונשמעה מה־בפיו גם־הוא׃"
+    },
+    {
+      "uid": "II_Samuel_433",
+      "chapter_number": 17,
+      "verse_number": 6,
+      "start_char": 34262,
+      "end_char": 34353,
+      "length": 92,
+      "text": "ויבא חושי אל־אבשלום ויאמר אבשלום אליו לאמר כדבר הזה דבר אחיתפל הנעשה את־דברו אם־אין אתה דבר׃"
+    },
+    {
+      "uid": "II_Samuel_434",
+      "chapter_number": 17,
+      "verse_number": 7,
+      "start_char": 34354,
+      "end_char": 34412,
+      "length": 59,
+      "text": "ויאמר חושי אל־אבשלום לא־טובה העצה אשר־יעץ אחיתפל בפעם הזאת׃"
+    },
+    {
+      "uid": "II_Samuel_435",
+      "chapter_number": 17,
+      "verse_number": 8,
+      "start_char": 34413,
+      "end_char": 34522,
+      "length": 110,
+      "text": "ויאמר חושי אתה ידעת את־אביך ואת־אנשיו כי גברים המה ומרי נפש המה כדב שכול בשדה ואביך איש מלחמה ולא ילין את־העם׃"
+    },
+    {
+      "uid": "II_Samuel_436",
+      "chapter_number": 17,
+      "verse_number": 9,
+      "start_char": 34523,
+      "end_char": 34630,
+      "length": 108,
+      "text": "הנה עתה הוא־נחבא באחת הפחתים או באחד המקומת והיה כנפל בהם בתחלה ושמע השמע ואמר היתה מגפה בעם אשר אחרי אבשלם׃"
+    },
+    {
+      "uid": "II_Samuel_437",
+      "chapter_number": 17,
+      "verse_number": 10,
+      "start_char": 34631,
+      "end_char": 34717,
+      "length": 87,
+      "text": "והוא גם־בן־חיל אשר לבו כלב האריה המס ימס כי־ידע כל־ישראל כי־גבור אביך ובני־חיל אשר אתו׃"
+    },
+    {
+      "uid": "II_Samuel_438",
+      "chapter_number": 17,
+      "verse_number": 11,
+      "start_char": 34718,
+      "end_char": 34803,
+      "length": 86,
+      "text": "כי יעצתי האסף יאסף עליך כל־ישראל מדן ועד־באר שבע כחול אשר־על־הים לרב ופניך הלכים בקרב׃"
+    },
+    {
+      "uid": "II_Samuel_439",
+      "chapter_number": 17,
+      "verse_number": 12,
+      "start_char": 34804,
+      "end_char": 34919,
+      "length": 116,
+      "text": "ובאנו אליו (באחת) [באחד] המקומת אשר נמצא שם ונחנו עליו כאשר יפל הטל על־האדמה ולא־נותר בו ובכל־האנשים אשר־אתו גם־אחד׃"
+    },
+    {
+      "uid": "II_Samuel_440",
+      "chapter_number": 17,
+      "verse_number": 13,
+      "start_char": 34920,
+      "end_char": 35015,
+      "length": 96,
+      "text": "ואם־אל־עיר יאסף והשיאו כל־ישראל אל־העיר ההיא חבלים וסחבנו אתו עד־הנחל עד אשר־לא־נמצא שם גם־צרור׃"
+    },
+    {
+      "uid": "II_Samuel_441",
+      "chapter_number": 17,
+      "verse_number": 14,
+      "start_char": 35016,
+      "end_char": 35143,
+      "length": 128,
+      "text": "ויאמר אבשלום וכל־איש ישראל טובה עצת חושי הארכי מעצת אחיתפלויהוה צוה להפר את־עצת אחיתפל הטובה לבעבור הביא יהוה אל־אבשלום את־הרעה׃"
+    },
+    {
+      "uid": "II_Samuel_442",
+      "chapter_number": 17,
+      "verse_number": 15,
+      "start_char": 35144,
+      "end_char": 35247,
+      "length": 104,
+      "text": "ויאמר חושי אל־צדוק ואל־אביתר הכהנים כזאת וכזאת יעץ אחיתפל את־אבשלם ואת זקני ישראל וכזאת וכזאת יעצתי אני׃"
+    },
+    {
+      "uid": "II_Samuel_443",
+      "chapter_number": 17,
+      "verse_number": 16,
+      "start_char": 35248,
+      "end_char": 35350,
+      "length": 103,
+      "text": "ועתה שלחו מהרה והגידו לדוד לאמר אל־תלן הלילה בערבות המדבר וגם עבור תעבור פן יבלע למלך ולכל־העם אשר אתו׃"
+    },
+    {
+      "uid": "II_Samuel_444",
+      "chapter_number": 17,
+      "verse_number": 17,
+      "start_char": 35351,
+      "end_char": 35459,
+      "length": 109,
+      "text": "ויהונתן ואחימעץ עמדים בעין־רגל והלכה השפחה והגידה להם והם ילכו והגידו למלך דוד כי לא יוכלו להראות לבוא העירה׃"
+    },
+    {
+      "uid": "II_Samuel_445",
+      "chapter_number": 17,
+      "verse_number": 18,
+      "start_char": 35460,
+      "end_char": 35550,
+      "length": 91,
+      "text": "וירא אתם נער ויגד לאבשלם וילכו שניהם מהרה ויבאו׀ אל־בית־איש בבחורים ולו באר בחצרו וירדו שם׃"
+    },
+    {
+      "uid": "II_Samuel_446",
+      "chapter_number": 17,
+      "verse_number": 19,
+      "start_char": 35551,
+      "end_char": 35616,
+      "length": 66,
+      "text": "ותקח האשה ותפרש את־המסך על־פני הבאר ותשטח עליו הרפות ולא נודע דבר׃"
+    },
+    {
+      "uid": "II_Samuel_447",
+      "chapter_number": 17,
+      "verse_number": 20,
+      "start_char": 35617,
+      "end_char": 35734,
+      "length": 118,
+      "text": "ויבאו עבדי אבשלום אל־האשה הביתה ויאמרו איה אחימעץ ויהונתן ותאמר להם האשה עברו מיכל המים ויבקשו ולא מצאו וישבו ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Samuel_448",
+      "chapter_number": 17,
+      "verse_number": 21,
+      "start_char": 35735,
+      "end_char": 35845,
+      "length": 111,
+      "text": "ויהי׀ אחרי לכתם ויעלו מהבאר וילכו ויגדו למלך דוד ויאמרו אל־דוד קומו ועברו מהרה את־המים כי־ככה יעץ עליכם אחיתפל׃"
+    },
+    {
+      "uid": "II_Samuel_449",
+      "chapter_number": 17,
+      "verse_number": 22,
+      "start_char": 35846,
+      "end_char": 35933,
+      "length": 88,
+      "text": "ויקם דוד וכל־העם אשר אתו ויעברו את־הירדן עד־אור הבקר עד־אחד לא נעדר אשר לא־עבר את־הירדן׃"
+    },
+    {
+      "uid": "II_Samuel_450",
+      "chapter_number": 17,
+      "verse_number": 23,
+      "start_char": 35934,
+      "end_char": 36043,
+      "length": 110,
+      "text": "ואחיתפל ראה כי לא נעשתה עצתו ויחבש את־החמור ויקם וילך אל־ביתו אל־עירו ויצו אל־ביתו ויחנק וימת ויקבר בקבר אביו׃"
+    },
+    {
+      "uid": "II_Samuel_451",
+      "chapter_number": 17,
+      "verse_number": 24,
+      "start_char": 36044,
+      "end_char": 36100,
+      "length": 57,
+      "text": "ודוד בא מחנימה ואבשלם עבר את־הירדן הוא וכל־איש ישראל עמו׃"
+    },
+    {
+      "uid": "II_Samuel_452",
+      "chapter_number": 17,
+      "verse_number": 25,
+      "start_char": 36101,
+      "end_char": 36208,
+      "length": 108,
+      "text": "ואת־עמשא שם אבשלם תחת יואב על־הצבא ועמשא בן־איש ושמו יתרא הישראלי אשר־בא אל־אביגל בת־נחש אחות צרויה אם יואב׃"
+    },
+    {
+      "uid": "II_Samuel_453",
+      "chapter_number": 17,
+      "verse_number": 26,
+      "start_char": 36209,
+      "end_char": 36236,
+      "length": 28,
+      "text": "ויחן ישראל ואבשלם ארץ הגלעד׃"
+    },
+    {
+      "uid": "II_Samuel_454",
+      "chapter_number": 17,
+      "verse_number": 27,
+      "start_char": 36237,
+      "end_char": 36327,
+      "length": 91,
+      "text": "ויהי כבוא דוד מחנימה ושבי בן־נחש מרבת בני־עמון ומכיר בן־עמיאל מלא דבר וברזלי הגלעדי מרגלים׃"
+    },
+    {
+      "uid": "II_Samuel_455",
+      "chapter_number": 17,
+      "verse_number": 28,
+      "start_char": 36328,
+      "end_char": 36388,
+      "length": 61,
+      "text": "משכב וספות וכלי יוצר וחטים ושערים וקמח וקלי ופול ועדשים וקלי׃"
+    },
+    {
+      "uid": "II_Samuel_456",
+      "chapter_number": 17,
+      "verse_number": 29,
+      "start_char": 36389,
+      "end_char": 36476,
+      "length": 88,
+      "text": "ודבש וחמאה וצאן ושפות בקר הגישו לדוד ולעם אשר־אתו לאכול כי אמרו העם רעב ועיף וצמא במדבר׃"
+    },
+    {
+      "uid": "II_Samuel_457",
+      "chapter_number": 18,
+      "verse_number": 1,
+      "start_char": 36477,
+      "end_char": 36532,
+      "length": 56,
+      "text": "ויפקד דוד את־העם אשר אתו וישם עליהם שרי אלפים ושרי מאות׃"
+    },
+    {
+      "uid": "II_Samuel_458",
+      "chapter_number": 18,
+      "verse_number": 2,
+      "start_char": 36533,
+      "end_char": 36658,
+      "length": 126,
+      "text": "וישלח דוד את־העם השלשית ביד־יואב והשלשית ביד אבישי בן־צרויה אחי יואב והשלשת ביד אתי הגתיויאמר המלך אל־העם יצא אצא גם־אני עמכם׃"
+    },
+    {
+      "uid": "II_Samuel_459",
+      "chapter_number": 18,
+      "verse_number": 3,
+      "start_char": 36659,
+      "end_char": 36805,
+      "length": 147,
+      "text": "ויאמר העם לא תצא כי אם־נס ננוס לא־ישימו אלינו לב ואם־ימתו חצינו לא־ישימו אלינו לב כי־עתה כמנו עשרה אלפים ועתה טוב כי־תהיה־לנו מעיר (לעזיר) [לעזור]׃"
+    },
+    {
+      "uid": "II_Samuel_460",
+      "chapter_number": 18,
+      "verse_number": 4,
+      "start_char": 36806,
+      "end_char": 36893,
+      "length": 88,
+      "text": "ויאמר אליהם המלך אשר־ייטב בעיניכם אעשה ויעמד המלך אל־יד השער וכל־העם יצאו למאות ולאלפים׃"
+    },
+    {
+      "uid": "II_Samuel_461",
+      "chapter_number": 18,
+      "verse_number": 5,
+      "start_char": 36894,
+      "end_char": 37003,
+      "length": 110,
+      "text": "ויצו המלך את־יואב ואת־אבישי ואת־אתי לאמר לאט־לי לנער לאבשלום וכל־העם שמעו בצות המלך את־כל־השרים על־דבר אבשלום׃"
+    },
+    {
+      "uid": "II_Samuel_462",
+      "chapter_number": 18,
+      "verse_number": 6,
+      "start_char": 37004,
+      "end_char": 37052,
+      "length": 49,
+      "text": "ויצא העם השדה לקראת ישראל ותהי המלחמה ביער אפרים׃"
+    },
+    {
+      "uid": "II_Samuel_463",
+      "chapter_number": 18,
+      "verse_number": 7,
+      "start_char": 37053,
+      "end_char": 37125,
+      "length": 73,
+      "text": "וינגפו שם עם ישראל לפני עבדי דוד ותהי־שם המגפה גדולה ביום ההוא עשרים אלף׃"
+    },
+    {
+      "uid": "II_Samuel_464",
+      "chapter_number": 18,
+      "verse_number": 8,
+      "start_char": 37126,
+      "end_char": 37215,
+      "length": 90,
+      "text": "ותהי־שם המלחמה (נפצות) [נפוצת] על־פני כל־הארץ וירב היער לאכל בעם מאשר אכלה החרב ביום ההוא׃"
+    },
+    {
+      "uid": "II_Samuel_465",
+      "chapter_number": 18,
+      "verse_number": 9,
+      "start_char": 37216,
+      "end_char": 37354,
+      "length": 139,
+      "text": "ויקרא אבשלום לפני עבדי דוד ואבשלום רכב על־הפרד ויבא הפרד תחת שובך האלה הגדולה ויחזק ראשו באלה ויתן בין השמים ובין הארץ והפרד אשר־תחתיו עבר׃"
+    },
+    {
+      "uid": "II_Samuel_466",
+      "chapter_number": 18,
+      "verse_number": 10,
+      "start_char": 37355,
+      "end_char": 37413,
+      "length": 59,
+      "text": "וירא איש אחד ויגד ליואב ויאמר הנה ראיתי את־אבשלם תלוי באלה׃"
+    },
+    {
+      "uid": "II_Samuel_467",
+      "chapter_number": 18,
+      "verse_number": 11,
+      "start_char": 37414,
+      "end_char": 37502,
+      "length": 89,
+      "text": "ויאמר יואב לאיש המגיד לו והנה ראית ומדוע לא־הכיתו שם ארצה ועלי לתת לך עשרה כסף וחגרה אחת׃"
+    },
+    {
+      "uid": "II_Samuel_468",
+      "chapter_number": 18,
+      "verse_number": 12,
+      "start_char": 37503,
+      "end_char": 37648,
+      "length": 146,
+      "text": "ויאמר האיש אל־יואב (ולא) [ולו] אנכי שקל על־כפי אלף כסף לא־אשלח ידי אל־בן־המלך כי באזנינו צוה המלך אתך ואת־אבישי ואת־אתי לאמר שמרו־מי בנער באבשלום׃"
+    },
+    {
+      "uid": "II_Samuel_469",
+      "chapter_number": 18,
+      "verse_number": 13,
+      "start_char": 37649,
+      "end_char": 37717,
+      "length": 69,
+      "text": "או־עשיתי (בנפשו) [בנפשי] שקר וכל־דבר לא־יכחד מן־המלך ואתה תתיצב מנגד׃"
+    },
+    {
+      "uid": "II_Samuel_470",
+      "chapter_number": 18,
+      "verse_number": 14,
+      "start_char": 37718,
+      "end_char": 37803,
+      "length": 86,
+      "text": "ויאמר יואב לא־כן אחילה לפניך ויקח שלשה שבטים בכפו ויתקעם בלב אבשלום עודנו חי בלב האלה׃"
+    },
+    {
+      "uid": "II_Samuel_471",
+      "chapter_number": 18,
+      "verse_number": 15,
+      "start_char": 37804,
+      "end_char": 37856,
+      "length": 53,
+      "text": "ויסבו עשרה נערים נשאי כלי יואב ויכו את־אבשלום וימתהו׃"
+    },
+    {
+      "uid": "II_Samuel_472",
+      "chapter_number": 18,
+      "verse_number": 16,
+      "start_char": 37857,
+      "end_char": 37916,
+      "length": 60,
+      "text": "ויתקע יואב בשפר וישב העם מרדף אחרי ישראל כי־חשך יואב את־העם׃"
+    },
+    {
+      "uid": "II_Samuel_473",
+      "chapter_number": 18,
+      "verse_number": 17,
+      "start_char": 37917,
+      "end_char": 38015,
+      "length": 99,
+      "text": "ויקחו את־אבשלום וישלכו אתו ביער אל־הפחת הגדול ויצבו עליו גל־אבנים גדול מאד וכל־ישראל נסו איש לאהלו׃"
+    },
+    {
+      "uid": "II_Samuel_474",
+      "chapter_number": 18,
+      "verse_number": 18,
+      "start_char": 38016,
+      "end_char": 38144,
+      "length": 129,
+      "text": "ואבשלם לקח ויצב־לו בחיו את־מצבת אשר בעמק־המלך כי אמר אין־לי בן בעבור הזכיר שמי ויקרא למצבת על־שמו ויקרא לה יד אבשלום עד היום הזה׃"
+    },
+    {
+      "uid": "II_Samuel_475",
+      "chapter_number": 18,
+      "verse_number": 19,
+      "start_char": 38145,
+      "end_char": 38211,
+      "length": 67,
+      "text": "ואחימעץ בן־צדוק אמר ארוצה נא ואבשרה את־המלך כי־שפטו יהוה מיד איביו׃"
+    },
+    {
+      "uid": "II_Samuel_476",
+      "chapter_number": 18,
+      "verse_number": 20,
+      "start_char": 38212,
+      "end_char": 38305,
+      "length": 94,
+      "text": "ויאמר לו יואב לא איש בשרה אתה היום הזה ובשרת ביום אחר והיום הזה לא תבשר כי־על־[כן] בן־המלך מת׃"
+    },
+    {
+      "uid": "II_Samuel_477",
+      "chapter_number": 18,
+      "verse_number": 21,
+      "start_char": 38306,
+      "end_char": 38367,
+      "length": 62,
+      "text": "ויאמר יואב לכושי לך הגד למלך אשר ראיתה וישתחו כושי ליואב וירץ׃"
+    },
+    {
+      "uid": "II_Samuel_478",
+      "chapter_number": 18,
+      "verse_number": 22,
+      "start_char": 38368,
+      "end_char": 38488,
+      "length": 121,
+      "text": "ויסף עוד אחימעץ בן־צדוק ויאמר אל־יואב ויהי מה ארצה־נא גם־אני אחרי הכושי ויאמר יואב למה־זה אתה רץ בני ולכה אין־בשורה מצאת׃"
+    },
+    {
+      "uid": "II_Samuel_479",
+      "chapter_number": 18,
+      "verse_number": 23,
+      "start_char": 38489,
+      "end_char": 38550,
+      "length": 62,
+      "text": "ויהי־מה ארוץ ויאמר לו רוץ וירץ אחימעץ דרך הככר ויעבר את־הכושי׃"
+    },
+    {
+      "uid": "II_Samuel_480",
+      "chapter_number": 18,
+      "verse_number": 24,
+      "start_char": 38551,
+      "end_char": 38641,
+      "length": 91,
+      "text": "ודוד יושב בין־שני השערים וילך הצפה אל־גג השער אל־החומה וישא את־עיניו וירא והנה־איש רץ לבדו׃"
+    },
+    {
+      "uid": "II_Samuel_481",
+      "chapter_number": 18,
+      "verse_number": 25,
+      "start_char": 38642,
+      "end_char": 38707,
+      "length": 66,
+      "text": "ויקרא הצפה ויגד למלך ויאמר המלך אם־לבדו בשורה בפיו וילך הלוך וקרב׃"
+    },
+    {
+      "uid": "II_Samuel_482",
+      "chapter_number": 18,
+      "verse_number": 26,
+      "start_char": 38708,
+      "end_char": 38791,
+      "length": 84,
+      "text": "וירא הצפה איש־אחר רץ ויקרא הצפה אל־השער ויאמר הנה־איש רץ לבדו ויאמר המלך גם־זה מבשר׃"
+    },
+    {
+      "uid": "II_Samuel_483",
+      "chapter_number": 18,
+      "verse_number": 27,
+      "start_char": 38792,
+      "end_char": 38889,
+      "length": 98,
+      "text": "ויאמר הצפה אני ראה את־מרוצת הראשון כמרצת אחימעץ בן־צדוק ויאמר המלך איש־טוב זה ואל־בשורה טובה יבוא׃"
+    },
+    {
+      "uid": "II_Samuel_484",
+      "chapter_number": 18,
+      "verse_number": 28,
+      "start_char": 38890,
+      "end_char": 39010,
+      "length": 121,
+      "text": "ויקרא אחימעץ ויאמר אל־המלך שלום וישתחו למלך לאפיו ארצהויאמר ברוך יהוה אלהיך אשר סגר את־האנשים אשר־נשאו את־ידם באדני המלך׃"
+    },
+    {
+      "uid": "II_Samuel_485",
+      "chapter_number": 18,
+      "verse_number": 29,
+      "start_char": 39011,
+      "end_char": 39114,
+      "length": 104,
+      "text": "ויאמר המלך שלום לנער לאבשלום ויאמר אחימעץ ראיתי ההמון הגדול לשלח את־עבד המלך יואב ואת־עבדך ולא ידעתי מה׃"
+    },
+    {
+      "uid": "II_Samuel_486",
+      "chapter_number": 18,
+      "verse_number": 30,
+      "start_char": 39115,
+      "end_char": 39148,
+      "length": 34,
+      "text": "ויאמר המלך סב התיצב כה ויסב ויעמד׃"
+    },
+    {
+      "uid": "II_Samuel_487",
+      "chapter_number": 18,
+      "verse_number": 31,
+      "start_char": 39149,
+      "end_char": 39226,
+      "length": 78,
+      "text": "והנה הכושי בא ויאמר הכושי יתבשר אדני המלך כי־שפטך יהוה היום מיד כל־הקמים עליך׃"
+    },
+    {
+      "uid": "II_Samuel_488",
+      "chapter_number": 18,
+      "verse_number": 32,
+      "start_char": 39227,
+      "end_char": 39324,
+      "length": 98,
+      "text": "ויאמר המלך אל־הכושי השלום לנער לאבשלום ויאמר הכושי יהיו כנער איבי אדני המלך וכל אשר־קמו עליך לרעה׃"
+    },
+    {
+      "uid": "II_Samuel_489",
+      "chapter_number": 19,
+      "verse_number": 1,
+      "start_char": 39325,
+      "end_char": 39436,
+      "length": 112,
+      "text": "וירגז המלך ויעל על־עלית השער ויבך וכה׀ אמר בלכתו בני אבשלום בני בני אבשלום מי־יתן מותי אני תחתיך אבשלום בני בני׃"
+    },
+    {
+      "uid": "II_Samuel_490",
+      "chapter_number": 19,
+      "verse_number": 2,
+      "start_char": 39437,
+      "end_char": 39477,
+      "length": 41,
+      "text": "ויגד ליואב הנה המלך בכה ויתאבל על־אבשלום׃"
+    },
+    {
+      "uid": "II_Samuel_491",
+      "chapter_number": 19,
+      "verse_number": 3,
+      "start_char": 39478,
+      "end_char": 39554,
+      "length": 77,
+      "text": "ותהי התשעה ביום ההוא לאבל לכל־העם כי־שמע העם ביום ההוא לאמר נעצב המלך על־בנו׃"
+    },
+    {
+      "uid": "II_Samuel_492",
+      "chapter_number": 19,
+      "verse_number": 4,
+      "start_char": 39555,
+      "end_char": 39621,
+      "length": 67,
+      "text": "ויתגנב העם ביום ההוא לבוא העיר כאשר יתגנב העם הנכלמים בנוסם במלחמה׃"
+    },
+    {
+      "uid": "II_Samuel_493",
+      "chapter_number": 19,
+      "verse_number": 5,
+      "start_char": 39622,
+      "end_char": 39685,
+      "length": 64,
+      "text": "והמלך לאט את־פניו ויזעק המלך קול גדול בני אבשלום אבשלום בני בני׃"
+    },
+    {
+      "uid": "II_Samuel_494",
+      "chapter_number": 19,
+      "verse_number": 6,
+      "start_char": 39686,
+      "end_char": 39803,
+      "length": 118,
+      "text": "ויבא יואב אל־המלך הבית ויאמר הבשת היום את־פני כל־עבדיך הממלטים את־נפשך היום ואת נפש בניך ובנתיך ונפש נשיך ונפש פלגשיך׃"
+    },
+    {
+      "uid": "II_Samuel_495",
+      "chapter_number": 19,
+      "verse_number": 7,
+      "start_char": 39804,
+      "end_char": 39940,
+      "length": 137,
+      "text": "לאהבה את־שנאיך ולשנא את־אהביך כי׀ הגדת היום כי אין לך שרים ועבדים כי׀ ידעתי היום כי (לא) [לו] אבשלום חי וכלנו היום מתים כי־אז ישר בעיניך׃"
+    },
+    {
+      "uid": "II_Samuel_496",
+      "chapter_number": 19,
+      "verse_number": 8,
+      "start_char": 39941,
+      "end_char": 40067,
+      "length": 127,
+      "text": "ועתה קום צא ודבר על־לב עבדיךכי ביהוה נשבעתי כי־אינך יוצא אם־ילין איש אתך הלילה ורעה לך זאת מכל־הרעה אשר־באה עליך מנעריך עד־עתה׃"
+    },
+    {
+      "uid": "II_Samuel_497",
+      "chapter_number": 19,
+      "verse_number": 9,
+      "start_char": 40068,
+      "end_char": 40169,
+      "length": 102,
+      "text": "ויקם המלך וישב בשער ולכל־העם הגידו לאמר הנה המלך יושב בשער ויבא כל־העם לפני המלך וישראל נס איש לאהליו׃"
+    },
+    {
+      "uid": "II_Samuel_498",
+      "chapter_number": 19,
+      "verse_number": 10,
+      "start_char": 40170,
+      "end_char": 40280,
+      "length": 111,
+      "text": "ויהי כל־העם נדון בכל־שבטי ישראל לאמר המלך הצילנו׀ מכף איבינו והוא מלטנו מכף פלשתים ועתה ברח מן־הארץ מעל אבשלום׃"
+    },
+    {
+      "uid": "II_Samuel_499",
+      "chapter_number": 19,
+      "verse_number": 11,
+      "start_char": 40281,
+      "end_char": 40348,
+      "length": 68,
+      "text": "ואבשלום אשר משחנו עלינו מת במלחמה ועתה למה אתם מחרשים להשיב את־המלך׃"
+    },
+    {
+      "uid": "II_Samuel_500",
+      "chapter_number": 19,
+      "verse_number": 12,
+      "start_char": 40349,
+      "end_char": 40487,
+      "length": 139,
+      "text": "והמלך דוד שלח אל־צדוק ואל־אביתר הכהנים לאמר דברו אל־זקני יהודה לאמר למה תהיו אחרנים להשיב את־המלך אל־ביתו ודבר כל־ישראל בא אל־המלך אל־ביתו׃"
+    },
+    {
+      "uid": "II_Samuel_501",
+      "chapter_number": 19,
+      "verse_number": 13,
+      "start_char": 40488,
+      "end_char": 40541,
+      "length": 54,
+      "text": "אחי אתם עצמי ובשרי אתם ולמה תהיו אחרנים להשיב את־המלך׃"
+    },
+    {
+      "uid": "II_Samuel_502",
+      "chapter_number": 19,
+      "verse_number": 14,
+      "start_char": 40542,
+      "end_char": 40641,
+      "length": 100,
+      "text": "ולעמשא תמרו הלוא עצמי ובשרי אתה כה יעשה־לי אלהים וכה יוסיף אם־לא שר־צבא תהיה לפני כל־הימים תחת יואב׃"
+    },
+    {
+      "uid": "II_Samuel_503",
+      "chapter_number": 19,
+      "verse_number": 15,
+      "start_char": 40642,
+      "end_char": 40707,
+      "length": 66,
+      "text": "ויט את־לבב כל־איש־יהודה כאיש אחד וישלחו אל־המלך שוב אתה וכל־עבדיך׃"
+    },
+    {
+      "uid": "II_Samuel_504",
+      "chapter_number": 19,
+      "verse_number": 16,
+      "start_char": 40708,
+      "end_char": 40788,
+      "length": 81,
+      "text": "וישב המלך ויבא עד־הירדן ויהודה בא הגלגלה ללכת לקראת המלך להעביר את־המלך את־הירדן׃"
+    },
+    {
+      "uid": "II_Samuel_505",
+      "chapter_number": 19,
+      "verse_number": 17,
+      "start_char": 40789,
+      "end_char": 40861,
+      "length": 73,
+      "text": "וימהר שמעי בן־גרא בן־הימיני אשר מבחורים וירד עם־איש יהודה לקראת המלך דוד׃"
+    },
+    {
+      "uid": "II_Samuel_506",
+      "chapter_number": 19,
+      "verse_number": 18,
+      "start_char": 40862,
+      "end_char": 40954,
+      "length": 93,
+      "text": "ואלף איש עמו מבנימן וציבא נער בית שאול וחמשת עשר בניו ועשרים עבדיו אתו וצלחו הירדן לפני המלך׃"
+    },
+    {
+      "uid": "II_Samuel_507",
+      "chapter_number": 19,
+      "verse_number": 19,
+      "start_char": 40955,
+      "end_char": 41041,
+      "length": 87,
+      "text": "ועברה העברה לעביר את־בית המלך ולעשות הטוב בעינו ושמעי בן־גרא נפל לפני המלך בעברו בירדן׃"
+    },
+    {
+      "uid": "II_Samuel_508",
+      "chapter_number": 19,
+      "verse_number": 20,
+      "start_char": 41042,
+      "end_char": 41150,
+      "length": 109,
+      "text": "ויאמר אל־המלך אל־יחשב־לי אדני עון ואל־תזכר את אשר העוה עבדך ביום אשר־יצא אדני־המלך מירושל͏ם לשום המלך אל־לבו׃"
+    },
+    {
+      "uid": "II_Samuel_509",
+      "chapter_number": 19,
+      "verse_number": 21,
+      "start_char": 41151,
+      "end_char": 41230,
+      "length": 80,
+      "text": "כי ידע עבדך כי אני חטאתי והנה־באתי היום ראשון לכל־בית יוסף לרדת לקראת אדני המלך׃"
+    },
+    {
+      "uid": "II_Samuel_510",
+      "chapter_number": 19,
+      "verse_number": 22,
+      "start_char": 41231,
+      "end_char": 41298,
+      "length": 68,
+      "text": "ויען אבישי בן־צרויה ויאמר התחת זאת לא יומת שמעי כי קלל את־משיח יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_511",
+      "chapter_number": 19,
+      "verse_number": 23,
+      "start_char": 41299,
+      "end_char": 41410,
+      "length": 112,
+      "text": "ויאמר דוד מה־לי ולכם בני צרויה כי־תהיו־לי היום לשטן היום יומת איש בישראל כי הלוא ידעתי כי היום אני־מלך על־ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_512",
+      "chapter_number": 19,
+      "verse_number": 24,
+      "start_char": 41411,
+      "end_char": 41451,
+      "length": 41,
+      "text": "ויאמר המלך אל־שמעי לא תמות וישבע לו המלך׃"
+    },
+    {
+      "uid": "II_Samuel_513",
+      "chapter_number": 19,
+      "verse_number": 25,
+      "start_char": 41452,
+      "end_char": 41564,
+      "length": 113,
+      "text": "ומפבשת בן־שאול ירד לקראת המלך ולא־עשה רגליו ולא־עשה שפמו ואת־בגדיו לא כבס למן־היום לכת המלך עד־היום אשר־בא בשלום׃"
+    },
+    {
+      "uid": "II_Samuel_514",
+      "chapter_number": 19,
+      "verse_number": 26,
+      "start_char": 41565,
+      "end_char": 41631,
+      "length": 67,
+      "text": "ויהי כי־בא ירושל͏ם לקראת המלך ויאמר לו המלך למה לא־הלכת עמי מפיבשת׃"
+    },
+    {
+      "uid": "II_Samuel_515",
+      "chapter_number": 19,
+      "verse_number": 27,
+      "start_char": 41632,
+      "end_char": 41720,
+      "length": 89,
+      "text": "ויאמר אדני המלך עבדי רמני כי־אמר עבדך אחבשה־לי החמור וארכב עליה ואלך את־המלך כי פסח עבדך׃"
+    },
+    {
+      "uid": "II_Samuel_516",
+      "chapter_number": 19,
+      "verse_number": 28,
+      "start_char": 41721,
+      "end_char": 41786,
+      "length": 66,
+      "text": "וירגל בעבדך אל־אדני המלך ואדני המלך כמלאך האלהים ועשה הטוב בעיניך׃"
+    },
+    {
+      "uid": "II_Samuel_517",
+      "chapter_number": 19,
+      "verse_number": 29,
+      "start_char": 41787,
+      "end_char": 41895,
+      "length": 109,
+      "text": "כי לא היה כל־בית אבי כי אם־אנשי־מות לאדני המלך ותשת את־עבדך באכלי שלחנך ומה־יש־לי עוד צדקה ולזעק עוד אל־המלך׃"
+    },
+    {
+      "uid": "II_Samuel_518",
+      "chapter_number": 19,
+      "verse_number": 30,
+      "start_char": 41896,
+      "end_char": 41958,
+      "length": 63,
+      "text": "ויאמר לו המלך למה תדבר עוד דבריך אמרתי אתה וציבא תחלקו את־השדה׃"
+    },
+    {
+      "uid": "II_Samuel_519",
+      "chapter_number": 19,
+      "verse_number": 31,
+      "start_char": 41959,
+      "end_char": 42029,
+      "length": 71,
+      "text": "ויאמר מפיבשת אל־המלך גם את־הכל יקח אחרי אשר־בא אדני המלך בשלום אל־ביתו׃"
+    },
+    {
+      "uid": "II_Samuel_520",
+      "chapter_number": 19,
+      "verse_number": 32,
+      "start_char": 42030,
+      "end_char": 42099,
+      "length": 70,
+      "text": "וברזלי הגלעדי ירד מרגלים ויעבר את־המלך הירדן לשלחו את־[הירדן] (בירדן)׃"
+    },
+    {
+      "uid": "II_Samuel_521",
+      "chapter_number": 19,
+      "verse_number": 33,
+      "start_char": 42100,
+      "end_char": 42179,
+      "length": 80,
+      "text": "וברזלי זקן מאד בן־שמנים שנה והוא־כלכל את־המלך בשיבתו במחנים כי־איש גדול הוא מאד׃"
+    },
+    {
+      "uid": "II_Samuel_522",
+      "chapter_number": 19,
+      "verse_number": 34,
+      "start_char": 42180,
+      "end_char": 42237,
+      "length": 58,
+      "text": "ויאמר המלך אל־ברזלי אתה עבר אתי וכלכלתי אתך עמדי בירושל͏ם׃"
+    },
+    {
+      "uid": "II_Samuel_523",
+      "chapter_number": 19,
+      "verse_number": 35,
+      "start_char": 42238,
+      "end_char": 42297,
+      "length": 60,
+      "text": "ויאמר ברזלי אל־המלך כמה ימי שני חיי כי־אעלה את־המלך ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Samuel_524",
+      "chapter_number": 19,
+      "verse_number": 36,
+      "start_char": 42298,
+      "end_char": 42440,
+      "length": 143,
+      "text": "בן־שמנים שנה אנכי היום האדע׀ בין־טוב לרע אם־יטעם עבדך את־אשר אכל ואת־אשר אשתה אם־אשמע עוד בקול שרים ושרות ולמה יהיה עבדך עוד למשא אל־אדני המלך׃"
+    },
+    {
+      "uid": "II_Samuel_525",
+      "chapter_number": 19,
+      "verse_number": 37,
+      "start_char": 42441,
+      "end_char": 42501,
+      "length": 61,
+      "text": "כמעט יעבר עבדך את־הירדן את־המלך ולמה יגמלני המלך הגמולה הזאת׃"
+    },
+    {
+      "uid": "II_Samuel_526",
+      "chapter_number": 19,
+      "verse_number": 38,
+      "start_char": 42502,
+      "end_char": 42600,
+      "length": 99,
+      "text": "ישב־נא עבדך ואמת בעירי עם קבר אבי ואמי והנה׀ עבדך כמהם יעבר עם־אדני המלך ועשה־לו את אשר־טוב בעיניך׃"
+    },
+    {
+      "uid": "II_Samuel_527",
+      "chapter_number": 19,
+      "verse_number": 39,
+      "start_char": 42601,
+      "end_char": 42678,
+      "length": 78,
+      "text": "ויאמר המלך אתי יעבר כמהם ואני אעשה־לו את־הטוב בעיניך וכל אשר־תבחר עלי אעשה־לך׃"
+    },
+    {
+      "uid": "II_Samuel_528",
+      "chapter_number": 19,
+      "verse_number": 40,
+      "start_char": 42679,
+      "end_char": 42746,
+      "length": 68,
+      "text": "ויעבר כל־העם את־הירדן והמלך עבר וישק המלך לברזלי ויברכהו וישב למקמו׃"
+    },
+    {
+      "uid": "II_Samuel_529",
+      "chapter_number": 19,
+      "verse_number": 41,
+      "start_char": 42747,
+      "end_char": 42834,
+      "length": 88,
+      "text": "ויעבר המלך הגלגלה וכמהן עבר עמו וכל־עם יהודה (ויעברו) [העבירו] את־המלך וגם חצי עם ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_530",
+      "chapter_number": 19,
+      "verse_number": 42,
+      "start_char": 42835,
+      "end_char": 42957,
+      "length": 123,
+      "text": "והנה כל־איש ישראל באים אל־המלך ויאמרו אל־המלך מדוע גנבוך אחינו איש יהודה ויעברו את־המלך ואת־ביתו את־הירדן וכל־אנשי דוד עמו׃"
+    },
+    {
+      "uid": "II_Samuel_531",
+      "chapter_number": 19,
+      "verse_number": 43,
+      "start_char": 42958,
+      "end_char": 43068,
+      "length": 111,
+      "text": "ויען כל־איש יהודה על־איש ישראל כי־קרוב המלך אלי ולמה זה חרה לך על־הדבר הזה האכול אכלנו מן־המלך אם־נשאת נשא לנו׃"
+    },
+    {
+      "uid": "II_Samuel_532",
+      "chapter_number": 19,
+      "verse_number": 44,
+      "start_char": 43069,
+      "end_char": 43219,
+      "length": 151,
+      "text": "ויען איש־ישראל את־איש יהודה ויאמר עשר־ידות לי במלך וגם־בדוד אני ממך ומדוע הקלתני ולא־היה דברי ראשון לי להשיב את־מלכי ויקש דבר־איש יהודה מדבר איש ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_533",
+      "chapter_number": 20,
+      "verse_number": 1,
+      "start_char": 43220,
+      "end_char": 43337,
+      "length": 118,
+      "text": "ושם נקרא איש בליעל ושמו שבע בן־בכרי איש ימיני ויתקע בשפר ויאמר אין־לנו חלק בדוד ולא נחלה־לנו בבן־ישי איש לאהליו ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_534",
+      "chapter_number": 20,
+      "verse_number": 2,
+      "start_char": 43338,
+      "end_char": 43425,
+      "length": 88,
+      "text": "ויעל כל־איש ישראל מאחרי דוד אחרי שבע בן־בכרי ואיש יהודה דבקו במלכם מן־הירדן ועד־ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Samuel_535",
+      "chapter_number": 20,
+      "verse_number": 3,
+      "start_char": 43426,
+      "end_char": 43572,
+      "length": 147,
+      "text": "ויבא דוד אל־ביתו ירושל͏ם ויקח המלך את עשר־נשים׀פלגשים אשר הניח לשמר הבית ויתנם בית־משמרת ויכלכלם ואליהם לא־בא ותהיינה צררות עד־יום מתן אלמנות חיות׃"
+    },
+    {
+      "uid": "II_Samuel_536",
+      "chapter_number": 20,
+      "verse_number": 4,
+      "start_char": 43573,
+      "end_char": 43634,
+      "length": 62,
+      "text": "ויאמר המלך אל־עמשא הזעק־לי את־איש־יהודה שלשת ימים ואתה פה עמד׃"
+    },
+    {
+      "uid": "II_Samuel_537",
+      "chapter_number": 20,
+      "verse_number": 5,
+      "start_char": 43635,
+      "end_char": 43694,
+      "length": 60,
+      "text": "וילך עמשא להזעיק את־יהודה (וייחר) [ויוחר] מן־המועד אשר יעדו׃"
+    },
+    {
+      "uid": "II_Samuel_538",
+      "chapter_number": 20,
+      "verse_number": 6,
+      "start_char": 43695,
+      "end_char": 43812,
+      "length": 118,
+      "text": "ויאמר דוד אל־אבישי עתה ירע לנו שבע בן־בכרי מן־אבשלום אתה קח את־עבדי אדניך ורדף אחריו פן־מצא לו ערים בצרות והציל עיננו׃"
+    },
+    {
+      "uid": "II_Samuel_539",
+      "chapter_number": 20,
+      "verse_number": 7,
+      "start_char": 43813,
+      "end_char": 43896,
+      "length": 84,
+      "text": "ויצאו אחריו אנשי יואב והכרתי והפלתי וכל־הגברים ויצאו מירושל͏ם לרדף אחרי שבע בן־בכרי׃"
+    },
+    {
+      "uid": "II_Samuel_540",
+      "chapter_number": 20,
+      "verse_number": 8,
+      "start_char": 43897,
+      "end_char": 44011,
+      "length": 115,
+      "text": "הם עם־האבן הגדולה אשר בגבעון ועמשא בא לפניהם ויואב חגור׀ מדו לבשו ועלו חגור חרב מצמדת על־מתניו בתערה והוא יצא ותפל׃"
+    },
+    {
+      "uid": "II_Samuel_541",
+      "chapter_number": 20,
+      "verse_number": 9,
+      "start_char": 44012,
+      "end_char": 44078,
+      "length": 67,
+      "text": "ויאמר יואב לעמשא השלום אתה אחי ותחז יד־ימין יואב בזקן עמשא לנשק־לו׃"
+    },
+    {
+      "uid": "II_Samuel_542",
+      "chapter_number": 20,
+      "verse_number": 10,
+      "start_char": 44079,
+      "end_char": 44199,
+      "length": 121,
+      "text": "ועמשא לא־נשמר בחרב׀ אשר ביד־יואב ויכהו בה אל־החמש וישפך מעיו ארצה ולא־שנה לו וימת ויואב ואבישי אחיו רדף אחרי שבע בן־בכרי׃"
+    },
+    {
+      "uid": "II_Samuel_543",
+      "chapter_number": 20,
+      "verse_number": 11,
+      "start_char": 44200,
+      "end_char": 44270,
+      "length": 71,
+      "text": "ואיש עמד עליו מנערי יואב ויאמר מי אשר חפץ ביואב ומי אשר־לדוד אחרי יואב׃"
+    },
+    {
+      "uid": "II_Samuel_544",
+      "chapter_number": 20,
+      "verse_number": 12,
+      "start_char": 44271,
+      "end_char": 44389,
+      "length": 119,
+      "text": "ועמשא מתגלל בדם בתוך המסלה וירא האיש כי־עמד כל־העם ויסב את־עמשא מן־המסלה השדה וישלך עליו בגד כאשר ראה כל־הבא עליו ועמד׃"
+    },
+    {
+      "uid": "II_Samuel_545",
+      "chapter_number": 20,
+      "verse_number": 13,
+      "start_char": 44390,
+      "end_char": 44450,
+      "length": 61,
+      "text": "כאשר הגה מן־המסלה עבר כל־איש אחרי יואב לרדף אחרי שבע בן־בכרי׃"
+    },
+    {
+      "uid": "II_Samuel_546",
+      "chapter_number": 20,
+      "verse_number": 14,
+      "start_char": 44451,
+      "end_char": 44528,
+      "length": 78,
+      "text": "ויעבר בכל־שבטי ישראל אבלה ובית מעכה וכל־הברים(ויקלהו) [ויקהלו] ויבאו אף־אחריו׃"
+    },
+    {
+      "uid": "II_Samuel_547",
+      "chapter_number": 20,
+      "verse_number": 15,
+      "start_char": 44529,
+      "end_char": 44630,
+      "length": 102,
+      "text": "ויבאו ויצרו עליו באבלה בית המעכה וישפכו סללה אל־העיר ותעמד בחל וכל־העם אשר את־יואב משחיתם להפיל החומה׃"
+    },
+    {
+      "uid": "II_Samuel_548",
+      "chapter_number": 20,
+      "verse_number": 16,
+      "start_char": 44631,
+      "end_char": 44702,
+      "length": 72,
+      "text": "ותקרא אשה חכמה מן־העיר שמעו שמעו אמרו־נא אל־יואב קרב עד־הנה ואדברה אליך׃"
+    },
+    {
+      "uid": "II_Samuel_549",
+      "chapter_number": 20,
+      "verse_number": 17,
+      "start_char": 44703,
+      "end_char": 44782,
+      "length": 80,
+      "text": "ויקרב אליה ותאמר האשה האתה יואב ויאמר אני ותאמר לו שמע דברי אמתך ויאמר שמע אנכי׃"
+    },
+    {
+      "uid": "II_Samuel_550",
+      "chapter_number": 20,
+      "verse_number": 18,
+      "start_char": 44783,
+      "end_char": 44840,
+      "length": 58,
+      "text": "ותאמר לאמר דבר ידברו בראשנה לאמר שאול ישאלו באבל וכן התמו׃"
+    },
+    {
+      "uid": "II_Samuel_551",
+      "chapter_number": 20,
+      "verse_number": 19,
+      "start_char": 44841,
+      "end_char": 44911,
+      "length": 71,
+      "text": "אנכי שלמי אמוני ישראל אתה מבקש להמית עיר ואם בישראל למה תבלע נחלת יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_552",
+      "chapter_number": 20,
+      "verse_number": 20,
+      "start_char": 44912,
+      "end_char": 44960,
+      "length": 49,
+      "text": "ויען יואב ויאמר חלילה חלילה לי אם־אבלע ואם־אשחית׃"
+    },
+    {
+      "uid": "II_Samuel_553",
+      "chapter_number": 20,
+      "verse_number": 21,
+      "start_char": 44961,
+      "end_char": 45098,
+      "length": 138,
+      "text": "לא־כן הדבר כי איש מהר אפרים שבע בן־בכרי שמו נשא ידו במלך בדוד תנו־אתו לבדו ואלכה מעל העיר ותאמר האשה אל־יואב הנה ראשו משלך אליך בעד החומה׃"
+    },
+    {
+      "uid": "II_Samuel_554",
+      "chapter_number": 20,
+      "verse_number": 22,
+      "start_char": 45099,
+      "end_char": 45229,
+      "length": 131,
+      "text": "ותבוא האשה אל־כל־העם בחכמתה ויכרתו את־ראש שבע בן־בכרי וישלכו אל־יואב ויתקע בשפר ויפצו מעל־העיר איש לאהליו ויואב שב ירושל͏ם אל־המלך׃"
+    },
+    {
+      "uid": "II_Samuel_555",
+      "chapter_number": 20,
+      "verse_number": 23,
+      "start_char": 45230,
+      "end_char": 45296,
+      "length": 67,
+      "text": "ויואב אל כל־הצבא ישראל ובניה בן־יהוידע על־(הכרי) [הכרתי] ועל־הפלתי׃"
+    },
+    {
+      "uid": "II_Samuel_556",
+      "chapter_number": 20,
+      "verse_number": 24,
+      "start_char": 45297,
+      "end_char": 45334,
+      "length": 38,
+      "text": "ואדרם על־המס ויהושפט בן־אחילוד המזכיר׃"
+    },
+    {
+      "uid": "II_Samuel_557",
+      "chapter_number": 20,
+      "verse_number": 25,
+      "start_char": 45335,
+      "end_char": 45371,
+      "length": 37,
+      "text": "(ושיא) [ושוא] ספר וצדוק ואביתר כהנים׃"
+    },
+    {
+      "uid": "II_Samuel_558",
+      "chapter_number": 20,
+      "verse_number": 26,
+      "start_char": 45372,
+      "end_char": 45399,
+      "length": 28,
+      "text": "וגם עירא היארי היה כהן לדוד׃"
+    },
+    {
+      "uid": "II_Samuel_559",
+      "chapter_number": 21,
+      "verse_number": 1,
+      "start_char": 45400,
+      "end_char": 45516,
+      "length": 117,
+      "text": "ויהי רעב בימי דוד שלש שנים שנה אחרי שנה ויבקש דוד את־פני יהוהויאמר יהוה אל־שאול ואל־בית הדמים על אשר־המית את־הגבענים׃"
+    },
+    {
+      "uid": "II_Samuel_560",
+      "chapter_number": 21,
+      "verse_number": 2,
+      "start_char": 45517,
+      "end_char": 45654,
+      "length": 138,
+      "text": "ויקרא המלך לגבענים ויאמר אליהם והגבענים לא מבני ישראל המה כי אם־מיתר האמרי ובני ישראל נשבעו להם ויבקש שאול להכתם בקנאתו לבני־ישראל ויהודה׃"
+    },
+    {
+      "uid": "II_Samuel_561",
+      "chapter_number": 21,
+      "verse_number": 3,
+      "start_char": 45655,
+      "end_char": 45716,
+      "length": 62,
+      "text": "ויאמר דוד אל־הגבענים מה אעשה לכם ובמה אכפר וברכו את־נחלת יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_562",
+      "chapter_number": 21,
+      "verse_number": 4,
+      "start_char": 45717,
+      "end_char": 45829,
+      "length": 113,
+      "text": "ויאמרו לו הגבענים אין־[לנו] (לי) כסף וזהב עם־שאול ועם־ביתו ואין־לנו איש להמית בישראל ויאמר מה־אתם אמרים אעשה לכם׃"
+    },
+    {
+      "uid": "II_Samuel_563",
+      "chapter_number": 21,
+      "verse_number": 5,
+      "start_char": 45830,
+      "end_char": 45899,
+      "length": 70,
+      "text": "ויאמרו אל־המלך האיש אשר כלנו ואשר דמה־לנו נשמדנו מהתיצב בכל־גבל ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_564",
+      "chapter_number": 21,
+      "verse_number": 6,
+      "start_char": 45900,
+      "end_char": 45987,
+      "length": 88,
+      "text": "(ינתן) [יתן־]לנו שבעה אנשים מבניו והוקענום ליהוה בגבעת שאול בחיר יהוהויאמר המלך אני אתן׃"
+    },
+    {
+      "uid": "II_Samuel_565",
+      "chapter_number": 21,
+      "verse_number": 7,
+      "start_char": 45988,
+      "end_char": 46077,
+      "length": 90,
+      "text": "ויחמל המלך על־מפיבשת בן־יהונתן בן־שאול על־שבעת יהוה אשר בינתם בין דוד ובין יהונתן בן־שאול׃"
+    },
+    {
+      "uid": "II_Samuel_566",
+      "chapter_number": 21,
+      "verse_number": 8,
+      "start_char": 46078,
+      "end_char": 46203,
+      "length": 126,
+      "text": "ויקח המלך את־שני בני רצפה בת־איה אשר ילדה לשאול את־ארמני ואת־מפבשת ואת־חמשת בני מיכל בת־שאול אשר ילדה לעדריאל בן־ברזלי המחלתי׃"
+    },
+    {
+      "uid": "II_Samuel_567",
+      "chapter_number": 21,
+      "verse_number": 9,
+      "start_char": 46204,
+      "end_char": 46331,
+      "length": 128,
+      "text": "ויתנם ביד הגבענים ויקיעם בהר לפני יהוה ויפלו (שבעתים) [שבעתם] יחד (והם) [והמה] המתו בימי קציר בראשנים (תחלת) [בתחלת] קציר שערים׃"
+    },
+    {
+      "uid": "II_Samuel_568",
+      "chapter_number": 21,
+      "verse_number": 10,
+      "start_char": 46332,
+      "end_char": 46462,
+      "length": 131,
+      "text": "ותקח רצפה בת־איה את־השק ותטהו לה אל־הצור מתחלת קציר עד נתך־מים עליהם מן־השמים ולא־נתנה עוף השמים לנוח עליהם יומם ואת־חית השדה לילה׃"
+    },
+    {
+      "uid": "II_Samuel_569",
+      "chapter_number": 21,
+      "verse_number": 11,
+      "start_char": 46463,
+      "end_char": 46506,
+      "length": 44,
+      "text": "ויגד לדוד את אשר־עשתה רצפה בת־איה פלגש שאול׃"
+    },
+    {
+      "uid": "II_Samuel_570",
+      "chapter_number": 21,
+      "verse_number": 12,
+      "start_char": 46507,
+      "end_char": 46675,
+      "length": 169,
+      "text": "וילך דוד ויקח את־עצמות שאול ואת־עצמות יהונתן בנו מאת בעלי יביש גלעד אשר גנבו אתם מרחב בית־שן אשר (תלום) [תלאום] (שם הפלשתים) [שמה פלשתים] ביום הכות פלשתים את־שאול בגלבע׃"
+    },
+    {
+      "uid": "II_Samuel_571",
+      "chapter_number": 21,
+      "verse_number": 13,
+      "start_char": 46676,
+      "end_char": 46743,
+      "length": 68,
+      "text": "ויעל משם את־עצמות שאול ואת־עצמות יהונתן בנו ויאספו את־עצמות המוקעים׃"
+    },
+    {
+      "uid": "II_Samuel_572",
+      "chapter_number": 21,
+      "verse_number": 14,
+      "start_char": 46744,
+      "end_char": 46853,
+      "length": 110,
+      "text": "ויקברו את־עצמות־שאול ויהונתן־בנו בארץ בנימן בצלע בקבר קיש אביו ויעשו כל אשר־צוה המלך ויעתר אלהים לארץ אחרי־כן׃"
+    },
+    {
+      "uid": "II_Samuel_573",
+      "chapter_number": 21,
+      "verse_number": 15,
+      "start_char": 46854,
+      "end_char": 46931,
+      "length": 78,
+      "text": "ותהי־עוד מלחמה לפלשתים את־ישראל וירד דוד ועבדיו עמו וילחמו את־פלשתים ויעף דוד׃"
+    },
+    {
+      "uid": "II_Samuel_574",
+      "chapter_number": 21,
+      "verse_number": 16,
+      "start_char": 46932,
+      "end_char": 47032,
+      "length": 101,
+      "text": "(וישבו) [וישבי] בנב אשר׀ בילידי הרפה ומשקל קינו שלש מאות משקל נחשת והוא חגור חדשה ויאמר להכות את־דוד׃"
+    },
+    {
+      "uid": "II_Samuel_575",
+      "chapter_number": 21,
+      "verse_number": 17,
+      "start_char": 47033,
+      "end_char": 47147,
+      "length": 115,
+      "text": "ויעזר־לו אבישי בן־צרויה ויך את־הפלשתי וימתהו אז נשבעו אנשי־דוד לו לאמר לא־תצא עוד אתנו למלחמה ולא תכבה את־נר ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_576",
+      "chapter_number": 21,
+      "verse_number": 18,
+      "start_char": 47148,
+      "end_char": 47230,
+      "length": 83,
+      "text": "ויהי אחרי־כן ותהי־עוד המלחמה בגוב עם־פלשתים אז הכה סבכי החשתי את־סף אשר בילדי הרפה׃"
+    },
+    {
+      "uid": "II_Samuel_577",
+      "chapter_number": 21,
+      "verse_number": 19,
+      "start_char": 47231,
+      "end_char": 47330,
+      "length": 100,
+      "text": "ותהי־עוד המלחמה בגוב עם־פלשתים ויך אלחנן בן־יערי ארגים בית הלחמי את גלית הגתי ועץ חניתו כמנור ארגים׃"
+    },
+    {
+      "uid": "II_Samuel_578",
+      "chapter_number": 21,
+      "verse_number": 20,
+      "start_char": 47331,
+      "end_char": 47440,
+      "length": 110,
+      "text": "ותהי־עוד מלחמה בגת ויהי׀ איש (מדין) [מדון] ואצבעת ידיו ואצבעת רגליו שש ושש עשרים וארבע מספר וגם־הוא ילד להרפה׃"
+    },
+    {
+      "uid": "II_Samuel_579",
+      "chapter_number": 21,
+      "verse_number": 21,
+      "start_char": 47441,
+      "end_char": 47493,
+      "length": 53,
+      "text": "ויחרף את־ישראל ויכהו יהונתן בן־[שמעה] (שמעי) אחי דוד׃"
+    },
+    {
+      "uid": "II_Samuel_580",
+      "chapter_number": 21,
+      "verse_number": 22,
+      "start_char": 47494,
+      "end_char": 47546,
+      "length": 53,
+      "text": "את־ארבעת אלה ילדו להרפה בגת ויפלו ביד־דוד וביד עבדיו׃"
+    },
+    {
+      "uid": "II_Samuel_581",
+      "chapter_number": 22,
+      "verse_number": 1,
+      "start_char": 47547,
+      "end_char": 47622,
+      "length": 76,
+      "text": "וידבר דוד ליהוה את־דברי השירה הזאתביום הציל יהוה אתו מכף כל־איביו ומכף שאול׃"
+    },
+    {
+      "uid": "II_Samuel_582",
+      "chapter_number": 22,
+      "verse_number": 2,
+      "start_char": 47623,
+      "end_char": 47655,
+      "length": 33,
+      "text": "ויאמר יהוה סלעי ומצדתי ומפלטי־לי׃"
+    },
+    {
+      "uid": "II_Samuel_583",
+      "chapter_number": 22,
+      "verse_number": 3,
+      "start_char": 47656,
+      "end_char": 47715,
+      "length": 60,
+      "text": "אלהי צורי אחסה־בומגני וקרן ישעי משגבי ומנוסימשעי מחמס תשעני׃"
+    },
+    {
+      "uid": "II_Samuel_584",
+      "chapter_number": 22,
+      "verse_number": 4,
+      "start_char": 47716,
+      "end_char": 47741,
+      "length": 26,
+      "text": "מהלל אקרא יהוהומאיבי אושע׃"
+    },
+    {
+      "uid": "II_Samuel_585",
+      "chapter_number": 22,
+      "verse_number": 5,
+      "start_char": 47742,
+      "end_char": 47777,
+      "length": 36,
+      "text": "כי אפפני משברי־מותנחלי בליעל יבעתני׃"
+    },
+    {
+      "uid": "II_Samuel_586",
+      "chapter_number": 22,
+      "verse_number": 6,
+      "start_char": 47778,
+      "end_char": 47806,
+      "length": 29,
+      "text": "חבלי שאול סבניקדמני מקשי מות׃"
+    },
+    {
+      "uid": "II_Samuel_587",
+      "chapter_number": 22,
+      "verse_number": 7,
+      "start_char": 47807,
+      "end_char": 47868,
+      "length": 62,
+      "text": "בצר־לי אקרא יהוה ואל־אלהי אקראוישמע מהיכלו קולי ושועתי באזניו׃"
+    },
+    {
+      "uid": "II_Samuel_588",
+      "chapter_number": 22,
+      "verse_number": 8,
+      "start_char": 47869,
+      "end_char": 47932,
+      "length": 64,
+      "text": "(ותגעש) [ויתגעש] ותרעש הארץמוסדות השמים ירגזו ויתגעשו כי־חרה לו׃"
+    },
+    {
+      "uid": "II_Samuel_589",
+      "chapter_number": 22,
+      "verse_number": 9,
+      "start_char": 47933,
+      "end_char": 47974,
+      "length": 42,
+      "text": "עלה עשן באפו ואש מפיו תאכלגחלים בערו ממנו׃"
+    },
+    {
+      "uid": "II_Samuel_590",
+      "chapter_number": 22,
+      "verse_number": 10,
+      "start_char": 47975,
+      "end_char": 48003,
+      "length": 29,
+      "text": "ויט שמים וירדוערפל תחת רגליו׃"
+    },
+    {
+      "uid": "II_Samuel_591",
+      "chapter_number": 22,
+      "verse_number": 11,
+      "start_char": 48004,
+      "end_char": 48038,
+      "length": 35,
+      "text": "וירכב על־כרוב ויעףוירא על־כנפי־רוח׃"
+    },
+    {
+      "uid": "II_Samuel_592",
+      "chapter_number": 22,
+      "verse_number": 12,
+      "start_char": 48039,
+      "end_char": 48078,
+      "length": 40,
+      "text": "וישת חשך סביבתיו סכותחשרת־מים עבי שחקים׃"
+    },
+    {
+      "uid": "II_Samuel_593",
+      "chapter_number": 22,
+      "verse_number": 13,
+      "start_char": 48079,
+      "end_char": 48101,
+      "length": 23,
+      "text": "מנגה נגדו בערו גחלי־אש׃"
+    },
+    {
+      "uid": "II_Samuel_594",
+      "chapter_number": 22,
+      "verse_number": 14,
+      "start_char": 48102,
+      "end_char": 48135,
+      "length": 34,
+      "text": "ירעם מן־שמים יהוה ועליון יתן קולו׃"
+    },
+    {
+      "uid": "II_Samuel_595",
+      "chapter_number": 22,
+      "verse_number": 15,
+      "start_char": 48136,
+      "end_char": 48172,
+      "length": 37,
+      "text": "וישלח חצים ויפיצם ברק (ויהמם) [ויהם]׃"
+    },
+    {
+      "uid": "II_Samuel_596",
+      "chapter_number": 22,
+      "verse_number": 16,
+      "start_char": 48173,
+      "end_char": 48225,
+      "length": 53,
+      "text": "ויראו אפקי ים יגלו מסדות תבלבגערת יהוה מנשמת רוח אפו׃"
+    },
+    {
+      "uid": "II_Samuel_597",
+      "chapter_number": 22,
+      "verse_number": 17,
+      "start_char": 48226,
+      "end_char": 48257,
+      "length": 32,
+      "text": "ישלח ממרום יקחניימשני ממים רבים׃"
+    },
+    {
+      "uid": "II_Samuel_598",
+      "chapter_number": 22,
+      "verse_number": 18,
+      "start_char": 48258,
+      "end_char": 48291,
+      "length": 34,
+      "text": "יצילני מאיבי עזמשנאי כי אמצו ממני׃"
+    },
+    {
+      "uid": "II_Samuel_599",
+      "chapter_number": 22,
+      "verse_number": 19,
+      "start_char": 48292,
+      "end_char": 48326,
+      "length": 35,
+      "text": "יקדמני ביום אידי ויהי יהוה משען לי׃"
+    },
+    {
+      "uid": "II_Samuel_600",
+      "chapter_number": 22,
+      "verse_number": 20,
+      "start_char": 48327,
+      "end_char": 48358,
+      "length": 32,
+      "text": "ויצא למרחב אתי יחלצני כי־חפץ בי׃"
+    },
+    {
+      "uid": "II_Samuel_601",
+      "chapter_number": 22,
+      "verse_number": 21,
+      "start_char": 48359,
+      "end_char": 48393,
+      "length": 35,
+      "text": "יגמלני יהוה כצדקתי כבר ידי ישיב לי׃"
+    },
+    {
+      "uid": "II_Samuel_602",
+      "chapter_number": 22,
+      "verse_number": 22,
+      "start_char": 48394,
+      "end_char": 48428,
+      "length": 35,
+      "text": "כי שמרתי דרכי יהוה ולא רשעתי מאלהי׃"
+    },
+    {
+      "uid": "II_Samuel_603",
+      "chapter_number": 22,
+      "verse_number": 23,
+      "start_char": 48429,
+      "end_char": 48466,
+      "length": 38,
+      "text": "כי כל־משפטו לנגדי וחקתיו לא־אסור ממנה׃"
+    },
+    {
+      "uid": "II_Samuel_604",
+      "chapter_number": 22,
+      "verse_number": 24,
+      "start_char": 48467,
+      "end_char": 48493,
+      "length": 27,
+      "text": "ואהיה תמים לוואשתמרה מעוני׃"
+    },
+    {
+      "uid": "II_Samuel_605",
+      "chapter_number": 22,
+      "verse_number": 25,
+      "start_char": 48494,
+      "end_char": 48528,
+      "length": 35,
+      "text": "וישב יהוה לי כצדקתיכברי לנגד עיניו׃"
+    },
+    {
+      "uid": "II_Samuel_606",
+      "chapter_number": 22,
+      "verse_number": 26,
+      "start_char": 48529,
+      "end_char": 48559,
+      "length": 31,
+      "text": "עם־חסיד תתחסדעם־גבור תמים תתמם׃"
+    },
+    {
+      "uid": "II_Samuel_607",
+      "chapter_number": 22,
+      "verse_number": 27,
+      "start_char": 48560,
+      "end_char": 48583,
+      "length": 24,
+      "text": "עם־נבר תתברועם־עקש תתפל׃"
+    },
+    {
+      "uid": "II_Samuel_608",
+      "chapter_number": 22,
+      "verse_number": 28,
+      "start_char": 48584,
+      "end_char": 48620,
+      "length": 37,
+      "text": "ואת־עם עני תושיעועיניך על־רמים תשפיל׃"
+    },
+    {
+      "uid": "II_Samuel_609",
+      "chapter_number": 22,
+      "verse_number": 29,
+      "start_char": 48621,
+      "end_char": 48652,
+      "length": 32,
+      "text": "כי־אתה נירי יהוהויהוה יגיה חשכי׃"
+    },
+    {
+      "uid": "II_Samuel_610",
+      "chapter_number": 22,
+      "verse_number": 30,
+      "start_char": 48653,
+      "end_char": 48683,
+      "length": 31,
+      "text": "כי בכה ארוץ גדודבאלהי אדלג־שור׃"
+    },
+    {
+      "uid": "II_Samuel_611",
+      "chapter_number": 22,
+      "verse_number": 31,
+      "start_char": 48684,
+      "end_char": 48733,
+      "length": 50,
+      "text": "האל תמים דרכו אמרת יהוה צרופהמגן הוא לכל החסים בו׃"
+    },
+    {
+      "uid": "II_Samuel_612",
+      "chapter_number": 22,
+      "verse_number": 32,
+      "start_char": 48734,
+      "end_char": 48775,
+      "length": 42,
+      "text": "כי מי־אל מבלעדי יהוהומי צור מבלעדי אלהינו׃"
+    },
+    {
+      "uid": "II_Samuel_613",
+      "chapter_number": 22,
+      "verse_number": 33,
+      "start_char": 48776,
+      "end_char": 48812,
+      "length": 37,
+      "text": "האל מעוזי חילויתר תמים (דרכו) [דרכי]׃"
+    },
+    {
+      "uid": "II_Samuel_614",
+      "chapter_number": 22,
+      "verse_number": 34,
+      "start_char": 48813,
+      "end_char": 48854,
+      "length": 42,
+      "text": "משוה (רגליו) [רגלי] כאילותועל במתי יעמדני׃"
+    },
+    {
+      "uid": "II_Samuel_615",
+      "chapter_number": 22,
+      "verse_number": 35,
+      "start_char": 48855,
+      "end_char": 48890,
+      "length": 36,
+      "text": "מלמד ידי למלחמהונחת קשת־נחושה זרעתי׃"
+    },
+    {
+      "uid": "II_Samuel_616",
+      "chapter_number": 22,
+      "verse_number": 36,
+      "start_char": 48891,
+      "end_char": 48919,
+      "length": 29,
+      "text": "ותתן־לי מגן ישעך וענתך תרבני׃"
+    },
+    {
+      "uid": "II_Samuel_617",
+      "chapter_number": 22,
+      "verse_number": 37,
+      "start_char": 48920,
+      "end_char": 48951,
+      "length": 32,
+      "text": "תרחיב צעדי תחתני ולא מעדו קרסלי׃"
+    },
+    {
+      "uid": "II_Samuel_618",
+      "chapter_number": 22,
+      "verse_number": 38,
+      "start_char": 48952,
+      "end_char": 48987,
+      "length": 36,
+      "text": "ארדפה איבי ואשמידםולא אשוב עד־כלותם׃"
+    },
+    {
+      "uid": "II_Samuel_619",
+      "chapter_number": 22,
+      "verse_number": 39,
+      "start_char": 48988,
+      "end_char": 49025,
+      "length": 38,
+      "text": "ואכלם ואמחצם ולא יקומוןויפלו תחת רגלי׃"
+    },
+    {
+      "uid": "II_Samuel_620",
+      "chapter_number": 22,
+      "verse_number": 40,
+      "start_char": 49026,
+      "end_char": 49058,
+      "length": 33,
+      "text": "ותזרני חיל למלחמהתכריע קמי תחתני׃"
+    },
+    {
+      "uid": "II_Samuel_621",
+      "chapter_number": 22,
+      "verse_number": 41,
+      "start_char": 49059,
+      "end_char": 49089,
+      "length": 31,
+      "text": "ואיבי תתה לי ערף משנאי ואצמיתם׃"
+    },
+    {
+      "uid": "II_Samuel_622",
+      "chapter_number": 22,
+      "verse_number": 42,
+      "start_char": 49090,
+      "end_char": 49120,
+      "length": 31,
+      "text": "ישעו ואין משיע אל־יהוה ולא ענם׃"
+    },
+    {
+      "uid": "II_Samuel_623",
+      "chapter_number": 22,
+      "verse_number": 43,
+      "start_char": 49121,
+      "end_char": 49157,
+      "length": 37,
+      "text": "ואשחקם כעפר־ארץכטיט־חוצות אדקם ארקעם׃"
+    },
+    {
+      "uid": "II_Samuel_624",
+      "chapter_number": 22,
+      "verse_number": 44,
+      "start_char": 49158,
+      "end_char": 49210,
+      "length": 53,
+      "text": "ותפלטני מריבי עמי תשמרני לראש גויםעם לא־ידעתי יעבדני׃"
+    },
+    {
+      "uid": "II_Samuel_625",
+      "chapter_number": 22,
+      "verse_number": 45,
+      "start_char": 49211,
+      "end_char": 49247,
+      "length": 37,
+      "text": "בני נכר יתכחשו־לי לשמוע אזן ישמעו לי׃"
+    },
+    {
+      "uid": "II_Samuel_626",
+      "chapter_number": 22,
+      "verse_number": 46,
+      "start_char": 49248,
+      "end_char": 49276,
+      "length": 29,
+      "text": "בני נכר יבלו ויחגרו ממסגרותם׃"
+    },
+    {
+      "uid": "II_Samuel_627",
+      "chapter_number": 22,
+      "verse_number": 47,
+      "start_char": 49277,
+      "end_char": 49313,
+      "length": 37,
+      "text": "חי־יהוה וברוך צוריוירם אלהי צור ישעי׃"
+    },
+    {
+      "uid": "II_Samuel_628",
+      "chapter_number": 22,
+      "verse_number": 48,
+      "start_char": 49314,
+      "end_char": 49346,
+      "length": 33,
+      "text": "האל הנתן נקמת ליומריד עמים תחתני׃"
+    },
+    {
+      "uid": "II_Samuel_629",
+      "chapter_number": 22,
+      "verse_number": 49,
+      "start_char": 49347,
+      "end_char": 49391,
+      "length": 45,
+      "text": "ומוציאי מאיבי ומקמי תרוממנימאיש חמסים תצילני׃"
+    },
+    {
+      "uid": "II_Samuel_630",
+      "chapter_number": 22,
+      "verse_number": 50,
+      "start_char": 49392,
+      "end_char": 49423,
+      "length": 32,
+      "text": "על־כן אודך יהוה בגויםולשמך אזמר׃"
+    },
+    {
+      "uid": "II_Samuel_631",
+      "chapter_number": 22,
+      "verse_number": 51,
+      "start_char": 49424,
+      "end_char": 49486,
+      "length": 63,
+      "text": "(מגדיל) [מגדול] ישועות מלכו ועשה־חסד למשיחולדוד ולזרעו עד־עולם׃"
+    },
+    {
+      "uid": "II_Samuel_632",
+      "chapter_number": 23,
+      "verse_number": 1,
+      "start_char": 49487,
+      "end_char": 49573,
+      "length": 87,
+      "text": "ואלה דברי דוד האחרנים נאם דוד בן־ישי ונאם הגבר הקם על משיח אלהי יעקב ונעים זמרות ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_633",
+      "chapter_number": 23,
+      "verse_number": 2,
+      "start_char": 49574,
+      "end_char": 49604,
+      "length": 31,
+      "text": "רוח יהוה דבר־בי ומלתו על־לשוני׃"
+    },
+    {
+      "uid": "II_Samuel_634",
+      "chapter_number": 23,
+      "verse_number": 3,
+      "start_char": 49605,
+      "end_char": 49667,
+      "length": 63,
+      "text": "אמר אלהי ישראל לי דבר צור ישראל מושל באדם צדיק מושל יראת אלהים׃"
+    },
+    {
+      "uid": "II_Samuel_635",
+      "chapter_number": 23,
+      "verse_number": 4,
+      "start_char": 49668,
+      "end_char": 49717,
+      "length": 50,
+      "text": "וכאור בקר יזרח־שמש בקר לא עבות מנגה ממטר דשא מארץ׃"
+    },
+    {
+      "uid": "II_Samuel_636",
+      "chapter_number": 23,
+      "verse_number": 5,
+      "start_char": 49718,
+      "end_char": 49803,
+      "length": 86,
+      "text": "כי־לא־כן ביתי עם־אל כי ברית עולם שם לי ערוכה בכל ושמרה כי־כל־ישעי וכל־חפץ כי־לא יצמיח׃"
+    },
+    {
+      "uid": "II_Samuel_637",
+      "chapter_number": 23,
+      "verse_number": 6,
+      "start_char": 49804,
+      "end_char": 49839,
+      "length": 36,
+      "text": "ובליעל כקוץ מנד כלהם כי־לא ביד יקחו׃"
+    },
+    {
+      "uid": "II_Samuel_638",
+      "chapter_number": 23,
+      "verse_number": 7,
+      "start_char": 49840,
+      "end_char": 49892,
+      "length": 53,
+      "text": "ואיש יגע בהם ימלא ברזל ועץ חנית ובאש שרוף ישרפו בשבת׃"
+    },
+    {
+      "uid": "II_Samuel_639",
+      "chapter_number": 23,
+      "verse_number": 8,
+      "start_char": 49893,
+      "end_char": 50004,
+      "length": 112,
+      "text": "אלה שמות הגברים אשר לדוד ישב בשבת תחכמני׀ ראש השלשי הוא עדינו (העצנו) [העצני] על־שמנה מאות חלל בפעם (אחד) [אחת]׃"
+    },
+    {
+      "uid": "II_Samuel_640",
+      "chapter_number": 23,
+      "verse_number": 9,
+      "start_char": 50005,
+      "end_char": 50115,
+      "length": 111,
+      "text": "ואחרו אלעזר בן־[דדו] (דדי) בן־אחחי בשלשה (גברים) [הגברים] עם־דוד בחרפם בפלשתים נאספו־שם למלחמה ויעלו איש ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_641",
+      "chapter_number": 23,
+      "verse_number": 10,
+      "start_char": 50116,
+      "end_char": 50224,
+      "length": 109,
+      "text": "הוא קם ויך בפלשתים עד׀ כי־יגעה ידו ותדבק ידו אל־החרב ויעש יהוה תשועה גדולה ביום ההוא והעם ישבו אחריו אך־לפשט׃"
+    },
+    {
+      "uid": "II_Samuel_642",
+      "chapter_number": 23,
+      "verse_number": 11,
+      "start_char": 50225,
+      "end_char": 50315,
+      "length": 91,
+      "text": "ואחריו שמה בן־אגא הררי ויאספו פלשתים לחיה ותהי־שם חלקת השדה מלאה עדשים והעם נס מפני פלשתים׃"
+    },
+    {
+      "uid": "II_Samuel_643",
+      "chapter_number": 23,
+      "verse_number": 12,
+      "start_char": 50316,
+      "end_char": 50376,
+      "length": 61,
+      "text": "ויתיצב בתוך־החלקה ויצילה ויך את־פלשתים ויעש יהוה תשועה גדולה׃"
+    },
+    {
+      "uid": "II_Samuel_644",
+      "chapter_number": 23,
+      "verse_number": 13,
+      "start_char": 50377,
+      "end_char": 50470,
+      "length": 94,
+      "text": "וירדו (שלשים) [שלשה] מהשלשים ראש ויבאו אל־קציר אל־דוד אל־מערת עדלם וחית פלשתים חנה בעמק רפאים׃"
+    },
+    {
+      "uid": "II_Samuel_645",
+      "chapter_number": 23,
+      "verse_number": 14,
+      "start_char": 50471,
+      "end_char": 50508,
+      "length": 38,
+      "text": "ודוד אז במצודה ומצב פלשתים אז בית לחם׃"
+    },
+    {
+      "uid": "II_Samuel_646",
+      "chapter_number": 23,
+      "verse_number": 15,
+      "start_char": 50509,
+      "end_char": 50560,
+      "length": 52,
+      "text": "ויתאוה דוד ויאמר מי ישקני מים מבאר בית־לחם אשר בשער׃"
+    },
+    {
+      "uid": "II_Samuel_647",
+      "chapter_number": 23,
+      "verse_number": 16,
+      "start_char": 50561,
+      "end_char": 50674,
+      "length": 114,
+      "text": "ויבקעו שלשת הגברים במחנה פלשתים וישאבו־מים מבאר בית־לחם אשר בשער וישאו ויבאו אל־דוד ולא אבה לשתותם ויסך אתם ליהוה׃"
+    },
+    {
+      "uid": "II_Samuel_648",
+      "chapter_number": 23,
+      "verse_number": 17,
+      "start_char": 50675,
+      "end_char": 50765,
+      "length": 91,
+      "text": "ויאמר חלילה לי יהוה מעשתי זאת הדם האנשים ההלכים בנפשותם ולא אבה לשתותם אלה עשו שלשת הגברים׃"
+    },
+    {
+      "uid": "II_Samuel_649",
+      "chapter_number": 23,
+      "verse_number": 18,
+      "start_char": 50766,
+      "end_char": 50863,
+      "length": 98,
+      "text": "ואבישי אחי׀ יואב בן־צרויה הוא ראש (השלשי) [השלשה] והוא עורר את־חניתו על־שלש מאות חלל ולו־שם בשלשה׃"
+    },
+    {
+      "uid": "II_Samuel_650",
+      "chapter_number": 23,
+      "verse_number": 19,
+      "start_char": 50864,
+      "end_char": 50910,
+      "length": 47,
+      "text": "מן־השלשה הכי נכבד ויהי להם לשר ועד־השלשה לא־בא׃"
+    },
+    {
+      "uid": "II_Samuel_651",
+      "chapter_number": 23,
+      "verse_number": 20,
+      "start_char": 50911,
+      "end_char": 51038,
+      "length": 128,
+      "text": "ובניהו בן־יהוידע בן־איש־[חיל] (חי) רב־פעלים מקבצאל הוא הכה את שני אראל מואב והוא ירד והכה את־[הארי] (האריה) בתוך הבאר ביום השלג׃"
+    },
+    {
+      "uid": "II_Samuel_652",
+      "chapter_number": 23,
+      "verse_number": 21,
+      "start_char": 51039,
+      "end_char": 51147,
+      "length": 109,
+      "text": "והוא־הכה את־איש מצרי (אשר) [איש] מראה וביד המצרי חנית וירד אליו בשבט ויגזל את־החנית מיד המצרי ויהרגהו בחניתו׃"
+    },
+    {
+      "uid": "II_Samuel_653",
+      "chapter_number": 23,
+      "verse_number": 22,
+      "start_char": 51148,
+      "end_char": 51191,
+      "length": 44,
+      "text": "אלה עשה בניהו בן־יהוידע ולו־שם בשלשה הגברים׃"
+    },
+    {
+      "uid": "II_Samuel_654",
+      "chapter_number": 23,
+      "verse_number": 23,
+      "start_char": 51192,
+      "end_char": 51243,
+      "length": 52,
+      "text": "מן־השלשים נכבד ואל־השלשה לא־בא וישמהו דוד אל־משמעתו׃"
+    },
+    {
+      "uid": "II_Samuel_655",
+      "chapter_number": 23,
+      "verse_number": 24,
+      "start_char": 51244,
+      "end_char": 51286,
+      "length": 43,
+      "text": "עשהאל אחי־יואב בשלשים אלחנן בן־דדו בית לחם׃"
+    },
+    {
+      "uid": "II_Samuel_656",
+      "chapter_number": 23,
+      "verse_number": 25,
+      "start_char": 51287,
+      "end_char": 51307,
+      "length": 21,
+      "text": "שמה החרדיאליקא החרדי׃"
+    },
+    {
+      "uid": "II_Samuel_657",
+      "chapter_number": 23,
+      "verse_number": 26,
+      "start_char": 51308,
+      "end_char": 51334,
+      "length": 27,
+      "text": "חלץ הפלטיעירא בן־עקשהתקועי׃"
+    },
+    {
+      "uid": "II_Samuel_658",
+      "chapter_number": 23,
+      "verse_number": 27,
+      "start_char": 51335,
+      "end_char": 51358,
+      "length": 24,
+      "text": "אביעזר הענתתימבני החשתי׃"
+    },
+    {
+      "uid": "II_Samuel_659",
+      "chapter_number": 23,
+      "verse_number": 28,
+      "start_char": 51359,
+      "end_char": 51381,
+      "length": 23,
+      "text": "צלמון האחחימהרי הנטפתי׃"
+    },
+    {
+      "uid": "II_Samuel_660",
+      "chapter_number": 23,
+      "verse_number": 29,
+      "start_char": 51382,
+      "end_char": 51427,
+      "length": 46,
+      "text": "חלב בן־בענה הנטפתיאתי בן־ריבי מגבעת בני בנימן׃"
+    },
+    {
+      "uid": "II_Samuel_661",
+      "chapter_number": 23,
+      "verse_number": 30,
+      "start_char": 51428,
+      "end_char": 51453,
+      "length": 26,
+      "text": "בניהו פרעתניהדי מנחלי געש׃"
+    },
+    {
+      "uid": "II_Samuel_662",
+      "chapter_number": 23,
+      "verse_number": 31,
+      "start_char": 51454,
+      "end_char": 51482,
+      "length": 29,
+      "text": "אבי־עלבון הערבתיעזמות הברחמי׃"
+    },
+    {
+      "uid": "II_Samuel_663",
+      "chapter_number": 23,
+      "verse_number": 32,
+      "start_char": 51483,
+      "end_char": 51511,
+      "length": 29,
+      "text": "אליחבא השעלבניבני ישן יהונתן׃"
+    },
+    {
+      "uid": "II_Samuel_664",
+      "chapter_number": 23,
+      "verse_number": 33,
+      "start_char": 51512,
+      "end_char": 51539,
+      "length": 28,
+      "text": "שמה ההרריאחיאם בן־שרר האררי׃"
+    },
+    {
+      "uid": "II_Samuel_665",
+      "chapter_number": 23,
+      "verse_number": 34,
+      "start_char": 51540,
+      "end_char": 51586,
+      "length": 47,
+      "text": "אליפלט בן־אחסבי בן־המעכתיאליעם בן־אחיתפל הגלני׃"
+    },
+    {
+      "uid": "II_Samuel_666",
+      "chapter_number": 23,
+      "verse_number": 35,
+      "start_char": 51587,
+      "end_char": 51617,
+      "length": 31,
+      "text": "(חצרו) [חצרי] הכרמליפערי הארבי׃"
+    },
+    {
+      "uid": "II_Samuel_667",
+      "chapter_number": 23,
+      "verse_number": 36,
+      "start_char": 51618,
+      "end_char": 51642,
+      "length": 25,
+      "text": "יגאל בן־נתן מצבהבני הגדי׃"
+    },
+    {
+      "uid": "II_Samuel_668",
+      "chapter_number": 23,
+      "verse_number": 37,
+      "start_char": 51643,
+      "end_char": 51693,
+      "length": 51,
+      "text": "צלק העמנינחרי הבארתי (נשאי) [נשא] כלי יואב בן־צריה׃"
+    },
+    {
+      "uid": "II_Samuel_669",
+      "chapter_number": 23,
+      "verse_number": 38,
+      "start_char": 51694,
+      "end_char": 51713,
+      "length": 20,
+      "text": "עירא היתריגרב היתרי׃"
+    },
+    {
+      "uid": "II_Samuel_670",
+      "chapter_number": 23,
+      "verse_number": 39,
+      "start_char": 51714,
+      "end_char": 51739,
+      "length": 26,
+      "text": "אוריה החתי כל שלשים ושבעה׃"
+    },
+    {
+      "uid": "II_Samuel_671",
+      "chapter_number": 24,
+      "verse_number": 1,
+      "start_char": 51740,
+      "end_char": 51812,
+      "length": 73,
+      "text": "ויסף אף־יהוה לחרות בישראל ויסת את־דוד בהם לאמר לך מנה את־ישראל ואת־יהודה׃"
+    },
+    {
+      "uid": "II_Samuel_672",
+      "chapter_number": 24,
+      "verse_number": 2,
+      "start_char": 51813,
+      "end_char": 51918,
+      "length": 106,
+      "text": "ויאמר המלך אל־יואב׀ שר־החיל אשר־אתו שוט־נא בכל־שבטי ישראל מדן ועד־באר שבע ופקדו את־העם וידעתי את מספר העם׃"
+    },
+    {
+      "uid": "II_Samuel_673",
+      "chapter_number": 24,
+      "verse_number": 3,
+      "start_char": 51919,
+      "end_char": 52029,
+      "length": 111,
+      "text": "ויאמר יואב אל־המלך ויוסף יהוה אלהיך אל־העם כהם׀וכהם מאה פעמים ועיני אדני־המלך ראות ואדני המלך למה חפץ בדבר הזה׃"
+    },
+    {
+      "uid": "II_Samuel_674",
+      "chapter_number": 24,
+      "verse_number": 4,
+      "start_char": 52030,
+      "end_char": 52116,
+      "length": 87,
+      "text": "ויחזק דבר־המלך אל־יואב ועל שרי החיל ויצא יואב ושרי החיל לפני המלך לפקד את־העם את־ישראל׃"
+    },
+    {
+      "uid": "II_Samuel_675",
+      "chapter_number": 24,
+      "verse_number": 5,
+      "start_char": 52117,
+      "end_char": 52182,
+      "length": 66,
+      "text": "ויעברו את־הירדן ויחנו בערוער ימין העיר אשר בתוך־הנחל הגד ואל־יעזר׃"
+    },
+    {
+      "uid": "II_Samuel_676",
+      "chapter_number": 24,
+      "verse_number": 6,
+      "start_char": 52183,
+      "end_char": 52243,
+      "length": 61,
+      "text": "ויבאו הגלעדה ואל־ארץ תחתים חדשי ויבאו דנה יען וסביב אל־צידון׃"
+    },
+    {
+      "uid": "II_Samuel_677",
+      "chapter_number": 24,
+      "verse_number": 7,
+      "start_char": 52244,
+      "end_char": 52305,
+      "length": 62,
+      "text": "ויבאו מבצר־צר וכל־ערי החוי והכנעני ויצאו אל־נגב יהודה באר שבע׃"
+    },
+    {
+      "uid": "II_Samuel_678",
+      "chapter_number": 24,
+      "verse_number": 8,
+      "start_char": 52306,
+      "end_char": 52361,
+      "length": 56,
+      "text": "וישטו בכל־הארץ ויבאו מקצה תשעה חדשים ועשרים יום ירושל͏ם׃"
+    },
+    {
+      "uid": "II_Samuel_679",
+      "chapter_number": 24,
+      "verse_number": 9,
+      "start_char": 52362,
+      "end_char": 52465,
+      "length": 104,
+      "text": "ויתן יואב את־מספר מפקד־העם אל־המלך ותהי ישראל שמנה מאות אלף איש־חיל שלף חרב ואיש יהודה חמש־מאות אלף איש׃"
+    },
+    {
+      "uid": "II_Samuel_680",
+      "chapter_number": 24,
+      "verse_number": 10,
+      "start_char": 52466,
+      "end_char": 52580,
+      "length": 115,
+      "text": "ויך לב־דוד אתו אחרי־כן ספר את־העםויאמר דוד אל־יהוה חטאתי מאד אשר עשיתי ועתה יהוה העבר־נא את־עון עבדך כי נסכלתי מאד׃"
+    },
+    {
+      "uid": "II_Samuel_681",
+      "chapter_number": 24,
+      "verse_number": 11,
+      "start_char": 52581,
+      "end_char": 52632,
+      "length": 52,
+      "text": "ויקם דוד בבקרודבר־יהוה היה אל־גד הנביא חזה דוד לאמר׃"
+    },
+    {
+      "uid": "II_Samuel_682",
+      "chapter_number": 24,
+      "verse_number": 12,
+      "start_char": 52633,
+      "end_char": 52705,
+      "length": 73,
+      "text": "הלוך ודברת אל־דוד כה אמר יהוה שלש אנכי נוטל עליך בחר־לך אחת־מהם ואעשה־לך׃"
+    },
+    {
+      "uid": "II_Samuel_683",
+      "chapter_number": 24,
+      "verse_number": 13,
+      "start_char": 52706,
+      "end_char": 52861,
+      "length": 156,
+      "text": "ויבא־גד אל־דוד ויגד־לו ויאמר לו התבוא לך שבע־שנים׀רעב׀בארצך אם־שלשה חדשים נסך לפני־צריך והוא רדפך ואם־היות שלשת ימים דבר בארצך עתה דע וראה מה־אשיב שלחי דבר׃"
+    },
+    {
+      "uid": "II_Samuel_684",
+      "chapter_number": 24,
+      "verse_number": 14,
+      "start_char": 52862,
+      "end_char": 52934,
+      "length": 73,
+      "text": "ויאמר דוד אל־גד צר־לי מאד נפלה־נא ביד־יהוה כי־רבים רחמו וביד־אדם אל־אפלה׃"
+    },
+    {
+      "uid": "II_Samuel_685",
+      "chapter_number": 24,
+      "verse_number": 15,
+      "start_char": 52935,
+      "end_char": 53015,
+      "length": 81,
+      "text": "ויתן יהוה דבר בישראל מהבקר ועד־עת מועד וימת מן־העם מדן ועד־באר שבע שבעים אלף איש׃"
+    },
+    {
+      "uid": "II_Samuel_686",
+      "chapter_number": 24,
+      "verse_number": 16,
+      "start_char": 53016,
+      "end_char": 53148,
+      "length": 133,
+      "text": "וישלח ידו המלאך׀ירושל͏ם לשחתה וינחם יהוה אל־הרעה ויאמר למלאך המשחית בעם רב עתה הרף ידך ומלאך יהוה היה עם־גרן (האורנה) [הארונה] היבסי׃"
+    },
+    {
+      "uid": "II_Samuel_687",
+      "chapter_number": 24,
+      "verse_number": 17,
+      "start_char": 53149,
+      "end_char": 53267,
+      "length": 119,
+      "text": "ויאמר דוד אל־יהוה בראתו׀ את־המלאך׀ המכה בעם ויאמר הנה אנכי חטאתי ואנכי העויתי ואלה הצאן מה עשו תהי נא ידך בי ובבית אבי׃"
+    },
+    {
+      "uid": "II_Samuel_688",
+      "chapter_number": 24,
+      "verse_number": 18,
+      "start_char": 53268,
+      "end_char": 53347,
+      "length": 80,
+      "text": "ויבא־גד אל־דוד ביום ההוא ויאמר לו עלה הקם ליהוה מזבח בגרן (ארניה) [ארונה] היבסי׃"
+    },
+    {
+      "uid": "II_Samuel_689",
+      "chapter_number": 24,
+      "verse_number": 19,
+      "start_char": 53348,
+      "end_char": 53378,
+      "length": 31,
+      "text": "ויעל דוד כדבר־גד כאשר צוה יהוה׃"
+    },
+    {
+      "uid": "II_Samuel_690",
+      "chapter_number": 24,
+      "verse_number": 20,
+      "start_char": 53379,
+      "end_char": 53457,
+      "length": 79,
+      "text": "וישקף ארונה וירא את־המלך ואת־עבדיו עברים עליו ויצא ארונה וישתחו למלך אפיו ארצה׃"
+    },
+    {
+      "uid": "II_Samuel_691",
+      "chapter_number": 24,
+      "verse_number": 21,
+      "start_char": 53458,
+      "end_char": 53561,
+      "length": 104,
+      "text": "ויאמר ארונה מדוע בא אדני־המלך אל־עבדו ויאמר דוד לקנות מעמך את־הגרן לבנות מזבח ליהוה ותעצר המגפה מעל העם׃"
+    },
+    {
+      "uid": "II_Samuel_692",
+      "chapter_number": 24,
+      "verse_number": 22,
+      "start_char": 53562,
+      "end_char": 53648,
+      "length": 87,
+      "text": "ויאמר ארונה אל־דוד יקח ויעל אדני המלך הטוב בעינו ראה הבקר לעלה והמרגים וכלי הבקר לעצים׃"
+    },
+    {
+      "uid": "II_Samuel_693",
+      "chapter_number": 24,
+      "verse_number": 23,
+      "start_char": 53649,
+      "end_char": 53707,
+      "length": 59,
+      "text": "הכל נתן ארונה המלך למלךויאמר ארונה אל־המלך יהוה אלהיך ירצך׃"
+    },
+    {
+      "uid": "II_Samuel_694",
+      "chapter_number": 24,
+      "verse_number": 24,
+      "start_char": 53708,
+      "end_char": 53826,
+      "length": 119,
+      "text": "ויאמר המלך אל־ארונה לא כי־קנו אקנה מאותך במחיר ולא אעלה ליהוה אלהי עלות חנם ויקן דוד את־הגרן ואת־הבקר בכסף שקלים חמשים׃"
+    },
+    {
+      "uid": "II_Samuel_695",
+      "chapter_number": 24,
+      "verse_number": 25,
+      "start_char": 53827,
+      "end_char": 53904,
+      "length": 78,
+      "text": "ויבן שם דוד מזבח ליהוה ויעל עלות ושלמים ויעתר יהוה לארץ ותעצר המגפה מעל ישראל׃"
+    }
+  ]
+}

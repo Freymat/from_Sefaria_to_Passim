@@ -1,0 +1,5575 @@
+{
+  "title": "Judges",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Judges_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 85,
+      "length": 85,
+      "text": "ויהי אחרי מות יהושע וישאלו בני ישראל ביהוה לאמר מי יעלה־לנו אל־הכנעני בתחלה להלחם בו׃"
+    },
+    {
+      "uid": "Judges_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 86,
+      "end_char": 129,
+      "length": 44,
+      "text": "ויאמר יהוה יהודה יעלה הנה נתתי את־הארץ בידו׃"
+    },
+    {
+      "uid": "Judges_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 130,
+      "end_char": 221,
+      "length": 92,
+      "text": "ויאמר יהודה לשמעון אחיו עלה אתי בגרלי ונלחמה בכנעני והלכתי גם־אני אתך בגורלך וילך אתו שמעון׃"
+    },
+    {
+      "uid": "Judges_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 222,
+      "end_char": 290,
+      "length": 69,
+      "text": "ויעל יהודה ויתן יהוה את־הכנעני והפרזי בידם ויכום בבזק עשרת אלפים איש׃"
+    },
+    {
+      "uid": "Judges_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 291,
+      "end_char": 349,
+      "length": 59,
+      "text": "וימצאו את־אדני בזק בבזק וילחמו בו ויכו את־הכנעני ואת־הפרזי׃"
+    },
+    {
+      "uid": "Judges_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 350,
+      "end_char": 416,
+      "length": 67,
+      "text": "וינס אדני בזק וירדפו אחריו ויאחזו אותו ויקצצו את־בהנות ידיו ורגליו׃"
+    },
+    {
+      "uid": "Judges_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 417,
+      "end_char": 542,
+      "length": 126,
+      "text": "ויאמר אדני־בזק שבעים׀מלכים בהנות ידיהם ורגליהם מקצצים היו מלקטים תחת שלחני כאשר עשיתי כן שלם־לי אלהים ויביאהו ירושל͏ם וימת שם׃"
+    },
+    {
+      "uid": "Judges_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 543,
+      "end_char": 612,
+      "length": 70,
+      "text": "וילחמו בני־יהודה בירושל͏ם וילכדו אותה ויכוה לפי־חרב ואת־העיר שלחו באש׃"
+    },
+    {
+      "uid": "Judges_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 613,
+      "end_char": 667,
+      "length": 55,
+      "text": "ואחר ירדו בני יהודה להלחם בכנעני יושב ההר והנגב והשפלה׃"
+    },
+    {
+      "uid": "Judges_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 668,
+      "end_char": 758,
+      "length": 91,
+      "text": "וילך יהודה אל־הכנעני היושב בחברון ושם־חברון לפנים קרית ארבע ויכו את־ששי ואת־אחימן ואת־תלמי׃"
+    },
+    {
+      "uid": "Judges_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 759,
+      "end_char": 805,
+      "length": 47,
+      "text": "וילך משם אל־יושבי דביר ושם־דביר לפנים קרית־ספר׃"
+    },
+    {
+      "uid": "Judges_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 806,
+      "end_char": 867,
+      "length": 62,
+      "text": "ויאמר כלב אשר־יכה את־קרית־ספר ולכדה ונתתי לו את־עכסה בתי לאשה׃"
+    },
+    {
+      "uid": "Judges_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 868,
+      "end_char": 931,
+      "length": 64,
+      "text": "וילכדה עתניאל בן־קנז אחי כלב הקטן ממנו ויתן־לו את־עכסה בתו לאשה׃"
+    },
+    {
+      "uid": "Judges_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 932,
+      "end_char": 1004,
+      "length": 73,
+      "text": "ויהי בבואה ותסיתהו לשאל מאת־אביה השדה ותצנח מעל החמור ויאמר־לה כלב מה־לך׃"
+    },
+    {
+      "uid": "Judges_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 1005,
+      "end_char": 1098,
+      "length": 94,
+      "text": "ותאמר לו הבה־לי ברכה כי ארץ הנגב נתתני ונתתה לי גלת מים ויתן־לה כלב את גלת עלית ואת גלת תחתית׃"
+    },
+    {
+      "uid": "Judges_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 1099,
+      "end_char": 1186,
+      "length": 88,
+      "text": "ובני קיני חתן משה עלו מעיר התמרים את־בני יהודה מדבר יהודה אשר בנגב ערד וילך וישב את־העם׃"
+    },
+    {
+      "uid": "Judges_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 1187,
+      "end_char": 1270,
+      "length": 84,
+      "text": "וילך יהודה את־שמעון אחיו ויכו את־הכנעני יושב צפת ויחרימו אותה ויקרא את־שם־העיר חרמה׃"
+    },
+    {
+      "uid": "Judges_18",
+      "chapter_number": 1,
+      "verse_number": 18,
+      "start_char": 1271,
+      "end_char": 1340,
+      "length": 70,
+      "text": "וילכד יהודה את־עזה ואת־גבולה ואת־אשקלון ואת־גבולה ואת־עקרון ואת־גבולה׃"
+    },
+    {
+      "uid": "Judges_19",
+      "chapter_number": 1,
+      "verse_number": 19,
+      "start_char": 1341,
+      "end_char": 1413,
+      "length": 73,
+      "text": "ויהי יהוה את־יהודה וירש את־ההר כי לא להוריש את־ישבי העמק כי־רכב ברזל להם׃"
+    },
+    {
+      "uid": "Judges_20",
+      "chapter_number": 1,
+      "verse_number": 20,
+      "start_char": 1414,
+      "end_char": 1473,
+      "length": 60,
+      "text": "ויתנו לכלב את־חברון כאשר דבר משה ויורש משם את־שלשה בני הענק׃"
+    },
+    {
+      "uid": "Judges_21",
+      "chapter_number": 1,
+      "verse_number": 21,
+      "start_char": 1474,
+      "end_char": 1562,
+      "length": 89,
+      "text": "ואת־היבוסי ישב ירושל͏ם לא הורישו בני בנימן וישב היבוסי את־בני בנימן בירושל͏ם עד היום הזה׃"
+    },
+    {
+      "uid": "Judges_22",
+      "chapter_number": 1,
+      "verse_number": 22,
+      "start_char": 1563,
+      "end_char": 1600,
+      "length": 38,
+      "text": "ויעלו בית־יוסף גם־הם בית־אל ויהוה עמם׃"
+    },
+    {
+      "uid": "Judges_23",
+      "chapter_number": 1,
+      "verse_number": 23,
+      "start_char": 1601,
+      "end_char": 1643,
+      "length": 43,
+      "text": "ויתירו בית־יוסף בבית־אל ושם־העיר לפנים לוז׃"
+    },
+    {
+      "uid": "Judges_24",
+      "chapter_number": 1,
+      "verse_number": 24,
+      "start_char": 1644,
+      "end_char": 1720,
+      "length": 77,
+      "text": "ויראו השמרים איש יוצא מן־העיר ויאמרו לו הראנו נא את־מבוא העיר ועשינו עמך חסד׃"
+    },
+    {
+      "uid": "Judges_25",
+      "chapter_number": 1,
+      "verse_number": 25,
+      "start_char": 1721,
+      "end_char": 1788,
+      "length": 68,
+      "text": "ויראם את־מבוא העיר ויכו את־העיר לפי־חרב ואת־האיש ואת־כל־משפחתו שלחו׃"
+    },
+    {
+      "uid": "Judges_26",
+      "chapter_number": 1,
+      "verse_number": 26,
+      "start_char": 1789,
+      "end_char": 1851,
+      "length": 63,
+      "text": "וילך האיש ארץ החתים ויבן עיר ויקרא שמה לוז הוא שמה עד היום הזה׃"
+    },
+    {
+      "uid": "Judges_27",
+      "chapter_number": 1,
+      "verse_number": 27,
+      "start_char": 1852,
+      "end_char": 2021,
+      "length": 170,
+      "text": "ולא־הוריש מנשה את־בית־שאן ואת־בנותיה ואת־תענך ואת־בנתיה ואת־[יושבי] (יושב) דור ואת־בנותיה ואת־יושבי יבלעם ואת־בנתיה ואת־יושבי מגדו ואת־בנותיה ויואל הכנעני לשבת בארץ הזאת׃"
+    },
+    {
+      "uid": "Judges_28",
+      "chapter_number": 1,
+      "verse_number": 28,
+      "start_char": 2022,
+      "end_char": 2075,
+      "length": 54,
+      "text": "ויהי כי־חזק ישראל וישם את־הכנעני למס והוריש לא הורישו׃"
+    },
+    {
+      "uid": "Judges_29",
+      "chapter_number": 1,
+      "verse_number": 29,
+      "start_char": 2076,
+      "end_char": 2135,
+      "length": 60,
+      "text": "ואפרים לא הוריש את־הכנעני היושב בגזר וישב הכנעני בקרבו בגזר׃"
+    },
+    {
+      "uid": "Judges_30",
+      "chapter_number": 1,
+      "verse_number": 30,
+      "start_char": 2136,
+      "end_char": 2208,
+      "length": 73,
+      "text": "זבולן לא הוריש את־יושבי קטרון ואת־יושבי נהלל וישב הכנעני בקרבו ויהיו למס׃"
+    },
+    {
+      "uid": "Judges_31",
+      "chapter_number": 1,
+      "verse_number": 31,
+      "start_char": 2209,
+      "end_char": 2294,
+      "length": 86,
+      "text": "אשר לא הוריש את־ישבי עכו ואת־יושבי צידון ואת־אחלב ואת־אכזיב ואת־חלבה ואת־אפיק ואת־רחב׃"
+    },
+    {
+      "uid": "Judges_32",
+      "chapter_number": 1,
+      "verse_number": 32,
+      "start_char": 2295,
+      "end_char": 2340,
+      "length": 46,
+      "text": "וישב האשרי בקרב הכנעני ישבי הארץ כי לא הורישו׃"
+    },
+    {
+      "uid": "Judges_33",
+      "chapter_number": 1,
+      "verse_number": 33,
+      "start_char": 2341,
+      "end_char": 2450,
+      "length": 110,
+      "text": "נפתלי לא־הוריש את־ישבי בית־שמש ואת־ישבי בית־ענת וישב בקרב הכנעני ישבי הארץ וישבי בית־שמש ובית ענת היו להם למס׃"
+    },
+    {
+      "uid": "Judges_34",
+      "chapter_number": 1,
+      "verse_number": 34,
+      "start_char": 2451,
+      "end_char": 2499,
+      "length": 49,
+      "text": "וילחצו האמרי את־בני־דן ההרה כי־לא נתנו לרדת לעמק׃"
+    },
+    {
+      "uid": "Judges_35",
+      "chapter_number": 1,
+      "verse_number": 35,
+      "start_char": 2500,
+      "end_char": 2568,
+      "length": 69,
+      "text": "ויואל האמרי לשבת בהר־חרס באילון ובשעלבים ותכבד יד בית־יוסף ויהיו למס׃"
+    },
+    {
+      "uid": "Judges_36",
+      "chapter_number": 1,
+      "verse_number": 36,
+      "start_char": 2569,
+      "end_char": 2605,
+      "length": 37,
+      "text": "וגבול האמרי ממעלה עקרבים מהסלע ומעלה׃"
+    },
+    {
+      "uid": "Judges_37",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 2606,
+      "end_char": 2727,
+      "length": 122,
+      "text": "ויעל מלאך־יהוה מן־הגלגל אל־הבכיםויאמר אעלה אתכם ממצרים ואביא אתכם אל־הארץ אשר נשבעתי לאבתיכם ואמר לא־אפר בריתי אתכם לעולם׃"
+    },
+    {
+      "uid": "Judges_38",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 2728,
+      "end_char": 2808,
+      "length": 81,
+      "text": "ואתם לא־תכרתו ברית ליושבי הארץ הזאת מזבחותיהם תתצון ולא־שמעתם בקולי מה־זאת עשיתם׃"
+    },
+    {
+      "uid": "Judges_39",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 2809,
+      "end_char": 2876,
+      "length": 68,
+      "text": "וגם אמרתי לא־אגרש אותם מפניכם והיו לכם לצדים ואלהיהם יהיו לכם למוקש׃"
+    },
+    {
+      "uid": "Judges_40",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 2877,
+      "end_char": 2951,
+      "length": 75,
+      "text": "ויהי כדבר מלאך יהוה את־הדברים האלה אל־כל־בני ישראל וישאו העם את־קולם ויבכו׃"
+    },
+    {
+      "uid": "Judges_41",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 2952,
+      "end_char": 2993,
+      "length": 42,
+      "text": "ויקראו שם־המקום ההוא בכים ויזבחו־שם ליהוה׃"
+    },
+    {
+      "uid": "Judges_42",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 2994,
+      "end_char": 3052,
+      "length": 59,
+      "text": "וישלח יהושע את־העם וילכו בני־ישראל איש לנחלתו לרשת את־הארץ׃"
+    },
+    {
+      "uid": "Judges_43",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 3053,
+      "end_char": 3173,
+      "length": 121,
+      "text": "ויעבדו העם את־יהוה כל ימי יהושע וכל׀ ימי הזקנים אשר האריכו ימים אחרי יהושוע אשר ראו את כל־מעשה יהוה הגדול אשר עשה לישראל׃"
+    },
+    {
+      "uid": "Judges_44",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 3174,
+      "end_char": 3217,
+      "length": 44,
+      "text": "וימת יהושע בן־נון עבד יהוה בן־מאה ועשר שנים׃"
+    },
+    {
+      "uid": "Judges_45",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 3218,
+      "end_char": 3275,
+      "length": 58,
+      "text": "ויקברו אותו בגבול נחלתו בתמנת־חרס בהר אפרים מצפון להר־געש׃"
+    },
+    {
+      "uid": "Judges_46",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 3276,
+      "end_char": 3376,
+      "length": 101,
+      "text": "וגם כל־הדור ההוא נאספו אל־אבותיו ויקם דור אחר אחריהם אשר לא־ידעו את־יהוה וגם את־המעשה אשר עשה לישראל׃"
+    },
+    {
+      "uid": "Judges_47",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 3377,
+      "end_char": 3427,
+      "length": 51,
+      "text": "ויעשו בני־ישראל את־הרע בעיני יהוה ויעבדו את־הבעלים׃"
+    },
+    {
+      "uid": "Judges_48",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 3428,
+      "end_char": 3554,
+      "length": 127,
+      "text": "ויעזבו את־יהוה׀ אלהי אבותם המוציא אותם מארץ מצרים וילכו אחרי׀ אלהים אחרים מאלהי העמים אשר סביבותיהם וישתחוו להם ויכעסו את־יהוה׃"
+    },
+    {
+      "uid": "Judges_49",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 3555,
+      "end_char": 3590,
+      "length": 36,
+      "text": "ויעזבו את־יהוה ויעבדו לבעל ולעשתרות׃"
+    },
+    {
+      "uid": "Judges_50",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 3591,
+      "end_char": 3692,
+      "length": 102,
+      "text": "ויחר־אף יהוה בישראל ויתנם ביד־שסים וישסו אותם וימכרם ביד אויביהם מסביב ולא־יכלו עוד לעמד לפני אויביהם׃"
+    },
+    {
+      "uid": "Judges_51",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 3693,
+      "end_char": 3774,
+      "length": 82,
+      "text": "בכל׀ אשר יצאו יד־יהוה היתה־בם לרעה כאשר דבר יהוה וכאשר נשבע יהוה להם ויצר להם מאד׃"
+    },
+    {
+      "uid": "Judges_52",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 3775,
+      "end_char": 3809,
+      "length": 35,
+      "text": "ויקם יהוה שפטים ויושיעום מיד שסיהם׃"
+    },
+    {
+      "uid": "Judges_53",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 3810,
+      "end_char": 3923,
+      "length": 114,
+      "text": "וגם אל־שפטיהם לא שמעו כי זנו אחרי אלהים אחרים וישתחוו להם סרו מהר מן־הדרך אשר הלכו אבותם לשמע מצות־יהוה לא־עשו כן׃"
+    },
+    {
+      "uid": "Judges_54",
+      "chapter_number": 2,
+      "verse_number": 18,
+      "start_char": 3924,
+      "end_char": 4037,
+      "length": 114,
+      "text": "וכי־הקים יהוה׀להם שפטים והיה יהוה עם־השפט והושיעם מיד איביהם כל ימי השופט כי־ינחם יהוה מנאקתם מפני לחציהם ודחקיהם׃"
+    },
+    {
+      "uid": "Judges_55",
+      "chapter_number": 2,
+      "verse_number": 19,
+      "start_char": 4038,
+      "end_char": 4145,
+      "length": 108,
+      "text": "והיה׀ במות השופט ישבו והשחיתו מאבותם ללכת אחרי אלהים אחרים לעבדם ולהשתחות להם לא הפילו ממעלליהם ומדרכם הקשה׃"
+    },
+    {
+      "uid": "Judges_56",
+      "chapter_number": 2,
+      "verse_number": 20,
+      "start_char": 4146,
+      "end_char": 4236,
+      "length": 91,
+      "text": "ויחר־אף יהוה בישראל ויאמר יען אשר עברו הגוי הזה את־בריתי אשר צויתי את־אבותם ולא שמעו לקולי׃"
+    },
+    {
+      "uid": "Judges_57",
+      "chapter_number": 2,
+      "verse_number": 21,
+      "start_char": 4237,
+      "end_char": 4298,
+      "length": 62,
+      "text": "גם־אני לא אוסיף להוריש איש מפניהם מן־הגוים אשר־עזב יהושע וימת׃"
+    },
+    {
+      "uid": "Judges_58",
+      "chapter_number": 2,
+      "verse_number": 22,
+      "start_char": 4299,
+      "end_char": 4372,
+      "length": 74,
+      "text": "למען נסות בם את־ישראל השמרים הם את־דרך יהוה ללכת בם כאשר שמרו אבותם אם־לא׃"
+    },
+    {
+      "uid": "Judges_59",
+      "chapter_number": 2,
+      "verse_number": 23,
+      "start_char": 4373,
+      "end_char": 4432,
+      "length": 60,
+      "text": "וינח יהוה את־הגוים האלה לבלתי הורישם מהר ולא נתנם ביד־יהושע׃"
+    },
+    {
+      "uid": "Judges_60",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 4433,
+      "end_char": 4511,
+      "length": 79,
+      "text": "ואלה הגוים אשר הניח יהוה לנסות בם את־ישראל את כל־אשר לא־ידעו את כל־מלחמות כנען׃"
+    },
+    {
+      "uid": "Judges_61",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 4512,
+      "end_char": 4572,
+      "length": 61,
+      "text": "רק למען דעת דרות בני־ישראל ללמדם מלחמה רק אשר־לפנים לא ידעום׃"
+    },
+    {
+      "uid": "Judges_62",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 4573,
+      "end_char": 4655,
+      "length": 83,
+      "text": "חמשת׀ סרני פלשתים וכל־הכנעני והצידני והחוי ישב הר הלבנון מהר בעל חרמון עד לבוא חמת׃"
+    },
+    {
+      "uid": "Judges_63",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 4656,
+      "end_char": 4729,
+      "length": 74,
+      "text": "ויהיו לנסות בם את־ישראל לדעת הישמעו את־מצות יהוה אשר־צוה את־אבותם ביד־משה׃"
+    },
+    {
+      "uid": "Judges_64",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 4730,
+      "end_char": 4790,
+      "length": 61,
+      "text": "ובני ישראל ישבו בקרב הכנעני החתי והאמרי והפרזי והחוי והיבוסי׃"
+    },
+    {
+      "uid": "Judges_65",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 4791,
+      "end_char": 4858,
+      "length": 68,
+      "text": "ויקחו את־בנותיהם להם לנשים ואת־בנותיהם נתנו לבניהם ויעבדו את־אלהיהם׃"
+    },
+    {
+      "uid": "Judges_66",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 4859,
+      "end_char": 4942,
+      "length": 84,
+      "text": "ויעשו בני־ישראל את־הרע בעיני יהוה וישכחו את־יהוה אלהיהם ויעבדו את־הבעלים ואת־האשרות׃"
+    },
+    {
+      "uid": "Judges_67",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 4943,
+      "end_char": 5041,
+      "length": 99,
+      "text": "ויחר־אף יהוה בישראל וימכרם ביד כושן רשעתים מלך ארם נהרים ויעבדו בני־ישראל את־כושן רשעתים שמנה שנים׃"
+    },
+    {
+      "uid": "Judges_68",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 5042,
+      "end_char": 5135,
+      "length": 94,
+      "text": "ויזעקו בני־ישראל אל־יהוה ויקם יהוה מושיע לבני ישראל וישיעם את עתניאל בן־קנז אחי כלב הקטן ממנו׃"
+    },
+    {
+      "uid": "Judges_69",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 5136,
+      "end_char": 5243,
+      "length": 108,
+      "text": "ותהי עליו רוח־יהוה וישפט את־ישראל ויצא למלחמה ויתן יהוה בידו את־כושן רשעתים מלך ארם ותעז ידו על כושן רשעתים׃"
+    },
+    {
+      "uid": "Judges_70",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 5244,
+      "end_char": 5284,
+      "length": 41,
+      "text": "ותשקט הארץ ארבעים שנה וימת עתניאל בן־קנז׃"
+    },
+    {
+      "uid": "Judges_71",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 5285,
+      "end_char": 5387,
+      "length": 103,
+      "text": "ויספו בני ישראל לעשות הרע בעיני יהוה ויחזק יהוה את־עגלון מלך־מואב על־ישראל על כי־עשו את־הרע בעיני יהוה׃"
+    },
+    {
+      "uid": "Judges_72",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 5388,
+      "end_char": 5455,
+      "length": 68,
+      "text": "ויאסף אליו את־בני עמון ועמלק וילך ויך את־ישראל ויירשו את־עיר התמרים׃"
+    },
+    {
+      "uid": "Judges_73",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 5456,
+      "end_char": 5505,
+      "length": 50,
+      "text": "ויעבדו בני־ישראל את־עגלון מלך־מואב שמונה עשרה שנה׃"
+    },
+    {
+      "uid": "Judges_74",
+      "chapter_number": 3,
+      "verse_number": 15,
+      "start_char": 5506,
+      "end_char": 5635,
+      "length": 130,
+      "text": "ויזעקו בני־ישראל אל־יהוה ויקם יהוה להם מושיע את־אהוד בן־גרא בן־הימיני איש אטר יד־ימינו וישלחו בני־ישראל בידו מנחה לעגלון מלך מואב׃"
+    },
+    {
+      "uid": "Judges_75",
+      "chapter_number": 3,
+      "verse_number": 16,
+      "start_char": 5636,
+      "end_char": 5709,
+      "length": 74,
+      "text": "ויעש לו אהוד חרב ולה שני פיות גמד ארכה ויחגר אותה מתחת למדיו על ירך ימינו׃"
+    },
+    {
+      "uid": "Judges_76",
+      "chapter_number": 3,
+      "verse_number": 17,
+      "start_char": 5710,
+      "end_char": 5760,
+      "length": 51,
+      "text": "ויקרב את־המנחה לעגלון מלך מואב ועגלון איש בריא מאד׃"
+    },
+    {
+      "uid": "Judges_77",
+      "chapter_number": 3,
+      "verse_number": 18,
+      "start_char": 5761,
+      "end_char": 5814,
+      "length": 54,
+      "text": "ויהי כאשר כלה להקריב את־המנחה וישלח את־העם נשאי המנחה׃"
+    },
+    {
+      "uid": "Judges_78",
+      "chapter_number": 3,
+      "verse_number": 19,
+      "start_char": 5815,
+      "end_char": 5909,
+      "length": 95,
+      "text": "והוא שב מן־הפסילים אשר את־הגלגל ויאמר דבר־סתר לי אליך המלך ויאמר הס ויצאו מעליו כל־העמדים עליו׃"
+    },
+    {
+      "uid": "Judges_79",
+      "chapter_number": 3,
+      "verse_number": 20,
+      "start_char": 5910,
+      "end_char": 6000,
+      "length": 91,
+      "text": "ואהוד׀ בא אליו והוא־ישב בעלית המקרה אשר־לו לבדו ויאמר אהוד דבר־אלהים לי אליך ויקם מעל הכסא׃"
+    },
+    {
+      "uid": "Judges_80",
+      "chapter_number": 3,
+      "verse_number": 21,
+      "start_char": 6001,
+      "end_char": 6063,
+      "length": 63,
+      "text": "וישלח אהוד את־יד שמאלו ויקח את־החרב מעל ירך ימינו ויתקעה בבטנו׃"
+    },
+    {
+      "uid": "Judges_81",
+      "chapter_number": 3,
+      "verse_number": 22,
+      "start_char": 6064,
+      "end_char": 6139,
+      "length": 76,
+      "text": "ויבא גם־הנצב אחר הלהב ויסגר החלב בעד הלהב כי לא שלף החרב מבטנו ויצא הפרשדנה׃"
+    },
+    {
+      "uid": "Judges_82",
+      "chapter_number": 3,
+      "verse_number": 23,
+      "start_char": 6140,
+      "end_char": 6186,
+      "length": 47,
+      "text": "ויצא אהוד המסדרונה ויסגר דלתות העליה בעדו ונעל׃"
+    },
+    {
+      "uid": "Judges_83",
+      "chapter_number": 3,
+      "verse_number": 24,
+      "start_char": 6187,
+      "end_char": 6274,
+      "length": 88,
+      "text": "והוא יצא ועבדיו באו ויראו והנה דלתות העליה נעלות ויאמרו אך מסיך הוא את־רגליו בחדר המקרה׃"
+    },
+    {
+      "uid": "Judges_84",
+      "chapter_number": 3,
+      "verse_number": 25,
+      "start_char": 6275,
+      "end_char": 6361,
+      "length": 87,
+      "text": "ויחילו עד־בוש והנה איננו פתח דלתות העליה ויקחו את־המפתח ויפתחו והנה אדניהם נפל ארצה מת׃"
+    },
+    {
+      "uid": "Judges_85",
+      "chapter_number": 3,
+      "verse_number": 26,
+      "start_char": 6362,
+      "end_char": 6417,
+      "length": 56,
+      "text": "ואהוד נמלט עד התמהמהם והוא עבר את־הפסילים וימלט השעירתה׃"
+    },
+    {
+      "uid": "Judges_86",
+      "chapter_number": 3,
+      "verse_number": 27,
+      "start_char": 6418,
+      "end_char": 6489,
+      "length": 72,
+      "text": "ויהי בבואו ויתקע בשופר בהר אפרים וירדו עמו בני־ישראל מן־ההר והוא לפניהם׃"
+    },
+    {
+      "uid": "Judges_87",
+      "chapter_number": 3,
+      "verse_number": 28,
+      "start_char": 6490,
+      "end_char": 6605,
+      "length": 116,
+      "text": "ויאמר אלהם רדפו אחרי כי־נתן יהוה את־איביכם את־מואב בידכם וירדו אחריו וילכדו את־מעברות הירדן למואב ולא־נתנו איש לעבר׃"
+    },
+    {
+      "uid": "Judges_88",
+      "chapter_number": 3,
+      "verse_number": 29,
+      "start_char": 6606,
+      "end_char": 6675,
+      "length": 70,
+      "text": "ויכו את־מואב בעת ההיא כעשרת אלפים איש כל־שמן וכל־איש חיל ולא נמלט איש׃"
+    },
+    {
+      "uid": "Judges_89",
+      "chapter_number": 3,
+      "verse_number": 30,
+      "start_char": 6676,
+      "end_char": 6731,
+      "length": 56,
+      "text": "ותכנע מואב ביום ההוא תחת יד ישראל ותשקט הארץ שמונים שנה׃"
+    },
+    {
+      "uid": "Judges_90",
+      "chapter_number": 3,
+      "verse_number": 31,
+      "start_char": 6732,
+      "end_char": 6813,
+      "length": 82,
+      "text": "ואחריו היה שמגר בן־ענת ויך את־פלשתים שש־מאות איש במלמד הבקר ויושע גם־הוא את־ישראל׃"
+    },
+    {
+      "uid": "Judges_91",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 6814,
+      "end_char": 6859,
+      "length": 46,
+      "text": "ויספו בני ישראל לעשות הרע בעיני יהוה ואהוד מת׃"
+    },
+    {
+      "uid": "Judges_92",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 6860,
+      "end_char": 6940,
+      "length": 81,
+      "text": "וימכרם יהוה ביד יבין מלך־כנען אשר מלך בחצור ושר־צבאו סיסרא והוא יושב בחרשת הגוים׃"
+    },
+    {
+      "uid": "Judges_93",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 6941,
+      "end_char": 7027,
+      "length": 87,
+      "text": "ויצעקו בני־ישראל אל־יהוה כי תשע מאות רכב־ברזל לו והוא לחץ את־בני ישראל בחזקה עשרים שנה׃"
+    },
+    {
+      "uid": "Judges_94",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 7028,
+      "end_char": 7082,
+      "length": 55,
+      "text": "ודבורה אשה נביאה אשת לפידות היא שפטה את־ישראל בעת ההיא׃"
+    },
+    {
+      "uid": "Judges_95",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 7083,
+      "end_char": 7165,
+      "length": 83,
+      "text": "והיא יושבת תחת־תמר דבורה בין הרמה ובין בית־אל בהר אפרים ויעלו אליה בני ישראל למשפט׃"
+    },
+    {
+      "uid": "Judges_96",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 7166,
+      "end_char": 7305,
+      "length": 140,
+      "text": "ותשלח ותקרא לברק בן־אבינעם מקדש נפתלי ותאמר אליו הלא צוה׀ יהוה אלהי־ישראל לך ומשכת בהר תבור ולקחת עמך עשרת אלפים איש מבני נפתלי ומבני זבלון׃"
+    },
+    {
+      "uid": "Judges_97",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 7306,
+      "end_char": 7383,
+      "length": 78,
+      "text": "ומשכתי אליך אל־נחל קישון את־סיסרא שר־צבא יבין ואת־רכבו ואת־המונו ונתתיהו בידך׃"
+    },
+    {
+      "uid": "Judges_98",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 7384,
+      "end_char": 7440,
+      "length": 57,
+      "text": "ויאמר אליה ברק אם־תלכי עמי והלכתי ואם־לא תלכי עמי לא אלך׃"
+    },
+    {
+      "uid": "Judges_99",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 7441,
+      "end_char": 7559,
+      "length": 119,
+      "text": "ותאמר הלך אלך עמך אפס כי לא תהיה תפארתך על־הדרך אשר אתה הולך כי ביד־אשה ימכר יהוה את־סיסרא ותקם דבורה ותלך עם־ברק קדשה׃"
+    },
+    {
+      "uid": "Judges_100",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 7560,
+      "end_char": 7634,
+      "length": 75,
+      "text": "ויזעק ברק את־זבולן ואת־נפתלי קדשה ויעל ברגליו עשרת אלפי איש ותעל עמו דבורה׃"
+    },
+    {
+      "uid": "Judges_101",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 7635,
+      "end_char": 7720,
+      "length": 86,
+      "text": "וחבר הקיני נפרד מקין מבני חבב חתן משה ויט אהלו עד־אילון (בצענים) [בצעננים] אשר את־קדש׃"
+    },
+    {
+      "uid": "Judges_102",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 7721,
+      "end_char": 7762,
+      "length": 42,
+      "text": "ויגדו לסיסרא כי עלה ברק בן־אבינעם הר־תבור׃"
+    },
+    {
+      "uid": "Judges_103",
+      "chapter_number": 4,
+      "verse_number": 13,
+      "start_char": 7763,
+      "end_char": 7847,
+      "length": 85,
+      "text": "ויזעק סיסרא את־כל־רכבו תשע מאות רכב ברזל ואת־כל־העם אשר אתו מחרשת הגוים אל־נחל קישון׃"
+    },
+    {
+      "uid": "Judges_104",
+      "chapter_number": 4,
+      "verse_number": 14,
+      "start_char": 7848,
+      "end_char": 7966,
+      "length": 119,
+      "text": "ותאמר דברה אל־ברק קום כי זה היום אשר נתן יהוה את־סיסרא בידך הלא יהוה יצא לפניך וירד ברק מהר תבור ועשרת אלפים איש אחריו׃"
+    },
+    {
+      "uid": "Judges_105",
+      "chapter_number": 4,
+      "verse_number": 15,
+      "start_char": 7967,
+      "end_char": 8061,
+      "length": 95,
+      "text": "ויהם יהוה את־סיסרא ואת־כל־הרכב ואת־כל־המחנה לפי־חרב לפני ברק וירד סיסרא מעל המרכבה וינס ברגליו׃"
+    },
+    {
+      "uid": "Judges_106",
+      "chapter_number": 4,
+      "verse_number": 16,
+      "start_char": 8062,
+      "end_char": 8148,
+      "length": 87,
+      "text": "וברק רדף אחרי הרכב ואחרי המחנה עד חרשת הגוים ויפל כל־מחנה סיסרא לפי־חרב לא נשאר עד־אחד׃"
+    },
+    {
+      "uid": "Judges_107",
+      "chapter_number": 4,
+      "verse_number": 17,
+      "start_char": 8149,
+      "end_char": 8235,
+      "length": 87,
+      "text": "וסיסרא נס ברגליו אל־אהל יעל אשת חבר הקיני כי שלום בין יבין מלך־חצור ובין בית חבר הקיני׃"
+    },
+    {
+      "uid": "Judges_108",
+      "chapter_number": 4,
+      "verse_number": 18,
+      "start_char": 8236,
+      "end_char": 8324,
+      "length": 89,
+      "text": "ותצא יעל לקראת סיסרא ותאמר אליו סורה אדני סורה אלי אל־תירא ויסר אליה האהלה ותכסהו בשמיכה׃"
+    },
+    {
+      "uid": "Judges_109",
+      "chapter_number": 4,
+      "verse_number": 19,
+      "start_char": 8325,
+      "end_char": 8395,
+      "length": 71,
+      "text": "ויאמר אליה השקיני־נא מעט־מים כי צמאתי ותפתח את־נאוד החלב ותשקהו ותכסהו׃"
+    },
+    {
+      "uid": "Judges_110",
+      "chapter_number": 4,
+      "verse_number": 20,
+      "start_char": 8396,
+      "end_char": 8467,
+      "length": 72,
+      "text": "ויאמר אליה עמד פתח האהל והיה אם־איש יבא ושאלך ואמר היש־פה איש ואמרת אין׃"
+    },
+    {
+      "uid": "Judges_111",
+      "chapter_number": 4,
+      "verse_number": 21,
+      "start_char": 8468,
+      "end_char": 8582,
+      "length": 115,
+      "text": "ותקח יעל אשת־חבר את־יתד האהל ותשם את־המקבת בידה ותבוא אליו בלאט ותתקע את־היתד ברקתו ותצנח בארץ והוא־נרדם ויעף וימת׃"
+    },
+    {
+      "uid": "Judges_112",
+      "chapter_number": 4,
+      "verse_number": 22,
+      "start_char": 8583,
+      "end_char": 8699,
+      "length": 117,
+      "text": "והנה ברק רדף את־סיסרא ותצא יעל לקראתו ותאמר לו לך ואראך את־האיש אשר־אתה מבקש ויבא אליה והנה סיסרא נפל מת והיתד ברקתו׃"
+    },
+    {
+      "uid": "Judges_113",
+      "chapter_number": 4,
+      "verse_number": 23,
+      "start_char": 8700,
+      "end_char": 8753,
+      "length": 54,
+      "text": "ויכנע אלהים ביום ההוא את יבין מלך־כנען לפני בני ישראל׃"
+    },
+    {
+      "uid": "Judges_114",
+      "chapter_number": 4,
+      "verse_number": 24,
+      "start_char": 8754,
+      "end_char": 8829,
+      "length": 76,
+      "text": "ותלך יד בני־ישראל הלוך וקשה על יבין מלך־כנען עד אשר הכריתו את יבין מלך־כנען׃"
+    },
+    {
+      "uid": "Judges_115",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 8830,
+      "end_char": 8869,
+      "length": 40,
+      "text": "ותשר דבורה וברק בן־אבינעםביום ההוא לאמר׃"
+    },
+    {
+      "uid": "Judges_116",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 8870,
+      "end_char": 8906,
+      "length": 37,
+      "text": "בפרע פרעות בישראלבהתנדב עם ברכו יהוה׃"
+    },
+    {
+      "uid": "Judges_117",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 8907,
+      "end_char": 8972,
+      "length": 66,
+      "text": "שמעו מלכים האזינו רזניםאנכי ליהוה אנכי אשירהאזמר ליהוה אלהי ישראל׃"
+    },
+    {
+      "uid": "Judges_118",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 8973,
+      "end_char": 9041,
+      "length": 69,
+      "text": "יהוה בצאתך משעירבצעדך משדה אדוםארץ רעשה גם־שמים נטפוגם־עבים נטפו מים׃"
+    },
+    {
+      "uid": "Judges_119",
+      "chapter_number": 5,
+      "verse_number": 5,
+      "start_char": 9042,
+      "end_char": 9089,
+      "length": 48,
+      "text": "הרים נזלו מפני יהוהזה סיני מפני יהוה אלהי ישראל׃"
+    },
+    {
+      "uid": "Judges_120",
+      "chapter_number": 5,
+      "verse_number": 6,
+      "start_char": 9090,
+      "end_char": 9156,
+      "length": 67,
+      "text": "בימי שמגר בן־ענתבימי יעל חדלו ארחותוהלכי נתיבות ילכו ארחות עקלקלות׃"
+    },
+    {
+      "uid": "Judges_121",
+      "chapter_number": 5,
+      "verse_number": 7,
+      "start_char": 9157,
+      "end_char": 9209,
+      "length": 53,
+      "text": "חדלו פרזון בישראל חדלועד שקמתי דבורה שקמתי אם בישראל׃"
+    },
+    {
+      "uid": "Judges_122",
+      "chapter_number": 5,
+      "verse_number": 8,
+      "start_char": 9210,
+      "end_char": 9273,
+      "length": 64,
+      "text": "יבחר אלהים חדשים אז לחם שעריםמגן אם־יראה ורמחבארבעים אלף בישראל׃"
+    },
+    {
+      "uid": "Judges_123",
+      "chapter_number": 5,
+      "verse_number": 9,
+      "start_char": 9274,
+      "end_char": 9312,
+      "length": 39,
+      "text": "לבי לחוקקי ישראלהמתנדבים בעם ברכו יהוה׃"
+    },
+    {
+      "uid": "Judges_124",
+      "chapter_number": 5,
+      "verse_number": 10,
+      "start_char": 9313,
+      "end_char": 9359,
+      "length": 47,
+      "text": "רכבי אתנות צחרותישבי על־מדין והלכי על־דרך שיחו׃"
+    },
+    {
+      "uid": "Judges_125",
+      "chapter_number": 5,
+      "verse_number": 11,
+      "start_char": 9360,
+      "end_char": 9440,
+      "length": 81,
+      "text": "מקול מחצצים בין משאביםשם יתנו צדקות יהוהצדקת פרזונו בישראלאז ירדו לשערים עם־יהוה׃"
+    },
+    {
+      "uid": "Judges_126",
+      "chapter_number": 5,
+      "verse_number": 12,
+      "start_char": 9441,
+      "end_char": 9501,
+      "length": 61,
+      "text": "עורי עורי דבורהעורי עורי דברי־שירקום ברק ושבה שביך בן־אבינעם׃"
+    },
+    {
+      "uid": "Judges_127",
+      "chapter_number": 5,
+      "verse_number": 13,
+      "start_char": 9502,
+      "end_char": 9543,
+      "length": 42,
+      "text": "אז ירד שריד לאדירים עםיהוה ירד־לי בגבורים׃"
+    },
+    {
+      "uid": "Judges_128",
+      "chapter_number": 5,
+      "verse_number": 14,
+      "start_char": 9544,
+      "end_char": 9625,
+      "length": 82,
+      "text": "מני אפרים שרשם בעמלקאחריך בנימין בעממיךמני מכיר ירדו מחקקיםומזבולן משכים בשבט ספר׃"
+    },
+    {
+      "uid": "Judges_129",
+      "chapter_number": 5,
+      "verse_number": 15,
+      "start_char": 9626,
+      "end_char": 9700,
+      "length": 75,
+      "text": "ושרי ביששכר עם־דברהויששכר כן ברק בעמק שלח ברגליובפלגות ראובן גדלים חקקי־לב׃"
+    },
+    {
+      "uid": "Judges_130",
+      "chapter_number": 5,
+      "verse_number": 16,
+      "start_char": 9701,
+      "end_char": 9764,
+      "length": 64,
+      "text": "למה ישבת בין המשפתיםלשמע שרקות עדריםלפלגות ראובן גדולים חקרי־לב׃"
+    },
+    {
+      "uid": "Judges_131",
+      "chapter_number": 5,
+      "verse_number": 17,
+      "start_char": 9765,
+      "end_char": 9835,
+      "length": 71,
+      "text": "גלעד בעבר הירדן שכןודן למה יגור אניותאשר ישב לחוף ימיםועל מפרציו ישכון׃"
+    },
+    {
+      "uid": "Judges_132",
+      "chapter_number": 5,
+      "verse_number": 18,
+      "start_char": 9836,
+      "end_char": 9877,
+      "length": 42,
+      "text": "זבלון עם חרף נפשולמות ונפתלי על מרומי שדה׃"
+    },
+    {
+      "uid": "Judges_133",
+      "chapter_number": 5,
+      "verse_number": 19,
+      "start_char": 9878,
+      "end_char": 9942,
+      "length": 65,
+      "text": "באו מלכים נלחמואז נלחמו מלכי כנעןבתענך על־מי מגדובצע כסף לא לקחו׃"
+    },
+    {
+      "uid": "Judges_134",
+      "chapter_number": 5,
+      "verse_number": 20,
+      "start_char": 9943,
+      "end_char": 9986,
+      "length": 44,
+      "text": "מן־שמים נלחמוהכוכבים ממסלותם נלחמו עם־סיסרא׃"
+    },
+    {
+      "uid": "Judges_135",
+      "chapter_number": 5,
+      "verse_number": 21,
+      "start_char": 9987,
+      "end_char": 10034,
+      "length": 48,
+      "text": "נחל קישון גרפםנחל קדומים נחל קישוןתדרכי נפשי עז׃"
+    },
+    {
+      "uid": "Judges_136",
+      "chapter_number": 5,
+      "verse_number": 22,
+      "start_char": 10035,
+      "end_char": 10070,
+      "length": 36,
+      "text": "אז הלמו עקבי־סוסמדהרות דהרות אביריו׃"
+    },
+    {
+      "uid": "Judges_137",
+      "chapter_number": 5,
+      "verse_number": 23,
+      "start_char": 10071,
+      "end_char": 10147,
+      "length": 77,
+      "text": "אורו מרוז אמר מלאך יהוה ארו ארור ישביהכי לא־באו לעזרת יהוהלעזרת יהוה בגבורים׃"
+    },
+    {
+      "uid": "Judges_138",
+      "chapter_number": 5,
+      "verse_number": 24,
+      "start_char": 10148,
+      "end_char": 10191,
+      "length": 44,
+      "text": "תברך מנשים יעל אשת חבר הקינימנשים באהל תברך׃"
+    },
+    {
+      "uid": "Judges_139",
+      "chapter_number": 5,
+      "verse_number": 25,
+      "start_char": 10192,
+      "end_char": 10231,
+      "length": 40,
+      "text": "מים שאל חלב נתנהבספל אדירים הקריבה חמאה׃"
+    },
+    {
+      "uid": "Judges_140",
+      "chapter_number": 5,
+      "verse_number": 26,
+      "start_char": 10232,
+      "end_char": 10303,
+      "length": 72,
+      "text": "ידה ליתד תשלחנהוימינה להלמות עמליםוהלמה סיסרא מחקה ראשוומחצה וחלפה רקתו׃"
+    },
+    {
+      "uid": "Judges_141",
+      "chapter_number": 5,
+      "verse_number": 27,
+      "start_char": 10304,
+      "end_char": 10362,
+      "length": 59,
+      "text": "בין רגליה כרע נפל שכבבין רגליה כרע נפלבאשר כרע שם נפל שדוד׃"
+    },
+    {
+      "uid": "Judges_142",
+      "chapter_number": 5,
+      "verse_number": 28,
+      "start_char": 10363,
+      "end_char": 10444,
+      "length": 82,
+      "text": "בעד החלון נשקפה ותיבב אם סיסרא בעד האשנבמדוע בשש רכבו לבואמדוע אחרו פעמי מרכבותיו׃"
+    },
+    {
+      "uid": "Judges_143",
+      "chapter_number": 5,
+      "verse_number": 29,
+      "start_char": 10445,
+      "end_char": 10484,
+      "length": 40,
+      "text": "חכמות שרותיה תענינהאף־היא תשיב אמריה לה׃"
+    },
+    {
+      "uid": "Judges_144",
+      "chapter_number": 5,
+      "verse_number": 30,
+      "start_char": 10485,
+      "end_char": 10574,
+      "length": 90,
+      "text": "הלא ימצאו יחלקו שללרחם רחמתים לראש גברשלל צבעים לסיסראשלל צבעים רקמהצבע רקמתים לצוארי שלל׃"
+    },
+    {
+      "uid": "Judges_145",
+      "chapter_number": 5,
+      "verse_number": 31,
+      "start_char": 10575,
+      "end_char": 10643,
+      "length": 69,
+      "text": "כן יאבדו כל־אויביך יהוה ואהביו כצאת השמש בגברתוותשקט הארץ ארבעים שנה׃"
+    },
+    {
+      "uid": "Judges_146",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 10644,
+      "end_char": 10703,
+      "length": 60,
+      "text": "ויעשו בני־ישראל הרע בעיני יהוה ויתנם יהוה ביד־מדין שבע שנים׃"
+    },
+    {
+      "uid": "Judges_147",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 10704,
+      "end_char": 10797,
+      "length": 94,
+      "text": "ותעז יד־מדין על־ישראל מפני מדין עשו להם׀ בני ישראל את־המנהרות אשר בהרים ואת־המערות ואת־המצדות׃"
+    },
+    {
+      "uid": "Judges_148",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 10798,
+      "end_char": 10850,
+      "length": 53,
+      "text": "והיה אם־זרע ישראל ועלה מדין ועמלק ובני־קדם ועלו עליו׃"
+    },
+    {
+      "uid": "Judges_149",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 10851,
+      "end_char": 10933,
+      "length": 83,
+      "text": "ויחנו עליהם וישחיתו את־יבול הארץ עד־בואך עזה ולא־ישאירו מחיה בישראל ושה ושור וחמור׃"
+    },
+    {
+      "uid": "Judges_150",
+      "chapter_number": 6,
+      "verse_number": 5,
+      "start_char": 10934,
+      "end_char": 11027,
+      "length": 94,
+      "text": "כי הם ומקניהם יעלו ואהליהם (יבאו) [ובאו] כדי־ארבה לרב ולהם ולגמליהם אין מספר ויבאו בארץ לשחתה׃"
+    },
+    {
+      "uid": "Judges_151",
+      "chapter_number": 6,
+      "verse_number": 6,
+      "start_char": 11028,
+      "end_char": 11077,
+      "length": 50,
+      "text": "וידל ישראל מאד מפני מדין ויזעקו בני־ישראל אל־יהוה׃"
+    },
+    {
+      "uid": "Judges_152",
+      "chapter_number": 6,
+      "verse_number": 7,
+      "start_char": 11078,
+      "end_char": 11121,
+      "length": 44,
+      "text": "ויהי כי־זעקו בני־ישראל אל־יהוה על אדות מדין׃"
+    },
+    {
+      "uid": "Judges_153",
+      "chapter_number": 6,
+      "verse_number": 8,
+      "start_char": 11122,
+      "end_char": 11234,
+      "length": 113,
+      "text": "וישלח יהוה איש נביא אל־בני ישראל ויאמר להם כה־אמר יהוה׀ אלהי ישראל אנכי העליתי אתכם ממצרים ואציא אתכם מבית עבדים׃"
+    },
+    {
+      "uid": "Judges_154",
+      "chapter_number": 6,
+      "verse_number": 9,
+      "start_char": 11235,
+      "end_char": 11305,
+      "length": 71,
+      "text": "ואצל אתכם מיד מצרים ומיד כל־לחציכם ואגרש אותם מפניכם ואתנה לכם את־ארצם׃"
+    },
+    {
+      "uid": "Judges_155",
+      "chapter_number": 6,
+      "verse_number": 10,
+      "start_char": 11306,
+      "end_char": 11391,
+      "length": 86,
+      "text": "ואמרה לכם אני יהוה אלהיכם לא תיראו את־אלהי האמרי אשר אתם יושבים בארצם ולא שמעתם בקולי׃"
+    },
+    {
+      "uid": "Judges_156",
+      "chapter_number": 6,
+      "verse_number": 11,
+      "start_char": 11392,
+      "end_char": 11490,
+      "length": 99,
+      "text": "ויבא מלאך יהוה וישב תחת האלה אשר בעפרה אשר ליואש אבי העזרי וגדעון בנו חבט חטים בגת להניס מפני מדין׃"
+    },
+    {
+      "uid": "Judges_157",
+      "chapter_number": 6,
+      "verse_number": 12,
+      "start_char": 11491,
+      "end_char": 11540,
+      "length": 50,
+      "text": "וירא אליו מלאך יהוה ויאמר אליו יהוה עמך גבור החיל׃"
+    },
+    {
+      "uid": "Judges_158",
+      "chapter_number": 6,
+      "verse_number": 13,
+      "start_char": 11541,
+      "end_char": 11694,
+      "length": 154,
+      "text": "ויאמר אליו גדעון בי אדני ויש יהוה עמנו ולמה מצאתנו כל־זאת ואיה כל־נפלאתיו אשר ספרו־לנו אבותינו לאמר הלא ממצרים העלנו יהוה ועתה נטשנו יהוה ויתננו בכף־מדין׃"
+    },
+    {
+      "uid": "Judges_159",
+      "chapter_number": 6,
+      "verse_number": 14,
+      "start_char": 11695,
+      "end_char": 11762,
+      "length": 68,
+      "text": "ויפן אליו יהוה ויאמר לך בכחך זה והושעת את־ישראל מכף מדין הלא שלחתיך׃"
+    },
+    {
+      "uid": "Judges_160",
+      "chapter_number": 6,
+      "verse_number": 15,
+      "start_char": 11763,
+      "end_char": 11840,
+      "length": 78,
+      "text": "ויאמר אליו בי אדני במה אושיע את־ישראל הנה אלפי הדל במנשה ואנכי הצעיר בבית אבי׃"
+    },
+    {
+      "uid": "Judges_161",
+      "chapter_number": 6,
+      "verse_number": 16,
+      "start_char": 11841,
+      "end_char": 11891,
+      "length": 51,
+      "text": "ויאמר אליו יהוה כי אהיה עמך והכית את־מדין כאיש אחד׃"
+    },
+    {
+      "uid": "Judges_162",
+      "chapter_number": 6,
+      "verse_number": 17,
+      "start_char": 11892,
+      "end_char": 11951,
+      "length": 60,
+      "text": "ויאמר אליו אם־נא מצאתי חן בעיניך ועשית לי אות שאתה מדבר עמי׃"
+    },
+    {
+      "uid": "Judges_163",
+      "chapter_number": 6,
+      "verse_number": 18,
+      "start_char": 11952,
+      "end_char": 12029,
+      "length": 78,
+      "text": "אל־נא תמש מזה עד־באי אליך והצאתי את־מנחתי והנחתי לפניך ויאמר אנכי אשב עד שובך׃"
+    },
+    {
+      "uid": "Judges_164",
+      "chapter_number": 6,
+      "verse_number": 19,
+      "start_char": 12030,
+      "end_char": 12123,
+      "length": 94,
+      "text": "וגדעון בא ויעש גדי־עזים ואיפת־קמח מצות הבשר שם בסל והמרק שם בפרור ויוצא אליו אל־תחת האלה ויגש׃"
+    },
+    {
+      "uid": "Judges_165",
+      "chapter_number": 6,
+      "verse_number": 20,
+      "start_char": 12124,
+      "end_char": 12206,
+      "length": 83,
+      "text": "ויאמר אליו מלאך האלהים קח את־הבשר ואת־המצות והנח אל־הסלע הלז ואת־המרק שפוך ויעש כן׃"
+    },
+    {
+      "uid": "Judges_166",
+      "chapter_number": 6,
+      "verse_number": 21,
+      "start_char": 12207,
+      "end_char": 12325,
+      "length": 119,
+      "text": "וישלח מלאך יהוה את־קצה המשענת אשר בידו ויגע בבשר ובמצות ותעל האש מן־הצור ותאכל את־הבשר ואת־המצות ומלאך יהוה הלך מעיניו׃"
+    },
+    {
+      "uid": "Judges_167",
+      "chapter_number": 6,
+      "verse_number": 22,
+      "start_char": 12326,
+      "end_char": 12417,
+      "length": 92,
+      "text": "וירא גדעון כי־מלאך יהוה הוא ויאמר גדעון אהה אדני יהוה כי־על־כן ראיתי מלאך יהוה פנים אל־פנים׃"
+    },
+    {
+      "uid": "Judges_168",
+      "chapter_number": 6,
+      "verse_number": 23,
+      "start_char": 12418,
+      "end_char": 12455,
+      "length": 38,
+      "text": "ויאמר לו יהוה שלום לך אל־תירא לא תמות׃"
+    },
+    {
+      "uid": "Judges_169",
+      "chapter_number": 6,
+      "verse_number": 24,
+      "start_char": 12456,
+      "end_char": 12533,
+      "length": 78,
+      "text": "ויבן שם גדעון מזבח ליהוה ויקרא־לו יהוה שלום עד היום הזה עודנו בעפרת אבי העזרי׃"
+    },
+    {
+      "uid": "Judges_170",
+      "chapter_number": 6,
+      "verse_number": 25,
+      "start_char": 12534,
+      "end_char": 12658,
+      "length": 125,
+      "text": "ויהי בלילה ההוא ויאמר לו יהוה קח את־פר־השור אשר לאביך ופר השני שבע שנים והרסת את־מזבח הבעל אשר לאביך ואת־האשרה אשר־עליו תכרת׃"
+    },
+    {
+      "uid": "Judges_171",
+      "chapter_number": 6,
+      "verse_number": 26,
+      "start_char": 12659,
+      "end_char": 12755,
+      "length": 97,
+      "text": "ובנית מזבח ליהוה אלהיך על ראש המעוז הזה במערכה ולקחת את־הפר השני והעלית עולה בעצי האשרה אשר תכרת׃"
+    },
+    {
+      "uid": "Judges_172",
+      "chapter_number": 6,
+      "verse_number": 27,
+      "start_char": 12756,
+      "end_char": 12869,
+      "length": 114,
+      "text": "ויקח גדעון עשרה אנשים מעבדיו ויעש כאשר דבר אליו יהוה ויהי כאשר ירא את־בית אביו ואת־אנשי העיר מעשות יומם ויעש לילה׃"
+    },
+    {
+      "uid": "Judges_173",
+      "chapter_number": 6,
+      "verse_number": 28,
+      "start_char": 12870,
+      "end_char": 12965,
+      "length": 96,
+      "text": "וישכימו אנשי העיר בבקר והנה נתץ מזבח הבעל והאשרה אשר־עליו כרתה ואת הפר השני העלה על־המזבח הבנוי׃"
+    },
+    {
+      "uid": "Judges_174",
+      "chapter_number": 6,
+      "verse_number": 29,
+      "start_char": 12966,
+      "end_char": 13048,
+      "length": 83,
+      "text": "ויאמרו איש אל־רעהו מי עשה הדבר הזה וידרשו ויבקשו ויאמרו גדעון בן־יואש עשה הדבר הזה׃"
+    },
+    {
+      "uid": "Judges_175",
+      "chapter_number": 6,
+      "verse_number": 30,
+      "start_char": 13049,
+      "end_char": 13133,
+      "length": 85,
+      "text": "ויאמרו אנשי העיר אל־יואש הוצא את־בנך וימת כי נתץ את־מזבח הבעל וכי כרת האשרה אשר־עליו׃"
+    },
+    {
+      "uid": "Judges_176",
+      "chapter_number": 6,
+      "verse_number": 31,
+      "start_char": 13134,
+      "end_char": 13261,
+      "length": 128,
+      "text": "ויאמר יואש לכל אשר־עמדו עליו האתם׀ תריבון לבעל אם־אתם תושיעון אותו אשר יריב לו יומת עד־הבקר אם־אלהים הוא ירב לו כי נתץ את־מזבחו׃"
+    },
+    {
+      "uid": "Judges_177",
+      "chapter_number": 6,
+      "verse_number": 32,
+      "start_char": 13262,
+      "end_char": 13319,
+      "length": 58,
+      "text": "ויקרא־לו ביום־ההוא ירבעל לאמר ירב בו הבעל כי נתץ את־מזבחו׃"
+    },
+    {
+      "uid": "Judges_178",
+      "chapter_number": 6,
+      "verse_number": 33,
+      "start_char": 13320,
+      "end_char": 13379,
+      "length": 60,
+      "text": "וכל־מדין ועמלק ובני־קדם נאספו יחדו ויעברו ויחנו בעמק יזרעאל׃"
+    },
+    {
+      "uid": "Judges_179",
+      "chapter_number": 6,
+      "verse_number": 34,
+      "start_char": 13380,
+      "end_char": 13434,
+      "length": 55,
+      "text": "ורוח יהוה לבשה את־גדעון ויתקע בשופר ויזעק אביעזר אחריו׃"
+    },
+    {
+      "uid": "Judges_180",
+      "chapter_number": 6,
+      "verse_number": 35,
+      "start_char": 13435,
+      "end_char": 13520,
+      "length": 86,
+      "text": "ומלאכים שלח בכל־מנשה ויזעק גם־הוא אחריו ומלאכים שלח באשר ובזבלון ובנפתלי ויעלו לקראתם׃"
+    },
+    {
+      "uid": "Judges_181",
+      "chapter_number": 6,
+      "verse_number": 36,
+      "start_char": 13521,
+      "end_char": 13579,
+      "length": 59,
+      "text": "ויאמר גדעון אל־האלהים אם־ישך מושיע בידי את־ישראל כאשר דברת׃"
+    },
+    {
+      "uid": "Judges_182",
+      "chapter_number": 6,
+      "verse_number": 37,
+      "start_char": 13580,
+      "end_char": 13690,
+      "length": 111,
+      "text": "הנה אנכי מציג את־גזת הצמר בגרן אם טל יהיה על־הגזה לבדה ועל־כל־הארץ חרב וידעתי כי־תושיע בידי את־ישראל כאשר דברת׃"
+    },
+    {
+      "uid": "Judges_183",
+      "chapter_number": 6,
+      "verse_number": 38,
+      "start_char": 13691,
+      "end_char": 13753,
+      "length": 63,
+      "text": "ויהי־כן וישכם ממחרת ויזר את־הגזה וימץ טל מן־הגזה מלוא הספל מים׃"
+    },
+    {
+      "uid": "Judges_184",
+      "chapter_number": 6,
+      "verse_number": 39,
+      "start_char": 13754,
+      "end_char": 13869,
+      "length": 116,
+      "text": "ויאמר גדעון אל־האלהים אל־יחר אפך בי ואדברה אך הפעם אנסה נא־רק־הפעם בגזה יהי־נא חרב אל־הגזה לבדה ועל־כל־הארץ יהיה־טל׃"
+    },
+    {
+      "uid": "Judges_185",
+      "chapter_number": 6,
+      "verse_number": 40,
+      "start_char": 13870,
+      "end_char": 13935,
+      "length": 66,
+      "text": "ויעש אלהים כן בלילה ההוא ויהי־חרב אל־הגזה לבדה ועל־כל־הארץ היה טל׃"
+    },
+    {
+      "uid": "Judges_186",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 13936,
+      "end_char": 14031,
+      "length": 96,
+      "text": "וישכם ירבעל הוא גדעון וכל־העם אשר אתו ויחנו על־עין חרד ומחנה מדין היה־לו מצפון מגבעת המורה בעמק׃"
+    },
+    {
+      "uid": "Judges_187",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 14032,
+      "end_char": 14122,
+      "length": 91,
+      "text": "ויאמר יהוה אל־גדעון רב העם אשר אתך מתתי את־מדין בידם פן־יתפאר עלי ישראל לאמר ידי הושיעה לי׃"
+    },
+    {
+      "uid": "Judges_188",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 14123,
+      "end_char": 14227,
+      "length": 105,
+      "text": "ועתה קרא נא באזני העם לאמר מי־ירא וחרד ישב ויצפר מהר הגלעד וישב מן־העם עשרים ושנים אלף ועשרת אלפים נשארו׃"
+    },
+    {
+      "uid": "Judges_189",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 14228,
+      "end_char": 14374,
+      "length": 147,
+      "text": "ויאמר יהוה אל־גדעון עוד העם רב הורד אותם אל־המים ואצרפנו לך שם והיה אשר אמר אליך זה׀ ילך אתך הוא ילך אתך וכל אשר־אמר אליך זה לא־ילך עמך הוא לא ילך׃"
+    },
+    {
+      "uid": "Judges_190",
+      "chapter_number": 7,
+      "verse_number": 5,
+      "start_char": 14375,
+      "end_char": 14497,
+      "length": 123,
+      "text": "ויורד את־העם אל־המים ויאמר יהוה אל־גדעון כל אשר־ילק בלשונו מן־המים כאשר ילק הכלב תציג אותו לבד וכל אשר־יכרע על־ברכיו לשתות׃"
+    },
+    {
+      "uid": "Judges_191",
+      "chapter_number": 7,
+      "verse_number": 6,
+      "start_char": 14498,
+      "end_char": 14578,
+      "length": 81,
+      "text": "ויהי מספר המלקקים בידם אל־פיהם שלש מאות איש וכל יתר העם כרעו על־ברכיהם לשתות מים׃"
+    },
+    {
+      "uid": "Judges_192",
+      "chapter_number": 7,
+      "verse_number": 7,
+      "start_char": 14579,
+      "end_char": 14674,
+      "length": 96,
+      "text": "ויאמר יהוה אל־גדעון בשלש מאות האיש המלקקים אושיע אתכם ונתתי את־מדין בידך וכל־העם ילכו איש למקמו׃"
+    },
+    {
+      "uid": "Judges_193",
+      "chapter_number": 7,
+      "verse_number": 8,
+      "start_char": 14675,
+      "end_char": 14791,
+      "length": 117,
+      "text": "ויקחו את־צדה העם בידם ואת שופרתיהם ואת כל־איש ישראל שלח איש לאהליו ובשלש־מאות האיש החזיק ומחנה מדין היה לו מתחת בעמק׃"
+    },
+    {
+      "uid": "Judges_194",
+      "chapter_number": 7,
+      "verse_number": 9,
+      "start_char": 14792,
+      "end_char": 14850,
+      "length": 59,
+      "text": "ויהי בלילה ההוא ויאמר אליו יהוה קום רד במחנה כי נתתיו בידך׃"
+    },
+    {
+      "uid": "Judges_195",
+      "chapter_number": 7,
+      "verse_number": 10,
+      "start_char": 14851,
+      "end_char": 14893,
+      "length": 43,
+      "text": "ואם־ירא אתה לרדת רד אתה ופרה נערך אל־המחנה׃"
+    },
+    {
+      "uid": "Judges_196",
+      "chapter_number": 7,
+      "verse_number": 11,
+      "start_char": 14894,
+      "end_char": 14980,
+      "length": 87,
+      "text": "ושמעת מה־ידברו ואחר תחזקנה ידיך וירדת במחנה וירד הוא ופרה נערו אל־קצה החמשים אשר במחנה׃"
+    },
+    {
+      "uid": "Judges_197",
+      "chapter_number": 7,
+      "verse_number": 12,
+      "start_char": 14981,
+      "end_char": 15064,
+      "length": 84,
+      "text": "ומדין ועמלק וכל־בני־קדם נפלים בעמק כארבה לרב ולגמליהם אין מספר כחול שעל־שפת הים לרב׃"
+    },
+    {
+      "uid": "Judges_198",
+      "chapter_number": 7,
+      "verse_number": 13,
+      "start_char": 15065,
+      "end_char": 15206,
+      "length": 142,
+      "text": "ויבא גדעון והנה־איש מספר לרעהו חלום ויאמר הנה חלום חלמתי והנה צליל לחם שערים מתהפך במחנה מדין ויבא עד־האהל ויכהו ויפל ויהפכהו למעלה ונפל האהל׃"
+    },
+    {
+      "uid": "Judges_199",
+      "chapter_number": 7,
+      "verse_number": 14,
+      "start_char": 15207,
+      "end_char": 15303,
+      "length": 97,
+      "text": "ויען רעהו ויאמר אין זאת בלתי אם־חרב גדעון בן־יואש איש ישראל נתן האלהים בידו את־מדין ואת־כל־המחנה׃"
+    },
+    {
+      "uid": "Judges_200",
+      "chapter_number": 7,
+      "verse_number": 15,
+      "start_char": 15304,
+      "end_char": 15410,
+      "length": 107,
+      "text": "ויהי כשמע גדעון את־מספר החלום ואת־שברו וישתחו וישב אל־מחנה ישראל ויאמר קומו כי־נתן יהוה בידכם את־מחנה מדין׃"
+    },
+    {
+      "uid": "Judges_201",
+      "chapter_number": 7,
+      "verse_number": 16,
+      "start_char": 15411,
+      "end_char": 15493,
+      "length": 83,
+      "text": "ויחץ את־שלש־מאות האיש שלשה ראשים ויתן שופרות ביד־כלם וכדים ריקים ולפדים בתוך הכדים׃"
+    },
+    {
+      "uid": "Judges_202",
+      "chapter_number": 7,
+      "verse_number": 17,
+      "start_char": 15494,
+      "end_char": 15572,
+      "length": 79,
+      "text": "ויאמר אליהם ממני תראו וכן תעשו והנה אנכי בא בקצה המחנה והיה כאשר־אעשה כן תעשון׃"
+    },
+    {
+      "uid": "Judges_203",
+      "chapter_number": 7,
+      "verse_number": 18,
+      "start_char": 15573,
+      "end_char": 15661,
+      "length": 89,
+      "text": "ותקעתי בשופר אנכי וכל־אשר אתי ותקעתם בשופרות גם־אתם סביבות כל־המחנה ואמרתם ליהוה ולגדעון׃"
+    },
+    {
+      "uid": "Judges_204",
+      "chapter_number": 7,
+      "verse_number": 19,
+      "start_char": 15662,
+      "end_char": 15778,
+      "length": 117,
+      "text": "ויבא גדעון ומאה־איש אשר־אתו בקצה המחנה ראש האשמרת התיכונה אך הקם הקימו את־השמרים ויתקעו בשופרות ונפוץ הכדים אשר בידם׃"
+    },
+    {
+      "uid": "Judges_205",
+      "chapter_number": 7,
+      "verse_number": 20,
+      "start_char": 15779,
+      "end_char": 15894,
+      "length": 116,
+      "text": "ויתקעו שלשת הראשים בשופרות וישברו הכדים ויחזיקו ביד־שמאולם בלפדים וביד־ימינם השופרות לתקוע ויקראו חרב ליהוה ולגדעון׃"
+    },
+    {
+      "uid": "Judges_206",
+      "chapter_number": 7,
+      "verse_number": 21,
+      "start_char": 15895,
+      "end_char": 15961,
+      "length": 67,
+      "text": "ויעמדו איש תחתיו סביב למחנה וירץ כל־המחנה ויריעו (ויניסו) [וינוסו]׃"
+    },
+    {
+      "uid": "Judges_207",
+      "chapter_number": 7,
+      "verse_number": 22,
+      "start_char": 15962,
+      "end_char": 16076,
+      "length": 115,
+      "text": "ויתקעו שלש־מאות השופרות וישם יהוה את חרב איש ברעהו ובכל־המחנה וינס המחנה עד־בית השטה צררתה עד שפת־אבל מחולה על־טבת׃"
+    },
+    {
+      "uid": "Judges_208",
+      "chapter_number": 7,
+      "verse_number": 23,
+      "start_char": 16077,
+      "end_char": 16136,
+      "length": 60,
+      "text": "ויצעק איש־ישראל מנפתלי ומן־אשר ומן־כל־מנשה וירדפו אחרי מדין׃"
+    },
+    {
+      "uid": "Judges_209",
+      "chapter_number": 7,
+      "verse_number": 24,
+      "start_char": 16137,
+      "end_char": 16281,
+      "length": 145,
+      "text": "ומלאכים שלח גדעון בכל־הר אפרים לאמר רדו לקראת מדין ולכדו להם את־המים עד בית ברה ואת־הירדן ויצעק כל־איש אפרים וילכדו את־המים עד בית ברה ואת־הירדן׃"
+    },
+    {
+      "uid": "Judges_210",
+      "chapter_number": 7,
+      "verse_number": 25,
+      "start_char": 16282,
+      "end_char": 16418,
+      "length": 137,
+      "text": "וילכדו שני־שרי מדין את־ערב ואת־זאב ויהרגו את־עורב בצור־עורב ואת־זאב הרגו ביקב־זאב וירדפו אל־מדין וראש־ערב וזאב הביאו אל־גדעון מעבר לירדן׃"
+    },
+    {
+      "uid": "Judges_211",
+      "chapter_number": 8,
+      "verse_number": 1,
+      "start_char": 16419,
+      "end_char": 16515,
+      "length": 97,
+      "text": "ויאמרו אליו איש אפרים מה־הדבר הזה עשית לנו לבלתי קראות לנו כי הלכת להלחם במדין ויריבון אתו בחזקה׃"
+    },
+    {
+      "uid": "Judges_212",
+      "chapter_number": 8,
+      "verse_number": 2,
+      "start_char": 16516,
+      "end_char": 16577,
+      "length": 62,
+      "text": "ויאמר אליהם מה־עשיתי עתה ככם הלא טוב עללות אפרים מבציר אביעזר׃"
+    },
+    {
+      "uid": "Judges_213",
+      "chapter_number": 8,
+      "verse_number": 3,
+      "start_char": 16578,
+      "end_char": 16673,
+      "length": 96,
+      "text": "בידכם נתן אלהים את־שרי מדין את־ערב ואת־זאב ומה־יכלתי עשות ככם אז רפתה רוחם מעליו בדברו הדבר הזה׃"
+    },
+    {
+      "uid": "Judges_214",
+      "chapter_number": 8,
+      "verse_number": 4,
+      "start_char": 16674,
+      "end_char": 16735,
+      "length": 62,
+      "text": "ויבא גדעון הירדנה עבר הוא ושלש־מאות האיש אשר אתו עיפים ורדפים׃"
+    },
+    {
+      "uid": "Judges_215",
+      "chapter_number": 8,
+      "verse_number": 5,
+      "start_char": 16736,
+      "end_char": 16831,
+      "length": 96,
+      "text": "ויאמר לאנשי סכות תנו־נא ככרות לחם לעם אשר ברגלי כי־עיפים הם ואנכי רדף אחרי זבח וצלמנע מלכי מדין׃"
+    },
+    {
+      "uid": "Judges_216",
+      "chapter_number": 8,
+      "verse_number": 6,
+      "start_char": 16832,
+      "end_char": 16887,
+      "length": 56,
+      "text": "ויאמר שרי סכות הכף זבח וצלמנע עתה בידך כי־נתן לצבאך לחם׃"
+    },
+    {
+      "uid": "Judges_217",
+      "chapter_number": 8,
+      "verse_number": 7,
+      "start_char": 16888,
+      "end_char": 16975,
+      "length": 88,
+      "text": "ויאמר גדעון לכן בתת יהוה את־זבח ואת־צלמנע בידי ודשתי את־בשרכם את־קוצי המדבר ואת־הברקנים׃"
+    },
+    {
+      "uid": "Judges_218",
+      "chapter_number": 8,
+      "verse_number": 8,
+      "start_char": 16976,
+      "end_char": 17048,
+      "length": 73,
+      "text": "ויעל משם פנואל וידבר אליהם כזאת ויענו אותו אנשי פנואל כאשר ענו אנשי סכות׃"
+    },
+    {
+      "uid": "Judges_219",
+      "chapter_number": 8,
+      "verse_number": 9,
+      "start_char": 17049,
+      "end_char": 17103,
+      "length": 55,
+      "text": "ויאמר גם־לאנשי פנואל לאמר בשובי בשלום אתץ את־המגדל הזה׃"
+    },
+    {
+      "uid": "Judges_220",
+      "chapter_number": 8,
+      "verse_number": 10,
+      "start_char": 17104,
+      "end_char": 17210,
+      "length": 107,
+      "text": "וזבח וצלמנע בקרקר ומחניהם עמם כחמשת עשר אלף כל הנותרים מכל מחנה בני־קדם והנפלים מאה ועשרים אלף איש שלף־חרב׃"
+    },
+    {
+      "uid": "Judges_221",
+      "chapter_number": 8,
+      "verse_number": 11,
+      "start_char": 17211,
+      "end_char": 17284,
+      "length": 74,
+      "text": "ויעל גדעון דרך השכוני באהלים מקדם לנבח ויגבהה ויך את־המחנה והמחנה היה בטח׃"
+    },
+    {
+      "uid": "Judges_222",
+      "chapter_number": 8,
+      "verse_number": 12,
+      "start_char": 17285,
+      "end_char": 17371,
+      "length": 87,
+      "text": "וינסו זבח וצלמנע וירדף אחריהם וילכד את־שני׀ מלכי מדין את־זבח ואת־צלמנע וכל־המחנה החריד׃"
+    },
+    {
+      "uid": "Judges_223",
+      "chapter_number": 8,
+      "verse_number": 13,
+      "start_char": 17372,
+      "end_char": 17412,
+      "length": 41,
+      "text": "וישב גדעון בן־יואש מן־המלחמה מלמעלה החרס׃"
+    },
+    {
+      "uid": "Judges_224",
+      "chapter_number": 8,
+      "verse_number": 14,
+      "start_char": 17413,
+      "end_char": 17490,
+      "length": 78,
+      "text": "וילכד־נער מאנשי סכות וישאלהו ויכתב אליו את־שרי סכות ואת־זקניה שבעים ושבעה איש׃"
+    },
+    {
+      "uid": "Judges_225",
+      "chapter_number": 8,
+      "verse_number": 15,
+      "start_char": 17491,
+      "end_char": 17598,
+      "length": 108,
+      "text": "ויבא אל־אנשי סכות ויאמר הנה זבח וצלמנע אשר חרפתם אותי לאמר הכף זבח וצלמנע עתה בידך כי נתן לאנשיך היעפים לחם׃"
+    },
+    {
+      "uid": "Judges_226",
+      "chapter_number": 8,
+      "verse_number": 16,
+      "start_char": 17599,
+      "end_char": 17665,
+      "length": 67,
+      "text": "ויקח את־זקני העיר ואת־קוצי המדבר ואת־הברקנים וידע בהם את אנשי סכות׃"
+    },
+    {
+      "uid": "Judges_227",
+      "chapter_number": 8,
+      "verse_number": 17,
+      "start_char": 17666,
+      "end_char": 17703,
+      "length": 38,
+      "text": "ואת־מגדל פנואל נתץ ויהרג את־אנשי העיר׃"
+    },
+    {
+      "uid": "Judges_228",
+      "chapter_number": 8,
+      "verse_number": 18,
+      "start_char": 17704,
+      "end_char": 17790,
+      "length": 87,
+      "text": "ויאמר אל־זבח ואל־צלמנע איפה האנשים אשר הרגתם בתבור ויאמרו כמוך כמוהם אחד כתאר בני המלך׃"
+    },
+    {
+      "uid": "Judges_229",
+      "chapter_number": 8,
+      "verse_number": 19,
+      "start_char": 17791,
+      "end_char": 17847,
+      "length": 57,
+      "text": "ויאמר אחי בני־אמי הם חי־יהוה לו החיתם אותם לא הרגתי אתכם׃"
+    },
+    {
+      "uid": "Judges_230",
+      "chapter_number": 8,
+      "verse_number": 20,
+      "start_char": 17848,
+      "end_char": 17915,
+      "length": 68,
+      "text": "ויאמר ליתר בכורו קום הרג אותם ולא־שלף הנער חרבו כי ירא כי עודנו נער׃"
+    },
+    {
+      "uid": "Judges_231",
+      "chapter_number": 8,
+      "verse_number": 21,
+      "start_char": 17916,
+      "end_char": 18032,
+      "length": 117,
+      "text": "ויאמר זבח וצלמנע קום אתה ופגע־בנו כי כאיש גבורתו ויקם גדעון ויהרג את־זבח ואת־צלמנע ויקח את־השהרנים אשר בצוארי גמליהם׃"
+    },
+    {
+      "uid": "Judges_232",
+      "chapter_number": 8,
+      "verse_number": 22,
+      "start_char": 18033,
+      "end_char": 18110,
+      "length": 78,
+      "text": "ויאמרו איש־ישראל אל־גדעון משל־בנו גם־אתה גם־בנך גם בן־בנך כי הושעתנו מיד מדין׃"
+    },
+    {
+      "uid": "Judges_233",
+      "chapter_number": 8,
+      "verse_number": 23,
+      "start_char": 18111,
+      "end_char": 18174,
+      "length": 64,
+      "text": "ויאמר אלהם גדעון לא־אמשל אני בכם ולא־ימשל בני בכם יהוה ימשל בכם׃"
+    },
+    {
+      "uid": "Judges_234",
+      "chapter_number": 8,
+      "verse_number": 24,
+      "start_char": 18175,
+      "end_char": 18258,
+      "length": 84,
+      "text": "ויאמר אלהם גדעון אשאלה מכם שאלה ותנו־לי איש נזם שללו כי־נזמי זהב להם כי ישמעאלים הם׃"
+    },
+    {
+      "uid": "Judges_235",
+      "chapter_number": 8,
+      "verse_number": 25,
+      "start_char": 18259,
+      "end_char": 18315,
+      "length": 57,
+      "text": "ויאמרו נתון נתן ויפרשו את־השמלה וישליכו שמה איש נזם שללו׃"
+    },
+    {
+      "uid": "Judges_236",
+      "chapter_number": 8,
+      "verse_number": 26,
+      "start_char": 18316,
+      "end_char": 18445,
+      "length": 130,
+      "text": "ויהי משקל נזמי הזהב אשר שאל אלף ושבע־מאות זהב לבד מן־השהרנים והנטיפות ובגדי הארגמן שעל מלכי מדין ולבד מן־הענקות אשר בצוארי גמליהם׃"
+    },
+    {
+      "uid": "Judges_237",
+      "chapter_number": 8,
+      "verse_number": 27,
+      "start_char": 18446,
+      "end_char": 18538,
+      "length": 93,
+      "text": "ויעש אותו גדעון לאפוד ויצג אותו בעירו בעפרה ויזנו כל־ישראל אחריו שם ויהי לגדעון ולביתו למוקש׃"
+    },
+    {
+      "uid": "Judges_238",
+      "chapter_number": 8,
+      "verse_number": 28,
+      "start_char": 18539,
+      "end_char": 18616,
+      "length": 78,
+      "text": "ויכנע מדין לפני בני ישראל ולא יספו לשאת ראשם ותשקט הארץ ארבעים שנה בימי גדעון׃"
+    },
+    {
+      "uid": "Judges_239",
+      "chapter_number": 8,
+      "verse_number": 29,
+      "start_char": 18617,
+      "end_char": 18646,
+      "length": 30,
+      "text": "וילך ירבעל בן־יואש וישב בביתו׃"
+    },
+    {
+      "uid": "Judges_240",
+      "chapter_number": 8,
+      "verse_number": 30,
+      "start_char": 18647,
+      "end_char": 18699,
+      "length": 53,
+      "text": "ולגדעון היו שבעים בנים יצאי ירכו כי־נשים רבות היו לו׃"
+    },
+    {
+      "uid": "Judges_241",
+      "chapter_number": 8,
+      "verse_number": 31,
+      "start_char": 18700,
+      "end_char": 18753,
+      "length": 54,
+      "text": "ופילגשו אשר בשכם ילדה־לו גם־היא בן וישם את־שמו אבימלך׃"
+    },
+    {
+      "uid": "Judges_242",
+      "chapter_number": 8,
+      "verse_number": 32,
+      "start_char": 18754,
+      "end_char": 18820,
+      "length": 67,
+      "text": "וימת גדעון בן־יואש בשיבה טובה ויקבר בקבר יואש אביו בעפרה אבי העזרי׃"
+    },
+    {
+      "uid": "Judges_243",
+      "chapter_number": 8,
+      "verse_number": 33,
+      "start_char": 18821,
+      "end_char": 18901,
+      "length": 81,
+      "text": "ויהי כאשר מת גדעון וישובו בני ישראל ויזנו אחרי הבעלים וישימו להם בעל ברית לאלהים׃"
+    },
+    {
+      "uid": "Judges_244",
+      "chapter_number": 8,
+      "verse_number": 34,
+      "start_char": 18902,
+      "end_char": 18966,
+      "length": 65,
+      "text": "ולא זכרו בני ישראל את־יהוה אלהיהם המציל אותם מיד כל־איביהם מסביב׃"
+    },
+    {
+      "uid": "Judges_245",
+      "chapter_number": 8,
+      "verse_number": 35,
+      "start_char": 18967,
+      "end_char": 19024,
+      "length": 58,
+      "text": "ולא־עשו חסד עם־בית ירבעל גדעון ככל־הטובה אשר עשה עם־ישראל׃"
+    },
+    {
+      "uid": "Judges_246",
+      "chapter_number": 9,
+      "verse_number": 1,
+      "start_char": 19025,
+      "end_char": 19103,
+      "length": 79,
+      "text": "וילך אבימלך בן־ירבעל שכמה אל־אחי אמו וידבר אליהם ואל־כל־משפחת בית־אבי אמו לאמר׃"
+    },
+    {
+      "uid": "Judges_247",
+      "chapter_number": 9,
+      "verse_number": 2,
+      "start_char": 19104,
+      "end_char": 19218,
+      "length": 115,
+      "text": "דברו־נא באזני כל־בעלי שכם מה־טוב לכם המשל בכם שבעים איש כל בני ירבעל אם־משל בכם איש אחד וזכרתם כי־עצמכם ובשרכם אני׃"
+    },
+    {
+      "uid": "Judges_248",
+      "chapter_number": 9,
+      "verse_number": 3,
+      "start_char": 19219,
+      "end_char": 19312,
+      "length": 94,
+      "text": "וידברו אחי־אמו עליו באזני כל־בעלי שכם את כל־הדברים האלה ויט לבם אחרי אבימלך כי אמרו אחינו הוא׃"
+    },
+    {
+      "uid": "Judges_249",
+      "chapter_number": 9,
+      "verse_number": 4,
+      "start_char": 19313,
+      "end_char": 19393,
+      "length": 81,
+      "text": "ויתנו־לו שבעים כסף מבית בעל ברית וישכר בהם אבימלך אנשים ריקים ופחזים וילכו אחריו׃"
+    },
+    {
+      "uid": "Judges_250",
+      "chapter_number": 9,
+      "verse_number": 5,
+      "start_char": 19394,
+      "end_char": 19491,
+      "length": 98,
+      "text": "ויבא בית־אביו עפרתה ויהרג את־אחיו בני־ירבעל שבעים איש על־אבן אחת ויותר יותם בן־ירבעל הקטן כי נחבא׃"
+    },
+    {
+      "uid": "Judges_251",
+      "chapter_number": 9,
+      "verse_number": 6,
+      "start_char": 19492,
+      "end_char": 19573,
+      "length": 82,
+      "text": "ויאספו כל־בעלי שכם וכל־בית מלוא וילכו וימליכו את־אבימלך למלך עם־אלון מצב אשר בשכם׃"
+    },
+    {
+      "uid": "Judges_252",
+      "chapter_number": 9,
+      "verse_number": 7,
+      "start_char": 19574,
+      "end_char": 19672,
+      "length": 99,
+      "text": "ויגדו ליותם וילך ויעמד בראש הר־גרזים וישא קולו ויקרא ויאמר להם שמעו אלי בעלי שכם וישמע אליכם אלהים׃"
+    },
+    {
+      "uid": "Judges_253",
+      "chapter_number": 9,
+      "verse_number": 8,
+      "start_char": 19673,
+      "end_char": 19736,
+      "length": 64,
+      "text": "הלוך הלכו העצים למשח עליהם מלך ויאמרו לזית (מלוכה) [מלכה] עלינו׃"
+    },
+    {
+      "uid": "Judges_254",
+      "chapter_number": 9,
+      "verse_number": 9,
+      "start_char": 19737,
+      "end_char": 19813,
+      "length": 77,
+      "text": "ויאמר להם הזית החדלתי את־דשני אשר־בי יכבדו אלהים ואנשים והלכתי לנוע על־העצים׃"
+    },
+    {
+      "uid": "Judges_255",
+      "chapter_number": 9,
+      "verse_number": 10,
+      "start_char": 19814,
+      "end_char": 19850,
+      "length": 37,
+      "text": "ויאמרו העצים לתאנה לכי־את מלכי עלינו׃"
+    },
+    {
+      "uid": "Judges_256",
+      "chapter_number": 9,
+      "verse_number": 11,
+      "start_char": 19851,
+      "end_char": 19919,
+      "length": 69,
+      "text": "ותאמר להם התאנה החדלתי את־מתקי ואת־תנובתי הטובה והלכתי לנוע על־העצים׃"
+    },
+    {
+      "uid": "Judges_257",
+      "chapter_number": 9,
+      "verse_number": 12,
+      "start_char": 19920,
+      "end_char": 19965,
+      "length": 46,
+      "text": "ויאמרו העצים לגפן לכי־את (מלוכי) [מלכי] עלינו׃"
+    },
+    {
+      "uid": "Judges_258",
+      "chapter_number": 9,
+      "verse_number": 13,
+      "start_char": 19966,
+      "end_char": 20037,
+      "length": 72,
+      "text": "ותאמר להם הגפן החדלתי את־תירושי המשמח אלהים ואנשים והלכתי לנוע על־העצים׃"
+    },
+    {
+      "uid": "Judges_259",
+      "chapter_number": 9,
+      "verse_number": 14,
+      "start_char": 20038,
+      "end_char": 20078,
+      "length": 41,
+      "text": "ויאמרו כל־העצים אל־האטד לך אתה מלך־עלינו׃"
+    },
+    {
+      "uid": "Judges_260",
+      "chapter_number": 9,
+      "verse_number": 15,
+      "start_char": 20079,
+      "end_char": 20188,
+      "length": 110,
+      "text": "ויאמר האטד אל־העצים אם באמת אתם משחים אתי למלך עליכם באו חסו בצלי ואם־אין תצא אש מן־האטד ותאכל את־ארזי הלבנון׃"
+    },
+    {
+      "uid": "Judges_261",
+      "chapter_number": 9,
+      "verse_number": 16,
+      "start_char": 20189,
+      "end_char": 20289,
+      "length": 101,
+      "text": "ועתה אם־באמת ובתמים עשיתם ותמליכו את־אבימלך ואם־טובה עשיתם עם־ירבעל ועם־ביתו ואם־כגמול ידיו עשיתם לו׃"
+    },
+    {
+      "uid": "Judges_262",
+      "chapter_number": 9,
+      "verse_number": 17,
+      "start_char": 20290,
+      "end_char": 20346,
+      "length": 57,
+      "text": "אשר־נלחם אבי עליכם וישלך את־נפשו מנגד ויצל אתכם מיד מדין׃"
+    },
+    {
+      "uid": "Judges_263",
+      "chapter_number": 9,
+      "verse_number": 18,
+      "start_char": 20347,
+      "end_char": 20459,
+      "length": 113,
+      "text": "ואתם קמתם על־בית אבי היום ותהרגו את־בניו שבעים איש על־אבן אחת ותמליכו את־אבימלך בן־אמתו על־בעלי שכם כי אחיכם הוא׃"
+    },
+    {
+      "uid": "Judges_264",
+      "chapter_number": 9,
+      "verse_number": 19,
+      "start_char": 20460,
+      "end_char": 20538,
+      "length": 79,
+      "text": "ואם־באמת ובתמים עשיתם עם־ירבעל ועם־ביתו היום הזה שמחו באבימלך וישמח גם־הוא בכם׃"
+    },
+    {
+      "uid": "Judges_265",
+      "chapter_number": 9,
+      "verse_number": 20,
+      "start_char": 20539,
+      "end_char": 20637,
+      "length": 99,
+      "text": "ואם־אין תצא אש מאבימלך ותאכל את־בעלי שכם ואת־בית מלוא ותצא אש מבעלי שכם ומבית מלוא ותאכל את־אבימלך׃"
+    },
+    {
+      "uid": "Judges_266",
+      "chapter_number": 9,
+      "verse_number": 21,
+      "start_char": 20638,
+      "end_char": 20688,
+      "length": 51,
+      "text": "וינס יותם ויברח וילך בארה וישב שם מפני אבימלך אחיו׃"
+    },
+    {
+      "uid": "Judges_267",
+      "chapter_number": 9,
+      "verse_number": 22,
+      "start_char": 20689,
+      "end_char": 20718,
+      "length": 30,
+      "text": "וישר אבימלך על־ישראל שלש שנים׃"
+    },
+    {
+      "uid": "Judges_268",
+      "chapter_number": 9,
+      "verse_number": 23,
+      "start_char": 20719,
+      "end_char": 20787,
+      "length": 69,
+      "text": "וישלח אלהים רוח רעה בין אבימלך ובין בעלי שכם ויבגדו בעלי־שכם באבימלך׃"
+    },
+    {
+      "uid": "Judges_269",
+      "chapter_number": 9,
+      "verse_number": 24,
+      "start_char": 20788,
+      "end_char": 20894,
+      "length": 107,
+      "text": "לבוא חמס שבעים בני־ירבעל ודמם לשום על־אבימלך אחיהם אשר הרג אותם ועל בעלי שכם אשר־חזקו את־ידיו להרג את־אחיו׃"
+    },
+    {
+      "uid": "Judges_270",
+      "chapter_number": 9,
+      "verse_number": 25,
+      "start_char": 20895,
+      "end_char": 20980,
+      "length": 86,
+      "text": "וישימו לו בעלי שכם מארבים על ראשי ההרים ויגזלו את כל־אשר־יעבר עליהם בדרך ויגד לאבימלך׃"
+    },
+    {
+      "uid": "Judges_271",
+      "chapter_number": 9,
+      "verse_number": 26,
+      "start_char": 20981,
+      "end_char": 21033,
+      "length": 53,
+      "text": "ויבא געל בן־עבד ואחיו ויעברו בשכם ויבטחו־בו בעלי שכם׃"
+    },
+    {
+      "uid": "Judges_272",
+      "chapter_number": 9,
+      "verse_number": 27,
+      "start_char": 21034,
+      "end_char": 21128,
+      "length": 95,
+      "text": "ויצאו השדה ויבצרו את־כרמיהם וידרכו ויעשו הלולים ויבאו בית אלהיהם ויאכלו וישתו ויקללו את־אבימלך׃"
+    },
+    {
+      "uid": "Judges_273",
+      "chapter_number": 9,
+      "verse_number": 28,
+      "start_char": 21129,
+      "end_char": 21243,
+      "length": 115,
+      "text": "ויאמר׀ געל בן־עבד מי־אבימלך ומי־שכם כי נעבדנו הלא בן־ירבעל וזבל פקידו עבדו את־אנשי חמור אבי שכם ומדוע נעבדנו אנחנו׃"
+    },
+    {
+      "uid": "Judges_274",
+      "chapter_number": 9,
+      "verse_number": 29,
+      "start_char": 21244,
+      "end_char": 21312,
+      "length": 69,
+      "text": "ומי יתן את־העם הזה בידי ואסירה את־אבימלך ויאמר לאבימלך רבה צבאך וצאה׃"
+    },
+    {
+      "uid": "Judges_275",
+      "chapter_number": 9,
+      "verse_number": 30,
+      "start_char": 21313,
+      "end_char": 21358,
+      "length": 46,
+      "text": "וישמע זבל שר־העיר את־דברי געל בן־עבד ויחר אפו׃"
+    },
+    {
+      "uid": "Judges_276",
+      "chapter_number": 9,
+      "verse_number": 31,
+      "start_char": 21359,
+      "end_char": 21446,
+      "length": 88,
+      "text": "וישלח מלאכים אל־אבימלך בתרמה לאמר הנה געל בן־עבד ואחיו באים שכמה והנם צרים את־העיר עליך׃"
+    },
+    {
+      "uid": "Judges_277",
+      "chapter_number": 9,
+      "verse_number": 32,
+      "start_char": 21447,
+      "end_char": 21487,
+      "length": 41,
+      "text": "ועתה קום לילה אתה והעם אשר־אתך וארב בשדה׃"
+    },
+    {
+      "uid": "Judges_278",
+      "chapter_number": 9,
+      "verse_number": 33,
+      "start_char": 21488,
+      "end_char": 21583,
+      "length": 96,
+      "text": "והיה בבקר כזרח השמש תשכים ופשטת על־העיר והנה־הוא והעם אשר־אתו יצאים אליך ועשית לו כאשר תמצא ידך׃"
+    },
+    {
+      "uid": "Judges_279",
+      "chapter_number": 9,
+      "verse_number": 34,
+      "start_char": 21584,
+      "end_char": 21642,
+      "length": 59,
+      "text": "ויקם אבימלך וכל־העם אשר־עמו לילה ויארבו על־שכם ארבעה ראשים׃"
+    },
+    {
+      "uid": "Judges_280",
+      "chapter_number": 9,
+      "verse_number": 35,
+      "start_char": 21643,
+      "end_char": 21711,
+      "length": 69,
+      "text": "ויצא געל בן־עבד ויעמד פתח שער העיר ויקם אבימלך והעם אשר־אתו מן־המארב׃"
+    },
+    {
+      "uid": "Judges_281",
+      "chapter_number": 9,
+      "verse_number": 36,
+      "start_char": 21712,
+      "end_char": 21806,
+      "length": 95,
+      "text": "וירא־געל את־העם ויאמר אל־זבל הנה־עם יורד מראשי ההרים ויאמר אליו זבל את צל ההרים אתה ראה כאנשים׃"
+    },
+    {
+      "uid": "Judges_282",
+      "chapter_number": 9,
+      "verse_number": 37,
+      "start_char": 21807,
+      "end_char": 21888,
+      "length": 82,
+      "text": "ויסף עוד געל לדבר ויאמר הנה־עם יורדים מעם טבור הארץ וראש־אחד בא מדרך אלון מעוננים׃"
+    },
+    {
+      "uid": "Judges_283",
+      "chapter_number": 9,
+      "verse_number": 38,
+      "start_char": 21889,
+      "end_char": 21988,
+      "length": 100,
+      "text": "ויאמר אליו זבל איה אפוא פיך אשר תאמר מי אבימלך כי נעבדנו הלא זה העם אשר מאסתה בו צא־נא עתה והלחם בו׃"
+    },
+    {
+      "uid": "Judges_284",
+      "chapter_number": 9,
+      "verse_number": 39,
+      "start_char": 21989,
+      "end_char": 22025,
+      "length": 37,
+      "text": "ויצא געל לפני בעלי שכם וילחם באבימלך׃"
+    },
+    {
+      "uid": "Judges_285",
+      "chapter_number": 9,
+      "verse_number": 40,
+      "start_char": 22026,
+      "end_char": 22080,
+      "length": 55,
+      "text": "וירדפהו אבימלך וינס מפניו ויפלו חללים רבים עד־פתח השער׃"
+    },
+    {
+      "uid": "Judges_286",
+      "chapter_number": 9,
+      "verse_number": 41,
+      "start_char": 22081,
+      "end_char": 22135,
+      "length": 55,
+      "text": "וישב אבימלך בארומה ויגרש זבל את־געל ואת־אחיו משבת בשכם׃"
+    },
+    {
+      "uid": "Judges_287",
+      "chapter_number": 9,
+      "verse_number": 42,
+      "start_char": 22136,
+      "end_char": 22174,
+      "length": 39,
+      "text": "ויהי ממחרת ויצא העם השדה ויגדו לאבימלך׃"
+    },
+    {
+      "uid": "Judges_288",
+      "chapter_number": 9,
+      "verse_number": 43,
+      "start_char": 22175,
+      "end_char": 22257,
+      "length": 83,
+      "text": "ויקח את־העם ויחצם לשלשה ראשים ויארב בשדה וירא והנה העם יצא מן־העיר ויקם עליהם ויכם׃"
+    },
+    {
+      "uid": "Judges_289",
+      "chapter_number": 9,
+      "verse_number": 44,
+      "start_char": 22258,
+      "end_char": 22344,
+      "length": 87,
+      "text": "ואבימלך והראשים אשר עמו פשטו ויעמדו פתח שער העיר ושני הראשים פשטו על־כל־אשר בשדה ויכום׃"
+    },
+    {
+      "uid": "Judges_290",
+      "chapter_number": 9,
+      "verse_number": 45,
+      "start_char": 22345,
+      "end_char": 22432,
+      "length": 88,
+      "text": "ואבימלך נלחם בעיר כל היום ההוא וילכד את־העיר ואת־העם אשר־בה הרג ויתץ את־העיר ויזרעה מלח׃"
+    },
+    {
+      "uid": "Judges_291",
+      "chapter_number": 9,
+      "verse_number": 46,
+      "start_char": 22433,
+      "end_char": 22482,
+      "length": 50,
+      "text": "וישמעו כל־בעלי מגדל־שכם ויבאו אל־צריח בית אל ברית׃"
+    },
+    {
+      "uid": "Judges_292",
+      "chapter_number": 9,
+      "verse_number": 47,
+      "start_char": 22483,
+      "end_char": 22522,
+      "length": 40,
+      "text": "ויגד לאבימלך כי התקבצו כל־בעלי מגדל־שכם׃"
+    },
+    {
+      "uid": "Judges_293",
+      "chapter_number": 9,
+      "verse_number": 48,
+      "start_char": 22523,
+      "end_char": 22677,
+      "length": 155,
+      "text": "ויעל אבימלך הר־צלמון הוא וכל־העם אשר־אתו ויקח אבימלך את־הקרדמות בידו ויכרת שוכת עצים וישאה וישם על־שכמו ויאמר אל־העם אשר־עמו מה ראיתם עשיתי מהרו עשו כמוני׃"
+    },
+    {
+      "uid": "Judges_294",
+      "chapter_number": 9,
+      "verse_number": 49,
+      "start_char": 22678,
+      "end_char": 22803,
+      "length": 126,
+      "text": "ויכרתו גם־כל־העם איש שוכה וילכו אחרי אבימלך וישימו על־הצריח ויציתו עליהם את־הצריח באש וימתו גם כל־אנשי מגדל־שכם כאלף איש ואשה׃"
+    },
+    {
+      "uid": "Judges_295",
+      "chapter_number": 9,
+      "verse_number": 50,
+      "start_char": 22804,
+      "end_char": 22839,
+      "length": 36,
+      "text": "וילך אבימלך אל־תבץ ויחן בתבץ וילכדה׃"
+    },
+    {
+      "uid": "Judges_296",
+      "chapter_number": 9,
+      "verse_number": 51,
+      "start_char": 22840,
+      "end_char": 22933,
+      "length": 94,
+      "text": "ומגדל־עז היה בתוך־העיר וינסו שמה כל־האנשים והנשים וכל בעלי העיר ויסגרו בעדם ויעלו על־גג המגדל׃"
+    },
+    {
+      "uid": "Judges_297",
+      "chapter_number": 9,
+      "verse_number": 52,
+      "start_char": 22934,
+      "end_char": 22991,
+      "length": 58,
+      "text": "ויבא אבימלך עד־המגדל וילחם בו ויגש עד־פתח המגדל לשרפו באש׃"
+    },
+    {
+      "uid": "Judges_298",
+      "chapter_number": 9,
+      "verse_number": 53,
+      "start_char": 22992,
+      "end_char": 23042,
+      "length": 51,
+      "text": "ותשלך אשה אחת פלח רכב על־ראש אבימלך ותרץ את־גלגלתו׃"
+    },
+    {
+      "uid": "Judges_299",
+      "chapter_number": 9,
+      "verse_number": 54,
+      "start_char": 23043,
+      "end_char": 23138,
+      "length": 96,
+      "text": "ויקרא מהרה אל־הנער׀ נשא כליו ויאמר לו שלף חרבך ומותתני פן־יאמרו לי אשה הרגתהו וידקרהו נערו וימת׃"
+    },
+    {
+      "uid": "Judges_300",
+      "chapter_number": 9,
+      "verse_number": 55,
+      "start_char": 23139,
+      "end_char": 23183,
+      "length": 45,
+      "text": "ויראו איש־ישראל כי מת אבימלך וילכו איש למקמו׃"
+    },
+    {
+      "uid": "Judges_301",
+      "chapter_number": 9,
+      "verse_number": 56,
+      "start_char": 23184,
+      "end_char": 23241,
+      "length": 58,
+      "text": "וישב אלהים את רעת אבימלך אשר עשה לאביו להרג את־שבעים אחיו׃"
+    },
+    {
+      "uid": "Judges_302",
+      "chapter_number": 9,
+      "verse_number": 57,
+      "start_char": 23242,
+      "end_char": 23308,
+      "length": 67,
+      "text": "ואת כל־רעת אנשי שכם השיב אלהים בראשם ותבא אליהם קללת יותם בן־ירבעל׃"
+    },
+    {
+      "uid": "Judges_303",
+      "chapter_number": 10,
+      "verse_number": 1,
+      "start_char": 23309,
+      "end_char": 23397,
+      "length": 89,
+      "text": "ויקם אחרי אבימלך להושיע את־ישראל תולע בן־פואה בן־דודו איש יששכר והוא־ישב בשמיר בהר אפרים׃"
+    },
+    {
+      "uid": "Judges_304",
+      "chapter_number": 10,
+      "verse_number": 2,
+      "start_char": 23398,
+      "end_char": 23444,
+      "length": 47,
+      "text": "וישפט את־ישראל עשרים ושלש שנה וימת ויקבר בשמיר׃"
+    },
+    {
+      "uid": "Judges_305",
+      "chapter_number": 10,
+      "verse_number": 3,
+      "start_char": 23445,
+      "end_char": 23498,
+      "length": 54,
+      "text": "ויקם אחריו יאיר הגלעדי וישפט את־ישראל עשרים ושתים שנה׃"
+    },
+    {
+      "uid": "Judges_306",
+      "chapter_number": 10,
+      "verse_number": 4,
+      "start_char": 23499,
+      "end_char": 23602,
+      "length": 104,
+      "text": "ויהי־לו שלשים בנים רכבים על־שלשים עירים ושלשים עירים להם להם יקראו׀ חות יאיר עד היום הזה אשר בארץ הגלעד׃"
+    },
+    {
+      "uid": "Judges_307",
+      "chapter_number": 10,
+      "verse_number": 5,
+      "start_char": 23603,
+      "end_char": 23624,
+      "length": 22,
+      "text": "וימת יאיר ויקבר בקמון׃"
+    },
+    {
+      "uid": "Judges_308",
+      "chapter_number": 10,
+      "verse_number": 6,
+      "start_char": 23625,
+      "end_char": 23795,
+      "length": 171,
+      "text": "ויסיפו׀ בני ישראל לעשות הרע בעיני יהוה ויעבדו את־הבעלים ואת־העשתרות ואת־אלהי ארם ואת־אלהי צידון ואת׀ אלהי מואב ואת אלהי בני־עמון ואת אלהי פלשתים ויעזבו את־יהוה ולא עבדוהו׃"
+    },
+    {
+      "uid": "Judges_309",
+      "chapter_number": 10,
+      "verse_number": 7,
+      "start_char": 23796,
+      "end_char": 23847,
+      "length": 52,
+      "text": "ויחר־אף יהוה בישראל וימכרם ביד־פלשתים וביד בני עמון׃"
+    },
+    {
+      "uid": "Judges_310",
+      "chapter_number": 10,
+      "verse_number": 8,
+      "start_char": 23848,
+      "end_char": 23950,
+      "length": 103,
+      "text": "וירעצו וירצצו את־בני ישראל בשנה ההיא שמנה עשרה שנה את־כל־בני ישראל אשר בעבר הירדן בארץ האמרי אשר בגלעד׃"
+    },
+    {
+      "uid": "Judges_311",
+      "chapter_number": 10,
+      "verse_number": 9,
+      "start_char": 23951,
+      "end_char": 24028,
+      "length": 78,
+      "text": "ויעברו בני־עמון את־הירדן להלחם גם־ביהודה ובבנימין ובבית אפרים ותצר לישראל מאד׃"
+    },
+    {
+      "uid": "Judges_312",
+      "chapter_number": 10,
+      "verse_number": 10,
+      "start_char": 24029,
+      "end_char": 24103,
+      "length": 75,
+      "text": "ויזעקו בני ישראל אל־יהוה לאמר חטאנו לך וכי עזבנו את־אלהינו ונעבד את־הבעלים׃"
+    },
+    {
+      "uid": "Judges_313",
+      "chapter_number": 10,
+      "verse_number": 11,
+      "start_char": 24104,
+      "end_char": 24172,
+      "length": 69,
+      "text": "ויאמר יהוה אל־בני ישראל הלא ממצרים ומן־האמרי ומן־בני עמון ומן־פלשתים׃"
+    },
+    {
+      "uid": "Judges_314",
+      "chapter_number": 10,
+      "verse_number": 12,
+      "start_char": 24173,
+      "end_char": 24232,
+      "length": 60,
+      "text": "וצידונים ועמלק ומעון לחצו אתכם ותצעקו אלי ואושיעה אתכם מידם׃"
+    },
+    {
+      "uid": "Judges_315",
+      "chapter_number": 10,
+      "verse_number": 13,
+      "start_char": 24233,
+      "end_char": 24292,
+      "length": 60,
+      "text": "ואתם עזבתם אותי ותעבדו אלהים אחרים לכן לא־אוסיף להושיע אתכם׃"
+    },
+    {
+      "uid": "Judges_316",
+      "chapter_number": 10,
+      "verse_number": 14,
+      "start_char": 24293,
+      "end_char": 24350,
+      "length": 58,
+      "text": "לכו וזעקו אל־האלהים אשר בחרתם בם המה יושיעו לכם בעת צרתכם׃"
+    },
+    {
+      "uid": "Judges_317",
+      "chapter_number": 10,
+      "verse_number": 15,
+      "start_char": 24351,
+      "end_char": 24431,
+      "length": 81,
+      "text": "ויאמרו בני־ישראל אל־יהוה חטאנו עשה־אתה לנו ככל־הטוב בעיניך אך הצילנו נא היום הזה׃"
+    },
+    {
+      "uid": "Judges_318",
+      "chapter_number": 10,
+      "verse_number": 16,
+      "start_char": 24432,
+      "end_char": 24494,
+      "length": 63,
+      "text": "ויסירו את־אלהי הנכר מקרבם ויעבדו את־יהוה ותקצר נפשו בעמל ישראל׃"
+    },
+    {
+      "uid": "Judges_319",
+      "chapter_number": 10,
+      "verse_number": 17,
+      "start_char": 24495,
+      "end_char": 24551,
+      "length": 57,
+      "text": "ויצעקו בני עמון ויחנו בגלעד ויאספו בני ישראל ויחנו במצפה׃"
+    },
+    {
+      "uid": "Judges_320",
+      "chapter_number": 10,
+      "verse_number": 18,
+      "start_char": 24552,
+      "end_char": 24639,
+      "length": 88,
+      "text": "ויאמרו העם שרי גלעד איש אל־רעהו מי האיש אשר יחל להלחם בבני עמון יהיה לראש לכל ישבי גלעד׃"
+    },
+    {
+      "uid": "Judges_321",
+      "chapter_number": 11,
+      "verse_number": 1,
+      "start_char": 24640,
+      "end_char": 24701,
+      "length": 62,
+      "text": "ויפתח הגלעדי היה גבור חיל והוא בן־אשה זונה ויולד גלעד את־יפתח׃"
+    },
+    {
+      "uid": "Judges_322",
+      "chapter_number": 11,
+      "verse_number": 2,
+      "start_char": 24702,
+      "end_char": 24802,
+      "length": 101,
+      "text": "ותלד אשת־גלעד לו בנים ויגדלו בני־האשה ויגרשו את־יפתח ויאמרו לו לא־תנחל בבית־אבינו כי בן־אשה אחרת אתה׃"
+    },
+    {
+      "uid": "Judges_323",
+      "chapter_number": 11,
+      "verse_number": 3,
+      "start_char": 24803,
+      "end_char": 24875,
+      "length": 73,
+      "text": "ויברח יפתח מפני אחיו וישב בארץ טוב ויתלקטו אל־יפתח אנשים ריקים ויצאו עמו׃"
+    },
+    {
+      "uid": "Judges_324",
+      "chapter_number": 11,
+      "verse_number": 4,
+      "start_char": 24876,
+      "end_char": 24911,
+      "length": 36,
+      "text": "ויהי מימים וילחמו בני־עמון עם־ישראל׃"
+    },
+    {
+      "uid": "Judges_325",
+      "chapter_number": 11,
+      "verse_number": 5,
+      "start_char": 24912,
+      "end_char": 24983,
+      "length": 72,
+      "text": "ויהי כאשר־נלחמו בני־עמון עם־ישראל וילכו זקני גלעד לקחת את־יפתח מארץ טוב׃"
+    },
+    {
+      "uid": "Judges_326",
+      "chapter_number": 11,
+      "verse_number": 6,
+      "start_char": 24984,
+      "end_char": 25034,
+      "length": 51,
+      "text": "ויאמרו ליפתח לכה והייתה לנו לקצין ונלחמה בבני עמון׃"
+    },
+    {
+      "uid": "Judges_327",
+      "chapter_number": 11,
+      "verse_number": 7,
+      "start_char": 25035,
+      "end_char": 25124,
+      "length": 90,
+      "text": "ויאמר יפתח לזקני גלעד הלא אתם שנאתם אותי ותגרשוני מבית אבי ומדוע באתם אלי עתה כאשר צר לכם׃"
+    },
+    {
+      "uid": "Judges_328",
+      "chapter_number": 11,
+      "verse_number": 8,
+      "start_char": 25125,
+      "end_char": 25224,
+      "length": 100,
+      "text": "ויאמרו זקני גלעד אל־יפתח לכן עתה שבנו אליך והלכת עמנו ונלחמת בבני עמון והיית לנו לראש לכל ישבי גלעד׃"
+    },
+    {
+      "uid": "Judges_329",
+      "chapter_number": 11,
+      "verse_number": 9,
+      "start_char": 25225,
+      "end_char": 25322,
+      "length": 98,
+      "text": "ויאמר יפתח אל־זקני גלעד אם־משיבים אתם אותי להלחם בבני עמון ונתן יהוה אותם לפני אנכי אהיה לכם לראש׃"
+    },
+    {
+      "uid": "Judges_330",
+      "chapter_number": 11,
+      "verse_number": 10,
+      "start_char": 25323,
+      "end_char": 25390,
+      "length": 68,
+      "text": "ויאמרו זקני־גלעד אל־יפתח יהוה יהיה שמע בינותינו אם־לא כדברך כן נעשה׃"
+    },
+    {
+      "uid": "Judges_331",
+      "chapter_number": 11,
+      "verse_number": 11,
+      "start_char": 25391,
+      "end_char": 25486,
+      "length": 96,
+      "text": "וילך יפתח עם־זקני גלעד וישימו העם אותו עליהם לראש ולקצין וידבר יפתח את־כל־דבריו לפני יהוה במצפה׃"
+    },
+    {
+      "uid": "Judges_332",
+      "chapter_number": 11,
+      "verse_number": 12,
+      "start_char": 25487,
+      "end_char": 25558,
+      "length": 72,
+      "text": "וישלח יפתח מלאכים אל־מלך בני־עמון לאמר מה־לי ולך כי־באת אלי להלחם בארצי׃"
+    },
+    {
+      "uid": "Judges_333",
+      "chapter_number": 11,
+      "verse_number": 13,
+      "start_char": 25559,
+      "end_char": 25674,
+      "length": 116,
+      "text": "ויאמר מלך בני־עמון אל־מלאכי יפתח כי־לקח ישראל את־ארצי בעלותו ממצרים מארנון ועד־היבק ועד־הירדן ועתה השיבה אתהן בשלום׃"
+    },
+    {
+      "uid": "Judges_334",
+      "chapter_number": 11,
+      "verse_number": 14,
+      "start_char": 25675,
+      "end_char": 25718,
+      "length": 44,
+      "text": "ויוסף עוד יפתח וישלח מלאכים אל־מלך בני עמון׃"
+    },
+    {
+      "uid": "Judges_335",
+      "chapter_number": 11,
+      "verse_number": 15,
+      "start_char": 25719,
+      "end_char": 25781,
+      "length": 63,
+      "text": "ויאמר לו כה אמר יפתח לא־לקח ישראל את־ארץ מואב ואת־ארץ בני עמון׃"
+    },
+    {
+      "uid": "Judges_336",
+      "chapter_number": 11,
+      "verse_number": 16,
+      "start_char": 25782,
+      "end_char": 25835,
+      "length": 54,
+      "text": "כי בעלותם ממצרים וילך ישראל במדבר עד־ים־סוף ויבא קדשה׃"
+    },
+    {
+      "uid": "Judges_337",
+      "chapter_number": 11,
+      "verse_number": 17,
+      "start_char": 25836,
+      "end_char": 25947,
+      "length": 112,
+      "text": "וישלח ישראל מלאכים׀אל־מלך אדום׀לאמר אעברה־נא בארצך ולא שמע מלך אדום וגם אל־מלך מואב שלח ולא אבה וישב ישראל בקדש׃"
+    },
+    {
+      "uid": "Judges_338",
+      "chapter_number": 11,
+      "verse_number": 18,
+      "start_char": 25948,
+      "end_char": 26069,
+      "length": 122,
+      "text": "וילך במדבר ויסב את־ארץ אדום ואת־ארץ מואב ויבא ממזרח־שמש לארץ מואב ויחנון בעבר ארנון ולא־באו בגבול מואב כי ארנון גבול מואב׃"
+    },
+    {
+      "uid": "Judges_339",
+      "chapter_number": 11,
+      "verse_number": 19,
+      "start_char": 26070,
+      "end_char": 26156,
+      "length": 87,
+      "text": "וישלח ישראל מלאכים אל־סיחון מלך־האמרי מלך חשבון ויאמר לו ישראל נעברה־נא בארצך עד־מקומי׃"
+    },
+    {
+      "uid": "Judges_340",
+      "chapter_number": 11,
+      "verse_number": 20,
+      "start_char": 26157,
+      "end_char": 26240,
+      "length": 84,
+      "text": "ולא־האמין סיחון את־ישראל עבר בגבלו ויאסף סיחון את־כל־עמו ויחנו ביהצה וילחם עם־ישראל׃"
+    },
+    {
+      "uid": "Judges_341",
+      "chapter_number": 11,
+      "verse_number": 21,
+      "start_char": 26241,
+      "end_char": 26340,
+      "length": 100,
+      "text": "ויתן יהוה אלהי־ישראל את־סיחון ואת־כל־עמו ביד ישראל ויכום ויירש ישראל את כל־ארץ האמרי יושב הארץ ההיא׃"
+    },
+    {
+      "uid": "Judges_342",
+      "chapter_number": 11,
+      "verse_number": 22,
+      "start_char": 26341,
+      "end_char": 26400,
+      "length": 60,
+      "text": "ויירשו את כל־גבול האמרי מארנון ועד־היבק ומן־המדבר ועד־הירדן׃"
+    },
+    {
+      "uid": "Judges_343",
+      "chapter_number": 11,
+      "verse_number": 23,
+      "start_char": 26401,
+      "end_char": 26464,
+      "length": 64,
+      "text": "ועתה יהוה׀ אלהי ישראל הוריש את־האמרי מפני עמו ישראל ואתה תירשנו׃"
+    },
+    {
+      "uid": "Judges_344",
+      "chapter_number": 11,
+      "verse_number": 24,
+      "start_char": 26465,
+      "end_char": 26549,
+      "length": 85,
+      "text": "הלא את אשר יורישך כמוש אלהיך אותו תירש ואת כל־אשר הוריש יהוה אלהינו מפנינו אותו נירש׃"
+    },
+    {
+      "uid": "Judges_345",
+      "chapter_number": 11,
+      "verse_number": 25,
+      "start_char": 26550,
+      "end_char": 26622,
+      "length": 73,
+      "text": "ועתה הטוב טוב אתה מבלק בן־צפור מלך מואב הרוב רב עם־ישראל אם־נלחם נלחם בם׃"
+    },
+    {
+      "uid": "Judges_346",
+      "chapter_number": 11,
+      "verse_number": 26,
+      "start_char": 26623,
+      "end_char": 26731,
+      "length": 109,
+      "text": "בשבת ישראל בחשבון ובבנותיה ובערעור ובבנותיה ובכל־הערים אשר על־ידי ארנון שלש מאות שנה ומדוע לא־הצלתם בעת ההיא׃"
+    },
+    {
+      "uid": "Judges_347",
+      "chapter_number": 11,
+      "verse_number": 27,
+      "start_char": 26732,
+      "end_char": 26823,
+      "length": 92,
+      "text": "ואנכי לא־חטאתי לך ואתה עשה אתי רעה להלחם בי ישפט יהוה השפט היום בין בני ישראל ובין בני עמון׃"
+    },
+    {
+      "uid": "Judges_348",
+      "chapter_number": 11,
+      "verse_number": 28,
+      "start_char": 26824,
+      "end_char": 26870,
+      "length": 47,
+      "text": "ולא שמע מלך בני עמון אל־דברי יפתח אשר שלח אליו׃"
+    },
+    {
+      "uid": "Judges_349",
+      "chapter_number": 11,
+      "verse_number": 29,
+      "start_char": 26871,
+      "end_char": 26960,
+      "length": 90,
+      "text": "ותהי על־יפתח רוח יהוה ויעבר את־הגלעד ואת־מנשה ויעבר את־מצפה גלעד וממצפה גלעד עבר בני עמון׃"
+    },
+    {
+      "uid": "Judges_350",
+      "chapter_number": 11,
+      "verse_number": 30,
+      "start_char": 26961,
+      "end_char": 27015,
+      "length": 55,
+      "text": "וידר יפתח נדר ליהוה ויאמר אם־נתון תתן את־בני עמון בידי׃"
+    },
+    {
+      "uid": "Judges_351",
+      "chapter_number": 11,
+      "verse_number": 31,
+      "start_char": 27016,
+      "end_char": 27099,
+      "length": 84,
+      "text": "והיה היוצא אשר יצא מדלתי ביתי לקראתי בשובי בשלום מבני עמון והיה ליהוה והעליתיהו עלה׃"
+    },
+    {
+      "uid": "Judges_352",
+      "chapter_number": 11,
+      "verse_number": 32,
+      "start_char": 27100,
+      "end_char": 27147,
+      "length": 48,
+      "text": "ויעבר יפתח אל־בני עמון להלחם בם ויתנם יהוה בידו׃"
+    },
+    {
+      "uid": "Judges_353",
+      "chapter_number": 11,
+      "verse_number": 33,
+      "start_char": 27148,
+      "end_char": 27241,
+      "length": 94,
+      "text": "ויכם מערוער ועד־באך מנית עשרים עיר ועד אבל כרמים מכה גדולה מאד ויכנעו בני עמון מפני בני ישראל׃"
+    },
+    {
+      "uid": "Judges_354",
+      "chapter_number": 11,
+      "verse_number": 34,
+      "start_char": 27242,
+      "end_char": 27335,
+      "length": 94,
+      "text": "ויבא יפתח המצפה אל־ביתו והנה בתו יצאת לקראתו בתפים ובמחלות ורק היא יחידה אין־לו ממנו בן או־בת׃"
+    },
+    {
+      "uid": "Judges_355",
+      "chapter_number": 11,
+      "verse_number": 35,
+      "start_char": 27336,
+      "end_char": 27446,
+      "length": 111,
+      "text": "ויהי כראותו אותה ויקרע את־בגדיו ויאמר אהה בתי הכרע הכרעתני ואת היית בעכרי ואנכי פציתי פי אל־יהוה ולא אוכל לשוב׃"
+    },
+    {
+      "uid": "Judges_356",
+      "chapter_number": 11,
+      "verse_number": 36,
+      "start_char": 27447,
+      "end_char": 27547,
+      "length": 101,
+      "text": "ותאמר אליו אבי פציתה את־פיך אל־יהוה עשה לי כאשר יצא מפיך אחרי אשר עשה לך יהוה נקמות מאיביך מבני עמון׃"
+    },
+    {
+      "uid": "Judges_357",
+      "chapter_number": 11,
+      "verse_number": 37,
+      "start_char": 27548,
+      "end_char": 27659,
+      "length": 112,
+      "text": "ותאמר אל־אביה יעשה לי הדבר הזה הרפה ממני שנים חדשים ואלכה וירדתי על־ההרים ואבכה על־בתולי אנכי (ורעיתי) [ורעותי]׃"
+    },
+    {
+      "uid": "Judges_358",
+      "chapter_number": 11,
+      "verse_number": 38,
+      "start_char": 27660,
+      "end_char": 27731,
+      "length": 72,
+      "text": "ויאמר לכי וישלח אותה שני חדשים ותלך היא ורעותיה ותבך על־בתוליה על־ההרים׃"
+    },
+    {
+      "uid": "Judges_359",
+      "chapter_number": 11,
+      "verse_number": 39,
+      "start_char": 27732,
+      "end_char": 27821,
+      "length": 90,
+      "text": "ויהי מקץ׀ שנים חדשים ותשב אל־אביה ויעש לה את־נדרו אשר נדר והיא לא־ידעה איש ותהי־חק בישראל׃"
+    },
+    {
+      "uid": "Judges_360",
+      "chapter_number": 11,
+      "verse_number": 40,
+      "start_char": 27822,
+      "end_char": 27889,
+      "length": 68,
+      "text": "מימים׀ ימימה תלכנה בנות ישראל לתנות לבת־יפתח הגלעדי ארבעת ימים בשנה׃"
+    },
+    {
+      "uid": "Judges_361",
+      "chapter_number": 12,
+      "verse_number": 1,
+      "start_char": 27890,
+      "end_char": 27999,
+      "length": 110,
+      "text": "ויצעק איש אפרים ויעבר צפונה ויאמרו ליפתח מדוע׀ עברת׀ להלחם בבני־עמון ולנו לא קראת ללכת עמך ביתך נשרף עליך באש׃"
+    },
+    {
+      "uid": "Judges_362",
+      "chapter_number": 12,
+      "verse_number": 2,
+      "start_char": 28000,
+      "end_char": 28085,
+      "length": 86,
+      "text": "ויאמר יפתח אליהם איש ריב הייתי אני ועמי ובני־עמון מאד ואזעק אתכם ולא־הושעתם אותי מידם׃"
+    },
+    {
+      "uid": "Judges_363",
+      "chapter_number": 12,
+      "verse_number": 3,
+      "start_char": 28086,
+      "end_char": 28190,
+      "length": 105,
+      "text": "ואראה כי־אינך מושיע ואשימה נפשי בכפי ואעברה אל־בני עמון ויתנם יהוה בידי ולמה עליתם אלי היום הזה להלחם בי׃"
+    },
+    {
+      "uid": "Judges_364",
+      "chapter_number": 12,
+      "verse_number": 4,
+      "start_char": 28191,
+      "end_char": 28306,
+      "length": 116,
+      "text": "ויקבץ יפתח את־כל־אנשי גלעד וילחם את־אפרים ויכו אנשי גלעד את־אפרים כי אמרו פליטי אפרים אתם גלעד בתוך אפרים בתוך מנשה׃"
+    },
+    {
+      "uid": "Judges_365",
+      "chapter_number": 12,
+      "verse_number": 5,
+      "start_char": 28307,
+      "end_char": 28412,
+      "length": 106,
+      "text": "וילכד גלעד את־מעברות הירדן לאפרים והיה כי יאמרו פליטי אפרים אעברה ויאמרו לו אנשי־גלעד האפרתי אתה ויאמר׀לא׃"
+    },
+    {
+      "uid": "Judges_366",
+      "chapter_number": 12,
+      "verse_number": 6,
+      "start_char": 28413,
+      "end_char": 28537,
+      "length": 125,
+      "text": "ויאמרו לו אמר־נא שבלת ויאמר סבלת ולא יכין לדבר כן ויאחזו אותו וישחטוהו אל־מעברות הירדן ויפל בעת ההיא מאפרים ארבעים ושנים אלף׃"
+    },
+    {
+      "uid": "Judges_367",
+      "chapter_number": 12,
+      "verse_number": 7,
+      "start_char": 28538,
+      "end_char": 28598,
+      "length": 61,
+      "text": "וישפט יפתח את־ישראל שש שנים וימת יפתח הגלעדי ויקבר בערי גלעד׃"
+    },
+    {
+      "uid": "Judges_368",
+      "chapter_number": 12,
+      "verse_number": 8,
+      "start_char": 28599,
+      "end_char": 28633,
+      "length": 35,
+      "text": "וישפט אחריו את־ישראל אבצן מבית לחם׃"
+    },
+    {
+      "uid": "Judges_369",
+      "chapter_number": 12,
+      "verse_number": 9,
+      "start_char": 28634,
+      "end_char": 28729,
+      "length": 96,
+      "text": "ויהי־לו שלשים בנים ושלשים בנות שלח החוצה ושלשים בנות הביא לבניו מן־החוץ וישפט את־ישראל שבע שנים׃"
+    },
+    {
+      "uid": "Judges_370",
+      "chapter_number": 12,
+      "verse_number": 10,
+      "start_char": 28730,
+      "end_char": 28754,
+      "length": 25,
+      "text": "וימת אבצן ויקבר בבית לחם׃"
+    },
+    {
+      "uid": "Judges_371",
+      "chapter_number": 12,
+      "verse_number": 11,
+      "start_char": 28755,
+      "end_char": 28813,
+      "length": 59,
+      "text": "וישפט אחריו את־ישראל אילון הזבולני וישפט את־ישראל עשר שנים׃"
+    },
+    {
+      "uid": "Judges_372",
+      "chapter_number": 12,
+      "verse_number": 12,
+      "start_char": 28814,
+      "end_char": 28856,
+      "length": 43,
+      "text": "וימת אילון הזבולני ויקבר באילון בארץ זבולן׃"
+    },
+    {
+      "uid": "Judges_373",
+      "chapter_number": 12,
+      "verse_number": 13,
+      "start_char": 28857,
+      "end_char": 28899,
+      "length": 43,
+      "text": "וישפט אחריו את־ישראל עבדון בן־הלל הפרעתוני׃"
+    },
+    {
+      "uid": "Judges_374",
+      "chapter_number": 12,
+      "verse_number": 14,
+      "start_char": 28900,
+      "end_char": 28980,
+      "length": 81,
+      "text": "ויהי־לו ארבעים בנים ושלשים בני בנים רכבים על־שבעים עירם וישפט את־ישראל שמנה שנים׃"
+    },
+    {
+      "uid": "Judges_375",
+      "chapter_number": 12,
+      "verse_number": 15,
+      "start_char": 28981,
+      "end_char": 29043,
+      "length": 63,
+      "text": "וימת עבדון בן־הלל הפרעתוני ויקבר בפרעתון בארץ אפרים בהר העמלקי׃"
+    },
+    {
+      "uid": "Judges_376",
+      "chapter_number": 13,
+      "verse_number": 1,
+      "start_char": 29044,
+      "end_char": 29114,
+      "length": 71,
+      "text": "ויסיפו בני ישראל לעשות הרע בעיני יהוה ויתנם יהוה ביד־פלשתים ארבעים שנה׃"
+    },
+    {
+      "uid": "Judges_377",
+      "chapter_number": 13,
+      "verse_number": 2,
+      "start_char": 29115,
+      "end_char": 29175,
+      "length": 61,
+      "text": "ויהי איש אחד מצרעה ממשפחת הדני ושמו מנוח ואשתו עקרה ולא ילדה׃"
+    },
+    {
+      "uid": "Judges_378",
+      "chapter_number": 13,
+      "verse_number": 3,
+      "start_char": 29176,
+      "end_char": 29248,
+      "length": 73,
+      "text": "וירא מלאך־יהוה אל־האשה ויאמר אליה הנה־נא את־עקרה ולא ילדת והרית וילדת בן׃"
+    },
+    {
+      "uid": "Judges_379",
+      "chapter_number": 13,
+      "verse_number": 4,
+      "start_char": 29249,
+      "end_char": 29297,
+      "length": 49,
+      "text": "ועתה השמרי נא ואל־תשתי יין ושכר ואל־תאכלי כל־טמא׃"
+    },
+    {
+      "uid": "Judges_380",
+      "chapter_number": 13,
+      "verse_number": 5,
+      "start_char": 29298,
+      "end_char": 29407,
+      "length": 110,
+      "text": "כי הנך הרה וילדת בן ומורה לא־יעלה על־ראשו כי־נזיר אלהים יהיה הנער מן־הבטן והוא יחל להושיע את־ישראל מיד פלשתים׃"
+    },
+    {
+      "uid": "Judges_381",
+      "chapter_number": 13,
+      "verse_number": 6,
+      "start_char": 29408,
+      "end_char": 29528,
+      "length": 121,
+      "text": "ותבא האשה ותאמר לאישה לאמר איש האלהים בא אלי ומראהו כמראה מלאך האלהים נורא מאד ולא שאלתיהו אי־מזה הוא ואת־שמו לא־הגיד לי׃"
+    },
+    {
+      "uid": "Judges_382",
+      "chapter_number": 13,
+      "verse_number": 7,
+      "start_char": 29529,
+      "end_char": 29639,
+      "length": 111,
+      "text": "ויאמר לי הנך הרה וילדת בן ועתה אל־תשתי׀ יין ושכר ואל־תאכלי כל־טמאה כי־נזיר אלהים יהיה הנער מן־הבטן עד־יום מותו׃"
+    },
+    {
+      "uid": "Judges_383",
+      "chapter_number": 13,
+      "verse_number": 8,
+      "start_char": 29640,
+      "end_char": 29737,
+      "length": 98,
+      "text": "ויעתר מנוח אל־יהוה ויאמר בי אדוני איש האלהים אשר שלחת יבוא־נא עוד אלינו ויורנו מה־נעשה לנער היולד׃"
+    },
+    {
+      "uid": "Judges_384",
+      "chapter_number": 13,
+      "verse_number": 9,
+      "start_char": 29738,
+      "end_char": 29824,
+      "length": 87,
+      "text": "וישמע האלהים בקול מנוח ויבא מלאך האלהים עוד אל־האשה והיא יושבת בשדה ומנוח אישה אין עמה׃"
+    },
+    {
+      "uid": "Judges_385",
+      "chapter_number": 13,
+      "verse_number": 10,
+      "start_char": 29825,
+      "end_char": 29896,
+      "length": 72,
+      "text": "ותמהר האשה ותרץ ותגד לאישה ותאמר אליו הנה נראה אלי האיש אשר־בא ביום אלי׃"
+    },
+    {
+      "uid": "Judges_386",
+      "chapter_number": 13,
+      "verse_number": 11,
+      "start_char": 29897,
+      "end_char": 29980,
+      "length": 84,
+      "text": "ויקם וילך מנוח אחרי אשתו ויבא אל־האיש ויאמר לו האתה האיש אשר־דברת אל־האשה ויאמר אני׃"
+    },
+    {
+      "uid": "Judges_387",
+      "chapter_number": 13,
+      "verse_number": 12,
+      "start_char": 29981,
+      "end_char": 30030,
+      "length": 50,
+      "text": "ויאמר מנוח עתה יבא דבריך מה־יהיה משפט־הנער ומעשהו׃"
+    },
+    {
+      "uid": "Judges_388",
+      "chapter_number": 13,
+      "verse_number": 13,
+      "start_char": 30031,
+      "end_char": 30081,
+      "length": 51,
+      "text": "ויאמר מלאך יהוה אל־מנוח מכל אשר־אמרתי אל־האשה תשמר׃"
+    },
+    {
+      "uid": "Judges_389",
+      "chapter_number": 13,
+      "verse_number": 14,
+      "start_char": 30082,
+      "end_char": 30164,
+      "length": 83,
+      "text": "מכל אשר־יצא מגפן היין לא תאכל ויין ושכר אל־תשת וכל־טמאה אל־תאכל כל אשר־צויתיה תשמר׃"
+    },
+    {
+      "uid": "Judges_390",
+      "chapter_number": 13,
+      "verse_number": 15,
+      "start_char": 30165,
+      "end_char": 30223,
+      "length": 59,
+      "text": "ויאמר מנוח אל־מלאך יהוה נעצרה־נא אותך ונעשה לפניך גדי עזים׃"
+    },
+    {
+      "uid": "Judges_391",
+      "chapter_number": 13,
+      "verse_number": 16,
+      "start_char": 30224,
+      "end_char": 30327,
+      "length": 104,
+      "text": "ויאמר מלאך יהוה אל־מנוח אם־תעצרני לא־אכל בלחמך ואם־תעשה עלה ליהוה תעלנה כי לא־ידע מנוח כי־מלאך יהוה הוא׃"
+    },
+    {
+      "uid": "Judges_392",
+      "chapter_number": 13,
+      "verse_number": 17,
+      "start_char": 30328,
+      "end_char": 30388,
+      "length": 61,
+      "text": "ויאמר מנוח אל־מלאך יהוה מי שמך כי־יבא (דבריך) [דברך] וכבדנוך׃"
+    },
+    {
+      "uid": "Judges_393",
+      "chapter_number": 13,
+      "verse_number": 18,
+      "start_char": 30389,
+      "end_char": 30434,
+      "length": 46,
+      "text": "ויאמר לו מלאך יהוה למה זה תשאל לשמי והוא־פלאי׃"
+    },
+    {
+      "uid": "Judges_394",
+      "chapter_number": 13,
+      "verse_number": 19,
+      "start_char": 30435,
+      "end_char": 30515,
+      "length": 81,
+      "text": "ויקח מנוח את־גדי העזים ואת־המנחה ויעל על־הצור ליהוה ומפלא לעשות ומנוח ואשתו ראים׃"
+    },
+    {
+      "uid": "Judges_395",
+      "chapter_number": 13,
+      "verse_number": 20,
+      "start_char": 30516,
+      "end_char": 30611,
+      "length": 96,
+      "text": "ויהי בעלות הלהב מעל המזבח השמימה ויעל מלאך־יהוה בלהב המזבח ומנוח ואשתו ראים ויפלו על־פניהם ארצה׃"
+    },
+    {
+      "uid": "Judges_396",
+      "chapter_number": 13,
+      "verse_number": 21,
+      "start_char": 30612,
+      "end_char": 30685,
+      "length": 74,
+      "text": "ולא־יסף עוד מלאך יהוה להראה אל־מנוח ואל־אשתו אז ידע מנוח כי־מלאך יהוה הוא׃"
+    },
+    {
+      "uid": "Judges_397",
+      "chapter_number": 13,
+      "verse_number": 22,
+      "start_char": 30686,
+      "end_char": 30728,
+      "length": 43,
+      "text": "ויאמר מנוח אל־אשתו מות נמות כי אלהים ראינו׃"
+    },
+    {
+      "uid": "Judges_398",
+      "chapter_number": 13,
+      "verse_number": 23,
+      "start_char": 30729,
+      "end_char": 30826,
+      "length": 98,
+      "text": "ותאמר לו אשתו לו חפץ יהוה להמיתנו לא־לקח מידנו עלה ומנחה ולא הראנו את־כל־אלה וכעת לא השמיענו כזאת׃"
+    },
+    {
+      "uid": "Judges_399",
+      "chapter_number": 13,
+      "verse_number": 24,
+      "start_char": 30827,
+      "end_char": 30882,
+      "length": 56,
+      "text": "ותלד האשה בן ותקרא את־שמו שמשון ויגדל הנער ויברכהו יהוה׃"
+    },
+    {
+      "uid": "Judges_400",
+      "chapter_number": 13,
+      "verse_number": 25,
+      "start_char": 30883,
+      "end_char": 30931,
+      "length": 49,
+      "text": "ותחל רוח יהוה לפעמו במחנה־דן בין צרעה ובין אשתאל׃"
+    },
+    {
+      "uid": "Judges_401",
+      "chapter_number": 14,
+      "verse_number": 1,
+      "start_char": 30932,
+      "end_char": 30977,
+      "length": 46,
+      "text": "וירד שמשון תמנתה וירא אשה בתמנתה מבנות פלשתים׃"
+    },
+    {
+      "uid": "Judges_402",
+      "chapter_number": 14,
+      "verse_number": 2,
+      "start_char": 30978,
+      "end_char": 31057,
+      "length": 80,
+      "text": "ויעל ויגד לאביו ולאמו ויאמר אשה ראיתי בתמנתה מבנות פלשתים ועתה קחו־אותה לי לאשה׃"
+    },
+    {
+      "uid": "Judges_403",
+      "chapter_number": 14,
+      "verse_number": 3,
+      "start_char": 31058,
+      "end_char": 31190,
+      "length": 133,
+      "text": "ויאמר לו אביו ואמו האין בבנות אחיך ובכל־עמי אשה כי־אתה הולך לקחת אשה מפלשתים הערלים ויאמר שמשון אל־אביו אותה קח־לי כי־היא ישרה בעיני׃"
+    },
+    {
+      "uid": "Judges_404",
+      "chapter_number": 14,
+      "verse_number": 4,
+      "start_char": 31191,
+      "end_char": 31277,
+      "length": 87,
+      "text": "ואביו ואמו לא ידעו כי מיהוה היא כי־תאנה הוא־מבקש מפלשתים ובעת ההיא פלשתים משלים בישראל׃"
+    },
+    {
+      "uid": "Judges_405",
+      "chapter_number": 14,
+      "verse_number": 5,
+      "start_char": 31278,
+      "end_char": 31352,
+      "length": 75,
+      "text": "וירד שמשון ואביו ואמו תמנתה ויבאו עד־כרמי תמנתה והנה כפיר אריות שאג לקראתו׃"
+    },
+    {
+      "uid": "Judges_406",
+      "chapter_number": 14,
+      "verse_number": 6,
+      "start_char": 31353,
+      "end_char": 31438,
+      "length": 86,
+      "text": "ותצלח עליו רוח יהוה וישסעהו כשסע הגדי ומאומה אין בידו ולא הגיד לאביו ולאמו את אשר עשה׃"
+    },
+    {
+      "uid": "Judges_407",
+      "chapter_number": 14,
+      "verse_number": 7,
+      "start_char": 31439,
+      "end_char": 31472,
+      "length": 34,
+      "text": "וירד וידבר לאשה ותישר בעיני שמשון׃"
+    },
+    {
+      "uid": "Judges_408",
+      "chapter_number": 14,
+      "verse_number": 8,
+      "start_char": 31473,
+      "end_char": 31547,
+      "length": 75,
+      "text": "וישב מימים לקחתה ויסר לראות את מפלת האריה והנה עדת דבורים בגוית האריה ודבש׃"
+    },
+    {
+      "uid": "Judges_409",
+      "chapter_number": 14,
+      "verse_number": 9,
+      "start_char": 31548,
+      "end_char": 31651,
+      "length": 104,
+      "text": "וירדהו אל־כפיו וילך הלוך ואכל וילך אל־אביו ואל־אמו ויתן להם ויאכלו ולא־הגיד להם כי מגוית האריה רדה הדבש׃"
+    },
+    {
+      "uid": "Judges_410",
+      "chapter_number": 14,
+      "verse_number": 10,
+      "start_char": 31652,
+      "end_char": 31708,
+      "length": 57,
+      "text": "וירד אביהו אל־האשה ויעש שם שמשון משתה כי כן יעשו הבחורים׃"
+    },
+    {
+      "uid": "Judges_411",
+      "chapter_number": 14,
+      "verse_number": 11,
+      "start_char": 31709,
+      "end_char": 31753,
+      "length": 45,
+      "text": "ויהי כראותם אותו ויקחו שלשים מרעים ויהיו אתו׃"
+    },
+    {
+      "uid": "Judges_412",
+      "chapter_number": 14,
+      "verse_number": 12,
+      "start_char": 31754,
+      "end_char": 31871,
+      "length": 118,
+      "text": "ויאמר להם שמשון אחודה־נא לכם חידה אם־הגד תגידו אותה לי שבעת ימי המשתה ומצאתם ונתתי לכם שלשים סדינים ושלשים חלפת בגדים׃"
+    },
+    {
+      "uid": "Judges_413",
+      "chapter_number": 14,
+      "verse_number": 13,
+      "start_char": 31872,
+      "end_char": 31968,
+      "length": 97,
+      "text": "ואם־לא תוכלו להגיד לי ונתתם אתם לי שלשים סדינים ושלשים חליפות בגדים ויאמרו לו חודה חידתך ונשמענה׃"
+    },
+    {
+      "uid": "Judges_414",
+      "chapter_number": 14,
+      "verse_number": 14,
+      "start_char": 31969,
+      "end_char": 32038,
+      "length": 70,
+      "text": "ויאמר להם מהאכל יצא מאכל ומעז יצא מתוק ולא יכלו להגיד החידה שלשת ימים׃"
+    },
+    {
+      "uid": "Judges_415",
+      "chapter_number": 14,
+      "verse_number": 15,
+      "start_char": 32039,
+      "end_char": 32156,
+      "length": 118,
+      "text": "ויהי׀ ביום השביעי ויאמרו לאשת־שמשון פתי את־אישך ויגד־לנו את־החידה פן־נשרף אותך ואת־בית אביך באש הלירשנו קראתם לנו הלא׃"
+    },
+    {
+      "uid": "Judges_416",
+      "chapter_number": 14,
+      "verse_number": 16,
+      "start_char": 32157,
+      "end_char": 32277,
+      "length": 121,
+      "text": "ותבך אשת שמשון עליו ותאמר רק־שנאתני ולא אהבתני החידה חדת לבני עמי ולי לא הגדתה ויאמר לה הנה לאבי ולאמי לא הגדתי ולך אגיד׃"
+    },
+    {
+      "uid": "Judges_417",
+      "chapter_number": 14,
+      "verse_number": 17,
+      "start_char": 32278,
+      "end_char": 32373,
+      "length": 96,
+      "text": "ותבך עליו שבעת הימים אשר־היה להם המשתה ויהי׀ ביום השביעי ויגד־לה כי הציקתהו ותגד החידה לבני עמה׃"
+    },
+    {
+      "uid": "Judges_418",
+      "chapter_number": 14,
+      "verse_number": 18,
+      "start_char": 32374,
+      "end_char": 32488,
+      "length": 115,
+      "text": "ויאמרו לו אנשי העיר ביום השביעי בטרם יבא החרסה מה־מתוק מדבש ומה עז מארי ויאמר להם לולא חרשתם בעגלתי לא מצאתם חידתי׃"
+    },
+    {
+      "uid": "Judges_419",
+      "chapter_number": 14,
+      "verse_number": 19,
+      "start_char": 32489,
+      "end_char": 32605,
+      "length": 117,
+      "text": "ותצלח עליו רוח יהוה וירד אשקלון ויך מהם׀ שלשים איש ויקח את־חליצותם ויתן החליפות למגידי החידה ויחר אפו ויעל בית אביהו׃"
+    },
+    {
+      "uid": "Judges_420",
+      "chapter_number": 14,
+      "verse_number": 20,
+      "start_char": 32606,
+      "end_char": 32638,
+      "length": 33,
+      "text": "ותהי אשת שמשון למרעהו אשר רעה לו׃"
+    },
+    {
+      "uid": "Judges_421",
+      "chapter_number": 15,
+      "verse_number": 1,
+      "start_char": 32639,
+      "end_char": 32738,
+      "length": 100,
+      "text": "ויהי מימים בימי קציר־חטים ויפקד שמשון את־אשתו בגדי עזים ויאמר אבאה אל־אשתי החדרה ולא־נתנו אביה לבוא׃"
+    },
+    {
+      "uid": "Judges_422",
+      "chapter_number": 15,
+      "verse_number": 2,
+      "start_char": 32739,
+      "end_char": 32827,
+      "length": 89,
+      "text": "ויאמר אביה אמר אמרתי כי־שנא שנאתה ואתננה למרעך הלא אחותה הקטנה טובה ממנה תהי־נא לך תחתיה׃"
+    },
+    {
+      "uid": "Judges_423",
+      "chapter_number": 15,
+      "verse_number": 3,
+      "start_char": 32828,
+      "end_char": 32881,
+      "length": 54,
+      "text": "ויאמר להם שמשון נקיתי הפעם מפלשתים כי־עשה אני עמם רעה׃"
+    },
+    {
+      "uid": "Judges_424",
+      "chapter_number": 15,
+      "verse_number": 4,
+      "start_char": 32882,
+      "end_char": 32975,
+      "length": 94,
+      "text": "וילך שמשון וילכד שלש־מאות שועלים ויקח לפדים ויפן זנב אל־זנב וישם לפיד אחד בין־שני הזנבות בתוך׃"
+    },
+    {
+      "uid": "Judges_425",
+      "chapter_number": 15,
+      "verse_number": 5,
+      "start_char": 32976,
+      "end_char": 33043,
+      "length": 68,
+      "text": "ויבער־אש בלפידים וישלח בקמות פלשתים ויבער מגדיש ועד־קמה ועד־כרם זית׃"
+    },
+    {
+      "uid": "Judges_426",
+      "chapter_number": 15,
+      "verse_number": 6,
+      "start_char": 33044,
+      "end_char": 33157,
+      "length": 114,
+      "text": "ויאמרו פלשתים מי עשה זאת ויאמרו שמשון חתן התמני כי לקח את־אשתו ויתנה למרעהו ויעלו פלשתים וישרפו אותה ואת־אביה באש׃"
+    },
+    {
+      "uid": "Judges_427",
+      "chapter_number": 15,
+      "verse_number": 7,
+      "start_char": 33158,
+      "end_char": 33213,
+      "length": 56,
+      "text": "ויאמר להם שמשון אם־תעשון כזאת כי אם־נקמתי בכם ואחר אחדל׃"
+    },
+    {
+      "uid": "Judges_428",
+      "chapter_number": 15,
+      "verse_number": 8,
+      "start_char": 33214,
+      "end_char": 33268,
+      "length": 55,
+      "text": "ויך אותם שוק על־ירך מכה גדולה וירד וישב בסעיף סלע עיטם׃"
+    },
+    {
+      "uid": "Judges_429",
+      "chapter_number": 15,
+      "verse_number": 9,
+      "start_char": 33269,
+      "end_char": 33306,
+      "length": 38,
+      "text": "ויעלו פלשתים ויחנו ביהודה וינטשו בלחי׃"
+    },
+    {
+      "uid": "Judges_430",
+      "chapter_number": 15,
+      "verse_number": 10,
+      "start_char": 33307,
+      "end_char": 33389,
+      "length": 83,
+      "text": "ויאמרו איש יהודה למה עליתם עלינו ויאמרו לאסור את־שמשון עלינו לעשות לו כאשר עשה לנו׃"
+    },
+    {
+      "uid": "Judges_431",
+      "chapter_number": 15,
+      "verse_number": 11,
+      "start_char": 33390,
+      "end_char": 33529,
+      "length": 140,
+      "text": "וירדו שלשת אלפים איש מיהודה אל־סעיף סלע עיטם ויאמרו לשמשון הלא ידעת כי־משלים בנו פלשתים ומה־זאת עשית לנו ויאמר להם כאשר עשו לי כן עשיתי להם׃"
+    },
+    {
+      "uid": "Judges_432",
+      "chapter_number": 15,
+      "verse_number": 12,
+      "start_char": 33530,
+      "end_char": 33609,
+      "length": 80,
+      "text": "ויאמרו לו לאסרך ירדנו לתתך ביד־פלשתים ויאמר להם שמשון השבעו לי פן־תפגעון בי אתם׃"
+    },
+    {
+      "uid": "Judges_433",
+      "chapter_number": 15,
+      "verse_number": 13,
+      "start_char": 33610,
+      "end_char": 33708,
+      "length": 99,
+      "text": "ויאמרו לו לאמר לא כי־אסר נאסרך ונתנוך בידם והמת לא נמיתך ויאסרהו בשנים עבתים חדשים ויעלוהו מן־הסלע׃"
+    },
+    {
+      "uid": "Judges_434",
+      "chapter_number": 15,
+      "verse_number": 14,
+      "start_char": 33709,
+      "end_char": 33836,
+      "length": 128,
+      "text": "הוא־בא עד־לחי ופלשתים הריעו לקראתו ותצלח עליו רוח יהוה ותהיינה העבתים אשר על־זרועותיו כפשתים אשר בערו באש וימסו אסוריו מעל ידיו׃"
+    },
+    {
+      "uid": "Judges_435",
+      "chapter_number": 15,
+      "verse_number": 15,
+      "start_char": 33837,
+      "end_char": 33887,
+      "length": 51,
+      "text": "וימצא לחי־חמור טריה וישלח ידו ויקחה ויך־בה אלף איש׃"
+    },
+    {
+      "uid": "Judges_436",
+      "chapter_number": 15,
+      "verse_number": 16,
+      "start_char": 33888,
+      "end_char": 33947,
+      "length": 60,
+      "text": "ויאמר שמשון בלחי החמור חמור חמרתים בלחי החמור הכיתי אלף איש׃"
+    },
+    {
+      "uid": "Judges_437",
+      "chapter_number": 15,
+      "verse_number": 17,
+      "start_char": 33948,
+      "end_char": 34004,
+      "length": 57,
+      "text": "ויהי ככלתו לדבר וישלך הלחי מידו ויקרא למקום ההוא רמת לחי׃"
+    },
+    {
+      "uid": "Judges_438",
+      "chapter_number": 15,
+      "verse_number": 18,
+      "start_char": 34005,
+      "end_char": 34105,
+      "length": 101,
+      "text": "ויצמא מאד ויקרא אל־יהוה ויאמר אתה נתת ביד־עבדך את־התשועה הגדלה הזאת ועתה אמות בצמא ונפלתי ביד הערלים׃"
+    },
+    {
+      "uid": "Judges_439",
+      "chapter_number": 15,
+      "verse_number": 19,
+      "start_char": 34106,
+      "end_char": 34216,
+      "length": 111,
+      "text": "ויבקע אלהים את־המכתש אשר־בלחי ויצאו ממנו מים וישת ותשב רוחו ויחי על־כן׀ קרא שמה עין הקורא אשר בלחי עד היום הזה׃"
+    },
+    {
+      "uid": "Judges_440",
+      "chapter_number": 15,
+      "verse_number": 20,
+      "start_char": 34217,
+      "end_char": 34253,
+      "length": 37,
+      "text": "וישפט את־ישראל בימי פלשתים עשרים שנה׃"
+    },
+    {
+      "uid": "Judges_441",
+      "chapter_number": 16,
+      "verse_number": 1,
+      "start_char": 34254,
+      "end_char": 34296,
+      "length": 43,
+      "text": "וילך שמשון עזתה וירא־שם אשה זונה ויבא אליה׃"
+    },
+    {
+      "uid": "Judges_442",
+      "chapter_number": 16,
+      "verse_number": 2,
+      "start_char": 34297,
+      "end_char": 34399,
+      "length": 103,
+      "text": "לעזתים׀ לאמר בא שמשון הנה ויסבו ויארבו־לו כל־הלילה בשער העיר ויתחרשו כל־הלילה לאמר עד־אור הבקר והרגנהו׃"
+    },
+    {
+      "uid": "Judges_443",
+      "chapter_number": 16,
+      "verse_number": 3,
+      "start_char": 34400,
+      "end_char": 34539,
+      "length": 140,
+      "text": "וישכב שמשון עד־חצי הלילה ויקם׀ בחצי הלילה ויאחז בדלתות שער־העיר ובשתי המזזות ויסעם עם־הבריח וישם על־כתפיו ויעלם אל־ראש ההר אשר על־פני חברון׃"
+    },
+    {
+      "uid": "Judges_444",
+      "chapter_number": 16,
+      "verse_number": 4,
+      "start_char": 34540,
+      "end_char": 34582,
+      "length": 43,
+      "text": "ויהי אחרי־כן ויאהב אשה בנחל שרק ושמה דלילה׃"
+    },
+    {
+      "uid": "Judges_445",
+      "chapter_number": 16,
+      "verse_number": 5,
+      "start_char": 34583,
+      "end_char": 34702,
+      "length": 120,
+      "text": "ויעלו אליה סרני פלשתים ויאמרו לה פתי אותו וראי במה כחו גדול ובמה נוכל לו ואסרנוהו לענותו ואנחנו נתן־לך איש אלף ומאה כסף׃"
+    },
+    {
+      "uid": "Judges_446",
+      "chapter_number": 16,
+      "verse_number": 6,
+      "start_char": 34703,
+      "end_char": 34765,
+      "length": 63,
+      "text": "ותאמר דלילה אל־שמשון הגידה־נא לי במה כחך גדול ובמה תאסר לענותך׃"
+    },
+    {
+      "uid": "Judges_447",
+      "chapter_number": 16,
+      "verse_number": 7,
+      "start_char": 34766,
+      "end_char": 34845,
+      "length": 80,
+      "text": "ויאמר אליה שמשון אם־יאסרני בשבעה יתרים לחים אשר לא־חרבו וחליתי והייתי כאחד האדם׃"
+    },
+    {
+      "uid": "Judges_448",
+      "chapter_number": 16,
+      "verse_number": 8,
+      "start_char": 34846,
+      "end_char": 34906,
+      "length": 61,
+      "text": "ויעלו־לה סרני פלשתים שבעה יתרים לחים אשר לא־חרבו ותאסרהו בהם׃"
+    },
+    {
+      "uid": "Judges_449",
+      "chapter_number": 16,
+      "verse_number": 9,
+      "start_char": 34907,
+      "end_char": 35013,
+      "length": 107,
+      "text": "והארב ישב לה בחדר ותאמר אליו פלשתים עליך שמשון וינתק את־היתרים כאשר ינתק פתיל־הנערת בהריחו אש ולא נודע כחו׃"
+    },
+    {
+      "uid": "Judges_450",
+      "chapter_number": 16,
+      "verse_number": 10,
+      "start_char": 35014,
+      "end_char": 35087,
+      "length": 74,
+      "text": "ותאמר דלילה אל־שמשון הנה התלת בי ותדבר אלי כזבים עתה הגידה־נא לי במה תאסר׃"
+    },
+    {
+      "uid": "Judges_451",
+      "chapter_number": 16,
+      "verse_number": 11,
+      "start_char": 35088,
+      "end_char": 35173,
+      "length": 86,
+      "text": "ויאמר אליה אם־אסור יאסרוני בעבתים חדשים אשר לא־נעשה בהם מלאכה וחליתי והייתי כאחד האדם׃"
+    },
+    {
+      "uid": "Judges_452",
+      "chapter_number": 16,
+      "verse_number": 12,
+      "start_char": 35174,
+      "end_char": 35275,
+      "length": 102,
+      "text": "ותקח דלילה עבתים חדשים ותאסרהו בהם ותאמר אליו פלשתים עליך שמשון והארב ישב בחדר וינתקם מעל זרעתיו כחוט׃"
+    },
+    {
+      "uid": "Judges_453",
+      "chapter_number": 16,
+      "verse_number": 13,
+      "start_char": 35276,
+      "end_char": 35393,
+      "length": 118,
+      "text": "ותאמר דלילה אל־שמשון עד־הנה התלת בי ותדבר אלי כזבים הגידה לי במה תאסר ויאמר אליה אם־תארגי את־שבע מחלפות ראשי עם־המסכת׃"
+    },
+    {
+      "uid": "Judges_454",
+      "chapter_number": 16,
+      "verse_number": 14,
+      "start_char": 35394,
+      "end_char": 35473,
+      "length": 80,
+      "text": "ותתקע ביתד ותאמר אליו פלשתים עליך שמשון וייקץ משנתו ויסע את־היתד הארג ואת־המסכת׃"
+    },
+    {
+      "uid": "Judges_455",
+      "chapter_number": 16,
+      "verse_number": 15,
+      "start_char": 35474,
+      "end_char": 35559,
+      "length": 86,
+      "text": "ותאמר אליו איך תאמר אהבתיך ולבך אין אתי זה שלש פעמים התלת בי ולא־הגדת לי במה כחך גדול׃"
+    },
+    {
+      "uid": "Judges_456",
+      "chapter_number": 16,
+      "verse_number": 16,
+      "start_char": 35560,
+      "end_char": 35616,
+      "length": 57,
+      "text": "ויהי כי־הציקה לו בדבריה כל־הימים ותאלצהו ותקצר נפשו למות׃"
+    },
+    {
+      "uid": "Judges_457",
+      "chapter_number": 16,
+      "verse_number": 17,
+      "start_char": 35617,
+      "end_char": 35735,
+      "length": 119,
+      "text": "ויגד־לה את־כל־לבו ויאמר לה מורה לא־עלה על־ראשי כי־נזיר אלהים אני מבטן אמי אם־גלחתי וסר ממני כחי וחליתי והייתי ככל־האדם׃"
+    },
+    {
+      "uid": "Judges_458",
+      "chapter_number": 16,
+      "verse_number": 18,
+      "start_char": 35736,
+      "end_char": 35872,
+      "length": 137,
+      "text": "ותרא דלילה כי־הגיד לה את־כל־לבו ותשלח ותקרא לסרני פלשתים לאמר עלו הפעם כי־הגיד (לה) [לי] את־כל־לבו ועלו אליה סרני פלשתים ויעלו הכסף בידם׃"
+    },
+    {
+      "uid": "Judges_459",
+      "chapter_number": 16,
+      "verse_number": 19,
+      "start_char": 35873,
+      "end_char": 35952,
+      "length": 80,
+      "text": "ותישנהו על־ברכיה ותקרא לאיש ותגלח את־שבע מחלפות ראשו ותחל לענותו ויסר כחו מעליו׃"
+    },
+    {
+      "uid": "Judges_460",
+      "chapter_number": 16,
+      "verse_number": 20,
+      "start_char": 35953,
+      "end_char": 36042,
+      "length": 90,
+      "text": "ותאמר פלשתים עליך שמשון ויקץ משנתו ויאמר אצא כפעם בפעם ואנער והוא לא ידע כי יהוה סר מעליו׃"
+    },
+    {
+      "uid": "Judges_461",
+      "chapter_number": 16,
+      "verse_number": 21,
+      "start_char": 36043,
+      "end_char": 36144,
+      "length": 102,
+      "text": "ויאחזוהו פלשתים וינקרו את־עיניו ויורידו אותו עזתה ויאסרוהו בנחשתים ויהי טוחן בבית (האסירים) [האסורים]׃"
+    },
+    {
+      "uid": "Judges_462",
+      "chapter_number": 16,
+      "verse_number": 22,
+      "start_char": 36145,
+      "end_char": 36172,
+      "length": 28,
+      "text": "ויחל שער־ראשו לצמח כאשר גלח׃"
+    },
+    {
+      "uid": "Judges_463",
+      "chapter_number": 16,
+      "verse_number": 23,
+      "start_char": 36173,
+      "end_char": 36265,
+      "length": 93,
+      "text": "וסרני פלשתים נאספו לזבח זבח־גדול לדגון אלהיהם ולשמחה ויאמרו נתן אלהינו בידנו את שמשון אויבנו׃"
+    },
+    {
+      "uid": "Judges_464",
+      "chapter_number": 16,
+      "verse_number": 24,
+      "start_char": 36266,
+      "end_char": 36367,
+      "length": 102,
+      "text": "ויראו אתו העם ויהללו את־אלהיהם כי אמרו נתן אלהינו בידנו את־אויבנו ואת מחריב ארצנו ואשר הרבה את־חללינו׃"
+    },
+    {
+      "uid": "Judges_465",
+      "chapter_number": 16,
+      "verse_number": 25,
+      "start_char": 36368,
+      "end_char": 36498,
+      "length": 131,
+      "text": "ויהי (כי טוב) [כטוב] לבם ויאמרו קראו לשמשון וישחק־לנו ויקראו לשמשון מבית (האסירים) [האסורים] ויצחק לפניהם ויעמידו אותו בין העמודים׃"
+    },
+    {
+      "uid": "Judges_466",
+      "chapter_number": 16,
+      "verse_number": 26,
+      "start_char": 36499,
+      "end_char": 36603,
+      "length": 105,
+      "text": "ויאמר שמשון אל־הנער המחזיק בידו הניחה אותי (והימשני) [והמישני] את־העמדים אשר הבית נכון עליהם ואשען עליהם׃"
+    },
+    {
+      "uid": "Judges_467",
+      "chapter_number": 16,
+      "verse_number": 27,
+      "start_char": 36604,
+      "end_char": 36694,
+      "length": 91,
+      "text": "והבית מלא האנשים והנשים ושמה כל סרני פלשתים ועל־הגג כשלשת אלפים איש ואשה הראים בשחוק שמשון׃"
+    },
+    {
+      "uid": "Judges_468",
+      "chapter_number": 16,
+      "verse_number": 28,
+      "start_char": 36695,
+      "end_char": 36801,
+      "length": 107,
+      "text": "ויקרא שמשון אל־יהוה ויאמר אדני יהוה זכרני נא וחזקני נא אך הפעם הזה האלהים ואנקמה נקם־אחת משתי עיני מפלשתים׃"
+    },
+    {
+      "uid": "Judges_469",
+      "chapter_number": 16,
+      "verse_number": 29,
+      "start_char": 36802,
+      "end_char": 36887,
+      "length": 86,
+      "text": "וילפת שמשון את־שני׀ עמודי התוך אשר הבית נכון עליהם ויסמך עליהם אחד בימינו ואחד בשמאלו׃"
+    },
+    {
+      "uid": "Judges_470",
+      "chapter_number": 16,
+      "verse_number": 30,
+      "start_char": 36888,
+      "end_char": 37013,
+      "length": 126,
+      "text": "ויאמר שמשון תמות נפשי עם־פלשתים ויט בכח ויפל הבית על־הסרנים ועל־כל־העם אשר־בו ויהיו המתים אשר המית במותו רבים מאשר המית בחייו׃"
+    },
+    {
+      "uid": "Judges_471",
+      "chapter_number": 16,
+      "verse_number": 31,
+      "start_char": 37014,
+      "end_char": 37130,
+      "length": 117,
+      "text": "וירדו אחיו וכל־בית אביהו וישאו אתו ויעלו׀ ויקברו אותו בין צרעה ובין אשתאל בקבר מנוח אביו והוא שפט את־ישראל עשרים שנה׃"
+    },
+    {
+      "uid": "Judges_472",
+      "chapter_number": 17,
+      "verse_number": 1,
+      "start_char": 37131,
+      "end_char": 37161,
+      "length": 31,
+      "text": "ויהי־איש מהר־אפרים ושמו מיכיהו׃"
+    },
+    {
+      "uid": "Judges_473",
+      "chapter_number": 17,
+      "verse_number": 2,
+      "start_char": 37162,
+      "end_char": 37279,
+      "length": 118,
+      "text": "ויאמר לאמו אלף ומאה הכסף אשר לקח־לך (ואתי) [ואת] אלית וגם אמרת באזני הנה־הכסף אתי אני לקחתיו ותאמר אמו ברוך בני ליהוה׃"
+    },
+    {
+      "uid": "Judges_474",
+      "chapter_number": 17,
+      "verse_number": 3,
+      "start_char": 37280,
+      "end_char": 37383,
+      "length": 104,
+      "text": "וישב את־אלף־ומאה הכסף לאמו ותאמר אמו הקדש הקדשתי את־הכסף ליהוה מידי לבני לעשות פסל ומסכה ועתה אשיבנו לך׃"
+    },
+    {
+      "uid": "Judges_475",
+      "chapter_number": 17,
+      "verse_number": 4,
+      "start_char": 37384,
+      "end_char": 37467,
+      "length": 84,
+      "text": "וישב את־הכסף לאמו ותקח אמו מאתים כסף ותתנהו לצורף ויעשהו פסל ומסכה ויהי בבית מיכיהו׃"
+    },
+    {
+      "uid": "Judges_476",
+      "chapter_number": 17,
+      "verse_number": 5,
+      "start_char": 37468,
+      "end_char": 37543,
+      "length": 76,
+      "text": "והאיש מיכה לו בית אלהים ויעש אפוד ותרפים וימלא את־יד אחד מבניו ויהי־לו לכהן׃"
+    },
+    {
+      "uid": "Judges_477",
+      "chapter_number": 17,
+      "verse_number": 6,
+      "start_char": 37544,
+      "end_char": 37589,
+      "length": 46,
+      "text": "בימים ההם אין מלך בישראל איש הישר בעיניו יעשה׃"
+    },
+    {
+      "uid": "Judges_478",
+      "chapter_number": 17,
+      "verse_number": 7,
+      "start_char": 37590,
+      "end_char": 37646,
+      "length": 57,
+      "text": "ויהי־נער מבית לחם יהודה ממשפחת יהודה והוא לוי והוא גר־שם׃"
+    },
+    {
+      "uid": "Judges_479",
+      "chapter_number": 17,
+      "verse_number": 8,
+      "start_char": 37647,
+      "end_char": 37729,
+      "length": 83,
+      "text": "וילך האיש מהעיר מבית לחם יהודה לגור באשר ימצא ויבא הר־אפרים עד־בית מיכה לעשות דרכו׃"
+    },
+    {
+      "uid": "Judges_480",
+      "chapter_number": 17,
+      "verse_number": 9,
+      "start_char": 37730,
+      "end_char": 37813,
+      "length": 84,
+      "text": "ויאמר־לו מיכה מאין תבוא ויאמר אליו לוי אנכי מבית לחם יהודה ואנכי הלך לגור באשר אמצא׃"
+    },
+    {
+      "uid": "Judges_481",
+      "chapter_number": 17,
+      "verse_number": 10,
+      "start_char": 37814,
+      "end_char": 37910,
+      "length": 97,
+      "text": "ויאמר לו מיכה שבה עמדי והיה־לי לאב ולכהן ואנכי אתן־לך עשרת כסף לימים וערך בגדים ומחיתך וילך הלוי׃"
+    },
+    {
+      "uid": "Judges_482",
+      "chapter_number": 17,
+      "verse_number": 11,
+      "start_char": 37911,
+      "end_char": 37958,
+      "length": 48,
+      "text": "ויואל הלוי לשבת את־האיש ויהי הנער לו כאחד מבניו׃"
+    },
+    {
+      "uid": "Judges_483",
+      "chapter_number": 17,
+      "verse_number": 12,
+      "start_char": 37959,
+      "end_char": 38013,
+      "length": 55,
+      "text": "וימלא מיכה את־יד הלוי ויהי־לו הנער לכהן ויהי בבית מיכה׃"
+    },
+    {
+      "uid": "Judges_484",
+      "chapter_number": 17,
+      "verse_number": 13,
+      "start_char": 38014,
+      "end_char": 38071,
+      "length": 58,
+      "text": "ויאמר מיכה עתה ידעתי כי־ייטיב יהוה לי כי היה־לי הלוי לכהן׃"
+    },
+    {
+      "uid": "Judges_485",
+      "chapter_number": 18,
+      "verse_number": 1,
+      "start_char": 38072,
+      "end_char": 38183,
+      "length": 112,
+      "text": "בימים ההם אין מלך בישראל ובימים ההם שבט הדני מבקש־לו נחלה לשבת כי לא־נפלה לו עד־היום ההוא בתוך־שבטי ישראל בנחלה׃"
+    },
+    {
+      "uid": "Judges_486",
+      "chapter_number": 18,
+      "verse_number": 2,
+      "start_char": 38184,
+      "end_char": 38337,
+      "length": 154,
+      "text": "וישלחו בני־דן׀ממשפחתם חמשה אנשים מקצותם אנשים בני־חיל מצרעה ומאשתאל לרגל את־הארץ ולחקרה ויאמרו אלהם לכו חקרו את־הארץ ויבאו הר־אפרים עד־בית מיכה וילינו שם׃"
+    },
+    {
+      "uid": "Judges_487",
+      "chapter_number": 18,
+      "verse_number": 3,
+      "start_char": 38338,
+      "end_char": 38440,
+      "length": 103,
+      "text": "המה עם־בית מיכה והמה הכירו את־קול הנער הלוי ויסורו שם ויאמרו לו מי־הביאך הלם ומה־אתה עשה בזה ומה־לך פה׃"
+    },
+    {
+      "uid": "Judges_488",
+      "chapter_number": 18,
+      "verse_number": 4,
+      "start_char": 38441,
+      "end_char": 38493,
+      "length": 53,
+      "text": "ויאמר אלהם כזה וכזה עשה לי מיכה וישכרני ואהי־לו לכהן׃"
+    },
+    {
+      "uid": "Judges_489",
+      "chapter_number": 18,
+      "verse_number": 5,
+      "start_char": 38494,
+      "end_char": 38556,
+      "length": 63,
+      "text": "ויאמרו לו שאל־נא באלהים ונדעה התצלח דרכנו אשר אנחנו הלכים עליה׃"
+    },
+    {
+      "uid": "Judges_490",
+      "chapter_number": 18,
+      "verse_number": 6,
+      "start_char": 38557,
+      "end_char": 38608,
+      "length": 52,
+      "text": "ויאמר להם הכהן לכו לשלום נכח יהוה דרככם אשר תלכו־בה׃"
+    },
+    {
+      "uid": "Judges_491",
+      "chapter_number": 18,
+      "verse_number": 7,
+      "start_char": 38609,
+      "end_char": 38762,
+      "length": 154,
+      "text": "וילכו חמשת האנשים ויבאו לישה ויראו את־העם אשר־בקרבה יושבת־לבטח כמשפט צדנים שקט׀ ובטח ואין־מכלים דבר בארץ יורש עצר ורחוקים המה מצידנים ודבר אין־להם עם־אדם׃"
+    },
+    {
+      "uid": "Judges_492",
+      "chapter_number": 18,
+      "verse_number": 8,
+      "start_char": 38763,
+      "end_char": 38813,
+      "length": 51,
+      "text": "ויבאו אל־אחיהם צרעה ואשתאל ויאמרו להם אחיהם מה אתם׃"
+    },
+    {
+      "uid": "Judges_493",
+      "chapter_number": 18,
+      "verse_number": 9,
+      "start_char": 38814,
+      "end_char": 38910,
+      "length": 97,
+      "text": "ויאמרו קומה ונעלה עליהם כי ראינו את־הארץ והנה טובה מאד ואתם מחשים אל־תעצלו ללכת לבא לרשת את־הארץ׃"
+    },
+    {
+      "uid": "Judges_494",
+      "chapter_number": 18,
+      "verse_number": 10,
+      "start_char": 38911,
+      "end_char": 39006,
+      "length": 96,
+      "text": "כבאכם תבאו׀ אל־עם בטח והארץ רחבת ידים כי־נתנה אלהים בידכם מקום אשר אין־שם מחסור כל־דבר אשר בארץ׃"
+    },
+    {
+      "uid": "Judges_495",
+      "chapter_number": 18,
+      "verse_number": 11,
+      "start_char": 39007,
+      "end_char": 39069,
+      "length": 63,
+      "text": "ויסעו משם ממשפחת הדני מצרעה ומאשתאל שש־מאות איש חגור כלי מלחמה׃"
+    },
+    {
+      "uid": "Judges_496",
+      "chapter_number": 18,
+      "verse_number": 12,
+      "start_char": 39070,
+      "end_char": 39162,
+      "length": 93,
+      "text": "ויעלו ויחנו בקרית יערים ביהודה על־כן קראו למקום ההוא מחנה־דן עד היום הזה הנה אחרי קרית יערים׃"
+    },
+    {
+      "uid": "Judges_497",
+      "chapter_number": 18,
+      "verse_number": 13,
+      "start_char": 39163,
+      "end_char": 39200,
+      "length": 38,
+      "text": "ויעברו משם הר־אפרים ויבאו עד־בית מיכה׃"
+    },
+    {
+      "uid": "Judges_498",
+      "chapter_number": 18,
+      "verse_number": 14,
+      "start_char": 39201,
+      "end_char": 39322,
+      "length": 122,
+      "text": "ויענו חמשת האנשים ההלכים לרגל את־הארץ ליש ויאמרו אל־אחיהם הידעתם כי יש בבתים האלה אפוד ותרפים ופסל ומסכה ועתה דעו מה־תעשו׃"
+    },
+    {
+      "uid": "Judges_499",
+      "chapter_number": 18,
+      "verse_number": 15,
+      "start_char": 39323,
+      "end_char": 39381,
+      "length": 59,
+      "text": "ויסורו שמה ויבאו אל־בית־הנער הלוי בית מיכה וישאלו־לו לשלום׃"
+    },
+    {
+      "uid": "Judges_500",
+      "chapter_number": 18,
+      "verse_number": 16,
+      "start_char": 39382,
+      "end_char": 39439,
+      "length": 58,
+      "text": "ושש־מאות איש חגורים כלי מלחמתם נצבים פתח השער אשר מבני־דן׃"
+    },
+    {
+      "uid": "Judges_501",
+      "chapter_number": 18,
+      "verse_number": 17,
+      "start_char": 39440,
+      "end_char": 39579,
+      "length": 140,
+      "text": "ויעלו חמשת האנשים ההלכים לרגל את־הארץ באו שמה לקחו את־הפסל ואת־האפוד ואת־התרפים ואת־המסכה והכהן נצב פתח השער ושש־מאות האיש החגור כלי המלחמה׃"
+    },
+    {
+      "uid": "Judges_502",
+      "chapter_number": 18,
+      "verse_number": 18,
+      "start_char": 39580,
+      "end_char": 39666,
+      "length": 87,
+      "text": "ואלה באו בית מיכה ויקחו את־פסל האפוד ואת־התרפים ואת־המסכה ויאמר אליהם הכהן מה אתם עשים׃"
+    },
+    {
+      "uid": "Judges_503",
+      "chapter_number": 18,
+      "verse_number": 19,
+      "start_char": 39667,
+      "end_char": 39786,
+      "length": 120,
+      "text": "ויאמרו לו החרש שים־ידך על־פיך ולך עמנו והיה־לנו לאב ולכהן הטוב׀ היותך כהן לבית איש אחד או היותך כהן לשבט ולמשפחה בישראל׃"
+    },
+    {
+      "uid": "Judges_504",
+      "chapter_number": 18,
+      "verse_number": 20,
+      "start_char": 39787,
+      "end_char": 39848,
+      "length": 62,
+      "text": "וייטב לב הכהן ויקח את־האפוד ואת־התרפים ואת־הפסל ויבא בקרב העם׃"
+    },
+    {
+      "uid": "Judges_505",
+      "chapter_number": 18,
+      "verse_number": 21,
+      "start_char": 39849,
+      "end_char": 39902,
+      "length": 54,
+      "text": "ויפנו וילכו וישימו את־הטף ואת־המקנה ואת־הכבודה לפניהם׃"
+    },
+    {
+      "uid": "Judges_506",
+      "chapter_number": 18,
+      "verse_number": 22,
+      "start_char": 39903,
+      "end_char": 39981,
+      "length": 79,
+      "text": "המה הרחיקו מבית מיכה והאנשים אשר בבתים אשר עם־בית מיכה נזעקו וידביקו את־בני־דן׃"
+    },
+    {
+      "uid": "Judges_507",
+      "chapter_number": 18,
+      "verse_number": 23,
+      "start_char": 39982,
+      "end_char": 40038,
+      "length": 57,
+      "text": "ויקראו אל־בני־דן ויסבו פניהם ויאמרו למיכה מה־לך כי נזעקת׃"
+    },
+    {
+      "uid": "Judges_508",
+      "chapter_number": 18,
+      "verse_number": 24,
+      "start_char": 40039,
+      "end_char": 40117,
+      "length": 79,
+      "text": "ויאמר את־אלהי אשר־עשיתי לקחתם ואת־הכהן ותלכו ומה־לי עוד ומה־זה תאמרו אלי מה־לך׃"
+    },
+    {
+      "uid": "Judges_509",
+      "chapter_number": 18,
+      "verse_number": 25,
+      "start_char": 40118,
+      "end_char": 40203,
+      "length": 86,
+      "text": "ויאמרו אליו בני־דן אל־תשמע קולך עמנו פן־יפגעו בכם אנשים מרי נפש ואספתה נפשך ונפש ביתך׃"
+    },
+    {
+      "uid": "Judges_510",
+      "chapter_number": 18,
+      "verse_number": 26,
+      "start_char": 40204,
+      "end_char": 40268,
+      "length": 65,
+      "text": "וילכו בני־דן לדרכם וירא מיכה כי־חזקים המה ממנו ויפן וישב אל־ביתו׃"
+    },
+    {
+      "uid": "Judges_511",
+      "chapter_number": 18,
+      "verse_number": 27,
+      "start_char": 40269,
+      "end_char": 40378,
+      "length": 110,
+      "text": "והמה לקחו את אשר־עשה מיכה ואת־הכהן אשר היה־לו ויבאו על־ליש על־עם שקט ובטח ויכו אותם לפי־חרב ואת־העיר שרפו באש׃"
+    },
+    {
+      "uid": "Judges_512",
+      "chapter_number": 18,
+      "verse_number": 28,
+      "start_char": 40379,
+      "end_char": 40475,
+      "length": 97,
+      "text": "ואין מציל כי רחוקה־היא מצידון ודבר אין־להם עם־אדם והיא בעמק אשר לבית־רחוב ויבנו את־העיר וישבו בה׃"
+    },
+    {
+      "uid": "Judges_513",
+      "chapter_number": 18,
+      "verse_number": 29,
+      "start_char": 40476,
+      "end_char": 40547,
+      "length": 72,
+      "text": "ויקראו שם־העיר דן בשם דן אביהם אשר יולד לישראל ואולם ליש שם־העיר לראשנה׃"
+    },
+    {
+      "uid": "Judges_514",
+      "chapter_number": 18,
+      "verse_number": 30,
+      "start_char": 40548,
+      "end_char": 40644,
+      "length": 97,
+      "text": "ויקימו להם בני־דן את־הפסל ויהונתן בן־גרשם בן־מנשה הוא ובניו היו כהנים לשבט הדני עד־יום גלות הארץ׃"
+    },
+    {
+      "uid": "Judges_515",
+      "chapter_number": 18,
+      "verse_number": 31,
+      "start_char": 40645,
+      "end_char": 40703,
+      "length": 59,
+      "text": "וישימו להם את־פסל מיכה אשר עשה כל־ימי היות בית־האלהים בשלה׃"
+    },
+    {
+      "uid": "Judges_516",
+      "chapter_number": 19,
+      "verse_number": 1,
+      "start_char": 40704,
+      "end_char": 40800,
+      "length": 97,
+      "text": "ויהי בימים ההם ומלך אין בישראל ויהי׀ איש לוי גר בירכתי הר־אפרים ויקח־לו אשה פילגש מבית לחם יהודה׃"
+    },
+    {
+      "uid": "Judges_517",
+      "chapter_number": 19,
+      "verse_number": 2,
+      "start_char": 40801,
+      "end_char": 40882,
+      "length": 82,
+      "text": "ותזנה עליו פילגשו ותלך מאתו אל־בית אביה אל־בית לחם יהודה ותהי־שם ימים ארבעה חדשים׃"
+    },
+    {
+      "uid": "Judges_518",
+      "chapter_number": 19,
+      "verse_number": 3,
+      "start_char": 40883,
+      "end_char": 41001,
+      "length": 119,
+      "text": "ויקם אישה וילך אחריה לדבר על־לבה (להשיבו) [להשיבה] ונערו עמו וצמד חמרים ותביאהו בית אביה ויראהו אבי הנערה וישמח לקראתו׃"
+    },
+    {
+      "uid": "Judges_519",
+      "chapter_number": 19,
+      "verse_number": 4,
+      "start_char": 41002,
+      "end_char": 41067,
+      "length": 66,
+      "text": "ויחזק־בו חתנו אבי הנערה וישב אתו שלשת ימים ויאכלו וישתו וילינו שם׃"
+    },
+    {
+      "uid": "Judges_520",
+      "chapter_number": 19,
+      "verse_number": 5,
+      "start_char": 41068,
+      "end_char": 41156,
+      "length": 89,
+      "text": "ויהי ביום הרביעי וישכימו בבקר ויקם ללכת ויאמר אבי הנערה אל־חתנו סעד לבך פת־לחם ואחר תלכו׃"
+    },
+    {
+      "uid": "Judges_521",
+      "chapter_number": 19,
+      "verse_number": 6,
+      "start_char": 41157,
+      "end_char": 41233,
+      "length": 77,
+      "text": "וישבו ויאכלו שניהם יחדו וישתו ויאמר אבי הנערה אל־האיש הואל־נא ולין וייטב לבך׃"
+    },
+    {
+      "uid": "Judges_522",
+      "chapter_number": 19,
+      "verse_number": 7,
+      "start_char": 41234,
+      "end_char": 41275,
+      "length": 42,
+      "text": "ויקם האיש ללכת ויפצר־בו חתנו וישב וילן שם׃"
+    },
+    {
+      "uid": "Judges_523",
+      "chapter_number": 19,
+      "verse_number": 8,
+      "start_char": 41276,
+      "end_char": 41367,
+      "length": 92,
+      "text": "וישכם בבקר ביום החמישי ללכת ויאמר׀ אבי הנערה סעד־נא לבבך והתמהמהו עד־נטות היום ויאכלו שניהם׃"
+    },
+    {
+      "uid": "Judges_524",
+      "chapter_number": 19,
+      "verse_number": 9,
+      "start_char": 41368,
+      "end_char": 41517,
+      "length": 150,
+      "text": "ויקם האיש ללכת הוא ופילגשו ונערו ויאמר לו חתנו אבי הנערה הנה נא רפה היום לערוב לינו־נא הנה חנות היום לין פה וייטב לבבך והשכמתם מחר לדרככם והלכת לאהלך׃"
+    },
+    {
+      "uid": "Judges_525",
+      "chapter_number": 19,
+      "verse_number": 10,
+      "start_char": 41518,
+      "end_char": 41609,
+      "length": 92,
+      "text": "ולא־אבה האיש ללון ויקם וילך ויבא עד־נכח יבוס היא ירושל͏ם ועמו צמד חמורים חבושים ופילגשו עמו׃"
+    },
+    {
+      "uid": "Judges_526",
+      "chapter_number": 19,
+      "verse_number": 11,
+      "start_char": 41610,
+      "end_char": 41695,
+      "length": 86,
+      "text": "הם עם־יבוס והיום רד מאד ויאמר הנער אל־אדניו לכה־נא ונסורה אל־עיר־היבוסי הזאת ונלין בה׃"
+    },
+    {
+      "uid": "Judges_527",
+      "chapter_number": 19,
+      "verse_number": 12,
+      "start_char": 41696,
+      "end_char": 41769,
+      "length": 74,
+      "text": "ויאמר אליו אדניו לא נסור אל־עיר נכרי אשר לא־מבני ישראל הנה ועברנו עד־גבעה׃"
+    },
+    {
+      "uid": "Judges_528",
+      "chapter_number": 19,
+      "verse_number": 13,
+      "start_char": 41770,
+      "end_char": 41822,
+      "length": 53,
+      "text": "ויאמר לנערו לך ונקרבה באחד המקמות ולנו בגבעה או ברמה׃"
+    },
+    {
+      "uid": "Judges_529",
+      "chapter_number": 19,
+      "verse_number": 14,
+      "start_char": 41823,
+      "end_char": 41870,
+      "length": 48,
+      "text": "ויעברו וילכו ותבא להם השמש אצל הגבעה אשר לבנימן׃"
+    },
+    {
+      "uid": "Judges_530",
+      "chapter_number": 19,
+      "verse_number": 15,
+      "start_char": 41871,
+      "end_char": 41946,
+      "length": 76,
+      "text": "ויסרו שם לבוא ללון בגבעה ויבא וישב ברחוב העיר ואין איש מאסף־אותם הביתה ללון׃"
+    },
+    {
+      "uid": "Judges_531",
+      "chapter_number": 19,
+      "verse_number": 16,
+      "start_char": 41947,
+      "end_char": 42037,
+      "length": 91,
+      "text": "והנה׀ איש זקן בא מן־מעשהו מן־השדה בערב והאיש מהר אפרים והוא־גר בגבעה ואנשי המקום בני ימיני׃"
+    },
+    {
+      "uid": "Judges_532",
+      "chapter_number": 19,
+      "verse_number": 17,
+      "start_char": 42038,
+      "end_char": 42111,
+      "length": 74,
+      "text": "וישא עיניו וירא את־האיש הארח ברחב העיר ויאמר האיש הזקן אנה תלך ומאין תבוא׃"
+    },
+    {
+      "uid": "Judges_533",
+      "chapter_number": 19,
+      "verse_number": 18,
+      "start_char": 42112,
+      "end_char": 42244,
+      "length": 133,
+      "text": "ויאמר אליו עברים אנחנו מבית־לחם יהודה עד־ירכתי הר־אפרים משם אנכי ואלך עד־בית לחם יהודה ואת־בית יהוה אני הלך ואין איש מאסף אותי הביתה׃"
+    },
+    {
+      "uid": "Judges_534",
+      "chapter_number": 19,
+      "verse_number": 19,
+      "start_char": 42245,
+      "end_char": 42331,
+      "length": 87,
+      "text": "וגם־תבן גם־מספוא יש לחמורינו וגם לחם ויין יש־לי ולאמתך ולנער עם־עבדיך אין מחסור כל־דבר׃"
+    },
+    {
+      "uid": "Judges_535",
+      "chapter_number": 19,
+      "verse_number": 20,
+      "start_char": 42332,
+      "end_char": 42388,
+      "length": 57,
+      "text": "ויאמר האיש הזקן שלום לך רק כל־מחסורך עלי רק ברחוב אל־תלן׃"
+    },
+    {
+      "uid": "Judges_536",
+      "chapter_number": 19,
+      "verse_number": 21,
+      "start_char": 42389,
+      "end_char": 42452,
+      "length": 64,
+      "text": "ויביאהו לביתו (ויבול) [ויבל] לחמורים וירחצו רגליהם ויאכלו וישתו׃"
+    },
+    {
+      "uid": "Judges_537",
+      "chapter_number": 19,
+      "verse_number": 22,
+      "start_char": 42453,
+      "end_char": 42599,
+      "length": 147,
+      "text": "המה מיטיבים את־לבם והנה אנשי העיר אנשי בני־בליעל נסבו את־הבית מתדפקים על־הדלת ויאמרו אל־האיש בעל הבית הזקן לאמר הוצא את־האיש אשר־בא אל־ביתך ונדענו׃"
+    },
+    {
+      "uid": "Judges_538",
+      "chapter_number": 19,
+      "verse_number": 23,
+      "start_char": 42600,
+      "end_char": 42704,
+      "length": 105,
+      "text": "ויצא אליהם האיש בעל הבית ויאמר אלהם אל־אחי אל־תרעו נא אחרי אשר־בא האיש הזה אל־ביתי אל־תעשו את־הנבלה הזאת׃"
+    },
+    {
+      "uid": "Judges_539",
+      "chapter_number": 19,
+      "verse_number": 24,
+      "start_char": 42705,
+      "end_char": 42808,
+      "length": 104,
+      "text": "הנה בתי הבתולה ופילגשהו אוציאה־נא אותם וענו אותם ועשו להם הטוב בעיניכם ולאיש הזה לא תעשו דבר הנבלה הזאת׃"
+    },
+    {
+      "uid": "Judges_540",
+      "chapter_number": 19,
+      "verse_number": 25,
+      "start_char": 42809,
+      "end_char": 42934,
+      "length": 126,
+      "text": "ולא־אבו האנשים לשמע לו ויחזק האיש בפילגשו ויצא אליהם החוץ וידעו אותה ויתעללו־בה כל־הלילה עד־הבקר וישלחוה (בעלות) [כעלות] השחר׃"
+    },
+    {
+      "uid": "Judges_541",
+      "chapter_number": 19,
+      "verse_number": 26,
+      "start_char": 42935,
+      "end_char": 42995,
+      "length": 61,
+      "text": "ותבא האשה לפנות הבקר ותפל פתח בית־האיש אשר־אדוניה שם עד־האור׃"
+    },
+    {
+      "uid": "Judges_542",
+      "chapter_number": 19,
+      "verse_number": 27,
+      "start_char": 42996,
+      "end_char": 43088,
+      "length": 93,
+      "text": "ויקם אדניה בבקר ויפתח דלתות הבית ויצא ללכת לדרכו והנה האשה פילגשו נפלת פתח הבית וידיה על־הסף׃"
+    },
+    {
+      "uid": "Judges_543",
+      "chapter_number": 19,
+      "verse_number": 28,
+      "start_char": 43089,
+      "end_char": 43155,
+      "length": 67,
+      "text": "ויאמר אליה קומי ונלכה ואין ענה ויקחה על־החמור ויקם האיש וילך למקמו׃"
+    },
+    {
+      "uid": "Judges_544",
+      "chapter_number": 19,
+      "verse_number": 29,
+      "start_char": 43156,
+      "end_char": 43249,
+      "length": 94,
+      "text": "ויבא אל־ביתו ויקח את־המאכלת ויחזק בפילגשו וינתחה לעצמיה לשנים עשר נתחים וישלחה בכל גבול ישראל׃"
+    },
+    {
+      "uid": "Judges_545",
+      "chapter_number": 19,
+      "verse_number": 30,
+      "start_char": 43250,
+      "end_char": 43359,
+      "length": 110,
+      "text": "והיה כל־הראה ואמר לא־נהיתה ולא־נראתה כזאת למיום עלות בני־ישראל מארץ מצרים עד היום הזה שימו־לכם עליה עצו ודברו׃"
+    },
+    {
+      "uid": "Judges_546",
+      "chapter_number": 20,
+      "verse_number": 1,
+      "start_char": 43360,
+      "end_char": 43440,
+      "length": 81,
+      "text": "ויצאו כל־בני ישראל ותקהל העדה כאיש אחד למדן ועד־באר שבע וארץ הגלעד אל־יהוה המצפה׃"
+    },
+    {
+      "uid": "Judges_547",
+      "chapter_number": 20,
+      "verse_number": 2,
+      "start_char": 43441,
+      "end_char": 43520,
+      "length": 80,
+      "text": "ויתיצבו פנות כל־העם כל שבטי ישראל בקהל עם האלהים ארבע מאות אלף איש רגלי שלף־חרב׃"
+    },
+    {
+      "uid": "Judges_548",
+      "chapter_number": 20,
+      "verse_number": 3,
+      "start_char": 43521,
+      "end_char": 43603,
+      "length": 83,
+      "text": "וישמעו בני בנימן כי־עלו בני־ישראל המצפה ויאמרו בני ישראל דברו איכה נהיתה הרעה הזאת׃"
+    },
+    {
+      "uid": "Judges_549",
+      "chapter_number": 20,
+      "verse_number": 4,
+      "start_char": 43604,
+      "end_char": 43680,
+      "length": 77,
+      "text": "ויען האיש הלוי איש האשה הנרצחה ויאמר הגבעתה אשר לבנימן באתי אני ופילגשי ללון׃"
+    },
+    {
+      "uid": "Judges_550",
+      "chapter_number": 20,
+      "verse_number": 5,
+      "start_char": 43681,
+      "end_char": 43758,
+      "length": 78,
+      "text": "ויקמו עלי בעלי הגבעה ויסבו עלי את־הבית לילה אותי דמו להרג ואת־פילגשי ענו ותמת׃"
+    },
+    {
+      "uid": "Judges_551",
+      "chapter_number": 20,
+      "verse_number": 6,
+      "start_char": 43759,
+      "end_char": 43828,
+      "length": 70,
+      "text": "ואחז בפילגשי ואנתחה ואשלחה בכל־שדה נחלת ישראל כי עשו זמה ונבלה בישראל׃"
+    },
+    {
+      "uid": "Judges_552",
+      "chapter_number": 20,
+      "verse_number": 7,
+      "start_char": 43829,
+      "end_char": 43868,
+      "length": 40,
+      "text": "הנה כלכם בני ישראל הבו לכם דבר ועצה הלם׃"
+    },
+    {
+      "uid": "Judges_553",
+      "chapter_number": 20,
+      "verse_number": 8,
+      "start_char": 43869,
+      "end_char": 43930,
+      "length": 62,
+      "text": "ויקם כל־העם כאיש אחד לאמר לא נלך איש לאהלו ולא נסור איש לביתו׃"
+    },
+    {
+      "uid": "Judges_554",
+      "chapter_number": 20,
+      "verse_number": 9,
+      "start_char": 43931,
+      "end_char": 43969,
+      "length": 39,
+      "text": "ועתה זה הדבר אשר נעשה לגבעה עליה בגורל׃"
+    },
+    {
+      "uid": "Judges_555",
+      "chapter_number": 20,
+      "verse_number": 10,
+      "start_char": 43970,
+      "end_char": 44090,
+      "length": 121,
+      "text": "ולקחנו עשרה אנשים למאה לכל׀ שבטי ישראל ומאה לאלף ואלף לרבבה לקחת צדה לעם לעשות לבואם לגבע בנימן ככל־הנבלה אשר עשה בישראל׃"
+    },
+    {
+      "uid": "Judges_556",
+      "chapter_number": 20,
+      "verse_number": 11,
+      "start_char": 44091,
+      "end_char": 44132,
+      "length": 42,
+      "text": "ויאסף כל־איש ישראל אל־העיר כאיש אחד חברים׃"
+    },
+    {
+      "uid": "Judges_557",
+      "chapter_number": 20,
+      "verse_number": 12,
+      "start_char": 44133,
+      "end_char": 44203,
+      "length": 71,
+      "text": "וישלחו שבטי ישראל אנשים בכל־שבטי בנימן לאמר מה הרעה הזאת אשר נהיתה בכם׃"
+    },
+    {
+      "uid": "Judges_558",
+      "chapter_number": 20,
+      "verse_number": 13,
+      "start_char": 44204,
+      "end_char": 44313,
+      "length": 110,
+      "text": "ועתה תנו את־האנשים בני־בליעל אשר בגבעה ונמיתם ונבערה רעה מישראל ולא אבו [בני] בנימן לשמע בקול אחיהם בני־ישראל׃"
+    },
+    {
+      "uid": "Judges_559",
+      "chapter_number": 20,
+      "verse_number": 14,
+      "start_char": 44314,
+      "end_char": 44371,
+      "length": 58,
+      "text": "ויאספו בני־בנימן מן־הערים הגבעתה לצאת למלחמה עם־בני ישראל׃"
+    },
+    {
+      "uid": "Judges_560",
+      "chapter_number": 20,
+      "verse_number": 15,
+      "start_char": 44372,
+      "end_char": 44474,
+      "length": 103,
+      "text": "ויתפקדו בני בנימן ביום ההוא מהערים עשרים וששה אלף איש שלף חרב לבד מישבי הגבעה התפקדו שבע מאות איש בחור׃"
+    },
+    {
+      "uid": "Judges_561",
+      "chapter_number": 20,
+      "verse_number": 16,
+      "start_char": 44475,
+      "end_char": 44551,
+      "length": 77,
+      "text": "מכל׀ העם הזה שבע מאות איש בחור אטר יד־ימינו כל־זה קלע באבן אל־השערה ולא יחטא׃"
+    },
+    {
+      "uid": "Judges_562",
+      "chapter_number": 20,
+      "verse_number": 17,
+      "start_char": 44552,
+      "end_char": 44622,
+      "length": 71,
+      "text": "ואיש ישראל התפקדו לבד מבנימן ארבע מאות אלף איש שלף חרב כל־זה איש מלחמה׃"
+    },
+    {
+      "uid": "Judges_563",
+      "chapter_number": 20,
+      "verse_number": 18,
+      "start_char": 44623,
+      "end_char": 44733,
+      "length": 111,
+      "text": "ויקמו ויעלו בית־אל וישאלו באלהים ויאמרו בני ישראל מי יעלה־לנו בתחלה למלחמה עם־בני בנימן ויאמר יהוה יהודה בתחלה׃"
+    },
+    {
+      "uid": "Judges_564",
+      "chapter_number": 20,
+      "verse_number": 19,
+      "start_char": 44734,
+      "end_char": 44770,
+      "length": 37,
+      "text": "ויקומו בני־ישראל בבקר ויחנו על־הגבעה׃"
+    },
+    {
+      "uid": "Judges_565",
+      "chapter_number": 20,
+      "verse_number": 20,
+      "start_char": 44771,
+      "end_char": 44837,
+      "length": 67,
+      "text": "ויצא איש ישראל למלחמה עם־בנימן ויערכו אתם איש־ישראל מלחמה אל־הגבעה׃"
+    },
+    {
+      "uid": "Judges_566",
+      "chapter_number": 20,
+      "verse_number": 21,
+      "start_char": 44838,
+      "end_char": 44912,
+      "length": 75,
+      "text": "ויצאו בני־בנימן מן־הגבעה וישחיתו בישראל ביום ההוא שנים ועשרים אלף איש ארצה׃"
+    },
+    {
+      "uid": "Judges_567",
+      "chapter_number": 20,
+      "verse_number": 22,
+      "start_char": 44913,
+      "end_char": 44980,
+      "length": 68,
+      "text": "ויתחזק העם איש ישראל ויספו לערך מלחמה במקום אשר־ערכו שם ביום הראשון׃"
+    },
+    {
+      "uid": "Judges_568",
+      "chapter_number": 20,
+      "verse_number": 23,
+      "start_char": 44981,
+      "end_char": 45094,
+      "length": 114,
+      "text": "ויעלו בני־ישראל ויבכו לפני־יהוה עד־הערב וישאלו ביהוה לאמר האוסיף לגשת למלחמה עם־בני בנימן אחי ויאמר יהוה עלו אליו׃"
+    },
+    {
+      "uid": "Judges_569",
+      "chapter_number": 20,
+      "verse_number": 24,
+      "start_char": 45095,
+      "end_char": 45134,
+      "length": 40,
+      "text": "ויקרבו בני־ישראל אל־בני בנימן ביום השני׃"
+    },
+    {
+      "uid": "Judges_570",
+      "chapter_number": 20,
+      "verse_number": 25,
+      "start_char": 45135,
+      "end_char": 45232,
+      "length": 98,
+      "text": "ויצא בנימן׀לקראתם׀מן־הגבעה ביום השני וישחיתו בבני ישראל עוד שמנת עשר אלף איש ארצה כל־אלה שלפי חרב׃"
+    },
+    {
+      "uid": "Judges_571",
+      "chapter_number": 20,
+      "verse_number": 26,
+      "start_char": 45233,
+      "end_char": 45350,
+      "length": 118,
+      "text": "ויעלו כל־בני ישראל וכל־העם ויבאו בית־אל ויבכו וישבו שם לפני יהוה ויצומו ביום־ההוא עד־הערב ויעלו עלות ושלמים לפני יהוה׃"
+    },
+    {
+      "uid": "Judges_572",
+      "chapter_number": 20,
+      "verse_number": 27,
+      "start_char": 45351,
+      "end_char": 45404,
+      "length": 54,
+      "text": "וישאלו בני־ישראל ביהוה ושם ארון ברית האלהים בימים ההם׃"
+    },
+    {
+      "uid": "Judges_573",
+      "chapter_number": 20,
+      "verse_number": 28,
+      "start_char": 45405,
+      "end_char": 45534,
+      "length": 130,
+      "text": "ופינחס בן־אלעזר בן־אהרן עמד׀ לפניו בימים ההם לאמר האוסף עוד לצאת למלחמה עם־בני־בנימן אחי אם־אחדל ויאמר יהוה עלו כי מחר אתננו בידך׃"
+    },
+    {
+      "uid": "Judges_574",
+      "chapter_number": 20,
+      "verse_number": 29,
+      "start_char": 45535,
+      "end_char": 45565,
+      "length": 31,
+      "text": "וישם ישראל ארבים אל־הגבעה סביב׃"
+    },
+    {
+      "uid": "Judges_575",
+      "chapter_number": 20,
+      "verse_number": 30,
+      "start_char": 45566,
+      "end_char": 45632,
+      "length": 67,
+      "text": "ויעלו בני־ישראל אל־בני בנימן ביום השלישי ויערכו אל־הגבעה כפעם בפעם׃"
+    },
+    {
+      "uid": "Judges_576",
+      "chapter_number": 20,
+      "verse_number": 31,
+      "start_char": 45633,
+      "end_char": 45766,
+      "length": 134,
+      "text": "ויצאו בני־בנימן לקראת העם הנתקו מן־העיר ויחלו להכות מהעם חללים כפעם׀ בפעם במסלות אשר אחת עלה בית־אל ואחת גבעתה בשדה כשלשים איש בישראל׃"
+    },
+    {
+      "uid": "Judges_577",
+      "chapter_number": 20,
+      "verse_number": 32,
+      "start_char": 45767,
+      "end_char": 45856,
+      "length": 90,
+      "text": "ויאמרו בני בנימן נגפים הם לפנינו כבראשנה ובני ישראל אמרו ננוסה ונתקנוהו מן־העיר אל־המסלות׃"
+    },
+    {
+      "uid": "Judges_578",
+      "chapter_number": 20,
+      "verse_number": 33,
+      "start_char": 45857,
+      "end_char": 45930,
+      "length": 74,
+      "text": "וכל׀ איש ישראל קמו ממקומו ויערכו בבעל תמר וארב ישראל מגיח ממקמו ממערה גבע׃"
+    },
+    {
+      "uid": "Judges_579",
+      "chapter_number": 20,
+      "verse_number": 34,
+      "start_char": 45931,
+      "end_char": 46021,
+      "length": 91,
+      "text": "ויבאו מנגד לגבעה עשרת אלפים איש בחור מכל־ישראל והמלחמה כבדה והם לא ידעו כי־נגעת עליהם הרעה׃"
+    },
+    {
+      "uid": "Judges_580",
+      "chapter_number": 20,
+      "verse_number": 35,
+      "start_char": 46022,
+      "end_char": 46126,
+      "length": 105,
+      "text": "ויגף יהוה׀את־בנימן לפני ישראל וישחיתו בני ישראל בבנימן ביום ההוא עשרים וחמשה אלף ומאה איש כל־אלה שלף־חרב׃"
+    },
+    {
+      "uid": "Judges_581",
+      "chapter_number": 20,
+      "verse_number": 36,
+      "start_char": 46127,
+      "end_char": 46211,
+      "length": 85,
+      "text": "ויראו בני־בנימן כי נגפו ויתנו איש־ישראל מקום לבנימן כי בטחו אל־הארב אשר־שמו אל־הגבעה׃"
+    },
+    {
+      "uid": "Judges_582",
+      "chapter_number": 20,
+      "verse_number": 37,
+      "start_char": 46212,
+      "end_char": 46273,
+      "length": 62,
+      "text": "והארב החישו ויפשטו אל־הגבעה וימשך הארב ויך את־כל־העיר לפי־חרב׃"
+    },
+    {
+      "uid": "Judges_583",
+      "chapter_number": 20,
+      "verse_number": 38,
+      "start_char": 46274,
+      "end_char": 46333,
+      "length": 60,
+      "text": "והמועד היה לאיש ישראל עם־הארב הרב להעלותם משאת העשן מן־העיר׃"
+    },
+    {
+      "uid": "Judges_584",
+      "chapter_number": 20,
+      "verse_number": 39,
+      "start_char": 46334,
+      "end_char": 46446,
+      "length": 113,
+      "text": "ויהפך איש־ישראל במלחמה ובנימן החל להכות חללים באיש־ישראל כשלשים איש כי אמרו אך נגוף נגף הוא לפנינו כמלחמה הראשנה׃"
+    },
+    {
+      "uid": "Judges_585",
+      "chapter_number": 20,
+      "verse_number": 40,
+      "start_char": 46447,
+      "end_char": 46524,
+      "length": 78,
+      "text": "והמשאת החלה לעלות מן־העיר עמוד עשן ויפן בנימן אחריו והנה עלה כליל־העיר השמימה׃"
+    },
+    {
+      "uid": "Judges_586",
+      "chapter_number": 20,
+      "verse_number": 41,
+      "start_char": 46525,
+      "end_char": 46580,
+      "length": 56,
+      "text": "ואיש ישראל הפך ויבהל איש בנימן כי ראה כי־נגעה עליו הרעה׃"
+    },
+    {
+      "uid": "Judges_587",
+      "chapter_number": 20,
+      "verse_number": 42,
+      "start_char": 46581,
+      "end_char": 46662,
+      "length": 82,
+      "text": "ויפנו לפני איש ישראל אל־דרך המדבר והמלחמה הדביקתהו ואשר מהערים משחיתים אותו בתוכו׃"
+    },
+    {
+      "uid": "Judges_588",
+      "chapter_number": 20,
+      "verse_number": 43,
+      "start_char": 46663,
+      "end_char": 46721,
+      "length": 59,
+      "text": "כתרו את־בנימן הרדיפהו מנוחה הדריכהו עד נכח הגבעה ממזרח־שמש׃"
+    },
+    {
+      "uid": "Judges_589",
+      "chapter_number": 20,
+      "verse_number": 44,
+      "start_char": 46722,
+      "end_char": 46770,
+      "length": 49,
+      "text": "ויפלו מבנימן שמנה־עשר אלף איש את־כל־אלה אנשי־חיל׃"
+    },
+    {
+      "uid": "Judges_590",
+      "chapter_number": 20,
+      "verse_number": 45,
+      "start_char": 46771,
+      "end_char": 46874,
+      "length": 104,
+      "text": "ויפנו וינסו המדברה אל־סלע הרמון ויעללהו במסלות חמשת אלפים איש וידביקו אחריו עד־גדעם ויכו ממנו אלפים איש׃"
+    },
+    {
+      "uid": "Judges_591",
+      "chapter_number": 20,
+      "verse_number": 46,
+      "start_char": 46875,
+      "end_char": 46953,
+      "length": 79,
+      "text": "ויהי כל־הנפלים מבנימן עשרים וחמשה אלף איש שלף חרב ביום ההוא את־כל־אלה אנשי־חיל׃"
+    },
+    {
+      "uid": "Judges_592",
+      "chapter_number": 20,
+      "verse_number": 47,
+      "start_char": 46954,
+      "end_char": 47025,
+      "length": 72,
+      "text": "ויפנו וינסו המדברה אל־סלע הרמון שש מאות איש וישבו בסלע רמון ארבעה חדשים׃"
+    },
+    {
+      "uid": "Judges_593",
+      "chapter_number": 20,
+      "verse_number": 48,
+      "start_char": 47026,
+      "end_char": 47125,
+      "length": 100,
+      "text": "ואיש ישראל שבו אל־בני בנימן ויכום לפי־חרב מעיר מתם עד־בהמה עד כל־הנמצא גם כל־הערים הנמצאות שלחו באש׃"
+    },
+    {
+      "uid": "Judges_594",
+      "chapter_number": 21,
+      "verse_number": 1,
+      "start_char": 47126,
+      "end_char": 47184,
+      "length": 59,
+      "text": "ואיש ישראל נשבע במצפה לאמר איש ממנו לא־יתן בתו לבנימן לאשה׃"
+    },
+    {
+      "uid": "Judges_595",
+      "chapter_number": 21,
+      "verse_number": 2,
+      "start_char": 47185,
+      "end_char": 47255,
+      "length": 71,
+      "text": "ויבא העם בית־אל וישבו שם עד־הערב לפני האלהים וישאו קולם ויבכו בכי גדול׃"
+    },
+    {
+      "uid": "Judges_596",
+      "chapter_number": 21,
+      "verse_number": 3,
+      "start_char": 47256,
+      "end_char": 47324,
+      "length": 69,
+      "text": "ויאמרו למה יהוה אלהי ישראל היתה זאת בישראל להפקד היום מישראל שבט אחד׃"
+    },
+    {
+      "uid": "Judges_597",
+      "chapter_number": 21,
+      "verse_number": 4,
+      "start_char": 47325,
+      "end_char": 47379,
+      "length": 55,
+      "text": "ויהי ממחרת וישכימו העם ויבנו־שם מזבח ויעלו עלות ושלמים׃"
+    },
+    {
+      "uid": "Judges_598",
+      "chapter_number": 21,
+      "verse_number": 5,
+      "start_char": 47380,
+      "end_char": 47500,
+      "length": 121,
+      "text": "ויאמרו בני ישראל מי אשר לא־עלה בקהל מכל־שבטי ישראל אל־יהוה כי השבועה הגדולה היתה לאשר לא־עלה אל־יהוה המצפה לאמר מות יומת׃"
+    },
+    {
+      "uid": "Judges_599",
+      "chapter_number": 21,
+      "verse_number": 6,
+      "start_char": 47501,
+      "end_char": 47563,
+      "length": 63,
+      "text": "וינחמו בני ישראל אל־בנימן אחיו ויאמרו נגדע היום שבט אחד מישראל׃"
+    },
+    {
+      "uid": "Judges_600",
+      "chapter_number": 21,
+      "verse_number": 7,
+      "start_char": 47564,
+      "end_char": 47637,
+      "length": 74,
+      "text": "מה־נעשה להם לנותרים לנשים ואנחנו נשבענו ביהוה לבלתי תת־להם מבנותינו לנשים׃"
+    },
+    {
+      "uid": "Judges_601",
+      "chapter_number": 21,
+      "verse_number": 8,
+      "start_char": 47638,
+      "end_char": 47731,
+      "length": 94,
+      "text": "ויאמרו מי אחד משבטי ישראל אשר לא־עלה אל־יהוה המצפה והנה לא בא־איש אל־המחנה מיביש גלעד אל־הקהל׃"
+    },
+    {
+      "uid": "Judges_602",
+      "chapter_number": 21,
+      "verse_number": 9,
+      "start_char": 47732,
+      "end_char": 47774,
+      "length": 43,
+      "text": "ויתפקד העם והנה אין־שם איש מיושבי יבש גלעד׃"
+    },
+    {
+      "uid": "Judges_603",
+      "chapter_number": 21,
+      "verse_number": 10,
+      "start_char": 47775,
+      "end_char": 47881,
+      "length": 107,
+      "text": "וישלחו־שם העדה שנים־עשר אלף איש מבני החיל ויצוו אותם לאמר לכו והכיתם את־יושבי יבש גלעד לפי־חרב והנשים והטף׃"
+    },
+    {
+      "uid": "Judges_604",
+      "chapter_number": 21,
+      "verse_number": 11,
+      "start_char": 47882,
+      "end_char": 47935,
+      "length": 54,
+      "text": "וזה הדבר אשר תעשו כל־זכר וכל־אשה ידעת משכב־זכר תחרימו׃"
+    },
+    {
+      "uid": "Judges_605",
+      "chapter_number": 21,
+      "verse_number": 12,
+      "start_char": 47936,
+      "end_char": 48045,
+      "length": 110,
+      "text": "וימצאו מיושבי׀ יביש גלעד ארבע מאות נערה בתולה אשר לא־ידעה איש למשכב זכר ויבאו אותם אל־המחנה שלה אשר בארץ כנען׃"
+    },
+    {
+      "uid": "Judges_606",
+      "chapter_number": 21,
+      "verse_number": 13,
+      "start_char": 48046,
+      "end_char": 48110,
+      "length": 65,
+      "text": "וישלחו כל־העדה וידברו אל־בני בנימן אשר בסלע רמון ויקראו להם שלום׃"
+    },
+    {
+      "uid": "Judges_607",
+      "chapter_number": 21,
+      "verse_number": 14,
+      "start_char": 48111,
+      "end_char": 48184,
+      "length": 74,
+      "text": "וישב בנימן בעת ההיא ויתנו להם הנשים אשר חיו מנשי יבש גלעד ולא־מצאו להם כן׃"
+    },
+    {
+      "uid": "Judges_608",
+      "chapter_number": 21,
+      "verse_number": 15,
+      "start_char": 48185,
+      "end_char": 48228,
+      "length": 44,
+      "text": "והעם נחם לבנימן כי־עשה יהוה פרץ בשבטי ישראל׃"
+    },
+    {
+      "uid": "Judges_609",
+      "chapter_number": 21,
+      "verse_number": 16,
+      "start_char": 48229,
+      "end_char": 48287,
+      "length": 59,
+      "text": "ויאמרו זקני העדה מה־נעשה לנותרים לנשים כי־נשמדה מבנימן אשה׃"
+    },
+    {
+      "uid": "Judges_610",
+      "chapter_number": 21,
+      "verse_number": 17,
+      "start_char": 48288,
+      "end_char": 48332,
+      "length": 45,
+      "text": "ויאמרו ירשת פליטה לבנימן ולא־ימחה שבט מישראל׃"
+    },
+    {
+      "uid": "Judges_611",
+      "chapter_number": 21,
+      "verse_number": 18,
+      "start_char": 48333,
+      "end_char": 48413,
+      "length": 81,
+      "text": "ואנחנו לא נוכל לתת־להם נשים מבנותינו כי־נשבעו בני־ישראל לאמר ארור נתן אשה לבנימן׃"
+    },
+    {
+      "uid": "Judges_612",
+      "chapter_number": 21,
+      "verse_number": 19,
+      "start_char": 48414,
+      "end_char": 48517,
+      "length": 104,
+      "text": "ויאמרו הנה חג־יהוה בשלו מימים׀ ימימה אשר מצפונה לבית־אל מזרחה השמש למסלה העלה מבית־אל שכמה ומנגב ללבונה׃"
+    },
+    {
+      "uid": "Judges_613",
+      "chapter_number": 21,
+      "verse_number": 20,
+      "start_char": 48518,
+      "end_char": 48568,
+      "length": 51,
+      "text": "(ויצו) [ויצוו] את־בני בנימן לאמר לכו וארבתם בכרמים׃"
+    },
+    {
+      "uid": "Judges_614",
+      "chapter_number": 21,
+      "verse_number": 21,
+      "start_char": 48569,
+      "end_char": 48675,
+      "length": 107,
+      "text": "וראיתם והנה אם־יצאו בנות־שילו לחול במחלות ויצאתם מן־הכרמים וחטפתם לכם איש אשתו מבנות שילו והלכתם ארץ בנימן׃"
+    },
+    {
+      "uid": "Judges_615",
+      "chapter_number": 21,
+      "verse_number": 22,
+      "start_char": 48676,
+      "end_char": 48805,
+      "length": 130,
+      "text": "והיה כי־יבאו אבותם או אחיהם (לרוב) [לריב׀] אלינו ואמרנו אליהם חנונו אותם כי לא לקחנו איש אשתו במלחמה כי לא אתם נתתם להם כעת תאשמו׃"
+    },
+    {
+      "uid": "Judges_616",
+      "chapter_number": 21,
+      "verse_number": 23,
+      "start_char": 48806,
+      "end_char": 48909,
+      "length": 104,
+      "text": "ויעשו־כן בני בנימן וישאו נשים למספרם מן־המחללות אשר גזלו וילכו וישובו אל־נחלתם ויבנו את־הערים וישבו בהם׃"
+    },
+    {
+      "uid": "Judges_617",
+      "chapter_number": 21,
+      "verse_number": 24,
+      "start_char": 48910,
+      "end_char": 48980,
+      "length": 71,
+      "text": "ויתהלכו משם בני־ישראל בעת ההיא איש לשבטו ולמשפחתו ויצאו משם איש לנחלתו׃"
+    },
+    {
+      "uid": "Judges_618",
+      "chapter_number": 21,
+      "verse_number": 25,
+      "start_char": 48981,
+      "end_char": 49026,
+      "length": 46,
+      "text": "בימים ההם אין מלך בישראל איש הישר בעיניו יעשה׃"
+    }
+  ]
+}

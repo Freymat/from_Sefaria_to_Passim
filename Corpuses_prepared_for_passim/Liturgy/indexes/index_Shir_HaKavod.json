@@ -1,0 +1,301 @@
+{
+  "title": "Shir HaKavod",
+  "categories": [
+    "Liturgy",
+    "Piyutim"
+  ],
+  "sectionNames": [
+    "Line",
+    ""
+  ],
+  "lines": [
+    {
+      "uid": "Shir_HaKavod_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 46,
+      "length": 46,
+      "text": "אנעים זמירות ושירים אארוג, כי אליך נפשי תערוג."
+    },
+    {
+      "uid": "Shir_HaKavod_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 47,
+      "end_char": 81,
+      "length": 35,
+      "text": "נפשי חמדה בצל ידך, לדעת כל רז סודך."
+    },
+    {
+      "uid": "Shir_HaKavod_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 82,
+      "end_char": 116,
+      "length": 35,
+      "text": "מדי דברי בכבודך, הומה לבי אל דודיך."
+    },
+    {
+      "uid": "Shir_HaKavod_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 117,
+      "end_char": 161,
+      "length": 45,
+      "text": "על כן אדבר בך נכבדות, ושמך אכבד בשירי ידידות."
+    },
+    {
+      "uid": "Shir_HaKavod_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 162,
+      "end_char": 206,
+      "length": 45,
+      "text": "אספרה כבודך ולא ראיתיך, אדמך אכנך ולא ידעתיך."
+    },
+    {
+      "uid": "Shir_HaKavod_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 207,
+      "end_char": 250,
+      "length": 44,
+      "text": "ביד נביאיך בסוד עבדיך, דמית הדר כבוד הודך.  "
+    },
+    {
+      "uid": "Shir_HaKavod_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 251,
+      "end_char": 280,
+      "length": 30,
+      "text": "גדלתך וגבורתך. כנו לתקף פעלתך."
+    },
+    {
+      "uid": "Shir_HaKavod_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 281,
+      "end_char": 319,
+      "length": 39,
+      "text": "דמו אותך ולא כפי ישך, וישווך לפי מעשיך."
+    },
+    {
+      "uid": "Shir_HaKavod_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 320,
+      "end_char": 361,
+      "length": 42,
+      "text": "המשילוך ברוב חזיונות, הנך אחד בכל דמיונות."
+    },
+    {
+      "uid": "Shir_HaKavod_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 362,
+      "end_char": 406,
+      "length": 45,
+      "text": "ויחזו בך זקנה ובחרות, ושער ראשך בשיבה ושחרות."
+    },
+    {
+      "uid": "Shir_HaKavod_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 407,
+      "end_char": 460,
+      "length": 54,
+      "text": "זקנה ביום דין ובחרות ביום קרב, כאיש מלחמות ידיו לו רב."
+    },
+    {
+      "uid": "Shir_HaKavod_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 461,
+      "end_char": 509,
+      "length": 49,
+      "text": "חבש כובע ישועה בראשו, הושיעה לו ימינו וזרוע קדשו."
+    },
+    {
+      "uid": "Shir_HaKavod_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 510,
+      "end_char": 550,
+      "length": 41,
+      "text": "טללי אורות ראשו נמלא, קוצותיו רסיסי לילה."
+    },
+    {
+      "uid": "Shir_HaKavod_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 551,
+      "end_char": 593,
+      "length": 43,
+      "text": "יתפאר בי כי חפץ בי, והוא יהיה לי לעטרת צבי."
+    },
+    {
+      "uid": "Shir_HaKavod_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 594,
+      "end_char": 640,
+      "length": 47,
+      "text": "כתם טהור פז דמות ראשו, וחק על מצח כבוד שם קדשו."
+    },
+    {
+      "uid": "Shir_HaKavod_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 641,
+      "end_char": 680,
+      "length": 40,
+      "text": "לחן ולכבוד צבי תפארה, אמתו לו עטרה עטרה."
+    },
+    {
+      "uid": "Shir_HaKavod_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 681,
+      "end_char": 727,
+      "length": 47,
+      "text": "מחלפות ראשו כבימי בחרות, קוצותיו תלתלים שחורות."
+    },
+    {
+      "uid": "Shir_HaKavod_18",
+      "chapter_number": 1,
+      "verse_number": 18,
+      "start_char": 728,
+      "end_char": 769,
+      "length": 42,
+      "text": "נוה הצדק צבי תפארתו, יעלה נא על ראש שמחתו."
+    },
+    {
+      "uid": "Shir_HaKavod_19",
+      "chapter_number": 1,
+      "verse_number": 19,
+      "start_char": 770,
+      "end_char": 815,
+      "length": 46,
+      "text": "סגלתו תהי נא בידו עטרת. וצניף מלוכה צבי תפארת."
+    },
+    {
+      "uid": "Shir_HaKavod_20",
+      "chapter_number": 1,
+      "verse_number": 20,
+      "start_char": 816,
+      "end_char": 860,
+      "length": 45,
+      "text": "עמוסים נשאם עטרת ענדם, מאשר יקרו בעיניו כבדם."
+    },
+    {
+      "uid": "Shir_HaKavod_21",
+      "chapter_number": 1,
+      "verse_number": 21,
+      "start_char": 861,
+      "end_char": 902,
+      "length": 42,
+      "text": "פארו עלי ופארי עליו, וקרוב אלי בקראי אליו."
+    },
+    {
+      "uid": "Shir_HaKavod_22",
+      "chapter_number": 1,
+      "verse_number": 22,
+      "start_char": 903,
+      "end_char": 947,
+      "length": 45,
+      "text": "צח ואדום ללבושו אדום, פורה בדרכו בבואו מאדום."
+    },
+    {
+      "uid": "Shir_HaKavod_23",
+      "chapter_number": 1,
+      "verse_number": 23,
+      "start_char": 948,
+      "end_char": 988,
+      "length": 41,
+      "text": "קשר תפלין הראה לענו, תמונת יי לנגד עיניו."
+    },
+    {
+      "uid": "Shir_HaKavod_24",
+      "chapter_number": 1,
+      "verse_number": 24,
+      "start_char": 989,
+      "end_char": 1031,
+      "length": 43,
+      "text": "רוצה בעמו ענוים יפאר, יושב תהלות בם להתפאר."
+    },
+    {
+      "uid": "Shir_HaKavod_25",
+      "chapter_number": 1,
+      "verse_number": 25,
+      "start_char": 1032,
+      "end_char": 1078,
+      "length": 47,
+      "text": "ראש דברך אמת קורא מראש, דור ודור עם דורשך דרוש."
+    },
+    {
+      "uid": "Shir_HaKavod_26",
+      "chapter_number": 1,
+      "verse_number": 26,
+      "start_char": 1079,
+      "end_char": 1117,
+      "length": 39,
+      "text": "שית המון שירי נא עליך, ורנתי תקרב אליך."
+    },
+    {
+      "uid": "Shir_HaKavod_27",
+      "chapter_number": 1,
+      "verse_number": 27,
+      "start_char": 1118,
+      "end_char": 1156,
+      "length": 39,
+      "text": "תהלתי תהי לראשך עטרת, ותפלתי תכון קטרת."
+    },
+    {
+      "uid": "Shir_HaKavod_28",
+      "chapter_number": 1,
+      "verse_number": 28,
+      "start_char": 1157,
+      "end_char": 1197,
+      "length": 41,
+      "text": "תיקר שירת רש בעיניך, כשיר יושר על קרבניך."
+    },
+    {
+      "uid": "Shir_HaKavod_29",
+      "chapter_number": 1,
+      "verse_number": 29,
+      "start_char": 1198,
+      "end_char": 1243,
+      "length": 46,
+      "text": "ברכתי תעלה לראש משביר, מחולל ומוליד צדיק כביר."
+    },
+    {
+      "uid": "Shir_HaKavod_30",
+      "chapter_number": 1,
+      "verse_number": 30,
+      "start_char": 1244,
+      "end_char": 1288,
+      "length": 45,
+      "text": "ובברכתי תנענע לי ראש, ואותה קח לך כבשמים ראש."
+    },
+    {
+      "uid": "Shir_HaKavod_31",
+      "chapter_number": 1,
+      "verse_number": 31,
+      "start_char": 1289,
+      "end_char": 1326,
+      "length": 38,
+      "text": "יערב נא שיחי עליך. כי נפשי תערוג אליך."
+    },
+    {
+      "uid": "Shir_HaKavod_32",
+      "chapter_number": 1,
+      "verse_number": 32,
+      "start_char": 1327,
+      "end_char": 1453,
+      "length": 127,
+      "text": "לך יי הגדלה והגבורה והתפארת והנצח וההוד, כי כל בשמים ובארץ, לך יי הממלכה, והמתנשא לכל לראש. מי ימלל גבורות יי, ישמיע כל תהלתו. "
+    }
+  ]
+}

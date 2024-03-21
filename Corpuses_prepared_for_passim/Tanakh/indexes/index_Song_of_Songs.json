@@ -1,0 +1,1066 @@
+{
+  "title": "Song of Songs",
+  "categories": [
+    "Tanakh",
+    "Writings"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Song_of_Songs_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 21,
+      "length": 21,
+      "text": "שיר השירים אשר לשלמה׃"
+    },
+    {
+      "uid": "Song_of_Songs_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 22,
+      "end_char": 59,
+      "length": 38,
+      "text": "ישקני מנשיקות פיהו כי־טובים דדיך מיין׃"
+    },
+    {
+      "uid": "Song_of_Songs_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 60,
+      "end_char": 107,
+      "length": 48,
+      "text": "לריח שמניך טובים שמן תורק שמך על־כן עלמות אהבוך׃"
+    },
+    {
+      "uid": "Song_of_Songs_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 108,
+      "end_char": 189,
+      "length": 82,
+      "text": "משכני אחריך נרוצה הביאני המלך חדריו נגילה ונשמחה בך נזכירה דדיך מיין מישרים אהבוך׃"
+    },
+    {
+      "uid": "Song_of_Songs_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 190,
+      "end_char": 241,
+      "length": 52,
+      "text": "שחורה אני ונאוה בנות ירושל͏ם כאהלי קדר כיריעות שלמה׃"
+    },
+    {
+      "uid": "Song_of_Songs_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 242,
+      "end_char": 330,
+      "length": 89,
+      "text": "אל־תראוני שאני שחרחרת ששזפתני השמש בני אמי נחרו־בי שמני נטרה את־הכרמים כרמי שלי לא נטרתי׃"
+    },
+    {
+      "uid": "Song_of_Songs_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 331,
+      "end_char": 408,
+      "length": 78,
+      "text": "הגידה לי שאהבה נפשי איכה תרעה איכה תרביץ בצהרים שלמה אהיה כעטיה על עדרי חבריך׃"
+    },
+    {
+      "uid": "Song_of_Songs_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 409,
+      "end_char": 482,
+      "length": 74,
+      "text": "אם־לא תדעי לך היפה בנשים צאי־לך בעקבי הצאן ורעי את־גדיתיך על משכנות הרעים׃"
+    },
+    {
+      "uid": "Song_of_Songs_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 483,
+      "end_char": 512,
+      "length": 30,
+      "text": "לססתי ברכבי פרעה דמיתיך רעיתי׃"
+    },
+    {
+      "uid": "Song_of_Songs_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 513,
+      "end_char": 543,
+      "length": 31,
+      "text": "נאוו לחייך בתרים צוארך בחרוזים׃"
+    },
+    {
+      "uid": "Song_of_Songs_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 544,
+      "end_char": 574,
+      "length": 31,
+      "text": "תורי זהב נעשה־לך עם נקדות הכסף׃"
+    },
+    {
+      "uid": "Song_of_Songs_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 575,
+      "end_char": 603,
+      "length": 29,
+      "text": "עד־שהמלך במסבו נרדי נתן ריחו׃"
+    },
+    {
+      "uid": "Song_of_Songs_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 604,
+      "end_char": 633,
+      "length": 30,
+      "text": "צרור המר׀דודי לי בין שדי ילין׃"
+    },
+    {
+      "uid": "Song_of_Songs_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 634,
+      "end_char": 665,
+      "length": 32,
+      "text": "אשכל הכפר׀דודי לי בכרמי עין גדי׃"
+    },
+    {
+      "uid": "Song_of_Songs_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 666,
+      "end_char": 699,
+      "length": 34,
+      "text": "הנך יפה רעיתי הנך יפה עיניך יונים׃"
+    },
+    {
+      "uid": "Song_of_Songs_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 700,
+      "end_char": 735,
+      "length": 36,
+      "text": "הנך יפה דודי אף נעים אף־ערשנו רעננה׃"
+    },
+    {
+      "uid": "Song_of_Songs_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 736,
+      "end_char": 777,
+      "length": 42,
+      "text": "קרות בתינו ארזים (רחיטנו) [רהיטנו] ברותים׃"
+    },
+    {
+      "uid": "Song_of_Songs_18",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 778,
+      "end_char": 806,
+      "length": 29,
+      "text": "אני חבצלת השרון שושנת העמקים׃"
+    },
+    {
+      "uid": "Song_of_Songs_19",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 807,
+      "end_char": 843,
+      "length": 37,
+      "text": "כשושנה בין החוחים כן רעיתי בין הבנות׃"
+    },
+    {
+      "uid": "Song_of_Songs_20",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 844,
+      "end_char": 911,
+      "length": 68,
+      "text": "כתפוח בעצי היער כן דודי בין הבנים בצלו חמדתי וישבתי ופריו מתוק לחכי׃"
+    },
+    {
+      "uid": "Song_of_Songs_21",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 912,
+      "end_char": 945,
+      "length": 34,
+      "text": "הביאני אל־בית היין ודגלו עלי אהבה׃"
+    },
+    {
+      "uid": "Song_of_Songs_22",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 946,
+      "end_char": 992,
+      "length": 47,
+      "text": "סמכוני באשישות רפדוני בתפוחים כי־חולת אהבה אני׃"
+    },
+    {
+      "uid": "Song_of_Songs_23",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 993,
+      "end_char": 1022,
+      "length": 30,
+      "text": "שמאלו תחת לראשי וימינו תחבקני׃"
+    },
+    {
+      "uid": "Song_of_Songs_24",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1023,
+      "end_char": 1107,
+      "length": 85,
+      "text": "השבעתי אתכם בנות ירושל͏ם בצבאות או באילות השדה אם־תעירו׀ואם־תעוררו את־האהבה עד שתחפץ׃"
+    },
+    {
+      "uid": "Song_of_Songs_25",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1108,
+      "end_char": 1155,
+      "length": 48,
+      "text": "קול דודי הנה־זה בא מדלג על־ההרים מקפץ על־הגבעות׃"
+    },
+    {
+      "uid": "Song_of_Songs_26",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1156,
+      "end_char": 1238,
+      "length": 83,
+      "text": "דומה דודי לצבי או לעפר האילים הנה־זה עומד אחר כתלנו משגיח מן־החלנות מציץ מן־החרכים׃"
+    },
+    {
+      "uid": "Song_of_Songs_27",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 1239,
+      "end_char": 1282,
+      "length": 44,
+      "text": "ענה דודי ואמר לי קומי לך רעיתי יפתי ולכי־לך׃"
+    },
+    {
+      "uid": "Song_of_Songs_28",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 1283,
+      "end_char": 1314,
+      "length": 32,
+      "text": "כי־הנה הסתו עבר הגשם חלף הלך לו׃"
+    },
+    {
+      "uid": "Song_of_Songs_29",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 1315,
+      "end_char": 1367,
+      "length": 53,
+      "text": "הנצנים נראו בארץ עת הזמיר הגיע וקול התור נשמע בארצנו׃"
+    },
+    {
+      "uid": "Song_of_Songs_30",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 1368,
+      "end_char": 1440,
+      "length": 73,
+      "text": "התאנה חנטה פגיה והגפנים׀סמדר נתנו ריח קומי (לכי) [לך] רעיתי יפתי ולכי־לך׃"
+    },
+    {
+      "uid": "Song_of_Songs_31",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 1441,
+      "end_char": 1525,
+      "length": 85,
+      "text": "יונתי בחגוי הסלע בסתר המדרגה הראיני את־מראיך השמיעני את־קולך כי־קולך ערב ומראיך נאוה׃"
+    },
+    {
+      "uid": "Song_of_Songs_32",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 1526,
+      "end_char": 1578,
+      "length": 53,
+      "text": "אחזו־לנו שעלים שעלים קטנים מחבלים כרמים וכרמינו סמדר׃"
+    },
+    {
+      "uid": "Song_of_Songs_33",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 1579,
+      "end_char": 1607,
+      "length": 29,
+      "text": "דודי לי ואני לו הרעה בשושנים׃"
+    },
+    {
+      "uid": "Song_of_Songs_34",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 1608,
+      "end_char": 1679,
+      "length": 72,
+      "text": "עד שיפוח היום ונסו הצללים סב דמה־לך דודי לצבי או לעפר האילים על־הרי בתר׃"
+    },
+    {
+      "uid": "Song_of_Songs_35",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 1680,
+      "end_char": 1733,
+      "length": 54,
+      "text": "על־משכבי בלילות בקשתי את שאהבה נפשי בקשתיו ולא מצאתיו׃"
+    },
+    {
+      "uid": "Song_of_Songs_36",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 1734,
+      "end_char": 1808,
+      "length": 75,
+      "text": "אקומה נא ואסובבה בעיר בשוקים וברחבות אבקשה את שאהבה נפשי בקשתיו ולא מצאתיו׃"
+    },
+    {
+      "uid": "Song_of_Songs_37",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 1809,
+      "end_char": 1854,
+      "length": 46,
+      "text": "מצאוני השמרים הסבבים בעיר את שאהבה נפשי ראיתם׃"
+    },
+    {
+      "uid": "Song_of_Songs_38",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 1855,
+      "end_char": 1948,
+      "length": 94,
+      "text": "כמעט שעברתי מהם עד שמצאתי את שאהבה נפשי אחזתיו ולא ארפנו עד־שהביאתיו אל־בית אמי ואל־חדר הורתי׃"
+    },
+    {
+      "uid": "Song_of_Songs_39",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 1949,
+      "end_char": 2033,
+      "length": 85,
+      "text": "השבעתי אתכם בנות ירושל͏ם בצבאות או באילות השדה אם־תעירו׀ואם־תעוררו את־האהבה עד שתחפץ׃"
+    },
+    {
+      "uid": "Song_of_Songs_40",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 2034,
+      "end_char": 2095,
+      "length": 62,
+      "text": "מי זאת עלה מן־המדבר כתימרות עשן מקטרת מר ולבונה מכל אבקת רוכל׃"
+    },
+    {
+      "uid": "Song_of_Songs_41",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 2096,
+      "end_char": 2142,
+      "length": 47,
+      "text": "הנה מטתו שלשלמה ששים גברים סביב לה מגברי ישראל׃"
+    },
+    {
+      "uid": "Song_of_Songs_42",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 2143,
+      "end_char": 2196,
+      "length": 54,
+      "text": "כלם אחזי חרב מלמדי מלחמה איש חרבו על־ירכו מפחד בלילות׃"
+    },
+    {
+      "uid": "Song_of_Songs_43",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 2197,
+      "end_char": 2232,
+      "length": 36,
+      "text": "אפריון עשה לו המלך שלמה מעצי הלבנון׃"
+    },
+    {
+      "uid": "Song_of_Songs_44",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 2233,
+      "end_char": 2299,
+      "length": 67,
+      "text": "עמודיו עשה כסף רפידתו זהב מרכבו ארגמן תוכו רצוף אהבה מבנות ירושל͏ם׃"
+    },
+    {
+      "uid": "Song_of_Songs_45",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 2300,
+      "end_char": 2376,
+      "length": 77,
+      "text": "צאנה׀וראינה בנות ציון במלך שלמה בעטרה שעטרה־לו אמו ביום חתנתו וביום שמחת לבו׃"
+    },
+    {
+      "uid": "Song_of_Songs_46",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 2377,
+      "end_char": 2452,
+      "length": 76,
+      "text": "הנך יפה רעיתי הנך יפה עיניך יונים מבעד לצמתך שערך כעדר העזים שגלשו מהר גלעד׃"
+    },
+    {
+      "uid": "Song_of_Songs_47",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 2453,
+      "end_char": 2511,
+      "length": 59,
+      "text": "שניך כעדר הקצובות שעלו מן־הרחצה שכלם מתאימות ושכלה אין בהם׃"
+    },
+    {
+      "uid": "Song_of_Songs_48",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 2512,
+      "end_char": 2568,
+      "length": 57,
+      "text": "כחוט השני שפתותיך ומדברך נאוה כפלח הרמון רקתך מבעד לצמתך׃"
+    },
+    {
+      "uid": "Song_of_Songs_49",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 2569,
+      "end_char": 2632,
+      "length": 64,
+      "text": "כמגדל דויד צוארך בנוי לתלפיות אלף המגן תלוי עליו כל שלטי הגברים׃"
+    },
+    {
+      "uid": "Song_of_Songs_50",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 2633,
+      "end_char": 2678,
+      "length": 46,
+      "text": "שני שדיך כשני עפרים תאומי צביה הרועים בשושנים׃"
+    },
+    {
+      "uid": "Song_of_Songs_51",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 2679,
+      "end_char": 2738,
+      "length": 60,
+      "text": "עד שיפוח היום ונסו הצללים אלך לי אל־הר המור ואל־גבעת הלבונה׃"
+    },
+    {
+      "uid": "Song_of_Songs_52",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 2739,
+      "end_char": 2764,
+      "length": 26,
+      "text": "כלך יפה רעיתי ומום אין בך׃"
+    },
+    {
+      "uid": "Song_of_Songs_53",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 2765,
+      "end_char": 2855,
+      "length": 91,
+      "text": "אתי מלבנון כלה אתי מלבנון תבואי תשורי׀ מראש אמנה מראש שניר וחרמון ממענות אריות מהררי נמרים׃"
+    },
+    {
+      "uid": "Song_of_Songs_54",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 2856,
+      "end_char": 2916,
+      "length": 61,
+      "text": "לבבתני אחתי כלה לבבתני (באחד) [באחת] מעיניך באחד ענק מצורניך׃"
+    },
+    {
+      "uid": "Song_of_Songs_55",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 2917,
+      "end_char": 2975,
+      "length": 59,
+      "text": "מה־יפו דדיך אחתי כלה מה־טבו דדיך מיין וריח שמניך מכל־בשמים׃"
+    },
+    {
+      "uid": "Song_of_Songs_56",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 2976,
+      "end_char": 3039,
+      "length": 64,
+      "text": "נפת תטפנה שפתותיך כלה דבש וחלב תחת לשונך וריח שלמתיך כריח לבנון׃"
+    },
+    {
+      "uid": "Song_of_Songs_57",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 3040,
+      "end_char": 3074,
+      "length": 35,
+      "text": "גן׀נעול אחתי כלה גל נעול מעין חתום׃"
+    },
+    {
+      "uid": "Song_of_Songs_58",
+      "chapter_number": 4,
+      "verse_number": 13,
+      "start_char": 3075,
+      "end_char": 3120,
+      "length": 46,
+      "text": "שלחיך פרדס רמונים עם פרי מגדים כפרים עם־נרדים׃"
+    },
+    {
+      "uid": "Song_of_Songs_59",
+      "chapter_number": 4,
+      "verse_number": 14,
+      "start_char": 3121,
+      "end_char": 3185,
+      "length": 65,
+      "text": "נרד׀ וכרכם קנה וקנמון עם כל־עצי לבונה מר ואהלות עם כל־ראשי בשמים׃"
+    },
+    {
+      "uid": "Song_of_Songs_60",
+      "chapter_number": 4,
+      "verse_number": 15,
+      "start_char": 3186,
+      "end_char": 3224,
+      "length": 39,
+      "text": "מעין גנים באר מים חיים ונזלים מן־לבנון׃"
+    },
+    {
+      "uid": "Song_of_Songs_61",
+      "chapter_number": 4,
+      "verse_number": 16,
+      "start_char": 3225,
+      "end_char": 3296,
+      "length": 72,
+      "text": "עורי צפון ובואי תימן הפיחי גני יזלו בשמיו יבא דודי לגנו ויאכל פרי מגדיו׃"
+    },
+    {
+      "uid": "Song_of_Songs_62",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 3297,
+      "end_char": 3398,
+      "length": 102,
+      "text": "באתי לגני אחתי כלה אריתי מורי עם־בשמי אכלתי יערי עם־דבשי שתיתי ייני עם־חלבי אכלו רעים שתו ושכרו דודים׃"
+    },
+    {
+      "uid": "Song_of_Songs_63",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 3399,
+      "end_char": 3492,
+      "length": 94,
+      "text": "אני ישנה ולבי ער קול׀ דודי דופק פתחי־לי אחתי רעיתי יונתי תמתי שראשי נמלא־טל קוצותי רסיסי לילה׃"
+    },
+    {
+      "uid": "Song_of_Songs_64",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 3493,
+      "end_char": 3546,
+      "length": 54,
+      "text": "פשטתי את־כתנתי איככה אלבשנה רחצתי את־רגלי איככה אטנפם׃"
+    },
+    {
+      "uid": "Song_of_Songs_65",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 3547,
+      "end_char": 3580,
+      "length": 34,
+      "text": "דודי שלח ידו מן־החר ומעי המו עליו׃"
+    },
+    {
+      "uid": "Song_of_Songs_66",
+      "chapter_number": 5,
+      "verse_number": 5,
+      "start_char": 3581,
+      "end_char": 3645,
+      "length": 65,
+      "text": "קמתי אני לפתח לדודי וידי נטפו־מור ואצבעתי מור עבר על כפות המנעול׃"
+    },
+    {
+      "uid": "Song_of_Songs_67",
+      "chapter_number": 5,
+      "verse_number": 6,
+      "start_char": 3646,
+      "end_char": 3727,
+      "length": 82,
+      "text": "פתחתי אני לדודי ודודי חמק עבר נפשי יצאה בדברו בקשתיהו ולא מצאתיהו קראתיו ולא ענני׃"
+    },
+    {
+      "uid": "Song_of_Songs_68",
+      "chapter_number": 5,
+      "verse_number": 7,
+      "start_char": 3728,
+      "end_char": 3795,
+      "length": 68,
+      "text": "מצאני השמרים הסבבים בעיר הכוני פצעוני נשאו את־רדידי מעלי שמרי החמות׃"
+    },
+    {
+      "uid": "Song_of_Songs_69",
+      "chapter_number": 5,
+      "verse_number": 8,
+      "start_char": 3796,
+      "end_char": 3864,
+      "length": 69,
+      "text": "השבעתי אתכם בנות ירושל͏ם אם־תמצאו את־דודי מה־תגידו לו שחולת אהבה אני׃"
+    },
+    {
+      "uid": "Song_of_Songs_70",
+      "chapter_number": 5,
+      "verse_number": 9,
+      "start_char": 3865,
+      "end_char": 3914,
+      "length": 50,
+      "text": "מה־דודך מדוד היפה בנשים מה־דודך מדוד שככה השבעתנו׃"
+    },
+    {
+      "uid": "Song_of_Songs_71",
+      "chapter_number": 5,
+      "verse_number": 10,
+      "start_char": 3915,
+      "end_char": 3939,
+      "length": 25,
+      "text": "דודי צח ואדום דגול מרבבה׃"
+    },
+    {
+      "uid": "Song_of_Songs_72",
+      "chapter_number": 5,
+      "verse_number": 11,
+      "start_char": 3940,
+      "end_char": 3978,
+      "length": 39,
+      "text": "ראשו כתם פז קוצותיו תלתלים שחרות כעורב׃"
+    },
+    {
+      "uid": "Song_of_Songs_73",
+      "chapter_number": 5,
+      "verse_number": 12,
+      "start_char": 3979,
+      "end_char": 4029,
+      "length": 51,
+      "text": "עיניו כיונים על־אפיקי מים רחצות בחלב ישבות על־מלאת׃"
+    },
+    {
+      "uid": "Song_of_Songs_74",
+      "chapter_number": 5,
+      "verse_number": 13,
+      "start_char": 4030,
+      "end_char": 4089,
+      "length": 60,
+      "text": "לחיו כערוגת הבשם מגדלות מרקחים שפתותיו שושנים נטפות מור עבר׃"
+    },
+    {
+      "uid": "Song_of_Songs_75",
+      "chapter_number": 5,
+      "verse_number": 14,
+      "start_char": 4090,
+      "end_char": 4143,
+      "length": 54,
+      "text": "ידיו גלילי זהב ממלאים בתרשיש מעיו עשת שן מעלפת ספירים׃"
+    },
+    {
+      "uid": "Song_of_Songs_76",
+      "chapter_number": 5,
+      "verse_number": 15,
+      "start_char": 4144,
+      "end_char": 4201,
+      "length": 58,
+      "text": "שוקיו עמודי שש מיסדים על־אדני־פז מראהו כלבנון בחור כארזים׃"
+    },
+    {
+      "uid": "Song_of_Songs_77",
+      "chapter_number": 5,
+      "verse_number": 16,
+      "start_char": 4202,
+      "end_char": 4253,
+      "length": 52,
+      "text": "חכו ממתקים וכלו מחמדים זה דודי וזה רעי בנות ירושל͏ם׃"
+    },
+    {
+      "uid": "Song_of_Songs_78",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 4254,
+      "end_char": 4302,
+      "length": 49,
+      "text": "אנה הלך דודך היפה בנשים אנה פנה דודך ונבקשנו עמך׃"
+    },
+    {
+      "uid": "Song_of_Songs_79",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 4303,
+      "end_char": 4353,
+      "length": 51,
+      "text": "דודי ירד לגנו לערגות הבשם לרעות בגנים וללקט שושנים׃"
+    },
+    {
+      "uid": "Song_of_Songs_80",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 4354,
+      "end_char": 4385,
+      "length": 32,
+      "text": "אני לדודי ודודי לי הרעה בשושנים׃"
+    },
+    {
+      "uid": "Song_of_Songs_81",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 4386,
+      "end_char": 4431,
+      "length": 46,
+      "text": "יפה את רעיתי כתרצה נאוה כירושל͏ם אימה כנדגלות׃"
+    },
+    {
+      "uid": "Song_of_Songs_82",
+      "chapter_number": 6,
+      "verse_number": 5,
+      "start_char": 4432,
+      "end_char": 4491,
+      "length": 60,
+      "text": "הסבי עיניך מנגדי שהם הרהיבני שערך כעדר העזים שגלשו מן־הגלעד׃"
+    },
+    {
+      "uid": "Song_of_Songs_83",
+      "chapter_number": 6,
+      "verse_number": 6,
+      "start_char": 4492,
+      "end_char": 4549,
+      "length": 58,
+      "text": "שניך כעדר הרחלים שעלו מן־הרחצה שכלם מתאימות ושכלה אין בהם׃"
+    },
+    {
+      "uid": "Song_of_Songs_84",
+      "chapter_number": 6,
+      "verse_number": 7,
+      "start_char": 4550,
+      "end_char": 4576,
+      "length": 27,
+      "text": "כפלח הרמון רקתך מבעד לצמתך׃"
+    },
+    {
+      "uid": "Song_of_Songs_85",
+      "chapter_number": 6,
+      "verse_number": 8,
+      "start_char": 4577,
+      "end_char": 4622,
+      "length": 46,
+      "text": "ששים המה מלכות ושמנים פילגשים ועלמות אין מספר׃"
+    },
+    {
+      "uid": "Song_of_Songs_86",
+      "chapter_number": 6,
+      "verse_number": 9,
+      "start_char": 4623,
+      "end_char": 4711,
+      "length": 89,
+      "text": "אחת היא יונתי תמתי אחת היא לאמה ברה היא ליולדתה ראוה בנות ויאשרוה מלכות ופילגשים ויהללוה׃"
+    },
+    {
+      "uid": "Song_of_Songs_87",
+      "chapter_number": 6,
+      "verse_number": 10,
+      "start_char": 4712,
+      "end_char": 4765,
+      "length": 54,
+      "text": "מי־זאת הנשקפה כמו־שחר יפה כלבנה ברה כחמה אימה כנדגלות׃"
+    },
+    {
+      "uid": "Song_of_Songs_88",
+      "chapter_number": 6,
+      "verse_number": 11,
+      "start_char": 4766,
+      "end_char": 4828,
+      "length": 63,
+      "text": "אל־גנת אגוז ירדתי לראות באבי הנחל לראות הפרחה הגפן הנצו הרמנים׃"
+    },
+    {
+      "uid": "Song_of_Songs_89",
+      "chapter_number": 6,
+      "verse_number": 12,
+      "start_char": 4829,
+      "end_char": 4864,
+      "length": 36,
+      "text": "לא ידעתי נפשי שמתני מרכבות עמי נדיב׃"
+    },
+    {
+      "uid": "Song_of_Songs_90",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 4865,
+      "end_char": 4930,
+      "length": 66,
+      "text": "שובי שובי השולמית שובי שובי ונחזה־בך מה־תחזו בשולמית כמחלת המחנים׃"
+    },
+    {
+      "uid": "Song_of_Songs_91",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 4931,
+      "end_char": 4993,
+      "length": 63,
+      "text": "מה־יפו פעמיך בנעלים בת־נדיב חמוקי ירכיך כמו חלאים מעשה ידי אמן׃"
+    },
+    {
+      "uid": "Song_of_Songs_92",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 4994,
+      "end_char": 5048,
+      "length": 55,
+      "text": "שררך אגן הסהר אל־יחסר המזג בטנך ערמת חטים סוגה בשושנים׃"
+    },
+    {
+      "uid": "Song_of_Songs_93",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 5049,
+      "end_char": 5078,
+      "length": 30,
+      "text": "שני שדיך כשני עפרים תאמי צביה׃"
+    },
+    {
+      "uid": "Song_of_Songs_94",
+      "chapter_number": 7,
+      "verse_number": 5,
+      "start_char": 5079,
+      "end_char": 5159,
+      "length": 81,
+      "text": "צוארך כמגדל השן עיניך ברכות בחשבון על־שער בת־רבים אפך כמגדל הלבנון צופה פני דמשק׃"
+    },
+    {
+      "uid": "Song_of_Songs_95",
+      "chapter_number": 7,
+      "verse_number": 6,
+      "start_char": 5160,
+      "end_char": 5208,
+      "length": 49,
+      "text": "ראשך עליך ככרמל ודלת ראשך כארגמן מלך אסור ברהטים׃"
+    },
+    {
+      "uid": "Song_of_Songs_96",
+      "chapter_number": 7,
+      "verse_number": 7,
+      "start_char": 5209,
+      "end_char": 5239,
+      "length": 31,
+      "text": "מה־יפית ומה־נעמת אהבה בתענוגים׃"
+    },
+    {
+      "uid": "Song_of_Songs_97",
+      "chapter_number": 7,
+      "verse_number": 8,
+      "start_char": 5240,
+      "end_char": 5273,
+      "length": 34,
+      "text": "זאת קומתך דמתה לתמר ושדיך לאשכלות׃"
+    },
+    {
+      "uid": "Song_of_Songs_98",
+      "chapter_number": 7,
+      "verse_number": 9,
+      "start_char": 5274,
+      "end_char": 5346,
+      "length": 73,
+      "text": "אמרתי אעלה בתמר אחזה בסנסניו ויהיו־נא שדיך כאשכלות הגפן וריח אפך כתפוחים׃"
+    },
+    {
+      "uid": "Song_of_Songs_99",
+      "chapter_number": 7,
+      "verse_number": 10,
+      "start_char": 5347,
+      "end_char": 5396,
+      "length": 50,
+      "text": "וחכך כיין הטוב הולך לדודי למישרים דובב שפתי ישנים׃"
+    },
+    {
+      "uid": "Song_of_Songs_100",
+      "chapter_number": 7,
+      "verse_number": 11,
+      "start_char": 5397,
+      "end_char": 5418,
+      "length": 22,
+      "text": "אני לדודי ועלי תשוקתו׃"
+    },
+    {
+      "uid": "Song_of_Songs_101",
+      "chapter_number": 7,
+      "verse_number": 12,
+      "start_char": 5419,
+      "end_char": 5449,
+      "length": 31,
+      "text": "לכה דודי נצא השדה נלינה בכפרים׃"
+    },
+    {
+      "uid": "Song_of_Songs_102",
+      "chapter_number": 7,
+      "verse_number": 13,
+      "start_char": 5450,
+      "end_char": 5521,
+      "length": 72,
+      "text": "נשכימה לכרמים נראה אם־פרחה הגפן פתח הסמדר הנצו הרמונים שם אתן את־דדי לך׃"
+    },
+    {
+      "uid": "Song_of_Songs_103",
+      "chapter_number": 7,
+      "verse_number": 14,
+      "start_char": 5522,
+      "end_char": 5587,
+      "length": 66,
+      "text": "הדודאים נתנו־ריח ועל־פתחינו כל־מגדים חדשים גם־ישנים דודי צפנתי לך׃"
+    },
+    {
+      "uid": "Song_of_Songs_104",
+      "chapter_number": 8,
+      "verse_number": 1,
+      "start_char": 5588,
+      "end_char": 5645,
+      "length": 58,
+      "text": "מי יתנך כאח לי יונק שדי אמי אמצאך בחוץ אשקך גם לא־יבזו לי׃"
+    },
+    {
+      "uid": "Song_of_Songs_105",
+      "chapter_number": 8,
+      "verse_number": 2,
+      "start_char": 5646,
+      "end_char": 5701,
+      "length": 56,
+      "text": "אנהגך אביאך אל־בית אמי תלמדני אשקך מיין הרקח מעסיס רמני׃"
+    },
+    {
+      "uid": "Song_of_Songs_106",
+      "chapter_number": 8,
+      "verse_number": 3,
+      "start_char": 5702,
+      "end_char": 5730,
+      "length": 29,
+      "text": "שמאלו תחת ראשי וימינו תחבקני׃"
+    },
+    {
+      "uid": "Song_of_Songs_107",
+      "chapter_number": 8,
+      "verse_number": 4,
+      "start_char": 5731,
+      "end_char": 5792,
+      "length": 62,
+      "text": "השבעתי אתכם בנות ירושל͏ם מה־תעירו׀ומה־תעררו את־האהבה עד שתחפץ׃"
+    },
+    {
+      "uid": "Song_of_Songs_108",
+      "chapter_number": 8,
+      "verse_number": 5,
+      "start_char": 5793,
+      "end_char": 5874,
+      "length": 82,
+      "text": "מי זאת עלה מן־המדבר מתרפקת על־דודה תחת התפוח עוררתיך שמה חבלתך אמך שמה חבלה ילדתך׃"
+    },
+    {
+      "uid": "Song_of_Songs_109",
+      "chapter_number": 8,
+      "verse_number": 6,
+      "start_char": 5875,
+      "end_char": 5962,
+      "length": 88,
+      "text": "שימני כחותם על־לבך כחותם על־זרועך כי־עזה כמות אהבה קשה כשאול קנאה רשפיה רשפי אש שלהבתיה׃"
+    },
+    {
+      "uid": "Song_of_Songs_110",
+      "chapter_number": 8,
+      "verse_number": 7,
+      "start_char": 5963,
+      "end_char": 6057,
+      "length": 95,
+      "text": "מים רבים לא יוכלו לכבות את־האהבה ונהרות לא ישטפוה אם־יתן איש את־כל־הון ביתו באהבה בוז יבוזו לו׃"
+    },
+    {
+      "uid": "Song_of_Songs_111",
+      "chapter_number": 8,
+      "verse_number": 8,
+      "start_char": 6058,
+      "end_char": 6113,
+      "length": 56,
+      "text": "אחות לנו קטנה ושדים אין לה מה־נעשה לאחתנו ביום שידבר־בה׃"
+    },
+    {
+      "uid": "Song_of_Songs_112",
+      "chapter_number": 8,
+      "verse_number": 9,
+      "start_char": 6114,
+      "end_char": 6174,
+      "length": 61,
+      "text": "אם־חומה היא נבנה עליה טירת כסף ואם־דלת היא נצור עליה לוח ארז׃"
+    },
+    {
+      "uid": "Song_of_Songs_113",
+      "chapter_number": 8,
+      "verse_number": 10,
+      "start_char": 6175,
+      "end_char": 6224,
+      "length": 50,
+      "text": "אני חומה ושדי כמגדלות אז הייתי בעיניו כמוצאת שלום׃"
+    },
+    {
+      "uid": "Song_of_Songs_114",
+      "chapter_number": 8,
+      "verse_number": 11,
+      "start_char": 6225,
+      "end_char": 6289,
+      "length": 65,
+      "text": "כרם היה לשלמה בבעל המון נתן את־הכרם לנטרים איש יבא בפריו אלף כסף׃"
+    },
+    {
+      "uid": "Song_of_Songs_115",
+      "chapter_number": 8,
+      "verse_number": 12,
+      "start_char": 6290,
+      "end_char": 6338,
+      "length": 49,
+      "text": "כרמי שלי לפני האלף לך שלמה ומאתים לנטרים את־פריו׃"
+    },
+    {
+      "uid": "Song_of_Songs_116",
+      "chapter_number": 8,
+      "verse_number": 13,
+      "start_char": 6339,
+      "end_char": 6379,
+      "length": 41,
+      "text": "היושבת בגנים חברים מקשיבים לקולך השמיעני׃"
+    },
+    {
+      "uid": "Song_of_Songs_117",
+      "chapter_number": 8,
+      "verse_number": 14,
+      "start_char": 6380,
+      "end_char": 6430,
+      "length": 51,
+      "text": "ברח׀ דודי ודמה־לך לצבי או לעפר האילים על הרי בשמים׃"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Shalom Aleichem",
+  "categories": [
+    "Liturgy",
+    "Piyutim"
+  ],
+  "sectionNames": [
+    "Section",
+    "Line"
+  ],
+  "lines": [
+    {
+      "uid": "Shalom_Aleichem_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 35,
+      "length": 35,
+      "text": "שלום עליכם מלאכי השרת‏‏ מלאכי עליון"
+    },
+    {
+      "uid": "Shalom_Aleichem_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 36,
+      "end_char": 66,
+      "length": 31,
+      "text": "ממלך מלכי המלכים הקדוש ברוך הוא"
+    },
+    {
+      "uid": "Shalom_Aleichem_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 67,
+      "end_char": 101,
+      "length": 35,
+      "text": "בואכם לשלום מלאכי השלום מלאכי עליון"
+    },
+    {
+      "uid": "Shalom_Aleichem_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 102,
+      "end_char": 132,
+      "length": 31,
+      "text": "ממלך מלכי המלכים הקדוש ברוך הוא"
+    },
+    {
+      "uid": "Shalom_Aleichem_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 133,
+      "end_char": 168,
+      "length": 36,
+      "text": "ברכוני לשלום מלאכי השלום מלאכי עליון"
+    },
+    {
+      "uid": "Shalom_Aleichem_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 169,
+      "end_char": 199,
+      "length": 31,
+      "text": "ממלך מלכי המלכים הקדוש ברוך הוא"
+    },
+    {
+      "uid": "Shalom_Aleichem_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 200,
+      "end_char": 234,
+      "length": 35,
+      "text": "צאתכם לשלום מלאכי השלום מלאכי עליון"
+    },
+    {
+      "uid": "Shalom_Aleichem_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 235,
+      "end_char": 265,
+      "length": 31,
+      "text": "ממלך מלכי המלכים הקדוש ברוך הוא"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "title": "Jonah",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Jonah_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 35,
+      "length": 35,
+      "text": "ויהי דבר־יהוה אל־יונה בן־אמתי לאמר׃"
+    },
+    {
+      "uid": "Jonah_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 36,
+      "end_char": 91,
+      "length": 56,
+      "text": "קום לך אל־נינוה העיר הגדולה וקרא עליה כי־עלתה רעתם לפני׃"
+    },
+    {
+      "uid": "Jonah_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 92,
+      "end_char": 201,
+      "length": 110,
+      "text": "ויקם יונה לברח תרשישה מלפני יהוה וירד יפו וימצא אניה׀ באה תרשיש ויתן שכרה וירד בה לבוא עמהם תרשישה מלפני יהוה׃"
+    },
+    {
+      "uid": "Jonah_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 202,
+      "end_char": 265,
+      "length": 64,
+      "text": "ויהוה הטיל רוח־גדולה אל־הים ויהי סער־גדול בים והאניה חשבה להשבר׃"
+    },
+    {
+      "uid": "Jonah_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 266,
+      "end_char": 381,
+      "length": 116,
+      "text": "וייראו המלחים ויזעקו איש אל־אלהיו ויטלו את־הכלים אשר באניה אל־הים להקל מעליהם ויונה ירד אל־ירכתי הספינה וישכב וירדם׃"
+    },
+    {
+      "uid": "Jonah_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 382,
+      "end_char": 468,
+      "length": 87,
+      "text": "ויקרב אליו רב החבל ויאמר לו מה־לך נרדם קום קרא אל־אלהיך אולי יתעשת האלהים לנו ולא נאבד׃"
+    },
+    {
+      "uid": "Jonah_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 469,
+      "end_char": 563,
+      "length": 95,
+      "text": "ויאמרו איש אל־רעהו לכו ונפילה גורלות ונדעה בשלמי הרעה הזאת לנו ויפלו גורלות ויפל הגורל על־יונה׃"
+    },
+    {
+      "uid": "Jonah_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 564,
+      "end_char": 655,
+      "length": 92,
+      "text": "ויאמרו אליו הגידה־נא לנו באשר למי־הרעה הזאת לנו מה־מלאכתך ומאין תבוא מה ארצך ואי־מזה עם אתה׃"
+    },
+    {
+      "uid": "Jonah_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 656,
+      "end_char": 730,
+      "length": 75,
+      "text": "ויאמר אליהם עברי אנכי ואת־יהוה אלהי השמים אני ירא אשר־עשה את־הים ואת־היבשה׃"
+    },
+    {
+      "uid": "Jonah_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 731,
+      "end_char": 828,
+      "length": 98,
+      "text": "וייראו האנשים יראה גדולה ויאמרו אליו מה־זאת עשית כי־ידעו האנשים כי־מלפני יהוה הוא ברח כי הגיד להם׃"
+    },
+    {
+      "uid": "Jonah_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 829,
+      "end_char": 885,
+      "length": 57,
+      "text": "ויאמרו אליו מה־נעשה לך וישתק הים מעלינו כי הים הולך וסער׃"
+    },
+    {
+      "uid": "Jonah_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 886,
+      "end_char": 976,
+      "length": 91,
+      "text": "ויאמר אליהם שאוני והטילני אל־הים וישתק הים מעליכם כי יודע אני כי בשלי הסער הגדול הזה עליכם׃"
+    },
+    {
+      "uid": "Jonah_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 977,
+      "end_char": 1037,
+      "length": 61,
+      "text": "ויחתרו האנשים להשיב אל־היבשה ולא יכלו כי הים הולך וסער עליהם׃"
+    },
+    {
+      "uid": "Jonah_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 1038,
+      "end_char": 1143,
+      "length": 106,
+      "text": "ויקראו אל־יהוה ויאמרו אנה יהוה אל־נא נאבדה בנפש האיש הזה ואל־תתן עלינו דם נקיא כי־אתה יהוה כאשר חפצת עשית׃"
+    },
+    {
+      "uid": "Jonah_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 1144,
+      "end_char": 1187,
+      "length": 44,
+      "text": "וישאו את־יונה ויטלהו אל־הים ויעמד הים מזעפו׃"
+    },
+    {
+      "uid": "Jonah_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 1188,
+      "end_char": 1249,
+      "length": 62,
+      "text": "וייראו האנשים יראה גדולה את־יהוה ויזבחו־זבח ליהוה וידרו נדרים׃"
+    },
+    {
+      "uid": "Jonah_17",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 1250,
+      "end_char": 1321,
+      "length": 72,
+      "text": "וימן יהוה דג גדול לבלע את־יונה ויהי יונה במעי הדג שלשה ימים ושלשה לילות׃"
+    },
+    {
+      "uid": "Jonah_18",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1322,
+      "end_char": 1357,
+      "length": 36,
+      "text": "ויתפלל יונה אל־יהוה אלהיו ממעי הדגה׃"
+    },
+    {
+      "uid": "Jonah_19",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1358,
+      "end_char": 1418,
+      "length": 61,
+      "text": "ויאמר קראתי מצרה לי אל־יהוה ויענני מבטן שאול שועתי שמעת קולי׃"
+    },
+    {
+      "uid": "Jonah_20",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 1419,
+      "end_char": 1480,
+      "length": 62,
+      "text": "ותשליכני מצולה בלבב ימים ונהר יסבבני כל־משבריך וגליך עלי עברו׃"
+    },
+    {
+      "uid": "Jonah_21",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1481,
+      "end_char": 1537,
+      "length": 57,
+      "text": "ואני אמרתי נגרשתי מנגד עיניך אך אוסיף להביט אל־היכל קדשך׃"
+    },
+    {
+      "uid": "Jonah_22",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1538,
+      "end_char": 1582,
+      "length": 45,
+      "text": "אפפוני מים עד־נפש תהום יסבבני סוף חבוש לראשי׃"
+    },
+    {
+      "uid": "Jonah_23",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1583,
+      "end_char": 1645,
+      "length": 63,
+      "text": "לקצבי הרים ירדתי הארץ ברחיה בעדי לעולם ותעל משחת חיי יהוה אלהי׃"
+    },
+    {
+      "uid": "Jonah_24",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1646,
+      "end_char": 1705,
+      "length": 60,
+      "text": "בהתעטף עלי נפשי את־יהוה זכרתי ותבוא אליך תפלתי אל־היכל קדשך׃"
+    },
+    {
+      "uid": "Jonah_25",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1706,
+      "end_char": 1732,
+      "length": 27,
+      "text": "משמרים הבלי־שוא חסדם יעזבו׃"
+    },
+    {
+      "uid": "Jonah_26",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 1733,
+      "end_char": 1785,
+      "length": 53,
+      "text": "ואני בקול תודה אזבחה־לך אשר נדרתי אשלמה ישועתה ליהוה׃"
+    },
+    {
+      "uid": "Jonah_27",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 1786,
+      "end_char": 1822,
+      "length": 37,
+      "text": "ויאמר יהוה לדג ויקא את־יונה אל־היבשה׃"
+    },
+    {
+      "uid": "Jonah_28",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 1823,
+      "end_char": 1854,
+      "length": 32,
+      "text": "ויהי דבר־יהוה אל־יונה שנית לאמר׃"
+    },
+    {
+      "uid": "Jonah_29",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 1855,
+      "end_char": 1920,
+      "length": 66,
+      "text": "קום לך אל־נינוה העיר הגדולה וקרא אליה את־הקריאה אשר אנכי דבר אליך׃"
+    },
+    {
+      "uid": "Jonah_30",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 1921,
+      "end_char": 1998,
+      "length": 78,
+      "text": "ויקם יונה וילך אל־נינוה כדבר יהוה ונינוה היתה עיר־גדולה לאלהים מהלך שלשת ימים׃"
+    },
+    {
+      "uid": "Jonah_31",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 1999,
+      "end_char": 2071,
+      "length": 73,
+      "text": "ויחל יונה לבוא בעיר מהלך יום אחד ויקרא ויאמר עוד ארבעים יום ונינוה נהפכת׃"
+    },
+    {
+      "uid": "Jonah_32",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 2072,
+      "end_char": 2136,
+      "length": 65,
+      "text": "ויאמינו אנשי נינוה באלהים ויקראו־צום וילבשו שקים מגדולם ועד־קטנם׃"
+    },
+    {
+      "uid": "Jonah_33",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 2137,
+      "end_char": 2209,
+      "length": 73,
+      "text": "ויגע הדבר אל־מלך נינוה ויקם מכסאו ויעבר אדרתו מעליו ויכס שק וישב על־האפר׃"
+    },
+    {
+      "uid": "Jonah_34",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 2210,
+      "end_char": 2309,
+      "length": 100,
+      "text": "ויזעק ויאמר בנינוה מטעם המלך וגדליו לאמר האדם והבהמה הבקר והצאן אל־יטעמו מאומה אל־ירעו ומים אל־ישתו׃"
+    },
+    {
+      "uid": "Jonah_35",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 2310,
+      "end_char": 2396,
+      "length": 87,
+      "text": "ויתכסו שקים האדם והבהמה ויקראו אל־אלהים בחזקה וישבו איש מדרכו הרעה ומן־החמס אשר בכפיהם׃"
+    },
+    {
+      "uid": "Jonah_36",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 2397,
+      "end_char": 2444,
+      "length": 48,
+      "text": "מי־יודע ישוב ונחם האלהים ושב מחרון אפו ולא נאבד׃"
+    },
+    {
+      "uid": "Jonah_37",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 2445,
+      "end_char": 2531,
+      "length": 87,
+      "text": "וירא האלהים את־מעשיהם כי־שבו מדרכם הרעה וינחם האלהים על־הרעה אשר־דבר לעשות־להם ולא עשה׃"
+    },
+    {
+      "uid": "Jonah_38",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 2532,
+      "end_char": 2562,
+      "length": 31,
+      "text": "וירע אל־יונה רעה גדולה ויחר לו׃"
+    },
+    {
+      "uid": "Jonah_39",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 2563,
+      "end_char": 2707,
+      "length": 145,
+      "text": "ויתפלל אל־יהוה ויאמר אנה יהוה הלוא־זה דברי עד־היותי על־אדמתי על־כן קדמתי לברח תרשישה כי ידעתי כי אתה אל־חנון ורחום ארך אפים ורב־חסד ונחם על־הרעה׃"
+    },
+    {
+      "uid": "Jonah_40",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 2708,
+      "end_char": 2753,
+      "length": 46,
+      "text": "ועתה יהוה קח־נא את־נפשי ממני כי טוב מותי מחיי׃"
+    },
+    {
+      "uid": "Jonah_41",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 2754,
+      "end_char": 2777,
+      "length": 24,
+      "text": "ויאמר יהוה ההיטב חרה לך׃"
+    },
+    {
+      "uid": "Jonah_42",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 2778,
+      "end_char": 2865,
+      "length": 88,
+      "text": "ויצא יונה מן־העיר וישב מקדם לעיר ויעש לו שם סכה וישב תחתיה בצל עד אשר יראה מה־יהיה בעיר׃"
+    },
+    {
+      "uid": "Jonah_43",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 2866,
+      "end_char": 2969,
+      "length": 104,
+      "text": "וימן יהוה־אלהים קיקיון ויעל׀ מעל ליונה להיות צל על־ראשו להציל לו מרעתו וישמח יונה על־הקיקיון שמחה גדולה׃"
+    },
+    {
+      "uid": "Jonah_44",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 2970,
+      "end_char": 3025,
+      "length": 56,
+      "text": "וימן האלהים תולעת בעלות השחר למחרת ותך את־הקיקיון וייבש׃"
+    },
+    {
+      "uid": "Jonah_45",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 3026,
+      "end_char": 3135,
+      "length": 110,
+      "text": "ויהי׀ כזרח השמש וימן אלהים רוח קדים חרישית ותך השמש על־ראש יונה ויתעלף וישאל את־נפשו למות ויאמר טוב מותי מחיי׃"
+    },
+    {
+      "uid": "Jonah_46",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 3136,
+      "end_char": 3204,
+      "length": 69,
+      "text": "ויאמר אלהים אל־יונה ההיטב חרה־לך על־הקיקיון ויאמר היטב חרה־לי עד־מות׃"
+    },
+    {
+      "uid": "Jonah_47",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 3205,
+      "end_char": 3285,
+      "length": 81,
+      "text": "ויאמר יהוה אתה חסת על־הקיקיון אשר לא־עמלת בו ולא גדלתו שבן־לילה היה ובן־לילה אבד׃"
+    },
+    {
+      "uid": "Jonah_48",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 3286,
+      "end_char": 3391,
+      "length": 106,
+      "text": "ואני לא אחוס על־נינוה העיר הגדולה אשר יש־בה הרבה משתים־עשרה רבו אדם אשר לא־ידע בין־ימינו לשמאלו ובהמה רבה׃"
+    }
+  ]
+}

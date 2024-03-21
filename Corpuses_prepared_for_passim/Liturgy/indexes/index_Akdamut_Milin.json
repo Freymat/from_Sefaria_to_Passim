@@ -1,0 +1,823 @@
+{
+  "title": "Akdamut Milin",
+  "categories": [
+    "Liturgy",
+    "Other Liturgy Works"
+  ],
+  "sectionNames": [
+    "Piyyut",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Akdamut_Milin_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 24,
+      "length": 24,
+      "text": "אקדמות מלין ושריות שותא "
+    },
+    {
+      "uid": "Akdamut_Milin_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 25,
+      "end_char": 46,
+      "length": 22,
+      "text": "אולא שקלנא הרמן ורשותא"
+    },
+    {
+      "uid": "Akdamut_Milin_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 47,
+      "end_char": 74,
+      "length": 28,
+      "text": "בבבי תרי ותלת דאפתח בנקשותא "
+    },
+    {
+      "uid": "Akdamut_Milin_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 75,
+      "end_char": 101,
+      "length": 27,
+      "text": "בברי דברי וטרי עדי לקשישותא"
+    },
+    {
+      "uid": "Akdamut_Milin_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 102,
+      "end_char": 132,
+      "length": 31,
+      "text": "גבורן עלמין לה ולא ספק פרישותא "
+    },
+    {
+      "uid": "Akdamut_Milin_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 133,
+      "end_char": 161,
+      "length": 29,
+      "text": "גויל אלו רקיעי קני כל חורשתא "
+    },
+    {
+      "uid": "Akdamut_Milin_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 162,
+      "end_char": 188,
+      "length": 27,
+      "text": "דיו אלו ימי וכל מי כנישותא "
+    },
+    {
+      "uid": "Akdamut_Milin_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 189,
+      "end_char": 215,
+      "length": 27,
+      "text": "דירי ארעא ספרי ורשמי רשותא "
+    },
+    {
+      "uid": "Akdamut_Milin_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 216,
+      "end_char": 241,
+      "length": 26,
+      "text": "הדר מרי שמיא ושליט ביבשתא "
+    },
+    {
+      "uid": "Akdamut_Milin_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 242,
+      "end_char": 272,
+      "length": 31,
+      "text": "הקים עלמא יחידאי וכבשה בכבשותא "
+    },
+    {
+      "uid": "Akdamut_Milin_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 273,
+      "end_char": 299,
+      "length": 27,
+      "text": "ובלא לאו שכללה ובלא תששותא "
+    },
+    {
+      "uid": "Akdamut_Milin_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 300,
+      "end_char": 327,
+      "length": 28,
+      "text": "ובאתא קלילא דלית ביה מששותא "
+    },
+    {
+      "uid": "Akdamut_Milin_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 328,
+      "end_char": 356,
+      "length": 29,
+      "text": "זמין כל עיבידתה בהך יומי שתא "
+    },
+    {
+      "uid": "Akdamut_Milin_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 357,
+      "end_char": 386,
+      "length": 30,
+      "text": "זהור יקרה עלי עלי כרסיה דאשתא "
+    },
+    {
+      "uid": "Akdamut_Milin_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 387,
+      "end_char": 414,
+      "length": 28,
+      "text": "חיל אלף אלפין ורבוא לשמשותא "
+    },
+    {
+      "uid": "Akdamut_Milin_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 415,
+      "end_char": 445,
+      "length": 31,
+      "text": "חדתין נבוט לצפרין סגיאה טרשותא "
+    },
+    {
+      "uid": "Akdamut_Milin_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 446,
+      "end_char": 475,
+      "length": 30,
+      "text": "טפי יקידין שרפין כלול גפי שתא "
+    },
+    {
+      "uid": "Akdamut_Milin_18",
+      "chapter_number": 1,
+      "verse_number": 18,
+      "start_char": 476,
+      "end_char": 508,
+      "length": 33,
+      "text": "טעם עד יתיהב להון שתיקין באדישתא "
+    },
+    {
+      "uid": "Akdamut_Milin_19",
+      "chapter_number": 1,
+      "verse_number": 19,
+      "start_char": 509,
+      "end_char": 538,
+      "length": 30,
+      "text": "יקבלון דין מדין שוי דלא בששתא "
+    },
+    {
+      "uid": "Akdamut_Milin_20",
+      "chapter_number": 1,
+      "verse_number": 20,
+      "start_char": 539,
+      "end_char": 568,
+      "length": 30,
+      "text": "יקר מלי כל ארעא לתלותי קדושתא "
+    },
+    {
+      "uid": "Akdamut_Milin_21",
+      "chapter_number": 1,
+      "verse_number": 21,
+      "start_char": 569,
+      "end_char": 598,
+      "length": 30,
+      "text": "כקל מן קדם שדי כקל מי נפישותא "
+    },
+    {
+      "uid": "Akdamut_Milin_22",
+      "chapter_number": 1,
+      "verse_number": 22,
+      "start_char": 599,
+      "end_char": 631,
+      "length": 33,
+      "text": "כרובין קבל גלגלין מרוממין באושתא "
+    },
+    {
+      "uid": "Akdamut_Milin_23",
+      "chapter_number": 1,
+      "verse_number": 23,
+      "start_char": 632,
+      "end_char": 661,
+      "length": 30,
+      "text": "למחזא באנפא עין כות גירי קשתא "
+    },
+    {
+      "uid": "Akdamut_Milin_24",
+      "chapter_number": 1,
+      "verse_number": 24,
+      "start_char": 662,
+      "end_char": 692,
+      "length": 31,
+      "text": "לכל אתר דמשתלחין זריזין באשותא "
+    },
+    {
+      "uid": "Akdamut_Milin_25",
+      "chapter_number": 1,
+      "verse_number": 25,
+      "start_char": 693,
+      "end_char": 725,
+      "length": 33,
+      "text": "מברכין בריך יקרה בכל לשן לחישותא "
+    },
+    {
+      "uid": "Akdamut_Milin_26",
+      "chapter_number": 1,
+      "verse_number": 26,
+      "start_char": 726,
+      "end_char": 758,
+      "length": 33,
+      "text": "מאתר בית שכינתה דלא צריך בחישותא "
+    },
+    {
+      "uid": "Akdamut_Milin_27",
+      "chapter_number": 1,
+      "verse_number": 27,
+      "start_char": 759,
+      "end_char": 789,
+      "length": 31,
+      "text": "נהם כל חיל מרומא מקלסין בחששתא "
+    },
+    {
+      "uid": "Akdamut_Milin_28",
+      "chapter_number": 1,
+      "verse_number": 28,
+      "start_char": 790,
+      "end_char": 818,
+      "length": 29,
+      "text": "נהירא מלכותה לדר ודר לאפרשתא "
+    },
+    {
+      "uid": "Akdamut_Milin_29",
+      "chapter_number": 1,
+      "verse_number": 29,
+      "start_char": 819,
+      "end_char": 851,
+      "length": 33,
+      "text": "סדירא בהון קדושתיה וכד חלפא שעתא "
+    },
+    {
+      "uid": "Akdamut_Milin_30",
+      "chapter_number": 1,
+      "verse_number": 30,
+      "start_char": 852,
+      "end_char": 879,
+      "length": 28,
+      "text": "סיומא דלעלם ואוף לא לשבועתא "
+    },
+    {
+      "uid": "Akdamut_Milin_31",
+      "chapter_number": 1,
+      "verse_number": 31,
+      "start_char": 880,
+      "end_char": 909,
+      "length": 30,
+      "text": "עדב יקר אחסנתה חביבין דבקבעתא "
+    },
+    {
+      "uid": "Akdamut_Milin_32",
+      "chapter_number": 1,
+      "verse_number": 32,
+      "start_char": 910,
+      "end_char": 936,
+      "length": 27,
+      "text": "עבידא לה חטיבא בדנח ושקעתא "
+    },
+    {
+      "uid": "Akdamut_Milin_33",
+      "chapter_number": 1,
+      "verse_number": 33,
+      "start_char": 937,
+      "end_char": 963,
+      "length": 27,
+      "text": "פרישן למנתה למעבד לה רעותא "
+    },
+    {
+      "uid": "Akdamut_Milin_34",
+      "chapter_number": 1,
+      "verse_number": 34,
+      "start_char": 964,
+      "end_char": 988,
+      "length": 25,
+      "text": "פרישתי שבחה יחוון בשעותא "
+    },
+    {
+      "uid": "Akdamut_Milin_35",
+      "chapter_number": 1,
+      "verse_number": 35,
+      "start_char": 989,
+      "end_char": 1015,
+      "length": 27,
+      "text": "צבי וחמד ורגג דלאון בלעותא "
+    },
+    {
+      "uid": "Akdamut_Milin_36",
+      "chapter_number": 1,
+      "verse_number": 36,
+      "start_char": 1016,
+      "end_char": 1044,
+      "length": 29,
+      "text": "צלותהון בכן מקבל והניא בעותא "
+    },
+    {
+      "uid": "Akdamut_Milin_37",
+      "chapter_number": 1,
+      "verse_number": 37,
+      "start_char": 1045,
+      "end_char": 1072,
+      "length": 28,
+      "text": "קטירא לחי עלמא בתגא בשבועתא "
+    },
+    {
+      "uid": "Akdamut_Milin_38",
+      "chapter_number": 1,
+      "verse_number": 38,
+      "start_char": 1073,
+      "end_char": 1101,
+      "length": 29,
+      "text": "קבל יקר טוטפתא יתיבא בקביעתא "
+    },
+    {
+      "uid": "Akdamut_Milin_39",
+      "chapter_number": 1,
+      "verse_number": 39,
+      "start_char": 1102,
+      "end_char": 1130,
+      "length": 29,
+      "text": "רשימא היא גופא בחכמתא ובדעתא "
+    },
+    {
+      "uid": "Akdamut_Milin_40",
+      "chapter_number": 1,
+      "verse_number": 40,
+      "start_char": 1131,
+      "end_char": 1155,
+      "length": 25,
+      "text": "רבותא דישראל קראי בשמעתא "
+    },
+    {
+      "uid": "Akdamut_Milin_41",
+      "chapter_number": 1,
+      "verse_number": 41,
+      "start_char": 1156,
+      "end_char": 1181,
+      "length": 26,
+      "text": "שבח רבון עלמא אמירא דכותא "
+    },
+    {
+      "uid": "Akdamut_Milin_42",
+      "chapter_number": 1,
+      "verse_number": 42,
+      "start_char": 1182,
+      "end_char": 1208,
+      "length": 27,
+      "text": "שפר עלי לחוויה באפי מלכותא "
+    },
+    {
+      "uid": "Akdamut_Milin_43",
+      "chapter_number": 1,
+      "verse_number": 43,
+      "start_char": 1209,
+      "end_char": 1233,
+      "length": 25,
+      "text": "תאין ומתכנשין כחזו אדותא "
+    },
+    {
+      "uid": "Akdamut_Milin_44",
+      "chapter_number": 1,
+      "verse_number": 44,
+      "start_char": 1234,
+      "end_char": 1260,
+      "length": 27,
+      "text": "תמהין ושילין לה בעסק אתותא "
+    },
+    {
+      "uid": "Akdamut_Milin_45",
+      "chapter_number": 1,
+      "verse_number": 45,
+      "start_char": 1261,
+      "end_char": 1290,
+      "length": 30,
+      "text": "מנן ומאן הוא רחימך שפרא ברותא "
+    },
+    {
+      "uid": "Akdamut_Milin_46",
+      "chapter_number": 1,
+      "verse_number": 46,
+      "start_char": 1291,
+      "end_char": 1317,
+      "length": 27,
+      "text": "ארום בגינה ספית מדור אריותא"
+    },
+    {
+      "uid": "Akdamut_Milin_47",
+      "chapter_number": 1,
+      "verse_number": 47,
+      "start_char": 1318,
+      "end_char": 1347,
+      "length": 30,
+      "text": "יקרא ויאה את אין תערבי למרותא "
+    },
+    {
+      "uid": "Akdamut_Milin_48",
+      "chapter_number": 1,
+      "verse_number": 48,
+      "start_char": 1348,
+      "end_char": 1374,
+      "length": 27,
+      "text": "רעותיך נעבד ליך בכל אתרותא "
+    },
+    {
+      "uid": "Akdamut_Milin_49",
+      "chapter_number": 1,
+      "verse_number": 49,
+      "start_char": 1375,
+      "end_char": 1405,
+      "length": 31,
+      "text": "בחכמתא מתיבא להון קצת להודעותא "
+    },
+    {
+      "uid": "Akdamut_Milin_50",
+      "chapter_number": 1,
+      "verse_number": 50,
+      "start_char": 1406,
+      "end_char": 1433,
+      "length": 28,
+      "text": "ידעתון חכמין לה באשתמודעותא "
+    },
+    {
+      "uid": "Akdamut_Milin_51",
+      "chapter_number": 1,
+      "verse_number": 51,
+      "start_char": 1434,
+      "end_char": 1465,
+      "length": 32,
+      "text": "רבותכון מה חשיבא קבל ההיא שבחתא "
+    },
+    {
+      "uid": "Akdamut_Milin_52",
+      "chapter_number": 1,
+      "verse_number": 52,
+      "start_char": 1466,
+      "end_char": 1495,
+      "length": 30,
+      "text": "רבותא דיעבד לי כי מטיא ישועתא "
+    },
+    {
+      "uid": "Akdamut_Milin_53",
+      "chapter_number": 1,
+      "verse_number": 53,
+      "start_char": 1496,
+      "end_char": 1526,
+      "length": 31,
+      "text": "במיתי לי נהורא ותחפי לכון בהתא "
+    },
+    {
+      "uid": "Akdamut_Milin_54",
+      "chapter_number": 1,
+      "verse_number": 54,
+      "start_char": 1527,
+      "end_char": 1554,
+      "length": 28,
+      "text": "יקרה כד אתגלי בתקפא ובגיותא "
+    },
+    {
+      "uid": "Akdamut_Milin_55",
+      "chapter_number": 1,
+      "verse_number": 55,
+      "start_char": 1555,
+      "end_char": 1578,
+      "length": 24,
+      "text": "ישלם גמליא לשנאי ונגותא "
+    },
+    {
+      "uid": "Akdamut_Milin_56",
+      "chapter_number": 1,
+      "verse_number": 56,
+      "start_char": 1579,
+      "end_char": 1604,
+      "length": 26,
+      "text": "צדקתא לעם חביב וסגי זכותא "
+    },
+    {
+      "uid": "Akdamut_Milin_57",
+      "chapter_number": 1,
+      "verse_number": 57,
+      "start_char": 1605,
+      "end_char": 1630,
+      "length": 26,
+      "text": "חדו שלמא במיתי ומנא דכותא "
+    },
+    {
+      "uid": "Akdamut_Milin_58",
+      "chapter_number": 1,
+      "verse_number": 58,
+      "start_char": 1631,
+      "end_char": 1658,
+      "length": 28,
+      "text": "קריתא דירושלם כד יכנש גלותא "
+    },
+    {
+      "uid": "Akdamut_Milin_59",
+      "chapter_number": 1,
+      "verse_number": 59,
+      "start_char": 1659,
+      "end_char": 1686,
+      "length": 28,
+      "text": "יקרה מטיל עלה ביומי ולילותא "
+    },
+    {
+      "uid": "Akdamut_Milin_60",
+      "chapter_number": 1,
+      "verse_number": 60,
+      "start_char": 1687,
+      "end_char": 1716,
+      "length": 30,
+      "text": "גנונה למעבד בה בתושבחן כלילתא "
+    },
+    {
+      "uid": "Akdamut_Milin_61",
+      "chapter_number": 1,
+      "verse_number": 61,
+      "start_char": 1717,
+      "end_char": 1740,
+      "length": 24,
+      "text": "דזהור ענניא למשפר כילתא "
+    },
+    {
+      "uid": "Akdamut_Milin_62",
+      "chapter_number": 1,
+      "verse_number": 62,
+      "start_char": 1741,
+      "end_char": 1766,
+      "length": 26,
+      "text": "לפומא דעבידתא עבידן מטלתא "
+    },
+    {
+      "uid": "Akdamut_Milin_63",
+      "chapter_number": 1,
+      "verse_number": 63,
+      "start_char": 1767,
+      "end_char": 1792,
+      "length": 26,
+      "text": "בתכתקי דהב פזא ושבע מעלתא "
+    },
+    {
+      "uid": "Akdamut_Milin_64",
+      "chapter_number": 1,
+      "verse_number": 64,
+      "start_char": 1793,
+      "end_char": 1818,
+      "length": 26,
+      "text": "תחימין צדיקי קדם רב פעלתא "
+    },
+    {
+      "uid": "Akdamut_Milin_65",
+      "chapter_number": 1,
+      "verse_number": 65,
+      "start_char": 1819,
+      "end_char": 1842,
+      "length": 24,
+      "text": "ורויהון דמי לשבעא חדותא "
+    },
+    {
+      "uid": "Akdamut_Milin_66",
+      "chapter_number": 1,
+      "verse_number": 66,
+      "start_char": 1843,
+      "end_char": 1868,
+      "length": 26,
+      "text": "רקיעא בזהורה וכוכבי זיותא "
+    },
+    {
+      "uid": "Akdamut_Milin_67",
+      "chapter_number": 1,
+      "verse_number": 67,
+      "start_char": 1869,
+      "end_char": 1894,
+      "length": 26,
+      "text": "הדרא דלא אפשר למפרט ספותא "
+    },
+    {
+      "uid": "Akdamut_Milin_68",
+      "chapter_number": 1,
+      "verse_number": 68,
+      "start_char": 1895,
+      "end_char": 1921,
+      "length": 27,
+      "text": "ולא אשתמע וחמי נביאן חזותא "
+    },
+    {
+      "uid": "Akdamut_Milin_69",
+      "chapter_number": 1,
+      "verse_number": 69,
+      "start_char": 1922,
+      "end_char": 1950,
+      "length": 29,
+      "text": "בלא שלטא בה עין בגו עדן גנתא "
+    },
+    {
+      "uid": "Akdamut_Milin_70",
+      "chapter_number": 1,
+      "verse_number": 70,
+      "start_char": 1951,
+      "end_char": 1978,
+      "length": 28,
+      "text": "מטילי בי חנגא לבהדי דשכינתא "
+    },
+    {
+      "uid": "Akdamut_Milin_71",
+      "chapter_number": 1,
+      "verse_number": 71,
+      "start_char": 1979,
+      "end_char": 2008,
+      "length": 30,
+      "text": "עלה רמזי דין הוא ברם באמתנותא "
+    },
+    {
+      "uid": "Akdamut_Milin_72",
+      "chapter_number": 1,
+      "verse_number": 72,
+      "start_char": 2009,
+      "end_char": 2036,
+      "length": 28,
+      "text": "שברנא לה בשבין תקוף הימנותא "
+    },
+    {
+      "uid": "Akdamut_Milin_73",
+      "chapter_number": 1,
+      "verse_number": 73,
+      "start_char": 2037,
+      "end_char": 2063,
+      "length": 27,
+      "text": "ידבר לן עלמין עלמין מדמותא "
+    },
+    {
+      "uid": "Akdamut_Milin_74",
+      "chapter_number": 1,
+      "verse_number": 74,
+      "start_char": 2064,
+      "end_char": 2092,
+      "length": 29,
+      "text": "מנת דלן דמלקדמין פרש בארמותא "
+    },
+    {
+      "uid": "Akdamut_Milin_75",
+      "chapter_number": 1,
+      "verse_number": 75,
+      "start_char": 2093,
+      "end_char": 2120,
+      "length": 28,
+      "text": "טלולא דלויתן ותור טור רמותא "
+    },
+    {
+      "uid": "Akdamut_Milin_76",
+      "chapter_number": 1,
+      "verse_number": 76,
+      "start_char": 2121,
+      "end_char": 2148,
+      "length": 28,
+      "text": "וחד בחד כי סביך ועבד קרבותא "
+    },
+    {
+      "uid": "Akdamut_Milin_77",
+      "chapter_number": 1,
+      "verse_number": 77,
+      "start_char": 2149,
+      "end_char": 2174,
+      "length": 26,
+      "text": "בקרנוהי מנגח בהמות ברבותא "
+    },
+    {
+      "uid": "Akdamut_Milin_78",
+      "chapter_number": 1,
+      "verse_number": 78,
+      "start_char": 2175,
+      "end_char": 2205,
+      "length": 31,
+      "text": "יקרטע נון לקבלה בציצוי בגבורתא "
+    },
+    {
+      "uid": "Akdamut_Milin_79",
+      "chapter_number": 1,
+      "verse_number": 79,
+      "start_char": 2206,
+      "end_char": 2233,
+      "length": 28,
+      "text": "מקרב לה בריה בחרבה ברברבותא "
+    },
+    {
+      "uid": "Akdamut_Milin_80",
+      "chapter_number": 1,
+      "verse_number": 80,
+      "start_char": 2234,
+      "end_char": 2259,
+      "length": 26,
+      "text": "ארסטון לצדיקי יתקן ושרותא "
+    },
+    {
+      "uid": "Akdamut_Milin_81",
+      "chapter_number": 1,
+      "verse_number": 81,
+      "start_char": 2260,
+      "end_char": 2289,
+      "length": 30,
+      "text": "מסחרין עלי תכי דכדכוד וגומרתא "
+    },
+    {
+      "uid": "Akdamut_Milin_82",
+      "chapter_number": 1,
+      "verse_number": 82,
+      "start_char": 2290,
+      "end_char": 2317,
+      "length": 28,
+      "text": "נגידין קמיהון אפרסמון נהרתא "
+    },
+    {
+      "uid": "Akdamut_Milin_83",
+      "chapter_number": 1,
+      "verse_number": 83,
+      "start_char": 2318,
+      "end_char": 2341,
+      "length": 24,
+      "text": "ומתפנקי ורוו בכסי רויתא "
+    },
+    {
+      "uid": "Akdamut_Milin_84",
+      "chapter_number": 1,
+      "verse_number": 84,
+      "start_char": 2342,
+      "end_char": 2372,
+      "length": 31,
+      "text": "חמר מרת דמבראשית נטיר בי נעותא "
+    },
+    {
+      "uid": "Akdamut_Milin_85",
+      "chapter_number": 1,
+      "verse_number": 85,
+      "start_char": 2373,
+      "end_char": 2401,
+      "length": 29,
+      "text": "זכאין כי שמעתון שבח דא שירתא "
+    },
+    {
+      "uid": "Akdamut_Milin_86",
+      "chapter_number": 1,
+      "verse_number": 86,
+      "start_char": 2402,
+      "end_char": 2430,
+      "length": 29,
+      "text": "קביעין כן תהוון בהנהו חבורתא "
+    },
+    {
+      "uid": "Akdamut_Milin_87",
+      "chapter_number": 1,
+      "verse_number": 87,
+      "start_char": 2431,
+      "end_char": 2457,
+      "length": 27,
+      "text": "ותזכון די תיתבון בעלא דרתא "
+    },
+    {
+      "uid": "Akdamut_Milin_88",
+      "chapter_number": 1,
+      "verse_number": 88,
+      "start_char": 2458,
+      "end_char": 2488,
+      "length": 31,
+      "text": "ארי תציתון למלוי דנפקין בהדרתא "
+    },
+    {
+      "uid": "Akdamut_Milin_89",
+      "chapter_number": 1,
+      "verse_number": 89,
+      "start_char": 2489,
+      "end_char": 2519,
+      "length": 31,
+      "text": "מרומם הוא אלהין בקדמתא ובתריתא "
+    },
+    {
+      "uid": "Akdamut_Milin_90",
+      "chapter_number": 1,
+      "verse_number": 90,
+      "start_char": 2520,
+      "end_char": 2548,
+      "length": 29,
+      "text": "צבי ואתרעי בן ומסר לן אוריתא "
+    }
+  ]
+}

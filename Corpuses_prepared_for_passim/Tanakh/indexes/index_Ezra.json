@@ -1,0 +1,2533 @@
+{
+  "title": "Ezra",
+  "categories": [
+    "Tanakh",
+    "Writings"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Ezra_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 114,
+      "length": 114,
+      "text": "ובשנת אחת לכורש מלך פרס לכלות דבר־יהוה מפי ירמיה העיר יהוה את־רוח כרש מלך־פרס ויעבר־קול בכל־מלכותו וגם־במכתב לאמר׃"
+    },
+    {
+      "uid": "Ezra_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 115,
+      "end_char": 217,
+      "length": 103,
+      "text": "כה אמר כרש מלך פרס כל ממלכות הארץ נתן לי יהוה אלהי השמים והוא־פקד עלי לבנות־לו בית בירושל͏ם אשר ביהודה׃"
+    },
+    {
+      "uid": "Ezra_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 218,
+      "end_char": 323,
+      "length": 106,
+      "text": "מי־בכם מכל־עמו יהי אלהיו עמו ויעל לירושל͏ם אשר ביהודה ויבן את־בית יהוה אלהי ישראל הוא האלהים אשר בירושל͏ם׃"
+    },
+    {
+      "uid": "Ezra_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 324,
+      "end_char": 435,
+      "length": 112,
+      "text": "וכל־הנשאר מכל־המקמות אשר הוא גר־שם ינשאוהו אנשי מקמו בכסף ובזהב וברכוש ובבהמה עם־הנדבה לבית האלהים אשר בירושל͏ם׃"
+    },
+    {
+      "uid": "Ezra_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 436,
+      "end_char": 543,
+      "length": 108,
+      "text": "ויקומו ראשי האבות ליהודה ובנימן והכהנים והלוים לכל העיר האלהים את־רוחו לעלות לבנות את־בית יהוה אשר בירושל͏ם׃"
+    },
+    {
+      "uid": "Ezra_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 544,
+      "end_char": 620,
+      "length": 77,
+      "text": "וכל־סביבתיהם חזקו בידיהם בכלי־כסף בזהב ברכוש ובבהמה ובמגדנות לבד על־כל־התנדב׃"
+    },
+    {
+      "uid": "Ezra_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 621,
+      "end_char": 698,
+      "length": 78,
+      "text": "והמלך כורש הוציא את־כלי בית־יהוה אשר הוציא נבוכדנצר מירושל͏ם ויתנם בבית אלהיו׃"
+    },
+    {
+      "uid": "Ezra_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 699,
+      "end_char": 764,
+      "length": 66,
+      "text": "ויוציאם כורש מלך פרס על־יד מתרדת הגזבר ויספרם לששבצר הנשיא ליהודה׃"
+    },
+    {
+      "uid": "Ezra_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 765,
+      "end_char": 826,
+      "length": 62,
+      "text": "ואלה מספרם אגרטלי זהב שלשים אגרטלי־כסף אלף מחלפים תשעה ועשרים׃"
+    },
+    {
+      "uid": "Ezra_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 827,
+      "end_char": 889,
+      "length": 63,
+      "text": "כפורי זהב שלשים כפורי כסף משנים ארבע מאות ועשרה כלים אחרים אלף׃"
+    },
+    {
+      "uid": "Ezra_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 890,
+      "end_char": 974,
+      "length": 85,
+      "text": "כל־כלים לזהב ולכסף חמשת אלפים וארבע מאות הכל העלה ששבצר עם העלות הגולה מבבל לירושל͏ם׃"
+    },
+    {
+      "uid": "Ezra_12",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 975,
+      "end_char": 1086,
+      "length": 112,
+      "text": "ואלה׀ בני המדינה העלים משבי הגולה אשר הגלה (נבוכדנצור) [נבוכדנצר] מלך־בבל לבבל וישובו לירושל͏ם ויהודה איש לעירו׃"
+    },
+    {
+      "uid": "Ezra_13",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1087,
+      "end_char": 1175,
+      "length": 89,
+      "text": "אשר־באו עם־זרבבל ישוע נחמיה שריה רעליה מרדכי בלשן מספר בגוי רחום בענה מספר אנשי עם ישראל׃"
+    },
+    {
+      "uid": "Ezra_14",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1176,
+      "end_char": 1206,
+      "length": 31,
+      "text": "בני פרעש אלפים מאה שבעים ושנים׃"
+    },
+    {
+      "uid": "Ezra_15",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 1207,
+      "end_char": 1237,
+      "length": 31,
+      "text": "בני שפטיה שלש מאות שבעים ושנים׃"
+    },
+    {
+      "uid": "Ezra_16",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1238,
+      "end_char": 1266,
+      "length": 29,
+      "text": "בני ארח שבע מאות חמשה ושבעים׃"
+    },
+    {
+      "uid": "Ezra_17",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1267,
+      "end_char": 1320,
+      "length": 54,
+      "text": "בני־פחת מואב לבני ישוע יואב אלפים שמנה מאות ושנים עשר׃"
+    },
+    {
+      "uid": "Ezra_18",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1321,
+      "end_char": 1352,
+      "length": 32,
+      "text": "בני עילם אלף מאתים חמשים וארבעה׃"
+    },
+    {
+      "uid": "Ezra_19",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 1353,
+      "end_char": 1384,
+      "length": 32,
+      "text": "בני זתוא תשע מאות וארבעים וחמשה׃"
+    },
+    {
+      "uid": "Ezra_20",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 1385,
+      "end_char": 1407,
+      "length": 23,
+      "text": "בני זכי שבע מאות וששים׃"
+    },
+    {
+      "uid": "Ezra_21",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 1408,
+      "end_char": 1436,
+      "length": 29,
+      "text": "בני בני שש מאות ארבעים ושנים׃"
+    },
+    {
+      "uid": "Ezra_22",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 1437,
+      "end_char": 1464,
+      "length": 28,
+      "text": "בני בבי שש מאות עשרים ושלשה׃"
+    },
+    {
+      "uid": "Ezra_23",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 1465,
+      "end_char": 1495,
+      "length": 31,
+      "text": "בני עזגד אלף מאתים עשרים ושנים׃"
+    },
+    {
+      "uid": "Ezra_24",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 1496,
+      "end_char": 1524,
+      "length": 29,
+      "text": "בני אדניקם שש מאות ששים וששה׃"
+    },
+    {
+      "uid": "Ezra_25",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 1525,
+      "end_char": 1550,
+      "length": 26,
+      "text": "בני בגוי אלפים חמשים וששה׃"
+    },
+    {
+      "uid": "Ezra_26",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 1551,
+      "end_char": 1582,
+      "length": 32,
+      "text": "בני עדין ארבע מאות חמשים וארבעה׃"
+    },
+    {
+      "uid": "Ezra_27",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 1583,
+      "end_char": 1610,
+      "length": 28,
+      "text": "בני־אטר ליחזקיה תשעים ושמנה׃"
+    },
+    {
+      "uid": "Ezra_28",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 1611,
+      "end_char": 1639,
+      "length": 29,
+      "text": "בני בצי שלש מאות עשרים ושלשה׃"
+    },
+    {
+      "uid": "Ezra_29",
+      "chapter_number": 2,
+      "verse_number": 18,
+      "start_char": 1640,
+      "end_char": 1662,
+      "length": 23,
+      "text": "בני יורה מאה ושנים עשר׃"
+    },
+    {
+      "uid": "Ezra_30",
+      "chapter_number": 2,
+      "verse_number": 19,
+      "start_char": 1663,
+      "end_char": 1688,
+      "length": 26,
+      "text": "בני חשם מאתים עשרים ושלשה׃"
+    },
+    {
+      "uid": "Ezra_31",
+      "chapter_number": 2,
+      "verse_number": 20,
+      "start_char": 1689,
+      "end_char": 1708,
+      "length": 20,
+      "text": "בני גבר תשעים וחמשה׃"
+    },
+    {
+      "uid": "Ezra_32",
+      "chapter_number": 2,
+      "verse_number": 21,
+      "start_char": 1709,
+      "end_char": 1736,
+      "length": 28,
+      "text": "בני בית־לחם מאה עשרים ושלשה׃"
+    },
+    {
+      "uid": "Ezra_33",
+      "chapter_number": 2,
+      "verse_number": 22,
+      "start_char": 1737,
+      "end_char": 1757,
+      "length": 21,
+      "text": "אנשי נטפה חמשים וששה׃"
+    },
+    {
+      "uid": "Ezra_34",
+      "chapter_number": 2,
+      "verse_number": 23,
+      "start_char": 1758,
+      "end_char": 1784,
+      "length": 27,
+      "text": "אנשי ענתות מאה עשרים ושמנה׃"
+    },
+    {
+      "uid": "Ezra_35",
+      "chapter_number": 2,
+      "verse_number": 24,
+      "start_char": 1785,
+      "end_char": 1807,
+      "length": 23,
+      "text": "בני עזמות ארבעים ושנים׃"
+    },
+    {
+      "uid": "Ezra_36",
+      "chapter_number": 2,
+      "verse_number": 25,
+      "start_char": 1808,
+      "end_char": 1857,
+      "length": 50,
+      "text": "בני קרית ערים כפירה ובארות שבע מאות וארבעים ושלשה׃"
+    },
+    {
+      "uid": "Ezra_37",
+      "chapter_number": 2,
+      "verse_number": 26,
+      "start_char": 1858,
+      "end_char": 1890,
+      "length": 33,
+      "text": "בני הרמה וגבע שש מאות עשרים ואחד׃"
+    },
+    {
+      "uid": "Ezra_38",
+      "chapter_number": 2,
+      "verse_number": 27,
+      "start_char": 1891,
+      "end_char": 1916,
+      "length": 26,
+      "text": "אנשי מכמס מאה עשרים ושנים׃"
+    },
+    {
+      "uid": "Ezra_39",
+      "chapter_number": 2,
+      "verse_number": 28,
+      "start_char": 1917,
+      "end_char": 1951,
+      "length": 35,
+      "text": "אנשי בית־אל והעי מאתים עשרים ושלשה׃"
+    },
+    {
+      "uid": "Ezra_40",
+      "chapter_number": 2,
+      "verse_number": 29,
+      "start_char": 1952,
+      "end_char": 1971,
+      "length": 20,
+      "text": "בני נבו חמשים ושנים׃"
+    },
+    {
+      "uid": "Ezra_41",
+      "chapter_number": 2,
+      "verse_number": 30,
+      "start_char": 1972,
+      "end_char": 1996,
+      "length": 25,
+      "text": "בני מגביש מאה חמשים וששה׃"
+    },
+    {
+      "uid": "Ezra_42",
+      "chapter_number": 2,
+      "verse_number": 31,
+      "start_char": 1997,
+      "end_char": 2032,
+      "length": 36,
+      "text": "בני עילם אחר אלף מאתים חמשים וארבעה׃"
+    },
+    {
+      "uid": "Ezra_43",
+      "chapter_number": 2,
+      "verse_number": 32,
+      "start_char": 2033,
+      "end_char": 2056,
+      "length": 24,
+      "text": "בני חרם שלש מאות ועשרים׃"
+    },
+    {
+      "uid": "Ezra_44",
+      "chapter_number": 2,
+      "verse_number": 33,
+      "start_char": 2057,
+      "end_char": 2095,
+      "length": 39,
+      "text": "בני־לד חדיד ואונו שבע מאות עשרים וחמשה׃"
+    },
+    {
+      "uid": "Ezra_45",
+      "chapter_number": 2,
+      "verse_number": 34,
+      "start_char": 2096,
+      "end_char": 2126,
+      "length": 31,
+      "text": "בני ירחו שלש מאות ארבעים וחמשה׃"
+    },
+    {
+      "uid": "Ezra_46",
+      "chapter_number": 2,
+      "verse_number": 35,
+      "start_char": 2127,
+      "end_char": 2162,
+      "length": 36,
+      "text": "בני סנאה שלשת אלפים ושש מאות ושלשים׃"
+    },
+    {
+      "uid": "Ezra_47",
+      "chapter_number": 2,
+      "verse_number": 36,
+      "start_char": 2163,
+      "end_char": 2209,
+      "length": 47,
+      "text": "הכהניםבני ידעיה לבית ישוע תשע מאות שבעים ושלשה׃"
+    },
+    {
+      "uid": "Ezra_48",
+      "chapter_number": 2,
+      "verse_number": 37,
+      "start_char": 2210,
+      "end_char": 2233,
+      "length": 24,
+      "text": "בני אמר אלף חמשים ושנים׃"
+    },
+    {
+      "uid": "Ezra_49",
+      "chapter_number": 2,
+      "verse_number": 38,
+      "start_char": 2234,
+      "end_char": 2266,
+      "length": 33,
+      "text": "בני פשחור אלף מאתים ארבעים ושבעה׃"
+    },
+    {
+      "uid": "Ezra_50",
+      "chapter_number": 2,
+      "verse_number": 39,
+      "start_char": 2267,
+      "end_char": 2288,
+      "length": 22,
+      "text": "בני חרם אלף ושבעה עשר׃"
+    },
+    {
+      "uid": "Ezra_51",
+      "chapter_number": 2,
+      "verse_number": 40,
+      "start_char": 2289,
+      "end_char": 2336,
+      "length": 48,
+      "text": "הלוים בני־ישוע וקדמיאל לבני הודויה שבעים וארבעה׃"
+    },
+    {
+      "uid": "Ezra_52",
+      "chapter_number": 2,
+      "verse_number": 41,
+      "start_char": 2337,
+      "end_char": 2368,
+      "length": 32,
+      "text": "המשררים בני אסף מאה עשרים ושמנה׃"
+    },
+    {
+      "uid": "Ezra_53",
+      "chapter_number": 2,
+      "verse_number": 42,
+      "start_char": 2369,
+      "end_char": 2452,
+      "length": 84,
+      "text": "בני השערים בני־שלום בני־אטר בני־טלמן בני־עקוב בני חטיטא בני שבי הכל מאה שלשים ותשעה׃"
+    },
+    {
+      "uid": "Ezra_54",
+      "chapter_number": 2,
+      "verse_number": 43,
+      "start_char": 2453,
+      "end_char": 2489,
+      "length": 37,
+      "text": "הנתינים בני־ציחא בני־חשופא בני טבעות׃"
+    },
+    {
+      "uid": "Ezra_55",
+      "chapter_number": 2,
+      "verse_number": 44,
+      "start_char": 2490,
+      "end_char": 2516,
+      "length": 27,
+      "text": "בני־קרס בני־סיעהא בני פדון׃"
+    },
+    {
+      "uid": "Ezra_56",
+      "chapter_number": 2,
+      "verse_number": 45,
+      "start_char": 2517,
+      "end_char": 2543,
+      "length": 27,
+      "text": "בני־לבנה בני־חגבה בני עקוב׃"
+    },
+    {
+      "uid": "Ezra_57",
+      "chapter_number": 2,
+      "verse_number": 46,
+      "start_char": 2544,
+      "end_char": 2577,
+      "length": 34,
+      "text": "בני־חגב בני־[שלמי] (שמלי) בני חנן׃"
+    },
+    {
+      "uid": "Ezra_58",
+      "chapter_number": 2,
+      "verse_number": 47,
+      "start_char": 2578,
+      "end_char": 2602,
+      "length": 25,
+      "text": "בני־גדל בני־גחר בני ראיה׃"
+    },
+    {
+      "uid": "Ezra_59",
+      "chapter_number": 2,
+      "verse_number": 48,
+      "start_char": 2603,
+      "end_char": 2629,
+      "length": 27,
+      "text": "בני־רצין בני־נקודא בני גזם׃"
+    },
+    {
+      "uid": "Ezra_60",
+      "chapter_number": 2,
+      "verse_number": 49,
+      "start_char": 2630,
+      "end_char": 2653,
+      "length": 24,
+      "text": "בני־עזא בני־פסח בני בסי׃"
+    },
+    {
+      "uid": "Ezra_61",
+      "chapter_number": 2,
+      "verse_number": 50,
+      "start_char": 2654,
+      "end_char": 2695,
+      "length": 42,
+      "text": "בני־אסנה בני־מעונים בני (נפיסים) [נפוסים]׃"
+    },
+    {
+      "uid": "Ezra_62",
+      "chapter_number": 2,
+      "verse_number": 51,
+      "start_char": 2696,
+      "end_char": 2725,
+      "length": 30,
+      "text": "בני־בקבוק בני־חקופא בני חרחור׃"
+    },
+    {
+      "uid": "Ezra_63",
+      "chapter_number": 2,
+      "verse_number": 52,
+      "start_char": 2726,
+      "end_char": 2754,
+      "length": 29,
+      "text": "בני־בצלות בני־מחידא בני חרשא׃"
+    },
+    {
+      "uid": "Ezra_64",
+      "chapter_number": 2,
+      "verse_number": 53,
+      "start_char": 2755,
+      "end_char": 2782,
+      "length": 28,
+      "text": "בני־ברקוס בני־סיסרא בני־תמח׃"
+    },
+    {
+      "uid": "Ezra_65",
+      "chapter_number": 2,
+      "verse_number": 54,
+      "start_char": 2783,
+      "end_char": 2801,
+      "length": 19,
+      "text": "בני נציח בני חטיפא׃"
+    },
+    {
+      "uid": "Ezra_66",
+      "chapter_number": 2,
+      "verse_number": 55,
+      "start_char": 2802,
+      "end_char": 2843,
+      "length": 42,
+      "text": "בני עבדי שלמה בני־סטי בני־הספרת בני פרודא׃"
+    },
+    {
+      "uid": "Ezra_67",
+      "chapter_number": 2,
+      "verse_number": 56,
+      "start_char": 2844,
+      "end_char": 2870,
+      "length": 27,
+      "text": "בני־יעלה בני־דרקון בני גדל׃"
+    },
+    {
+      "uid": "Ezra_68",
+      "chapter_number": 2,
+      "verse_number": 57,
+      "start_char": 2871,
+      "end_char": 2913,
+      "length": 43,
+      "text": "בני שפטיה בני־חטיל בני פכרת הצביים בני אמי׃"
+    },
+    {
+      "uid": "Ezra_69",
+      "chapter_number": 2,
+      "verse_number": 58,
+      "start_char": 2914,
+      "end_char": 2960,
+      "length": 47,
+      "text": "כל־הנתינים ובני עבדי שלמה שלש מאות תשעים ושנים׃"
+    },
+    {
+      "uid": "Ezra_70",
+      "chapter_number": 2,
+      "verse_number": 59,
+      "start_char": 2961,
+      "end_char": 3044,
+      "length": 84,
+      "text": "ואלה העלים מתל מלח תל חרשא כרוב אדן אמר ולא יכלו להגיד בית־אבותם וזרעם אם מישראל הם׃"
+    },
+    {
+      "uid": "Ezra_71",
+      "chapter_number": 2,
+      "verse_number": 60,
+      "start_char": 3045,
+      "end_char": 3093,
+      "length": 49,
+      "text": "בני־דליה בני־טוביה בני נקודא שש מאות חמשים ושנים׃"
+    },
+    {
+      "uid": "Ezra_72",
+      "chapter_number": 2,
+      "verse_number": 61,
+      "start_char": 3094,
+      "end_char": 3178,
+      "length": 85,
+      "text": "ומבני הכהנים בני חביה בני הקוץ בני ברזלי אשר לקח מבנות ברזלי הגלעדי אשה ויקרא על־שמם׃"
+    },
+    {
+      "uid": "Ezra_73",
+      "chapter_number": 2,
+      "verse_number": 62,
+      "start_char": 3179,
+      "end_char": 3227,
+      "length": 49,
+      "text": "אלה בקשו כתבם המתיחשים ולא נמצאו ויגאלו מן־הכהנה׃"
+    },
+    {
+      "uid": "Ezra_74",
+      "chapter_number": 2,
+      "verse_number": 63,
+      "start_char": 3228,
+      "end_char": 3294,
+      "length": 67,
+      "text": "ויאמר התרשתא להם אשר לא־יאכלו מקדש הקדשים עד עמד כהן לאורים ולתמים׃"
+    },
+    {
+      "uid": "Ezra_75",
+      "chapter_number": 2,
+      "verse_number": 64,
+      "start_char": 3295,
+      "end_char": 3337,
+      "length": 43,
+      "text": "כל־הקהל כאחד ארבע רבוא אלפים שלש־מאות ששים׃"
+    },
+    {
+      "uid": "Ezra_76",
+      "chapter_number": 2,
+      "verse_number": 65,
+      "start_char": 3338,
+      "end_char": 3420,
+      "length": 83,
+      "text": "מלבד עבדיהם ואמהתיהם אלה שבעת אלפים שלש מאות שלשים ושבעה ולהם משררים ומשררות מאתים׃"
+    },
+    {
+      "uid": "Ezra_77",
+      "chapter_number": 2,
+      "verse_number": 66,
+      "start_char": 3421,
+      "end_char": 3473,
+      "length": 53,
+      "text": "סוסיהם שבע מאות שלשים וששה פרדיהם מאתים ארבעים וחמשה׃"
+    },
+    {
+      "uid": "Ezra_78",
+      "chapter_number": 2,
+      "verse_number": 67,
+      "start_char": 3474,
+      "end_char": 3534,
+      "length": 61,
+      "text": "גמליהם ארבע מאות שלשים וחמשה חמרים ששת אלפים שבע מאות ועשרים׃"
+    },
+    {
+      "uid": "Ezra_79",
+      "chapter_number": 2,
+      "verse_number": 68,
+      "start_char": 3535,
+      "end_char": 3612,
+      "length": 78,
+      "text": "ומראשי האבות בבואם לבית יהוה אשר בירושל͏ם התנדבו לבית האלהים להעמידו על־מכונו׃"
+    },
+    {
+      "uid": "Ezra_80",
+      "chapter_number": 2,
+      "verse_number": 69,
+      "start_char": 3613,
+      "end_char": 3699,
+      "length": 87,
+      "text": "ככחם נתנו לאוצר המלאכה זהב דרכמונים שש־רבאות ואלף וכסף מנים חמשת אלפים וכתנת כהנים מאה׃"
+    },
+    {
+      "uid": "Ezra_81",
+      "chapter_number": 2,
+      "verse_number": 70,
+      "start_char": 3700,
+      "end_char": 3778,
+      "length": 79,
+      "text": "וישבו הכהנים והלוים ומן־העם והמשררים והשוערים והנתינים בעריהם וכל־ישראל בעריהם׃"
+    },
+    {
+      "uid": "Ezra_82",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 3779,
+      "end_char": 3842,
+      "length": 64,
+      "text": "ויגע החדש השביעי ובני ישראל בעריםויאספו העם כאיש אחד אל־ירושל͏ם׃"
+    },
+    {
+      "uid": "Ezra_83",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 3843,
+      "end_char": 3967,
+      "length": 125,
+      "text": "ויקם ישוע בן־יוצדק ואחיו הכהנים וזרבבל בן־שאלתיאל ואחיו ויבנו את־מזבח אלהי ישראל להעלות עליו עלות ככתוב בתורת משה איש־האלהים׃"
+    },
+    {
+      "uid": "Ezra_84",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 3968,
+      "end_char": 4065,
+      "length": 98,
+      "text": "ויכינו המזבח על־מכונתיו כי באימה עליהם מעמי הארצות (ויעל) [ויעלו] עליו עלות ליהוה עלות לבקר ולערב׃"
+    },
+    {
+      "uid": "Ezra_85",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 4066,
+      "end_char": 4129,
+      "length": 64,
+      "text": "ויעשו את־חג הסכות ככתוב ועלת יום ביום במספר כמשפט דבר־יום ביומו׃"
+    },
+    {
+      "uid": "Ezra_86",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 4130,
+      "end_char": 4201,
+      "length": 72,
+      "text": "ואחרי־כן עלת תמיד ולחדשים ולכל־מועדי יהוה המקדשים ולכל מתנדב נדבה ליהוה׃"
+    },
+    {
+      "uid": "Ezra_87",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 4202,
+      "end_char": 4263,
+      "length": 62,
+      "text": "מיום אחד לחדש השביעי החלו להעלות עלות ליהוה והיכל יהוה לא יסד׃"
+    },
+    {
+      "uid": "Ezra_88",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 4264,
+      "end_char": 4382,
+      "length": 119,
+      "text": "ויתנו־כסף לחצבים ולחרשים ומאכל ומשתה ושמן לצדנים ולצרים להביא עצי ארזים מן־הלבנון אל־ים יפוא כרשיון כורש מלך־פרס עליהם׃"
+    },
+    {
+      "uid": "Ezra_89",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 4383,
+      "end_char": 4580,
+      "length": 198,
+      "text": "ובשנה השנית לבואם אל־בית האלהים לירושל͏ם בחדש השני החלו זרבבל בן־שאלתיאל וישוע בן־יוצדק ושאר אחיהם׀ הכהנים והלוים וכל־הבאים מהשבי ירושל͏ם ויעמידו את־הלוים מבן עשרים שנה ומעלה לנצח על־מלאכת בית־יהוה׃"
+    },
+    {
+      "uid": "Ezra_90",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 4581,
+      "end_char": 4688,
+      "length": 108,
+      "text": "ויעמד ישוע בניו ואחיו קדמיאל ובניו בני־יהודה כאחד לנצח על־עשה המלאכה בבית האלהיםבני חנדד בניהם ואחיהם הלוים׃"
+    },
+    {
+      "uid": "Ezra_91",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 4689,
+      "end_char": 4801,
+      "length": 113,
+      "text": "ויסדו הבנים את־היכל יהוה ויעמידו הכהנים מלבשים בחצצרות והלוים בני־אסף במצלתים להלל את־יהוה על־ידי דויד מלך־ישראל׃"
+    },
+    {
+      "uid": "Ezra_92",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 4802,
+      "end_char": 4909,
+      "length": 108,
+      "text": "ויענו בהלל ובהודת ליהוה כי טוב כי־לעולם חסדו על־ישראל וכל־העם הריעו תרועה גדולה בהלל ליהוה על הוסד בית־יהוה׃"
+    },
+    {
+      "uid": "Ezra_93",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 4910,
+      "end_char": 5038,
+      "length": 129,
+      "text": "ורבים מהכהנים והלוים וראשי האבות הזקנים אשר ראו את־הבית הראשון ביסדו זה הבית בעיניהם בכים בקול גדול ורבים בתרועה בשמחה להרים קול׃"
+    },
+    {
+      "uid": "Ezra_94",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 5039,
+      "end_char": 5130,
+      "length": 92,
+      "text": "ואין העם מכירים קול תרועת השמחה לקול בכי העם כי העם מריעים תרועה גדולה והקול נשמע עד־למרחוק׃"
+    },
+    {
+      "uid": "Ezra_95",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 5131,
+      "end_char": 5195,
+      "length": 65,
+      "text": "וישמעו צרי יהודה ובנימן כי־בני הגולה בונים היכל ליהוה אלהי ישראל׃"
+    },
+    {
+      "uid": "Ezra_96",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 5196,
+      "end_char": 5328,
+      "length": 133,
+      "text": "ויגשו אל־זרבבל ואל־ראשי האבות ויאמרו להם נבנה עמכם כי ככם נדרוש לאלהיכם (ולא) [ולו׀] אנחנו זבחים מימי אסר חדן מלך אשור המעלה אתנו פה׃"
+    },
+    {
+      "uid": "Ezra_97",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 5329,
+      "end_char": 5466,
+      "length": 138,
+      "text": "ויאמר להם זרבבל וישוע ושאר ראשי האבות לישראל לא־לכם ולנו לבנות בית לאלהינו כי אנחנו יחד נבנה ליהוה אלהי ישראל כאשר צונו המלך כורש מלך־פרס׃"
+    },
+    {
+      "uid": "Ezra_98",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 5467,
+      "end_char": 5529,
+      "length": 63,
+      "text": "ויהי עם־הארץ מרפים ידי עם־יהודה (ומבלהים) [ומבהלים] אותם לבנות׃"
+    },
+    {
+      "uid": "Ezra_99",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 5530,
+      "end_char": 5603,
+      "length": 74,
+      "text": "וסכרים עליהם יועצים להפר עצתם כל־ימי כורש מלך פרס ועד־מלכות דריוש מלך־פרס׃"
+    },
+    {
+      "uid": "Ezra_100",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 5604,
+      "end_char": 5665,
+      "length": 62,
+      "text": "ובמלכות אחשורוש בתחלת מלכותו כתבו שטנה על־ישבי יהודה וירושל͏ם׃"
+    },
+    {
+      "uid": "Ezra_101",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 5666,
+      "end_char": 5767,
+      "length": 102,
+      "text": "ובימי ארתחששתא כתב בשלם מתרדת טבאל ושאר כנותו על־ארתחששתא מלך פרס וכתב הנשתון כתוב ארמית ומתרגם ארמית׃"
+    },
+    {
+      "uid": "Ezra_102",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 5768,
+      "end_char": 5835,
+      "length": 68,
+      "text": "רחום בעל־טעם ושמשי ספרא כתבו אגרה חדה על־ירושלם לארתחששתא מלכא כנמא׃"
+    },
+    {
+      "uid": "Ezra_103",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 5836,
+      "end_char": 5958,
+      "length": 123,
+      "text": "אדין רחום בעל־טעם ושמשי ספרא ושאר כנותהון דיניא ואפרסתכיא טרפליא אפרסיא (ארכוי) [ארכויא] בבליא שושנכיא (דהוא) [דהיא] עלמיא׃"
+    },
+    {
+      "uid": "Ezra_104",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 5959,
+      "end_char": 6038,
+      "length": 80,
+      "text": "ושאר אמיא די הגלי אסנפר רבא ויקירא והותב המו בקריה די שמרין ושאר עבר־נהרה וכענת׃"
+    },
+    {
+      "uid": "Ezra_105",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 6039,
+      "end_char": 6110,
+      "length": 72,
+      "text": "דנה פרשגן אגרתא די שלחו עלוהי על־ארתחששתא מלכא עבדיך אנש עבר־נהרה וכענת׃"
+    },
+    {
+      "uid": "Ezra_106",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 6111,
+      "end_char": 6242,
+      "length": 132,
+      "text": "ידיע להוא למלכא די יהודיא די סלקו מן־לותך עלינא אתו לירושלם קריתא מרדתא ובאישתא בנין (ושורי) [ושוריא] (אשכללו) [שכלילו] ואשיא יחיטו׃"
+    },
+    {
+      "uid": "Ezra_107",
+      "chapter_number": 4,
+      "verse_number": 13,
+      "start_char": 6243,
+      "end_char": 6341,
+      "length": 99,
+      "text": "כען ידיע להוא למלכא די הן קריתא דך תתבנא ושוריא ישתכללון מנדה־בלו והלך לא ינתנון ואפתם מלכים תהנזק׃"
+    },
+    {
+      "uid": "Ezra_108",
+      "chapter_number": 4,
+      "verse_number": 14,
+      "start_char": 6342,
+      "end_char": 6427,
+      "length": 86,
+      "text": "כען כל־קבל די־מלח היכלא מלחנא וערות מלכא לא אריך־לנא למחזא על־דנה שלחנא והודענא למלכא׃"
+    },
+    {
+      "uid": "Ezra_109",
+      "chapter_number": 4,
+      "verse_number": 15,
+      "start_char": 6428,
+      "end_char": 6577,
+      "length": 150,
+      "text": "די יבקר בספר־דכרניא די אבהתך ותהשכח בספר דכרניא ותנדע די קריתא דך קריא מרדא ומהנזקת מלכין ומדנן ואשתדור עבדין בגוה מן־יומת עלמא על־דנה קריתא דך החרבת׃"
+    },
+    {
+      "uid": "Ezra_110",
+      "chapter_number": 4,
+      "verse_number": 16,
+      "start_char": 6578,
+      "end_char": 6668,
+      "length": 91,
+      "text": "מהודעין אנחנה למלכא די הן קריתא דך תתבנא ושוריה ישתכללון לקבל דנה חלק בעבר נהרא לא איתי לך׃"
+    },
+    {
+      "uid": "Ezra_111",
+      "chapter_number": 4,
+      "verse_number": 17,
+      "start_char": 6669,
+      "end_char": 6762,
+      "length": 94,
+      "text": "פתגמא שלח מלכא על־רחום בעל־טעם ושמשי ספרא ושאר כנותהון די יתבין בשמרין ושאר עבר־נהרה שלם וכעת׃"
+    },
+    {
+      "uid": "Ezra_112",
+      "chapter_number": 4,
+      "verse_number": 18,
+      "start_char": 6763,
+      "end_char": 6799,
+      "length": 37,
+      "text": "נשתונא די שלחתון עלינא מפרש קרי קדמי׃"
+    },
+    {
+      "uid": "Ezra_113",
+      "chapter_number": 4,
+      "verse_number": 19,
+      "start_char": 6800,
+      "end_char": 6888,
+      "length": 89,
+      "text": "ומני שים טעם ובקרו והשכחו די קריתא דך מן־יומת עלמא על־מלכין מתנשאה ומרד ואשתדור מתעבד־בה׃"
+    },
+    {
+      "uid": "Ezra_114",
+      "chapter_number": 4,
+      "verse_number": 20,
+      "start_char": 6889,
+      "end_char": 6962,
+      "length": 74,
+      "text": "ומלכין תקיפין הוו על־ירושלם ושליטין בכל עבר נהרה ומדה בלו והלך מתיהב להון׃"
+    },
+    {
+      "uid": "Ezra_115",
+      "chapter_number": 4,
+      "verse_number": 21,
+      "start_char": 6963,
+      "end_char": 7027,
+      "length": 65,
+      "text": "כען שימו טעם לבטלא גבריא אלך וקריתא דך לא תתבנא עד־מני טעמא יתשם׃"
+    },
+    {
+      "uid": "Ezra_116",
+      "chapter_number": 4,
+      "verse_number": 22,
+      "start_char": 7028,
+      "end_char": 7083,
+      "length": 56,
+      "text": "וזהירין הוו שלו למעבד על־דנה למה ישגא חבלא להנזקת מלכין׃"
+    },
+    {
+      "uid": "Ezra_117",
+      "chapter_number": 4,
+      "verse_number": 23,
+      "start_char": 7084,
+      "end_char": 7208,
+      "length": 125,
+      "text": "אדין מן־די פרשגן נשתונא די ארתחששתא מלכא קרי קדם־רחום ושמשי ספרא וכנותהון אזלו בבהילו לירושלם על־יהודיא ובטלו המו באדרע וחיל׃"
+    },
+    {
+      "uid": "Ezra_118",
+      "chapter_number": 4,
+      "verse_number": 24,
+      "start_char": 7209,
+      "end_char": 7289,
+      "length": 81,
+      "text": "באדין בטלת עבידת בית־אלהא די בירושלם והות בטלא עד שנת תרתין למלכות דריוש מלך־פרס׃"
+    },
+    {
+      "uid": "Ezra_119",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 7290,
+      "end_char": 7386,
+      "length": 97,
+      "text": "והתנבי חגי (נביאה) [נביא] וזכריה בר־עדוא נביאיא על־יהודיא די ביהוד ובירושלם בשם אלה ישראל עליהון׃"
+    },
+    {
+      "uid": "Ezra_120",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 7387,
+      "end_char": 7494,
+      "length": 108,
+      "text": "באדין קמו זרבבל בר־שאלתיאל וישוע בר־יוצדק ושריו למבנא בית אלהא די בירושלם ועמהון נביאיא די־אלהא מסעדין להון׃"
+    },
+    {
+      "uid": "Ezra_121",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 7495,
+      "end_char": 7611,
+      "length": 117,
+      "text": "בה־זמנא אתה עליהון תתני פחת עבר־נהרה ושתר בוזני וכנותהון וכן אמרין להם מן־שם לכם טעם ביתא דנה לבנא ואשרנא דנה לשכללה׃"
+    },
+    {
+      "uid": "Ezra_122",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 7612,
+      "end_char": 7668,
+      "length": 57,
+      "text": "אדין כנמא אמרנא להם מן־אנון שמהת גבריא די־דנה בנינא בנין׃"
+    },
+    {
+      "uid": "Ezra_123",
+      "chapter_number": 5,
+      "verse_number": 5,
+      "start_char": 7669,
+      "end_char": 7756,
+      "length": 88,
+      "text": "ועין אלההם הות על־שבי יהודיא ולא־בטלו המו עד־טעמא לדריוש יהך ואדין יתיבון נשתונא על־דנה׃"
+    },
+    {
+      "uid": "Ezra_124",
+      "chapter_number": 5,
+      "verse_number": 6,
+      "start_char": 7757,
+      "end_char": 7847,
+      "length": 91,
+      "text": "פרשגן אגרתא די־שלח תתני׀ פחת עבר־נהרה ושתר בוזני וכנותה אפרסכיא די בעבר נהרה על־דריוש מלכא׃"
+    },
+    {
+      "uid": "Ezra_125",
+      "chapter_number": 5,
+      "verse_number": 7,
+      "start_char": 7848,
+      "end_char": 7901,
+      "length": 54,
+      "text": "פתגמא שלחו עלוהי וכדנה כתיב בגוה לדריוש מלכא שלמא כלא׃"
+    },
+    {
+      "uid": "Ezra_126",
+      "chapter_number": 5,
+      "verse_number": 8,
+      "start_char": 7902,
+      "end_char": 8026,
+      "length": 125,
+      "text": "ידיע׀ להוא למלכא די־אזלנא ליהוד מדינתא לבית אלהא רבא והוא מתבנא אבן גלל ואע מתשם בכתליא ועבידתא דך אספרנא מתעבדא ומצלח בידהם׃"
+    },
+    {
+      "uid": "Ezra_127",
+      "chapter_number": 5,
+      "verse_number": 9,
+      "start_char": 8027,
+      "end_char": 8110,
+      "length": 84,
+      "text": "אדין שאלנא לשביא אלך כנמא אמרנא להם מן־שם לכם טעם ביתא דנה למבניה ואשרנא דנה לשכללה׃"
+    },
+    {
+      "uid": "Ezra_128",
+      "chapter_number": 5,
+      "verse_number": 10,
+      "start_char": 8111,
+      "end_char": 8168,
+      "length": 58,
+      "text": "ואף שמהתהם שאלנא להם להודעותך די נכתב שם־גבריא די בראשיהם׃"
+    },
+    {
+      "uid": "Ezra_129",
+      "chapter_number": 5,
+      "verse_number": 11,
+      "start_char": 8169,
+      "end_char": 8298,
+      "length": 130,
+      "text": "וכנמא פתגמא התיבונא לממר אנחנא המו עבדוהי די־אלה שמיא וארעא ובנין ביתא די־הוא בנה מקדמת דנה שנין שגיאן ומלך לישראל רב בנהי ושכללה׃"
+    },
+    {
+      "uid": "Ezra_130",
+      "chapter_number": 5,
+      "verse_number": 12,
+      "start_char": 8299,
+      "end_char": 8406,
+      "length": 108,
+      "text": "להן מן־די הרגזו אבהתנא לאלה שמיא יהב המו ביד נבוכדנצר מלך־בבל (כסדיא) [כסדאה] וביתה דנה סתרה ועמה הגלי לבבל׃"
+    },
+    {
+      "uid": "Ezra_131",
+      "chapter_number": 5,
+      "verse_number": 13,
+      "start_char": 8407,
+      "end_char": 8472,
+      "length": 66,
+      "text": "ברם בשנת חדה לכורש מלכא די בבל כורש מלכא שם טעם בית־אלהא דנה לבנא׃"
+    },
+    {
+      "uid": "Ezra_132",
+      "chapter_number": 5,
+      "verse_number": 14,
+      "start_char": 8473,
+      "end_char": 8633,
+      "length": 161,
+      "text": "ואף מאניא די־בית־אלהא די דהבה וכספא די נבוכדנצר הנפק מן־היכלא די בירושלם והיבל המו להיכלא די בבל הנפק המו כורש מלכא מן־היכלא די בבל ויהיבו לששבצר שמה די פחה שמה׃"
+    },
+    {
+      "uid": "Ezra_133",
+      "chapter_number": 5,
+      "verse_number": 15,
+      "start_char": 8634,
+      "end_char": 8716,
+      "length": 83,
+      "text": "ואמר־לה׀ (אלה) [אל] מאניא שא אזל־אחת המו בהיכלא די בירושלם ובית אלהא יתבנא על־אתרה׃"
+    },
+    {
+      "uid": "Ezra_134",
+      "chapter_number": 5,
+      "verse_number": 16,
+      "start_char": 8717,
+      "end_char": 8797,
+      "length": 81,
+      "text": "אדין ששבצר דך אתא יהב אשיא די־בית אלהא די בירושלם ומן־אדין ועד־כען מתבנא ולא שלם׃"
+    },
+    {
+      "uid": "Ezra_135",
+      "chapter_number": 5,
+      "verse_number": 17,
+      "start_char": 8798,
+      "end_char": 8940,
+      "length": 143,
+      "text": "וכען הן על־מלכא טב יתבקר בבית גנזיא די־מלכא תמה די בבבל הן איתי די־מן־כורש מלכא שים טעם למבנא בית־אלהא דך בירושלם ורעות מלכא על־דנה ישלח עלינא׃"
+    },
+    {
+      "uid": "Ezra_136",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 8941,
+      "end_char": 9007,
+      "length": 67,
+      "text": "באדין דריוש מלכא שם טעם ובקרו׀ בבית ספריא די גנזיא מהחתין תמה בבבל׃"
+    },
+    {
+      "uid": "Ezra_137",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 9008,
+      "end_char": 9073,
+      "length": 66,
+      "text": "והשתכח באחמתא בבירתא די במדי מדינתא מגלה חדה וכן־כתיב בגוה דכרונה׃"
+    },
+    {
+      "uid": "Ezra_138",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 9074,
+      "end_char": 9202,
+      "length": 129,
+      "text": "בשנת חדה לכורש מלכא כורש מלכא שם טעם בית־אלהא בירושלם ביתא יתבנא אתר די־דבחין דבחין ואשוהי מסובלין רומה אמין שתין פתיה אמין שתין׃"
+    },
+    {
+      "uid": "Ezra_139",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 9203,
+      "end_char": 9266,
+      "length": 64,
+      "text": "נדבכין די־אבן גלל תלתא ונדבך די־אע חדת ונפקתא מן־בית מלכא תתיהב׃"
+    },
+    {
+      "uid": "Ezra_140",
+      "chapter_number": 6,
+      "verse_number": 5,
+      "start_char": 9267,
+      "end_char": 9398,
+      "length": 132,
+      "text": "ואף מאני בית־אלהא די דהבה וכספא די נבוכדנצר הנפק מן־היכלא די־בירושלם והיבל לבבל יהתיבון ויהך להיכלא די־בירושלם לאתרה ותחת בבית אלהא׃"
+    },
+    {
+      "uid": "Ezra_141",
+      "chapter_number": 6,
+      "verse_number": 6,
+      "start_char": 9399,
+      "end_char": 9478,
+      "length": 80,
+      "text": "כען תתני פחת עבר־נהרה שתר בוזני וכנותהון אפרסכיא די בעבר נהרה רחיקין הוו מן־תמה׃"
+    },
+    {
+      "uid": "Ezra_142",
+      "chapter_number": 6,
+      "verse_number": 7,
+      "start_char": 9479,
+      "end_char": 9552,
+      "length": 74,
+      "text": "שבקו לעבידת בית־אלהא דך פחת יהודיא ולשבי יהודיא בית־אלהא דך יבנון על־אתרה׃"
+    },
+    {
+      "uid": "Ezra_143",
+      "chapter_number": 6,
+      "verse_number": 8,
+      "start_char": 9553,
+      "end_char": 9691,
+      "length": 139,
+      "text": "ומני שים טעם למא די־תעבדון עם־שבי יהודיא אלך למבנא בית־אלהא דך ומנכסי מלכא די מדת עבר נהרה אספרנא נפקתא תהוא מתיהבא לגבריא אלך די־לא לבטלא׃"
+    },
+    {
+      "uid": "Ezra_144",
+      "chapter_number": 6,
+      "verse_number": 9,
+      "start_char": 9692,
+      "end_char": 9818,
+      "length": 127,
+      "text": "ומה חשחן ובני תורין ודכרין ואמרין׀לעלון׀לאלה שמיא חנטין מלח׀ חמר ומשח כמאמר כהניא די־בירושלם להוא מתיהב להם יום׀ביום די־לא שלו׃"
+    },
+    {
+      "uid": "Ezra_145",
+      "chapter_number": 6,
+      "verse_number": 10,
+      "start_char": 9819,
+      "end_char": 9876,
+      "length": 58,
+      "text": "די־להון מהקרבין ניחוחין לאלה שמיא ומצלין לחיי מלכא ובנוהי׃"
+    },
+    {
+      "uid": "Ezra_146",
+      "chapter_number": 6,
+      "verse_number": 11,
+      "start_char": 9877,
+      "end_char": 9976,
+      "length": 100,
+      "text": "ומני שים טעם די כל־אנש די יהשנא פתגמא דנה יתנסח אע מן־ביתה וזקיף יתמחא עלהי וביתה נולו יתעבד על־דנה׃"
+    },
+    {
+      "uid": "Ezra_147",
+      "chapter_number": 6,
+      "verse_number": 12,
+      "start_char": 9977,
+      "end_char": 10093,
+      "length": 117,
+      "text": "ואלהא די שכן שמה תמה ימגר כל־מלך ועם די׀ ישלח ידה להשניה לחבלה בית־אלהא דך די בירושלם אנה דריוש שמת טעם אספרנא יתעבד׃"
+    },
+    {
+      "uid": "Ezra_148",
+      "chapter_number": 6,
+      "verse_number": 13,
+      "start_char": 10094,
+      "end_char": 10175,
+      "length": 82,
+      "text": "אדין תתני פחת עבר־נהרה שתר בוזני וכנותהון לקבל די־שלח דריוש מלכא כנמא אספרנא עבדו׃"
+    },
+    {
+      "uid": "Ezra_149",
+      "chapter_number": 6,
+      "verse_number": 14,
+      "start_char": 10176,
+      "end_char": 10306,
+      "length": 131,
+      "text": "ושבי יהודיא בנין ומצלחין בנבואת חגי (נביאה) [נביא] וזכריה בר־עדוא ובנו ושכללו מן־טעם אלה ישראל ומטעם כורש ודריוש וארתחששתא מלך פרס׃"
+    },
+    {
+      "uid": "Ezra_150",
+      "chapter_number": 6,
+      "verse_number": 15,
+      "start_char": 10307,
+      "end_char": 10375,
+      "length": 69,
+      "text": "ושיציא ביתה דנה עד יום תלתה לירח אדר די־היא שנת־שת למלכות דריוש מלכא׃"
+    },
+    {
+      "uid": "Ezra_151",
+      "chapter_number": 6,
+      "verse_number": 16,
+      "start_char": 10376,
+      "end_char": 10442,
+      "length": 67,
+      "text": "ועבדו בני־ישראל כהניא ולויא ושאר בני־גלותא חנכת בית־אלהא דנה בחדוה׃"
+    },
+    {
+      "uid": "Ezra_152",
+      "chapter_number": 6,
+      "verse_number": 17,
+      "start_char": 10443,
+      "end_char": 10570,
+      "length": 128,
+      "text": "והקרבו לחנכת בית־אלהא דנה תורין מאה דכרין מאתין אמרין ארבע מאה וצפירי עזין (לחטיא) [לחטאה] על־כל־ישראל תרי־עשר למנין שבטי ישראל׃"
+    },
+    {
+      "uid": "Ezra_153",
+      "chapter_number": 6,
+      "verse_number": 18,
+      "start_char": 10571,
+      "end_char": 10646,
+      "length": 76,
+      "text": "והקימו כהניא בפלגתהון ולויא במחלקתהון על־עבידת אלהא די בירושלם ככתב ספר משה׃"
+    },
+    {
+      "uid": "Ezra_154",
+      "chapter_number": 6,
+      "verse_number": 19,
+      "start_char": 10647,
+      "end_char": 10693,
+      "length": 47,
+      "text": "ויעשו בני־הגולה את־הפסח בארבעה עשר לחדש הראשון׃"
+    },
+    {
+      "uid": "Ezra_155",
+      "chapter_number": 6,
+      "verse_number": 20,
+      "start_char": 10694,
+      "end_char": 10778,
+      "length": 85,
+      "text": "כי הטהרו הכהנים והלוים כאחד כלם טהורים וישחטו הפסח לכל־בני הגולה ולאחיהם הכהנים ולהם׃"
+    },
+    {
+      "uid": "Ezra_156",
+      "chapter_number": 6,
+      "verse_number": 21,
+      "start_char": 10779,
+      "end_char": 10860,
+      "length": 82,
+      "text": "ויאכלו בני־ישראל השבים מהגולה וכל הנבדל מטמאת גוי־הארץ אלהם לדרש ליהוה אלהי ישראל׃"
+    },
+    {
+      "uid": "Ezra_157",
+      "chapter_number": 6,
+      "verse_number": 22,
+      "start_char": 10861,
+      "end_char": 10967,
+      "length": 107,
+      "text": "ויעשו חג־מצות שבעת ימים בשמחה כי׀ שמחם יהוה והסב לב מלך־אשור עליהם לחזק ידיהם במלאכת בית־האלהים אלהי ישראל׃"
+    },
+    {
+      "uid": "Ezra_158",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 10968,
+      "end_char": 11039,
+      "length": 72,
+      "text": "ואחר הדברים האלה במלכות ארתחשסתא מלך־פרס עזרא בן־שריה בן־עזריה בן־חלקיה׃"
+    },
+    {
+      "uid": "Ezra_159",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 11040,
+      "end_char": 11065,
+      "length": 26,
+      "text": "בן־שלום בן־צדוק בן־אחיטוב׃"
+    },
+    {
+      "uid": "Ezra_160",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 11066,
+      "end_char": 11092,
+      "length": 27,
+      "text": "בן־אמריה בן־עזריה בן־מריות׃"
+    },
+    {
+      "uid": "Ezra_161",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 11093,
+      "end_char": 11115,
+      "length": 23,
+      "text": "בן־זרחיה בן־עזי בן־בקי׃"
+    },
+    {
+      "uid": "Ezra_162",
+      "chapter_number": 7,
+      "verse_number": 5,
+      "start_char": 11116,
+      "end_char": 11161,
+      "length": 46,
+      "text": "בן־אבישוע בן־פינחס בן־אלעזר בן־אהרן הכהן הראש׃"
+    },
+    {
+      "uid": "Ezra_163",
+      "chapter_number": 7,
+      "verse_number": 6,
+      "start_char": 11162,
+      "end_char": 11269,
+      "length": 108,
+      "text": "הוא עזרא עלה מבבל והוא־ספר מהיר בתורת משה אשר־נתן יהוה אלהי ישראל ויתן־לו המלך כיד־יהוה אלהיו עליו כל בקשתו׃"
+    },
+    {
+      "uid": "Ezra_164",
+      "chapter_number": 7,
+      "verse_number": 7,
+      "start_char": 11270,
+      "end_char": 11365,
+      "length": 96,
+      "text": "ויעלו מבני־ישראל ומן־הכהנים והלוים והמשררים והשערים והנתינים אל־ירושל͏ם בשנת־שבע לארתחשסתא המלך׃"
+    },
+    {
+      "uid": "Ezra_165",
+      "chapter_number": 7,
+      "verse_number": 8,
+      "start_char": 11366,
+      "end_char": 11411,
+      "length": 46,
+      "text": "ויבא ירושל͏ם בחדש החמישי היא שנת השביעית למלך׃"
+    },
+    {
+      "uid": "Ezra_166",
+      "chapter_number": 7,
+      "verse_number": 9,
+      "start_char": 11412,
+      "end_char": 11503,
+      "length": 92,
+      "text": "כי באחד לחדש הראשון הוא יסד המעלה מבבל ובאחד לחדש החמישי בא אל־ירושל͏ם כיד־אלהיו הטובה עליו׃"
+    },
+    {
+      "uid": "Ezra_167",
+      "chapter_number": 7,
+      "verse_number": 10,
+      "start_char": 11504,
+      "end_char": 11567,
+      "length": 64,
+      "text": "כי עזרא הכין לבבו לדרש את־תורת יהוה ולעשת וללמד בישראל חק ומשפט׃"
+    },
+    {
+      "uid": "Ezra_168",
+      "chapter_number": 7,
+      "verse_number": 11,
+      "start_char": 11568,
+      "end_char": 11657,
+      "length": 90,
+      "text": "וזה׀ פרשגן הנשתון אשר נתן המלך ארתחשסתא לעזרא הכהן הספר ספר דברי מצות־יהוה וחקיו על־ישראל׃"
+    },
+    {
+      "uid": "Ezra_169",
+      "chapter_number": 7,
+      "verse_number": 12,
+      "start_char": 11658,
+      "end_char": 11718,
+      "length": 61,
+      "text": "ארתחשסתא מלך מלכיא לעזרא כהנא ספר דתא די־אלה שמיא גמיר וכענת׃"
+    },
+    {
+      "uid": "Ezra_170",
+      "chapter_number": 7,
+      "verse_number": 13,
+      "start_char": 11719,
+      "end_char": 11798,
+      "length": 80,
+      "text": "מני שים טעם די כל־מתנדב במלכותי מן־עמא ישראל וכהנוהי ולויא למהך לירושלם עמך יהך׃"
+    },
+    {
+      "uid": "Ezra_171",
+      "chapter_number": 7,
+      "verse_number": 14,
+      "start_char": 11799,
+      "end_char": 11877,
+      "length": 79,
+      "text": "כל־קבל די מן־קדם מלכא ושבעת יעטהי שליח לבקרה על־יהוד ולירושלם בדת אלהך די בידך׃"
+    },
+    {
+      "uid": "Ezra_172",
+      "chapter_number": 7,
+      "verse_number": 15,
+      "start_char": 11878,
+      "end_char": 11945,
+      "length": 68,
+      "text": "ולהיבלה כסף ודהב די־מלכא ויעטוהי התנדבו לאלה ישראל די בירושלם משכנה׃"
+    },
+    {
+      "uid": "Ezra_173",
+      "chapter_number": 7,
+      "verse_number": 16,
+      "start_char": 11946,
+      "end_char": 12033,
+      "length": 88,
+      "text": "וכל כסף ודהב די תהשכח בכל מדינת בבל עם התנדבות עמא וכהניא מתנדבין לבית אלההם די בירושלם׃"
+    },
+    {
+      "uid": "Ezra_174",
+      "chapter_number": 7,
+      "verse_number": 17,
+      "start_char": 12034,
+      "end_char": 12145,
+      "length": 112,
+      "text": "כל־קבל דנה אספרנא תקנא בכספא דנה תורין׀דכרין אמרין ומנחתהון ונסכיהון ותקרב המו על־מדבחה די בית אלהכם די בירושלם׃"
+    },
+    {
+      "uid": "Ezra_175",
+      "chapter_number": 7,
+      "verse_number": 18,
+      "start_char": 12146,
+      "end_char": 12228,
+      "length": 83,
+      "text": "ומה די (עליך) [עלך] ועל־[אחך] (אחיך) ייטב בשאר כספא ודהבה למעבד כרעות אלהכם תעבדון׃"
+    },
+    {
+      "uid": "Ezra_176",
+      "chapter_number": 7,
+      "verse_number": 19,
+      "start_char": 12229,
+      "end_char": 12284,
+      "length": 56,
+      "text": "ומאניא די־מתיהבין לך לפלחן בית אלהך השלם קדם אלה ירושלם׃"
+    },
+    {
+      "uid": "Ezra_177",
+      "chapter_number": 7,
+      "verse_number": 20,
+      "start_char": 12285,
+      "end_char": 12342,
+      "length": 58,
+      "text": "ושאר חשחות בית אלהך די יפל־לך למנתן תנתן מן־בית גנזי מלכא׃"
+    },
+    {
+      "uid": "Ezra_178",
+      "chapter_number": 7,
+      "verse_number": 21,
+      "start_char": 12343,
+      "end_char": 12458,
+      "length": 116,
+      "text": "ומני אנה ארתחשסתא מלכא שים טעם לכל גזבריא די בעבר נהרה די כל־די ישאלנכון עזרא כהנא ספר דתא די־אלה שמיא אספרנא יתעבד׃"
+    },
+    {
+      "uid": "Ezra_179",
+      "chapter_number": 7,
+      "verse_number": 22,
+      "start_char": 12459,
+      "end_char": 12544,
+      "length": 86,
+      "text": "עד־כסף ככרין מאה ועד־חנטין כורין מאה ועד־חמר בתין מאה ועד־בתין משח מאה ומלח די־לא כתב׃"
+    },
+    {
+      "uid": "Ezra_180",
+      "chapter_number": 7,
+      "verse_number": 23,
+      "start_char": 12545,
+      "end_char": 12630,
+      "length": 86,
+      "text": "כל־די מן־טעם אלה שמיא יתעבד אדרזדא לבית אלה שמיא די־למה להוא קצף על־מלכות מלכא ובנוהי׃"
+    },
+    {
+      "uid": "Ezra_181",
+      "chapter_number": 7,
+      "verse_number": 24,
+      "start_char": 12631,
+      "end_char": 12733,
+      "length": 103,
+      "text": "ולכם מהודעין די כל־כהניא ולויא זמריא תרעיא נתיניא ופלחי בית אלהא דנה מנדה בלו והלך לא שליט למרמא עליהם׃"
+    },
+    {
+      "uid": "Ezra_182",
+      "chapter_number": 7,
+      "verse_number": 25,
+      "start_char": 12734,
+      "end_char": 12862,
+      "length": 129,
+      "text": "ואנת עזרא כחכמת אלהך די־בידך מני שפטין ודינין די־להון (דאנין) [דאינין] לכל־עמא די בעבר נהרה לכל־ידעי דתי אלהך ודי לא ידע תהודעון׃"
+    },
+    {
+      "uid": "Ezra_183",
+      "chapter_number": 7,
+      "verse_number": 26,
+      "start_char": 12863,
+      "end_char": 12983,
+      "length": 121,
+      "text": "וכל־די־לא להוא עבד דתא די־אלהך ודתא די מלכא אספרנא דינה להוא מתעבד מנה הן למות הן (לשרשו) [לשרשי] הן־לענש נכסין ולאסורין׃"
+    },
+    {
+      "uid": "Ezra_184",
+      "chapter_number": 7,
+      "verse_number": 27,
+      "start_char": 12984,
+      "end_char": 13057,
+      "length": 74,
+      "text": "ברוך יהוה אלהי אבתינו אשר נתן כזאת בלב המלך לפאר את־בית יהוה אשר בירושל͏ם׃"
+    },
+    {
+      "uid": "Ezra_185",
+      "chapter_number": 7,
+      "verse_number": 28,
+      "start_char": 13058,
+      "end_char": 13170,
+      "length": 113,
+      "text": "ועלי הטה־חסד לפני המלך ויועציו ולכל־שרי המלך הגברים ואני התחזקתי כיד־יהוה אלהי עלי ואקבצה מישראל ראשים לעלות עמי׃"
+    },
+    {
+      "uid": "Ezra_186",
+      "chapter_number": 8,
+      "verse_number": 1,
+      "start_char": 13171,
+      "end_char": 13231,
+      "length": 61,
+      "text": "ואלה ראשי אבתיהם והתיחשם העלים עמי במלכות ארתחשסתא המלך מבבל׃"
+    },
+    {
+      "uid": "Ezra_187",
+      "chapter_number": 8,
+      "verse_number": 2,
+      "start_char": 13232,
+      "end_char": 13277,
+      "length": 46,
+      "text": "מבני פינחס גרשםמבני איתמר דניאלמבני דויד חטוש׃"
+    },
+    {
+      "uid": "Ezra_188",
+      "chapter_number": 8,
+      "verse_number": 3,
+      "start_char": 13278,
+      "end_char": 13332,
+      "length": 55,
+      "text": "מבני שכניהמבני פרעש זכריה ועמו התיחש לזכרים מאה וחמשים׃"
+    },
+    {
+      "uid": "Ezra_189",
+      "chapter_number": 8,
+      "verse_number": 4,
+      "start_char": 13333,
+      "end_char": 13383,
+      "length": 51,
+      "text": "מבני פחת מואב אליהועיני בן־זרחיה ועמו מאתים הזכרים׃"
+    },
+    {
+      "uid": "Ezra_190",
+      "chapter_number": 8,
+      "verse_number": 5,
+      "start_char": 13384,
+      "end_char": 13425,
+      "length": 42,
+      "text": "מבני שכניה בן־יחזיאל ועמו שלש מאות הזכרים׃"
+    },
+    {
+      "uid": "Ezra_191",
+      "chapter_number": 8,
+      "verse_number": 6,
+      "start_char": 13426,
+      "end_char": 13467,
+      "length": 42,
+      "text": "ומבני עדין עבד בן־יונתן ועמו חמשים הזכרים׃"
+    },
+    {
+      "uid": "Ezra_192",
+      "chapter_number": 8,
+      "verse_number": 7,
+      "start_char": 13468,
+      "end_char": 13511,
+      "length": 44,
+      "text": "ומבני עילם ישעיה בן־עתליה ועמו שבעים הזכרים׃"
+    },
+    {
+      "uid": "Ezra_193",
+      "chapter_number": 8,
+      "verse_number": 8,
+      "start_char": 13512,
+      "end_char": 13556,
+      "length": 45,
+      "text": "ומבני שפטיה זבדיה בן־מיכאל ועמו שמנים הזכרים׃"
+    },
+    {
+      "uid": "Ezra_194",
+      "chapter_number": 8,
+      "verse_number": 9,
+      "start_char": 13557,
+      "end_char": 13609,
+      "length": 53,
+      "text": "מבני יואב עבדיה בן־יחיאל ועמו מאתים ושמנה עשר הזכרים׃"
+    },
+    {
+      "uid": "Ezra_195",
+      "chapter_number": 8,
+      "verse_number": 10,
+      "start_char": 13610,
+      "end_char": 13654,
+      "length": 45,
+      "text": "ומבני שלומית בן־יוספיה ועמו מאה וששים הזכרים׃"
+    },
+    {
+      "uid": "Ezra_196",
+      "chapter_number": 8,
+      "verse_number": 11,
+      "start_char": 13655,
+      "end_char": 13701,
+      "length": 47,
+      "text": "ומבני בבי זכריה בן־בבי ועמו עשרים ושמנה הזכרים׃"
+    },
+    {
+      "uid": "Ezra_197",
+      "chapter_number": 8,
+      "verse_number": 12,
+      "start_char": 13702,
+      "end_char": 13748,
+      "length": 47,
+      "text": "ומבני עזגד יוחנן בן־הקטן ועמו מאה ועשרה הזכרים׃"
+    },
+    {
+      "uid": "Ezra_198",
+      "chapter_number": 8,
+      "verse_number": 13,
+      "start_char": 13749,
+      "end_char": 13817,
+      "length": 69,
+      "text": "ומבני אדניקם אחרנים ואלה שמותם אליפלט יעיאל ושמעיה ועמהם ששים הזכרים׃"
+    },
+    {
+      "uid": "Ezra_199",
+      "chapter_number": 8,
+      "verse_number": 14,
+      "start_char": 13818,
+      "end_char": 13867,
+      "length": 50,
+      "text": "ומבני בגוי עותי (וזבוד) [וזכור] ועמו שבעים הזכרים׃"
+    },
+    {
+      "uid": "Ezra_200",
+      "chapter_number": 8,
+      "verse_number": 15,
+      "start_char": 13868,
+      "end_char": 13954,
+      "length": 87,
+      "text": "ואקבצם אל־הנהר הבא אל־אהוא ונחנה שם ימים שלשה ואבינה בעם ובכהנים ומבני לוי לא־מצאתי שם׃"
+    },
+    {
+      "uid": "Ezra_201",
+      "chapter_number": 8,
+      "verse_number": 16,
+      "start_char": 13955,
+      "end_char": 14057,
+      "length": 103,
+      "text": "ואשלחה לאליעזר לאריאל לשמעיה ולאלנתן וליריב ולאלנתן ולנתן ולזכריה ולמשלם ראשים וליויריב ולאלנתן מבינים׃"
+    },
+    {
+      "uid": "Ezra_202",
+      "chapter_number": 8,
+      "verse_number": 17,
+      "start_char": 14058,
+      "end_char": 14202,
+      "length": 145,
+      "text": "(ואוצאה) [ואצוה] אותם על־אדו הראש בכספיא המקום ואשימה בפיהם דברים לדבר אל־אדו אחיו (הנתונים) [הנתינים] בכספיא המקום להביא־לנו משרתים לבית אלהינו׃"
+    },
+    {
+      "uid": "Ezra_203",
+      "chapter_number": 8,
+      "verse_number": 18,
+      "start_char": 14203,
+      "end_char": 14297,
+      "length": 95,
+      "text": "ויביאו לנו כיד־אלהינו הטובה עלינו איש שכלמבני מחלי בן־לוי בן־ישראל ושרביה ובניו ואחיו שמנה עשר׃"
+    },
+    {
+      "uid": "Ezra_204",
+      "chapter_number": 8,
+      "verse_number": 19,
+      "start_char": 14298,
+      "end_char": 14346,
+      "length": 49,
+      "text": "ואת־חשביה ואתו ישעיה מבני מררי אחיו ובניהם עשרים׃"
+    },
+    {
+      "uid": "Ezra_205",
+      "chapter_number": 8,
+      "verse_number": 20,
+      "start_char": 14347,
+      "end_char": 14422,
+      "length": 76,
+      "text": "ומן־הנתינים שנתן דויד והשרים לעבדת הלוים נתינים מאתים ועשרים כלם נקבו בשמות׃"
+    },
+    {
+      "uid": "Ezra_206",
+      "chapter_number": 8,
+      "verse_number": 21,
+      "start_char": 14423,
+      "end_char": 14510,
+      "length": 88,
+      "text": "ואקרא שם צום על־הנהר אהוא להתענות לפני אלהינו לבקש ממנו דרך ישרה לנו ולטפנו ולכל־רכושנו׃"
+    },
+    {
+      "uid": "Ezra_207",
+      "chapter_number": 8,
+      "verse_number": 22,
+      "start_char": 14511,
+      "end_char": 14631,
+      "length": 121,
+      "text": "כי בשתי לשאול מן־המלך חיל ופרשים לעזרנו מאויב בדרך כי־אמרנו למלך לאמר יד־אלהינו על־כל־מבקשיו לטובה ועזו ואפו על כל־עזביו׃"
+    },
+    {
+      "uid": "Ezra_208",
+      "chapter_number": 8,
+      "verse_number": 23,
+      "start_char": 14632,
+      "end_char": 14670,
+      "length": 39,
+      "text": "ונצומה ונבקשה מאלהינו על־זאת ויעתר לנו׃"
+    },
+    {
+      "uid": "Ezra_209",
+      "chapter_number": 8,
+      "verse_number": 24,
+      "start_char": 14671,
+      "end_char": 14730,
+      "length": 60,
+      "text": "ואבדילה משרי הכהנים שנים עשר לשרביה חשביה ועמהם מאחיהם עשרה׃"
+    },
+    {
+      "uid": "Ezra_210",
+      "chapter_number": 8,
+      "verse_number": 25,
+      "start_char": 14731,
+      "end_char": 14840,
+      "length": 110,
+      "text": "(ואשקולה) [ואשקלה] להם את־הכסף ואת־הזהב ואת־הכלים תרומת בית־אלהינו ההרימו המלך ויעציו ושריו וכל־ישראל הנמצאים׃"
+    },
+    {
+      "uid": "Ezra_211",
+      "chapter_number": 8,
+      "verse_number": 26,
+      "start_char": 14841,
+      "end_char": 14911,
+      "length": 71,
+      "text": "ואשקלה על־ידם כסף ככרים שש־מאות וחמשים וכלי־כסף מאה לככרים זהב מאה ככר׃"
+    },
+    {
+      "uid": "Ezra_212",
+      "chapter_number": 8,
+      "verse_number": 27,
+      "start_char": 14912,
+      "end_char": 14976,
+      "length": 65,
+      "text": "וכפרי זהב עשרים לאדרכנים אלף וכלי נחשת מצהב טובה שנים חמודת כזהב׃"
+    },
+    {
+      "uid": "Ezra_213",
+      "chapter_number": 8,
+      "verse_number": 28,
+      "start_char": 14977,
+      "end_char": 15047,
+      "length": 71,
+      "text": "ואמרה אלהם אתם קדש ליהוה והכלים קדש והכסף והזהב נדבה ליהוה אלהי אבתיכם׃"
+    },
+    {
+      "uid": "Ezra_214",
+      "chapter_number": 8,
+      "verse_number": 29,
+      "start_char": 15048,
+      "end_char": 15133,
+      "length": 86,
+      "text": "שקדו ושמרו עד־תשקלו לפני שרי הכהנים והלוים ושרי־האבות לישראל בירושל͏ם הלשכות בית יהוה׃"
+    },
+    {
+      "uid": "Ezra_215",
+      "chapter_number": 8,
+      "verse_number": 30,
+      "start_char": 15134,
+      "end_char": 15203,
+      "length": 70,
+      "text": "וקבלו הכהנים והלוים משקל הכסף והזהב והכלים להביא לירושל͏ם לבית אלהינו׃"
+    },
+    {
+      "uid": "Ezra_216",
+      "chapter_number": 8,
+      "verse_number": 31,
+      "start_char": 15204,
+      "end_char": 15307,
+      "length": 104,
+      "text": "ונסעה מנהר אהוא בשנים עשר לחדש הראשון ללכת ירושל͏ם ויד־אלהינו היתה עלינו ויצילנו מכף אויב ואורב על־הדרך׃"
+    },
+    {
+      "uid": "Ezra_217",
+      "chapter_number": 8,
+      "verse_number": 32,
+      "start_char": 15308,
+      "end_char": 15339,
+      "length": 32,
+      "text": "ונבוא ירושל͏ם ונשב שם ימים שלשה׃"
+    },
+    {
+      "uid": "Ezra_218",
+      "chapter_number": 8,
+      "verse_number": 33,
+      "start_char": 15340,
+      "end_char": 15475,
+      "length": 136,
+      "text": "וביום הרביעי נשקל הכסף והזהב והכלים בבית אלהינו על יד־מרמות בן־אוריה הכהן ועמו אלעזר בן־פינחס ועמהם יוזבד בן־ישוע ונועדיה בן־בנוי הלוים׃"
+    },
+    {
+      "uid": "Ezra_219",
+      "chapter_number": 8,
+      "verse_number": 34,
+      "start_char": 15476,
+      "end_char": 15515,
+      "length": 40,
+      "text": "במספר במשקל לכל ויכתב כל־המשקל בעת ההיא׃"
+    },
+    {
+      "uid": "Ezra_220",
+      "chapter_number": 8,
+      "verse_number": 35,
+      "start_char": 15516,
+      "end_char": 15659,
+      "length": 144,
+      "text": "הבאים מהשבי בני־הגולה הקריבו עלות׀ לאלהי ישראל פרים שנים־עשר על־כל־ישראל אילים׀ תשעים וששה כבשים שבעים ושבעה צפירי חטאת שנים עשר הכל עולה ליהוה׃"
+    },
+    {
+      "uid": "Ezra_221",
+      "chapter_number": 8,
+      "verse_number": 36,
+      "start_char": 15660,
+      "end_char": 15737,
+      "length": 78,
+      "text": "ויתנו׀ את־דתי המלך לאחשדרפני המלך ופחוות עבר הנהר ונשאו את־העם ואת־בית האלהים׃"
+    },
+    {
+      "uid": "Ezra_222",
+      "chapter_number": 9,
+      "verse_number": 1,
+      "start_char": 15738,
+      "end_char": 15873,
+      "length": 136,
+      "text": "וככלות אלה נגשו אלי השרים לאמר לא־נבדלו העם ישראל והכהנים והלוים מעמי הארצות כתעבתיהם לכנעני החתי הפרזי היבוסי העמני המאבי המצרי והאמרי׃"
+    },
+    {
+      "uid": "Ezra_223",
+      "chapter_number": 9,
+      "verse_number": 2,
+      "start_char": 15874,
+      "end_char": 15969,
+      "length": 96,
+      "text": "כי־נשאו מבנתיהם להם ולבניהם והתערבו זרע הקדש בעמי הארצות ויד השרים והסגנים היתה במעל הזה ראשונה׃"
+    },
+    {
+      "uid": "Ezra_224",
+      "chapter_number": 9,
+      "verse_number": 3,
+      "start_char": 15970,
+      "end_char": 16044,
+      "length": 75,
+      "text": "וכשמעי את־הדבר הזה קרעתי את־בגדי ומעילי ואמרטה משער ראשי וזקני ואשבה משומם׃"
+    },
+    {
+      "uid": "Ezra_225",
+      "chapter_number": 9,
+      "verse_number": 4,
+      "start_char": 16045,
+      "end_char": 16121,
+      "length": 77,
+      "text": "ואלי יאספו כל חרד בדברי אלהי־ישראל על מעל הגולה ואני ישב משומם עד למנחת הערב׃"
+    },
+    {
+      "uid": "Ezra_226",
+      "chapter_number": 9,
+      "verse_number": 5,
+      "start_char": 16122,
+      "end_char": 16204,
+      "length": 83,
+      "text": "ובמנחת הערב קמתי מתעניתי ובקרעי בגדי ומעילי ואכרעה על־ברכי ואפרשה כפי אל־יהוה אלהי׃"
+    },
+    {
+      "uid": "Ezra_227",
+      "chapter_number": 9,
+      "verse_number": 6,
+      "start_char": 16205,
+      "end_char": 16295,
+      "length": 91,
+      "text": "ואמרה אלהי בשתי ונכלמתי להרים אלהי פני אליך כי עונתינו רבו למעלה ראש ואשמתנו גדלה עד לשמים׃"
+    },
+    {
+      "uid": "Ezra_228",
+      "chapter_number": 9,
+      "verse_number": 7,
+      "start_char": 16296,
+      "end_char": 16425,
+      "length": 130,
+      "text": "מימי אבתינו אנחנו באשמה גדלה עד היום הזה ובעונתינו נתנו אנחנו מלכינו כהנינו ביד׀ מלכי הארצות בחרב בשבי ובבזה ובבשת פנים כהיום הזה׃"
+    },
+    {
+      "uid": "Ezra_229",
+      "chapter_number": 9,
+      "verse_number": 8,
+      "start_char": 16426,
+      "end_char": 16551,
+      "length": 126,
+      "text": "ועתה כמעט־רגע היתה תחנה מאת׀ יהוה אלהינו להשאיר לנו פליטה ולתת־לנו יתד במקום קדשו להאיר עינינו אלהינו ולתתנו מחיה מעט בעבדתנו׃"
+    },
+    {
+      "uid": "Ezra_230",
+      "chapter_number": 9,
+      "verse_number": 9,
+      "start_char": 16552,
+      "end_char": 16700,
+      "length": 149,
+      "text": "כי־עבדים אנחנו ובעבדתנו לא עזבנו אלהינו ויט־עלינו חסד לפני מלכי פרס לתת־לנו מחיה לרומם את־בית אלהינו ולהעמיד את־חרבתיו ולתת־לנו גדר ביהודה ובירושל͏ם׃"
+    },
+    {
+      "uid": "Ezra_231",
+      "chapter_number": 9,
+      "verse_number": 10,
+      "start_char": 16701,
+      "end_char": 16745,
+      "length": 45,
+      "text": "ועתה מה־נאמר אלהינו אחרי־זאת כי עזבנו מצותיך׃"
+    },
+    {
+      "uid": "Ezra_232",
+      "chapter_number": 9,
+      "verse_number": 11,
+      "start_char": 16746,
+      "end_char": 16866,
+      "length": 121,
+      "text": "אשר צוית ביד עבדיך הנביאים לאמר הארץ אשר אתם באים לרשתה ארץ נדה היא בנדת עמי הארצות בתועבתיהם אשר מלאוה מפה אל־פה בטמאתם׃"
+    },
+    {
+      "uid": "Ezra_233",
+      "chapter_number": 9,
+      "verse_number": 12,
+      "start_char": 16867,
+      "end_char": 17000,
+      "length": 134,
+      "text": "ועתה בנותיכם אל־תתנו לבניהם ובנתיהם אל־תשאו לבניכם ולא־תדרשו שלמם וטובתם עד־עולם למען תחזקו ואכלתם את־טוב הארץ והורשתם לבניכם עד־עולם׃"
+    },
+    {
+      "uid": "Ezra_234",
+      "chapter_number": 9,
+      "verse_number": 13,
+      "start_char": 17001,
+      "end_char": 17101,
+      "length": 101,
+      "text": "ואחרי כל־הבא עלינו במעשינו הרעים ובאשמתנו הגדלה כי׀ אתה אלהינו חשכת למטה מעוננו ונתתה לנו פליטה כזאת׃"
+    },
+    {
+      "uid": "Ezra_235",
+      "chapter_number": 9,
+      "verse_number": 14,
+      "start_char": 17102,
+      "end_char": 17183,
+      "length": 82,
+      "text": "הנשוב להפר מצותיך ולהתחתן בעמי התעבות האלה הלוא תאנף־בנו עד־כלה לאין שארית ופליטה׃"
+    },
+    {
+      "uid": "Ezra_236",
+      "chapter_number": 9,
+      "verse_number": 15,
+      "start_char": 17184,
+      "end_char": 17280,
+      "length": 97,
+      "text": "יהוה אלהי ישראל צדיק אתה כי־נשארנו פליטה כהיום הזה הננו לפניך באשמתינו כי אין לעמוד לפניך על־זאת׃"
+    },
+    {
+      "uid": "Ezra_237",
+      "chapter_number": 10,
+      "verse_number": 1,
+      "start_char": 17281,
+      "end_char": 17397,
+      "length": 117,
+      "text": "וכהתפלל עזרא וכהתודתו בכה ומתנפל לפני בית האלהים נקבצו אליו מישראל קהל רב־מאד אנשים ונשים וילדים כי־בכו העם הרבה־בכה׃"
+    },
+    {
+      "uid": "Ezra_238",
+      "chapter_number": 10,
+      "verse_number": 2,
+      "start_char": 17398,
+      "end_char": 17522,
+      "length": 125,
+      "text": "ויען שכניה בן־יחיאל מבני (עולם) [עילם] ויאמר לעזרא אנחנו מעלנו באלהינו ונשב נשים נכריות מעמי הארץ ועתה יש־מקוה לישראל על־זאת׃"
+    },
+    {
+      "uid": "Ezra_239",
+      "chapter_number": 10,
+      "verse_number": 3,
+      "start_char": 17523,
+      "end_char": 17614,
+      "length": 92,
+      "text": "ועתה נכרת־ברית לאלהינו להוציא כל־נשים והנולד מהם בעצת אדני והחרדים במצות אלהינו וכתורה יעשה׃"
+    },
+    {
+      "uid": "Ezra_240",
+      "chapter_number": 10,
+      "verse_number": 4,
+      "start_char": 17615,
+      "end_char": 17651,
+      "length": 37,
+      "text": "קום כי־עליך הדבר ואנחנו עמך חזק ועשה׃"
+    },
+    {
+      "uid": "Ezra_241",
+      "chapter_number": 10,
+      "verse_number": 5,
+      "start_char": 17652,
+      "end_char": 17719,
+      "length": 68,
+      "text": "ויקם עזרא וישבע את־שרי הכהנים הלוים וכל־ישראל לעשות כדבר הזה וישבעו׃"
+    },
+    {
+      "uid": "Ezra_242",
+      "chapter_number": 10,
+      "verse_number": 6,
+      "start_char": 17720,
+      "end_char": 17829,
+      "length": 110,
+      "text": "ויקם עזרא מלפני בית האלהים וילך אל־לשכת יהוחנן בן־אלישיב וילך שם לחם לא־אכל ומים לא־שתה כי מתאבל על־מעל הגולה׃"
+    },
+    {
+      "uid": "Ezra_243",
+      "chapter_number": 10,
+      "verse_number": 7,
+      "start_char": 17830,
+      "end_char": 17885,
+      "length": 56,
+      "text": "ויעבירו קול ביהודה וירושל͏ם לכל בני הגולה להקבץ ירושל͏ם׃"
+    },
+    {
+      "uid": "Ezra_244",
+      "chapter_number": 10,
+      "verse_number": 8,
+      "start_char": 17886,
+      "end_char": 17967,
+      "length": 82,
+      "text": "וכל אשר לא־יבוא לשלשת הימים כעצת השרים והזקנים יחרם כל־רכושו והוא יבדל מקהל הגולה׃"
+    },
+    {
+      "uid": "Ezra_245",
+      "chapter_number": 10,
+      "verse_number": 9,
+      "start_char": 17968,
+      "end_char": 18097,
+      "length": 130,
+      "text": "ויקבצו כל־אנשי־יהודה ובנימן׀ירושל͏ם לשלשת הימים הוא חדש התשיעי בעשרים בחדש וישבו כל־העם ברחוב בית האלהים מרעידים על־הדבר ומהגשמים׃"
+    },
+    {
+      "uid": "Ezra_246",
+      "chapter_number": 10,
+      "verse_number": 10,
+      "start_char": 18098,
+      "end_char": 18173,
+      "length": 76,
+      "text": "ויקם עזרא הכהן ויאמר אלהם אתם מעלתם ותשיבו נשים נכריות להוסיף על־אשמת ישראל׃"
+    },
+    {
+      "uid": "Ezra_247",
+      "chapter_number": 10,
+      "verse_number": 11,
+      "start_char": 18174,
+      "end_char": 18251,
+      "length": 78,
+      "text": "ועתה תנו תודה ליהוה אלהי־אבתיכם ועשו רצונו והבדלו מעמי הארץ ומן־הנשים הנכריות׃"
+    },
+    {
+      "uid": "Ezra_248",
+      "chapter_number": 10,
+      "verse_number": 12,
+      "start_char": 18252,
+      "end_char": 18313,
+      "length": 62,
+      "text": "ויענו כל־הקהל ויאמרו קול גדול כן (כדבריך) [כדברך] עלינו לעשות׃"
+    },
+    {
+      "uid": "Ezra_249",
+      "chapter_number": 10,
+      "verse_number": 13,
+      "start_char": 18314,
+      "end_char": 18408,
+      "length": 95,
+      "text": "אבל העם רב והעת גשמים ואין כח לעמוד בחוץ והמלאכה לא־ליום אחד ולא לשנים כי־הרבינו לפשע בדבר הזה׃"
+    },
+    {
+      "uid": "Ezra_250",
+      "chapter_number": 10,
+      "verse_number": 14,
+      "start_char": 18409,
+      "end_char": 18551,
+      "length": 143,
+      "text": "יעמדו־נא שרינו לכל־הקהל וכל׀ אשר בערינו ההשיב נשים נכריות יבא לעתים מזמנים ועמהם זקני־עיר ועיר ושפטיה עד להשיב חרון אף־אלהינו ממנו עד לדבר הזה׃"
+    },
+    {
+      "uid": "Ezra_251",
+      "chapter_number": 10,
+      "verse_number": 15,
+      "start_char": 18552,
+      "end_char": 18618,
+      "length": 67,
+      "text": "אך יונתן בן־עשהאל ויחזיה בן־תקוה עמדו על־זאת ומשלם ושבתי הלוי עזרם׃"
+    },
+    {
+      "uid": "Ezra_252",
+      "chapter_number": 10,
+      "verse_number": 16,
+      "start_char": 18619,
+      "end_char": 18731,
+      "length": 113,
+      "text": "ויעשו־כן בני הגולה ויבדלו עזרא הכהן אנשים ראשי האבות לבית אבתם וכלם בשמות וישבו ביום אחד לחדש העשירי לדריוש הדבר׃"
+    },
+    {
+      "uid": "Ezra_253",
+      "chapter_number": 10,
+      "verse_number": 17,
+      "start_char": 18732,
+      "end_char": 18789,
+      "length": 58,
+      "text": "ויכלו בכל אנשים ההשיבו נשים נכריות עד יום אחד לחדש הראשון׃"
+    },
+    {
+      "uid": "Ezra_254",
+      "chapter_number": 10,
+      "verse_number": 18,
+      "start_char": 18790,
+      "end_char": 18881,
+      "length": 92,
+      "text": "וימצא מבני הכהנים אשר השיבו נשים נכריות מבני ישוע בן־יוצדק ואחיו מעשיה ואליעזר ויריב וגדליה׃"
+    },
+    {
+      "uid": "Ezra_255",
+      "chapter_number": 10,
+      "verse_number": 19,
+      "start_char": 18882,
+      "end_char": 18928,
+      "length": 47,
+      "text": "ויתנו ידם להוציא נשיהם ואשמים איל־צאן על־אשמתם׃"
+    },
+    {
+      "uid": "Ezra_256",
+      "chapter_number": 10,
+      "verse_number": 20,
+      "start_char": 18929,
+      "end_char": 18950,
+      "length": 22,
+      "text": "ומבני אמר חנני וזבדיה׃"
+    },
+    {
+      "uid": "Ezra_257",
+      "chapter_number": 10,
+      "verse_number": 21,
+      "start_char": 18951,
+      "end_char": 18992,
+      "length": 42,
+      "text": "ומבני חרם מעשיה ואליה ושמעיה ויחיאל ועזיה׃"
+    },
+    {
+      "uid": "Ezra_258",
+      "chapter_number": 10,
+      "verse_number": 22,
+      "start_char": 18993,
+      "end_char": 19045,
+      "length": 53,
+      "text": "ומבני פשחור אליועיני מעשיה ישמעאל נתנאל יוזבד ואלעשה׃"
+    },
+    {
+      "uid": "Ezra_259",
+      "chapter_number": 10,
+      "verse_number": 23,
+      "start_char": 19046,
+      "end_char": 19103,
+      "length": 58,
+      "text": "ומן־הלוים יוזבד ושמעי וקליה הוא קליטא פתחיה יהודה ואליעזר׃"
+    },
+    {
+      "uid": "Ezra_260",
+      "chapter_number": 10,
+      "verse_number": 24,
+      "start_char": 19104,
+      "end_char": 19148,
+      "length": 45,
+      "text": "ומן־המשררים אלישיב ומן־השערים שלם וטלם ואורי׃"
+    },
+    {
+      "uid": "Ezra_261",
+      "chapter_number": 10,
+      "verse_number": 25,
+      "start_char": 19149,
+      "end_char": 19210,
+      "length": 62,
+      "text": "ומישראל מבני פרעש רמיה ויזיה ומלכיה ומימן ואלעזר ומלכיה ובניה׃"
+    },
+    {
+      "uid": "Ezra_262",
+      "chapter_number": 10,
+      "verse_number": 26,
+      "start_char": 19211,
+      "end_char": 19259,
+      "length": 49,
+      "text": "ומבני עילם מתניה זכריה ויחיאל ועבדי וירמות ואליה׃"
+    },
+    {
+      "uid": "Ezra_263",
+      "chapter_number": 10,
+      "verse_number": 27,
+      "start_char": 19260,
+      "end_char": 19310,
+      "length": 51,
+      "text": "ומבני זתוא אליועני אלישיב מתניה וירמות וזבד ועזיזא׃"
+    },
+    {
+      "uid": "Ezra_264",
+      "chapter_number": 10,
+      "verse_number": 28,
+      "start_char": 19311,
+      "end_char": 19342,
+      "length": 32,
+      "text": "ומבני בבי יהוחנן חנניה זבי עתלי׃"
+    },
+    {
+      "uid": "Ezra_265",
+      "chapter_number": 10,
+      "verse_number": 29,
+      "start_char": 19343,
+      "end_char": 19394,
+      "length": 52,
+      "text": "ומבני בני משלם מלוך ועדיה ישוב ושאל (ירמות) [ורמות]׃"
+    },
+    {
+      "uid": "Ezra_266",
+      "chapter_number": 10,
+      "verse_number": 30,
+      "start_char": 19395,
+      "end_char": 19454,
+      "length": 60,
+      "text": "ומבני פחת מואב עדנא וכלל בניה מעשיה מתניה בצלאל ובנוי ומנשה׃"
+    },
+    {
+      "uid": "Ezra_267",
+      "chapter_number": 10,
+      "verse_number": 31,
+      "start_char": 19455,
+      "end_char": 19493,
+      "length": 39,
+      "text": "ובני חרם אליעזר ישיה מלכיה שמעיה שמעון׃"
+    },
+    {
+      "uid": "Ezra_268",
+      "chapter_number": 10,
+      "verse_number": 32,
+      "start_char": 19494,
+      "end_char": 19510,
+      "length": 17,
+      "text": "בנימן מלוך שמריה׃"
+    },
+    {
+      "uid": "Ezra_269",
+      "chapter_number": 10,
+      "verse_number": 33,
+      "start_char": 19511,
+      "end_char": 19555,
+      "length": 45,
+      "text": "מבני חשם מתני מתתה זבד אליפלט ירמי מנשה שמעי׃"
+    },
+    {
+      "uid": "Ezra_270",
+      "chapter_number": 10,
+      "verse_number": 34,
+      "start_char": 19556,
+      "end_char": 19580,
+      "length": 25,
+      "text": "מבני בני מעדי עמרם ואואל׃"
+    },
+    {
+      "uid": "Ezra_271",
+      "chapter_number": 10,
+      "verse_number": 35,
+      "start_char": 19581,
+      "end_char": 19606,
+      "length": 26,
+      "text": "בניה בדיה (כלוהי) [כלוהו]׃"
+    },
+    {
+      "uid": "Ezra_272",
+      "chapter_number": 10,
+      "verse_number": 36,
+      "start_char": 19607,
+      "end_char": 19624,
+      "length": 18,
+      "text": "וניה מרמות אלישיב׃"
+    },
+    {
+      "uid": "Ezra_273",
+      "chapter_number": 10,
+      "verse_number": 37,
+      "start_char": 19625,
+      "end_char": 19651,
+      "length": 27,
+      "text": "מתניה מתני (ויעשו) [ויעשי]׃"
+    },
+    {
+      "uid": "Ezra_274",
+      "chapter_number": 10,
+      "verse_number": 38,
+      "start_char": 19652,
+      "end_char": 19667,
+      "length": 16,
+      "text": "ובני ובנוי שמעי׃"
+    },
+    {
+      "uid": "Ezra_275",
+      "chapter_number": 10,
+      "verse_number": 39,
+      "start_char": 19668,
+      "end_char": 19685,
+      "length": 18,
+      "text": "ושלמיה ונתן ועדיה׃"
+    },
+    {
+      "uid": "Ezra_276",
+      "chapter_number": 10,
+      "verse_number": 40,
+      "start_char": 19686,
+      "end_char": 19700,
+      "length": 15,
+      "text": "מכנדבי ששי שרי׃"
+    },
+    {
+      "uid": "Ezra_277",
+      "chapter_number": 10,
+      "verse_number": 41,
+      "start_char": 19701,
+      "end_char": 19720,
+      "length": 20,
+      "text": "עזראל ושלמיהו שמריה׃"
+    },
+    {
+      "uid": "Ezra_278",
+      "chapter_number": 10,
+      "verse_number": 42,
+      "start_char": 19721,
+      "end_char": 19736,
+      "length": 16,
+      "text": "שלום אמריה יוסף׃"
+    },
+    {
+      "uid": "Ezra_279",
+      "chapter_number": 10,
+      "verse_number": 43,
+      "start_char": 19737,
+      "end_char": 19790,
+      "length": 54,
+      "text": "מבני נבו יעיאל מתתיה זבד זבינא (ידו) [ידי] ויואל בניה׃"
+    },
+    {
+      "uid": "Ezra_280",
+      "chapter_number": 10,
+      "verse_number": 44,
+      "start_char": 19791,
+      "end_char": 19848,
+      "length": 58,
+      "text": "כל־אלה (נשאי) [נשאו] נשים נכריות ויש מהם נשים וישימו בנים׃"
+    }
+  ]
+}

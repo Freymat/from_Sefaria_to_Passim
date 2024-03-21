@@ -1,0 +1,5935 @@
+{
+  "title": "Joshua",
+  "categories": [
+    "Tanakh",
+    "Prophets"
+  ],
+  "sectionNames": [
+    "Chapter",
+    "Verse"
+  ],
+  "lines": [
+    {
+      "uid": "Joshua_1",
+      "chapter_number": 1,
+      "verse_number": 1,
+      "start_char": 1,
+      "end_char": 68,
+      "length": 68,
+      "text": "ויהי אחרי מות משה עבד יהוה ויאמר יהוה אל־יהושע בן־נון משרת משה לאמר׃"
+    },
+    {
+      "uid": "Joshua_2",
+      "chapter_number": 1,
+      "verse_number": 2,
+      "start_char": 69,
+      "end_char": 158,
+      "length": 90,
+      "text": "משה עבדי מת ועתה קום עבר את־הירדן הזה אתה וכל־העם הזה אל־הארץ אשר אנכי נתן להם לבני ישראל׃"
+    },
+    {
+      "uid": "Joshua_3",
+      "chapter_number": 1,
+      "verse_number": 3,
+      "start_char": 159,
+      "end_char": 215,
+      "length": 57,
+      "text": "כל־מקום אשר תדרך כף־רגלכם בו לכם נתתיו כאשר דברתי אל־משה׃"
+    },
+    {
+      "uid": "Joshua_4",
+      "chapter_number": 1,
+      "verse_number": 4,
+      "start_char": 216,
+      "end_char": 306,
+      "length": 91,
+      "text": "מהמדבר והלבנון הזה ועד־הנהר הגדול נהר־פרת כל ארץ החתים ועד־הים הגדול מבוא השמש יהיה גבולכם׃"
+    },
+    {
+      "uid": "Joshua_5",
+      "chapter_number": 1,
+      "verse_number": 5,
+      "start_char": 307,
+      "end_char": 382,
+      "length": 76,
+      "text": "לא־יתיצב איש לפניך כל ימי חייך כאשר הייתי עם־משה אהיה עמך לא ארפך ולא אעזבך׃"
+    },
+    {
+      "uid": "Joshua_6",
+      "chapter_number": 1,
+      "verse_number": 6,
+      "start_char": 383,
+      "end_char": 449,
+      "length": 67,
+      "text": "חזק ואמץ כי אתה תנחיל את־העם הזה את־הארץ אשר־נשבעתי לאבותם לתת להם׃"
+    },
+    {
+      "uid": "Joshua_7",
+      "chapter_number": 1,
+      "verse_number": 7,
+      "start_char": 450,
+      "end_char": 551,
+      "length": 102,
+      "text": "רק חזק ואמץ מאד לשמר לעשות ככל־התורה אשר צוך משה עבדי אל־תסור ממנו ימין ושמאול למען תשכיל בכל אשר תלך׃"
+    },
+    {
+      "uid": "Joshua_8",
+      "chapter_number": 1,
+      "verse_number": 8,
+      "start_char": 552,
+      "end_char": 657,
+      "length": 106,
+      "text": "לא־ימוש ספר התורה הזה מפיך והגית בו יומם ולילה למען תשמר לעשות ככל־הכתוב בו כי־אז תצליח את־דרכך ואז תשכיל׃"
+    },
+    {
+      "uid": "Joshua_9",
+      "chapter_number": 1,
+      "verse_number": 9,
+      "start_char": 658,
+      "end_char": 724,
+      "length": 67,
+      "text": "הלוא צויתיך חזק ואמץ אל־תערץ ואל־תחת כי עמך יהוה אלהיך בכל אשר תלך׃"
+    },
+    {
+      "uid": "Joshua_10",
+      "chapter_number": 1,
+      "verse_number": 10,
+      "start_char": 725,
+      "end_char": 752,
+      "length": 28,
+      "text": "ויצו יהושע את־שטרי העם לאמר׃"
+    },
+    {
+      "uid": "Joshua_11",
+      "chapter_number": 1,
+      "verse_number": 11,
+      "start_char": 753,
+      "end_char": 891,
+      "length": 139,
+      "text": "עברו׀ בקרב המחנה וצוו את־העם לאמר הכינו לכם צידה כי בעוד׀ שלשת ימים אתם עברים את־הירדן הזה לבוא לרשת את־הארץ אשר יהוה אלהיכם נתן לכם לרשתה׃"
+    },
+    {
+      "uid": "Joshua_12",
+      "chapter_number": 1,
+      "verse_number": 12,
+      "start_char": 892,
+      "end_char": 937,
+      "length": 46,
+      "text": "ולראובני ולגדי ולחצי שבט המנשה אמר יהושע לאמר׃"
+    },
+    {
+      "uid": "Joshua_13",
+      "chapter_number": 1,
+      "verse_number": 13,
+      "start_char": 938,
+      "end_char": 1024,
+      "length": 87,
+      "text": "זכור את־הדבר אשר צוה אתכם משה עבד־יהוה לאמר יהוה אלהיכם מניח לכם ונתן לכם את־הארץ הזאת׃"
+    },
+    {
+      "uid": "Joshua_14",
+      "chapter_number": 1,
+      "verse_number": 14,
+      "start_char": 1025,
+      "end_char": 1134,
+      "length": 110,
+      "text": "נשיכם טפכם ומקניכם ישבו בארץ אשר נתן לכם משה בעבר הירדן ואתם תעברו חמשים לפני אחיכם כל גבורי החיל ועזרתם אותם׃"
+    },
+    {
+      "uid": "Joshua_15",
+      "chapter_number": 1,
+      "verse_number": 15,
+      "start_char": 1135,
+      "end_char": 1284,
+      "length": 150,
+      "text": "עד אשר־יניח יהוה׀לאחיכם ככם וירשו גם־המה את־הארץ אשר־יהוה אלהיכם נתן להם ושבתם לארץ ירשתכם וירשתם אותה אשר׀ נתן לכם משה עבד יהוה בעבר הירדן מזרח השמש׃"
+    },
+    {
+      "uid": "Joshua_16",
+      "chapter_number": 1,
+      "verse_number": 16,
+      "start_char": 1285,
+      "end_char": 1345,
+      "length": 61,
+      "text": "ויענו את־יהושע לאמר כל אשר־צויתנו נעשה ואל־כל־אשר תשלחנו נלך׃"
+    },
+    {
+      "uid": "Joshua_17",
+      "chapter_number": 1,
+      "verse_number": 17,
+      "start_char": 1346,
+      "end_char": 1418,
+      "length": 73,
+      "text": "ככל אשר־שמענו אל־משה כן נשמע אליך רק יהיה יהוה אלהיך עמך כאשר היה עם־משה׃"
+    },
+    {
+      "uid": "Joshua_18",
+      "chapter_number": 1,
+      "verse_number": 18,
+      "start_char": 1419,
+      "end_char": 1490,
+      "length": 72,
+      "text": "כל־איש אשר־ימרה את־פיך ולא־ישמע את־דבריך לכל אשר־תצונו יומת רק חזק ואמץ׃"
+    },
+    {
+      "uid": "Joshua_19",
+      "chapter_number": 2,
+      "verse_number": 1,
+      "start_char": 1491,
+      "end_char": 1616,
+      "length": 126,
+      "text": "וישלח יהושע־בן־נון מן־השטים שנים־אנשים מרגלים חרש לאמר לכו ראו את־הארץ ואת־יריחו וילכו ויבאו בית־אשה זונה ושמה רחב וישכבו־שמה׃"
+    },
+    {
+      "uid": "Joshua_20",
+      "chapter_number": 2,
+      "verse_number": 2,
+      "start_char": 1617,
+      "end_char": 1686,
+      "length": 70,
+      "text": "ויאמר למלך יריחו לאמר הנה אנשים באו הנה הלילה מבני ישראל לחפר את־הארץ׃"
+    },
+    {
+      "uid": "Joshua_21",
+      "chapter_number": 2,
+      "verse_number": 3,
+      "start_char": 1687,
+      "end_char": 1776,
+      "length": 90,
+      "text": "וישלח מלך יריחו אל־רחב לאמר הוציאי האנשים הבאים אליך אשר־באו לביתך כי לחפר את־כל־הארץ באו׃"
+    },
+    {
+      "uid": "Joshua_22",
+      "chapter_number": 2,
+      "verse_number": 4,
+      "start_char": 1777,
+      "end_char": 1851,
+      "length": 75,
+      "text": "ותקח האשה את־שני האנשים ותצפנו ותאמר׀ כן באו אלי האנשים ולא ידעתי מאין המה׃"
+    },
+    {
+      "uid": "Joshua_23",
+      "chapter_number": 2,
+      "verse_number": 5,
+      "start_char": 1852,
+      "end_char": 1936,
+      "length": 85,
+      "text": "ויהי השער לסגור בחשך והאנשים יצאו לא ידעתי אנה הלכו האנשים רדפו מהר אחריהם כי תשיגום׃"
+    },
+    {
+      "uid": "Joshua_24",
+      "chapter_number": 2,
+      "verse_number": 6,
+      "start_char": 1937,
+      "end_char": 1986,
+      "length": 50,
+      "text": "והיא העלתם הגגה ותטמנם בפשתי העץ הערכות לה על־הגג׃"
+    },
+    {
+      "uid": "Joshua_25",
+      "chapter_number": 2,
+      "verse_number": 7,
+      "start_char": 1987,
+      "end_char": 2067,
+      "length": 81,
+      "text": "והאנשים רדפו אחריהם דרך הירדן על המעברות והשער סגרו אחרי כאשר יצאו הרדפים אחריהם׃"
+    },
+    {
+      "uid": "Joshua_26",
+      "chapter_number": 2,
+      "verse_number": 8,
+      "start_char": 2068,
+      "end_char": 2106,
+      "length": 39,
+      "text": "והמה טרם ישכבון והיא עלתה עליהם על־הגג׃"
+    },
+    {
+      "uid": "Joshua_27",
+      "chapter_number": 2,
+      "verse_number": 9,
+      "start_char": 2107,
+      "end_char": 2203,
+      "length": 97,
+      "text": "ותאמר אל־האנשים ידעתי כי־נתן יהוה לכם את־הארץ וכי־נפלה אימתכם עלינו וכי נמגו כל־ישבי הארץ מפניכם׃"
+    },
+    {
+      "uid": "Joshua_28",
+      "chapter_number": 2,
+      "verse_number": 10,
+      "start_char": 2204,
+      "end_char": 2334,
+      "length": 131,
+      "text": "כי שמענו את אשר־הוביש יהוה את־מי ים־סוף מפניכם בצאתכם ממצרים ואשר עשיתם לשני מלכי האמרי אשר בעבר הירדן לסיחן ולעוג אשר החרמתם אותם׃"
+    },
+    {
+      "uid": "Joshua_29",
+      "chapter_number": 2,
+      "verse_number": 11,
+      "start_char": 2335,
+      "end_char": 2429,
+      "length": 95,
+      "text": "ונשמע וימס לבבנו ולא־קמה עוד רוח באיש מפניכם כי יהוה אלהיכם הוא אלהים בשמים ממעל ועל־הארץ מתחת׃"
+    },
+    {
+      "uid": "Joshua_30",
+      "chapter_number": 2,
+      "verse_number": 12,
+      "start_char": 2430,
+      "end_char": 2516,
+      "length": 87,
+      "text": "ועתה השבעו־נא לי ביהוה כי־עשיתי עמכם חסד ועשיתם גם־אתם עם־בית אבי חסד ונתתם לי אות אמת׃"
+    },
+    {
+      "uid": "Joshua_31",
+      "chapter_number": 2,
+      "verse_number": 13,
+      "start_char": 2517,
+      "end_char": 2605,
+      "length": 89,
+      "text": "והחיתם את־אבי ואת־אמי ואת־אחי ואת־[אחיותי] (אחותי) ואת כל־אשר להם והצלתם את־נפשתינו ממות׃"
+    },
+    {
+      "uid": "Joshua_32",
+      "chapter_number": 2,
+      "verse_number": 14,
+      "start_char": 2606,
+      "end_char": 2710,
+      "length": 105,
+      "text": "ויאמרו לה האנשים נפשנו תחתיכם למות אם לא תגידו את־דברנו זה והיה בתת־יהוה לנו את־הארץ ועשינו עמך חסד ואמת׃"
+    },
+    {
+      "uid": "Joshua_33",
+      "chapter_number": 2,
+      "verse_number": 15,
+      "start_char": 2711,
+      "end_char": 2768,
+      "length": 58,
+      "text": "ותורדם בחבל בעד החלון כי ביתה בקיר החומה ובחומה היא יושבת׃"
+    },
+    {
+      "uid": "Joshua_34",
+      "chapter_number": 2,
+      "verse_number": 16,
+      "start_char": 2769,
+      "end_char": 2859,
+      "length": 91,
+      "text": "ותאמר להם ההרה לכו פן־יפגעו בכם הרדפים ונחבתם שמה שלשת ימים עד שוב הרדפים ואחר תלכו לדרככם׃"
+    },
+    {
+      "uid": "Joshua_35",
+      "chapter_number": 2,
+      "verse_number": 17,
+      "start_char": 2860,
+      "end_char": 2912,
+      "length": 53,
+      "text": "ויאמרו אליה האנשים נקים אנחנו משבעתך הזה אשר השבעתנו׃"
+    },
+    {
+      "uid": "Joshua_36",
+      "chapter_number": 2,
+      "verse_number": 18,
+      "start_char": 2913,
+      "end_char": 3039,
+      "length": 127,
+      "text": "הנה אנחנו באים בארץ את־תקות חוט השני הזה תקשרי בחלון אשר הורדתנו בו ואת־אביך ואת־אמך ואת־אחיך ואת כל־בית אביך תאספי אליך הביתה׃"
+    },
+    {
+      "uid": "Joshua_37",
+      "chapter_number": 2,
+      "verse_number": 19,
+      "start_char": 3040,
+      "end_char": 3141,
+      "length": 102,
+      "text": "והיה כל אשר־יצא מדלתי ביתך׀החוצה דמו בראשו ואנחנו נקים וכל אשר יהיה אתך בבית דמו בראשנו אם־יד תהיה־בו׃"
+    },
+    {
+      "uid": "Joshua_38",
+      "chapter_number": 2,
+      "verse_number": 20,
+      "start_char": 3142,
+      "end_char": 3194,
+      "length": 53,
+      "text": "ואם־תגידי את־דברנו זה והיינו נקים משבעתך אשר השבעתנו׃"
+    },
+    {
+      "uid": "Joshua_39",
+      "chapter_number": 2,
+      "verse_number": 21,
+      "start_char": 3195,
+      "end_char": 3253,
+      "length": 59,
+      "text": "ותאמר כדבריכם כן־הוא ותשלחם וילכו ותקשר את־תקות השני בחלון׃"
+    },
+    {
+      "uid": "Joshua_40",
+      "chapter_number": 2,
+      "verse_number": 22,
+      "start_char": 3254,
+      "end_char": 3335,
+      "length": 82,
+      "text": "וילכו ויבאו ההרה וישבו שם שלשת ימים עד־שבו הרדפים ויבקשו הרדפים בכל־הדרך ולא מצאו׃"
+    },
+    {
+      "uid": "Joshua_41",
+      "chapter_number": 2,
+      "verse_number": 23,
+      "start_char": 3336,
+      "end_char": 3420,
+      "length": 85,
+      "text": "וישבו שני האנשים וירדו מההר ויעברו ויבאו אל־יהושע בן־נון ויספרו־לו את כל־המצאות אותם׃"
+    },
+    {
+      "uid": "Joshua_42",
+      "chapter_number": 2,
+      "verse_number": 24,
+      "start_char": 3421,
+      "end_char": 3494,
+      "length": 74,
+      "text": "ויאמרו אל־יהושע כי־נתן יהוה בידנו את־כל־הארץ וגם־נמגו כל־ישבי הארץ מפנינו׃"
+    },
+    {
+      "uid": "Joshua_43",
+      "chapter_number": 3,
+      "verse_number": 1,
+      "start_char": 3495,
+      "end_char": 3576,
+      "length": 82,
+      "text": "וישכם יהושע בבקר ויסעו מהשטים ויבאו עד־הירדן הוא וכל־בני ישראל וילנו שם טרם יעברו׃"
+    },
+    {
+      "uid": "Joshua_44",
+      "chapter_number": 3,
+      "verse_number": 2,
+      "start_char": 3577,
+      "end_char": 3621,
+      "length": 45,
+      "text": "ויהי מקצה שלשת ימים ויעברו השטרים בקרב המחנה׃"
+    },
+    {
+      "uid": "Joshua_45",
+      "chapter_number": 3,
+      "verse_number": 3,
+      "start_char": 3622,
+      "end_char": 3726,
+      "length": 105,
+      "text": "ויצוו את־העם לאמר כראתכם את ארון ברית־יהוה אלהיכם והכהנים הלוים נשאים אתו ואתם תסעו ממקומכם והלכתם אחריו׃"
+    },
+    {
+      "uid": "Joshua_46",
+      "chapter_number": 3,
+      "verse_number": 4,
+      "start_char": 3727,
+      "end_char": 3846,
+      "length": 120,
+      "text": "אך׀ רחוק יהיה ביניכם ובניו כאלפים אמה במדה אל־תקרבו אליו למען אשר־תדעו את־הדרך אשר תלכו־בה כי לא עברתם בדרך מתמול שלשום׃"
+    },
+    {
+      "uid": "Joshua_47",
+      "chapter_number": 3,
+      "verse_number": 5,
+      "start_char": 3847,
+      "end_char": 3903,
+      "length": 57,
+      "text": "ויאמר יהושע אל־העם התקדשו כי מחר יעשה יהוה בקרבכם נפלאות׃"
+    },
+    {
+      "uid": "Joshua_48",
+      "chapter_number": 3,
+      "verse_number": 6,
+      "start_char": 3904,
+      "end_char": 3998,
+      "length": 95,
+      "text": "ויאמר יהושע אל־הכהנים לאמר שאו את־ארון הברית ועברו לפני העם וישאו את־ארון הברית וילכו לפני העם׃"
+    },
+    {
+      "uid": "Joshua_49",
+      "chapter_number": 3,
+      "verse_number": 7,
+      "start_char": 3999,
+      "end_char": 4091,
+      "length": 93,
+      "text": "ויאמר יהוה אל־יהושע היום הזה אחל גדלך בעיני כל־ישראל אשר ידעון כי כאשר הייתי עם־משה אהיה עמך׃"
+    },
+    {
+      "uid": "Joshua_50",
+      "chapter_number": 3,
+      "verse_number": 8,
+      "start_char": 4092,
+      "end_char": 4166,
+      "length": 75,
+      "text": "ואתה תצוה את־הכהנים נשאי ארון־הברית לאמר כבאכם עד־קצה מי הירדן בירדן תעמדו׃"
+    },
+    {
+      "uid": "Joshua_51",
+      "chapter_number": 3,
+      "verse_number": 9,
+      "start_char": 4167,
+      "end_char": 4225,
+      "length": 59,
+      "text": "ויאמר יהושע אל־בני ישראל גשו הנה ושמעו את־דברי יהוה אלהיכם׃"
+    },
+    {
+      "uid": "Joshua_52",
+      "chapter_number": 3,
+      "verse_number": 10,
+      "start_char": 4226,
+      "end_char": 4347,
+      "length": 122,
+      "text": "ויאמר יהושע בזאת תדעון כי אל חי בקרבכם והורש יוריש מפניכם את־הכנעני ואת־החתי ואת־החוי ואת־הפרזי ואת־הגרגשי והאמרי והיבוסי׃"
+    },
+    {
+      "uid": "Joshua_53",
+      "chapter_number": 3,
+      "verse_number": 11,
+      "start_char": 4348,
+      "end_char": 4392,
+      "length": 45,
+      "text": "הנה ארון הברית אדון כל־הארץ עבר לפניכם בירדן׃"
+    },
+    {
+      "uid": "Joshua_54",
+      "chapter_number": 3,
+      "verse_number": 12,
+      "start_char": 4393,
+      "end_char": 4450,
+      "length": 58,
+      "text": "ועתה קחו לכם שני עשר איש משבטי ישראל איש־אחד איש־אחד לשבט׃"
+    },
+    {
+      "uid": "Joshua_55",
+      "chapter_number": 3,
+      "verse_number": 13,
+      "start_char": 4451,
+      "end_char": 4564,
+      "length": 114,
+      "text": "והיה כנוח כפות רגלי הכהנים נשאי ארון יהוה אדון כל־הארץ במי הירדן מי הירדן יכרתון המים הירדים מלמעלה ויעמדו נד אחד׃"
+    },
+    {
+      "uid": "Joshua_56",
+      "chapter_number": 3,
+      "verse_number": 14,
+      "start_char": 4565,
+      "end_char": 4634,
+      "length": 70,
+      "text": "ויהי בנסע העם מאהליהם לעבר את־הירדן והכהנים נשאי הארון הברית לפני העם׃"
+    },
+    {
+      "uid": "Joshua_57",
+      "chapter_number": 3,
+      "verse_number": 15,
+      "start_char": 4635,
+      "end_char": 4736,
+      "length": 102,
+      "text": "וכבוא נשאי הארון עד־הירדן ורגלי הכהנים נשאי הארון נטבלו בקצה המים והירדן מלא על־כל־גדותיו כל ימי קציר׃"
+    },
+    {
+      "uid": "Joshua_58",
+      "chapter_number": 3,
+      "verse_number": 16,
+      "start_char": 4737,
+      "end_char": 4872,
+      "length": 136,
+      "text": "ויעמדו המים הירדים מלמעלה קמו נד־אחד הרחק מאד (באדם) [מאדם] העיר אשר מצד צרתן והירדים על ים הערבה ים־המלח תמו נכרתו והעם עברו נגד יריחו׃"
+    },
+    {
+      "uid": "Joshua_59",
+      "chapter_number": 3,
+      "verse_number": 17,
+      "start_char": 4873,
+      "end_char": 4983,
+      "length": 111,
+      "text": "ויעמדו הכהנים נשאי הארון ברית־יהוה בחרבה בתוך הירדן הכן וכל־ישראל עברים בחרבה עד אשר־תמו כל־הגוי לעבר את־הירדן׃"
+    },
+    {
+      "uid": "Joshua_60",
+      "chapter_number": 4,
+      "verse_number": 1,
+      "start_char": 4984,
+      "end_char": 5044,
+      "length": 61,
+      "text": "ויהי כאשר־תמו כל־הגוי לעבור את־הירדןויאמר יהוה אל־יהושע לאמר׃"
+    },
+    {
+      "uid": "Joshua_61",
+      "chapter_number": 4,
+      "verse_number": 2,
+      "start_char": 5045,
+      "end_char": 5095,
+      "length": 51,
+      "text": "קחו לכם מן־העם שנים עשר אנשים איש־אחד איש־אחד משבט׃"
+    },
+    {
+      "uid": "Joshua_62",
+      "chapter_number": 4,
+      "verse_number": 3,
+      "start_char": 5096,
+      "end_char": 5226,
+      "length": 131,
+      "text": "וצוו אותם לאמר שאו־לכם מזה מתוך הירדן ממצב רגלי הכהנים הכין שתים־עשרה אבנים והעברתם אותם עמכם והנחתם אותם במלון אשר־תלינו בו הלילה׃"
+    },
+    {
+      "uid": "Joshua_63",
+      "chapter_number": 4,
+      "verse_number": 4,
+      "start_char": 5227,
+      "end_char": 5296,
+      "length": 70,
+      "text": "ויקרא יהושע אל־שנים העשר איש אשר הכין מבני ישראל איש־אחד איש־אחד משבט׃"
+    },
+    {
+      "uid": "Joshua_64",
+      "chapter_number": 4,
+      "verse_number": 5,
+      "start_char": 5297,
+      "end_char": 5404,
+      "length": 108,
+      "text": "ויאמר להם יהושע עברו לפני ארון יהוה אלהיכם אל־תוך הירדן והרימו לכם איש אבן אחת על־שכמו למספר שבטי בני־ישראל׃"
+    },
+    {
+      "uid": "Joshua_65",
+      "chapter_number": 4,
+      "verse_number": 6,
+      "start_char": 5405,
+      "end_char": 5473,
+      "length": 69,
+      "text": "למען תהיה זאת אות בקרבכם כי־ישאלון בניכם מחר לאמר מה האבנים האלה לכם׃"
+    },
+    {
+      "uid": "Joshua_66",
+      "chapter_number": 4,
+      "verse_number": 7,
+      "start_char": 5474,
+      "end_char": 5595,
+      "length": 122,
+      "text": "ואמרתם להם אשר נכרתו מימי הירדן מפני ארון ברית־יהוה בעברו בירדן נכרתו מי הירדן והיו האבנים האלה לזכרון לבני ישראל עד־עולם׃"
+    },
+    {
+      "uid": "Joshua_67",
+      "chapter_number": 4,
+      "verse_number": 8,
+      "start_char": 5596,
+      "end_char": 5736,
+      "length": 141,
+      "text": "ויעשו־כן בני־ישראל כאשר צוה יהושע וישאו שתי־עשרה אבנים מתוך הירדן כאשר דבר יהוה אל־יהושע למספר שבטי בני־ישראל ויעברום עמם אל־המלון וינחום שם׃"
+    },
+    {
+      "uid": "Joshua_68",
+      "chapter_number": 4,
+      "verse_number": 9,
+      "start_char": 5737,
+      "end_char": 5832,
+      "length": 96,
+      "text": "ושתים עשרה אבנים הקים יהושע בתוך הירדן תחת מצב רגלי הכהנים נשאי ארון הברית ויהיו שם עד היום הזה׃"
+    },
+    {
+      "uid": "Joshua_69",
+      "chapter_number": 4,
+      "verse_number": 10,
+      "start_char": 5833,
+      "end_char": 5959,
+      "length": 127,
+      "text": "והכהנים נשאי הארון עמדים בתוך הירדן עד תם כל־הדבר אשר־צוה יהוה את־יהושע לדבר אל־העם ככל אשר־צוה משה את־יהושע וימהרו העם ויעברו׃"
+    },
+    {
+      "uid": "Joshua_70",
+      "chapter_number": 4,
+      "verse_number": 11,
+      "start_char": 5960,
+      "end_char": 6018,
+      "length": 59,
+      "text": "ויהי כאשר־תם כל־העם לעבור ויעבר ארון־יהוה והכהנים לפני העם׃"
+    },
+    {
+      "uid": "Joshua_71",
+      "chapter_number": 4,
+      "verse_number": 12,
+      "start_char": 6019,
+      "end_char": 6098,
+      "length": 80,
+      "text": "ויעברו בני־ראובן ובני־גד וחצי שבט המנשה חמשים לפני בני ישראל כאשר דבר אליהם משה׃"
+    },
+    {
+      "uid": "Joshua_72",
+      "chapter_number": 4,
+      "verse_number": 13,
+      "start_char": 6099,
+      "end_char": 6158,
+      "length": 60,
+      "text": "כארבעים אלף חלוצי הצבא עברו לפני יהוה למלחמה אל ערבות יריחו׃"
+    },
+    {
+      "uid": "Joshua_73",
+      "chapter_number": 4,
+      "verse_number": 14,
+      "start_char": 6159,
+      "end_char": 6240,
+      "length": 82,
+      "text": "ביום ההוא גדל יהוה את־יהושע בעיני כל־ישראל ויראו אתו כאשר יראו את־משה כל־ימי חייו׃"
+    },
+    {
+      "uid": "Joshua_74",
+      "chapter_number": 4,
+      "verse_number": 15,
+      "start_char": 6241,
+      "end_char": 6265,
+      "length": 25,
+      "text": "ויאמר יהוה אל־יהושע לאמר׃"
+    },
+    {
+      "uid": "Joshua_75",
+      "chapter_number": 4,
+      "verse_number": 16,
+      "start_char": 6266,
+      "end_char": 6310,
+      "length": 45,
+      "text": "צוה את־הכהנים נשאי ארון העדות ויעלו מן־הירדן׃"
+    },
+    {
+      "uid": "Joshua_76",
+      "chapter_number": 4,
+      "verse_number": 17,
+      "start_char": 6311,
+      "end_char": 6349,
+      "length": 39,
+      "text": "ויצו יהושע את־הכהנים לאמר עלו מן־הירדן׃"
+    },
+    {
+      "uid": "Joshua_77",
+      "chapter_number": 4,
+      "verse_number": 18,
+      "start_char": 6350,
+      "end_char": 6492,
+      "length": 143,
+      "text": "ויהי (בעלות) [כעלות] הכהנים נשאי ארון ברית־יהוה מתוך הירדן נתקו כפות רגלי הכהנים אל החרבה וישבו מי־הירדן למקומם וילכו כתמול־שלשום על־כל־גדותיו׃"
+    },
+    {
+      "uid": "Joshua_78",
+      "chapter_number": 4,
+      "verse_number": 19,
+      "start_char": 6493,
+      "end_char": 6556,
+      "length": 64,
+      "text": "והעם עלו מן־הירדן בעשור לחדש הראשון ויחנו בגלגל בקצה מזרח יריחו׃"
+    },
+    {
+      "uid": "Joshua_79",
+      "chapter_number": 4,
+      "verse_number": 20,
+      "start_char": 6557,
+      "end_char": 6617,
+      "length": 61,
+      "text": "ואת שתים עשרה האבנים האלה אשר לקחו מן־הירדן הקים יהושע בגלגל׃"
+    },
+    {
+      "uid": "Joshua_80",
+      "chapter_number": 4,
+      "verse_number": 21,
+      "start_char": 6618,
+      "end_char": 6691,
+      "length": 74,
+      "text": "ויאמר אל־בני ישראל לאמר אשר ישאלון בניכם מחר את־אבותם לאמר מה האבנים האלה׃"
+    },
+    {
+      "uid": "Joshua_81",
+      "chapter_number": 4,
+      "verse_number": 22,
+      "start_char": 6692,
+      "end_char": 6742,
+      "length": 51,
+      "text": "והודעתם את־בניכם לאמר ביבשה עבר ישראל את־הירדן הזה׃"
+    },
+    {
+      "uid": "Joshua_82",
+      "chapter_number": 4,
+      "verse_number": 23,
+      "start_char": 6743,
+      "end_char": 6847,
+      "length": 105,
+      "text": "אשר־הוביש יהוה אלהיכם את־מי הירדן מפניכם עד־עברכם כאשר עשה יהוה אלהיכם לים־סוף אשר־הוביש מפנינו עד־עברנו׃"
+    },
+    {
+      "uid": "Joshua_83",
+      "chapter_number": 4,
+      "verse_number": 24,
+      "start_char": 6848,
+      "end_char": 6926,
+      "length": 79,
+      "text": "למען דעת כל־עמי הארץ את־יד יהוה כי חזקה היא למען יראתם את־יהוה אלהיכם כל־הימים׃"
+    },
+    {
+      "uid": "Joshua_84",
+      "chapter_number": 5,
+      "verse_number": 1,
+      "start_char": 6927,
+      "end_char": 7103,
+      "length": 177,
+      "text": "ויהי כשמע כל־מלכי האמרי אשר בעבר הירדן ימה וכל־מלכי הכנעני אשר על־הים את אשר־הוביש יהוה את־מי הירדן מפני בני־ישראל עד־[עברם] (עברנו) וימס לבבם ולא־היה בם עוד רוח מפני בני ישראל׃"
+    },
+    {
+      "uid": "Joshua_85",
+      "chapter_number": 5,
+      "verse_number": 2,
+      "start_char": 7104,
+      "end_char": 7174,
+      "length": 71,
+      "text": "בעת ההיא אמר יהוה אל־יהושע עשה לך חרבות צרים ושוב מל את־בני־ישראל שנית׃"
+    },
+    {
+      "uid": "Joshua_86",
+      "chapter_number": 5,
+      "verse_number": 3,
+      "start_char": 7175,
+      "end_char": 7232,
+      "length": 58,
+      "text": "ויעש־לו יהושע חרבות צרים וימל את־בני ישראל אל־גבעת הערלות׃"
+    },
+    {
+      "uid": "Joshua_87",
+      "chapter_number": 5,
+      "verse_number": 4,
+      "start_char": 7233,
+      "end_char": 7324,
+      "length": 92,
+      "text": "וזה הדבר אשר־מל יהושע כל־העם היצא ממצרים הזכרים כל׀ אנשי המלחמה מתו במדבר בדרך בצאתם ממצרים׃"
+    },
+    {
+      "uid": "Joshua_88",
+      "chapter_number": 5,
+      "verse_number": 5,
+      "start_char": 7325,
+      "end_char": 7396,
+      "length": 72,
+      "text": "כי־מלים היו כל־העם היצאים וכל־העם הילדים במדבר בדרך בצאתם ממצרים לא־מלו׃"
+    },
+    {
+      "uid": "Joshua_89",
+      "chapter_number": 5,
+      "verse_number": 6,
+      "start_char": 7397,
+      "end_char": 7579,
+      "length": 183,
+      "text": "כי׀ ארבעים שנה הלכו בני־ישראל במדבר עד־תם כל־הגוי אנשי המלחמה היצאים ממצרים אשר לא־שמעו בקול יהוה אשר נשבע יהוה להם לבלתי הראותם את־הארץ אשר נשבע יהוה לאבותם לתת לנו ארץ זבת חלב ודבש׃"
+    },
+    {
+      "uid": "Joshua_90",
+      "chapter_number": 5,
+      "verse_number": 7,
+      "start_char": 7580,
+      "end_char": 7645,
+      "length": 66,
+      "text": "ואת־בניהם הקים תחתם אתם מל יהושע כי־ערלים היו כי לא־מלו אותם בדרך׃"
+    },
+    {
+      "uid": "Joshua_91",
+      "chapter_number": 5,
+      "verse_number": 8,
+      "start_char": 7646,
+      "end_char": 7699,
+      "length": 54,
+      "text": "ויהי כאשר־תמו כל־הגוי להמול וישבו תחתם במחנה עד חיותם׃"
+    },
+    {
+      "uid": "Joshua_92",
+      "chapter_number": 5,
+      "verse_number": 9,
+      "start_char": 7700,
+      "end_char": 7788,
+      "length": 89,
+      "text": "ויאמר יהוה אל־יהושע היום גלותי את־חרפת מצרים מעליכם ויקרא שם המקום ההוא גלגל עד היום הזה׃"
+    },
+    {
+      "uid": "Joshua_93",
+      "chapter_number": 5,
+      "verse_number": 10,
+      "start_char": 7789,
+      "end_char": 7862,
+      "length": 74,
+      "text": "ויחנו בני־ישראל בגלגל ויעשו את־הפסח בארבעה עשר יום לחדש בערב בערבות יריחו׃"
+    },
+    {
+      "uid": "Joshua_94",
+      "chapter_number": 5,
+      "verse_number": 11,
+      "start_char": 7863,
+      "end_char": 7916,
+      "length": 54,
+      "text": "ויאכלו מעבור הארץ ממחרת הפסח מצות וקלוי בעצם היום הזה׃"
+    },
+    {
+      "uid": "Joshua_95",
+      "chapter_number": 5,
+      "verse_number": 12,
+      "start_char": 7917,
+      "end_char": 8008,
+      "length": 92,
+      "text": "וישבת המן ממחרת באכלם מעבור הארץ ולא־היה עוד לבני ישראל מן ויאכלו מתבואת ארץ כנען בשנה ההיא׃"
+    },
+    {
+      "uid": "Joshua_96",
+      "chapter_number": 5,
+      "verse_number": 13,
+      "start_char": 8009,
+      "end_char": 8128,
+      "length": 120,
+      "text": "ויהי בהיות יהושע ביריחו וישא עיניו וירא והנה־איש עמד לנגדו וחרבו שלופה בידו וילך יהושע אליו ויאמר לו הלנו אתה אם־לצרינו׃"
+    },
+    {
+      "uid": "Joshua_97",
+      "chapter_number": 5,
+      "verse_number": 14,
+      "start_char": 8129,
+      "end_char": 8227,
+      "length": 99,
+      "text": "ויאמר׀ לא כי אני שר־צבא־יהוה עתה באתי ויפל יהושע אל־פניו ארצה וישתחו ויאמר לו מה אדני מדבר אל־עבדו׃"
+    },
+    {
+      "uid": "Joshua_98",
+      "chapter_number": 5,
+      "verse_number": 15,
+      "start_char": 8228,
+      "end_char": 8319,
+      "length": 92,
+      "text": "ויאמר שר־צבא יהוה אל־יהושע של־נעלך מעל רגלך כי המקום אשר אתה עמד עליו קדש הוא ויעש יהושע כן׃"
+    },
+    {
+      "uid": "Joshua_99",
+      "chapter_number": 6,
+      "verse_number": 1,
+      "start_char": 8320,
+      "end_char": 8370,
+      "length": 51,
+      "text": "ויריחו סגרת ומסגרת מפני בני ישראל אין יוצא ואין בא׃"
+    },
+    {
+      "uid": "Joshua_100",
+      "chapter_number": 6,
+      "verse_number": 2,
+      "start_char": 8371,
+      "end_char": 8433,
+      "length": 63,
+      "text": "ויאמר יהוה אל־יהושע ראה נתתי בידך את־יריחו ואת־מלכה גבורי החיל׃"
+    },
+    {
+      "uid": "Joshua_101",
+      "chapter_number": 6,
+      "verse_number": 3,
+      "start_char": 8434,
+      "end_char": 8500,
+      "length": 67,
+      "text": "וסבתם את־העיר כל אנשי המלחמה הקיף את־העיר פעם אחת כה תעשה ששת ימים׃"
+    },
+    {
+      "uid": "Joshua_102",
+      "chapter_number": 6,
+      "verse_number": 4,
+      "start_char": 8501,
+      "end_char": 8606,
+      "length": 106,
+      "text": "ושבעה כהנים ישאו שבעה שופרות היובלים לפני הארון וביום השביעי תסבו את־העיר שבע פעמים והכהנים יתקעו בשופרות׃"
+    },
+    {
+      "uid": "Joshua_103",
+      "chapter_number": 6,
+      "verse_number": 5,
+      "start_char": 8607,
+      "end_char": 8724,
+      "length": 118,
+      "text": "והיה במשך׀ בקרן היובל (בשמעכם) [כשמעכם] את־קול השופר יריעו כל־העם תרועה גדולה ונפלה חומת העיר תחתיה ועלו העם איש נגדו׃"
+    },
+    {
+      "uid": "Joshua_104",
+      "chapter_number": 6,
+      "verse_number": 6,
+      "start_char": 8725,
+      "end_char": 8833,
+      "length": 109,
+      "text": "ויקרא יהושע בן־נון אל־הכהנים ויאמר אלהם שאו את־ארון הברית ושבעה כהנים ישאו שבעה שופרות יובלים לפני ארון יהוה׃"
+    },
+    {
+      "uid": "Joshua_105",
+      "chapter_number": 6,
+      "verse_number": 7,
+      "start_char": 8834,
+      "end_char": 8902,
+      "length": 69,
+      "text": "(ויאמרו) [ויאמר] אל־העם עברו וסבו את־העיר והחלוץ יעבר לפני ארון יהוה׃"
+    },
+    {
+      "uid": "Joshua_106",
+      "chapter_number": 6,
+      "verse_number": 8,
+      "start_char": 8903,
+      "end_char": 9020,
+      "length": 118,
+      "text": "ויהי כאמר יהושע אל־העם ושבעה הכהנים נשאים שבעה שופרות היובלים לפני יהוה עברו ותקעו בשופרות וארון ברית יהוה הלך אחריהם׃"
+    },
+    {
+      "uid": "Joshua_107",
+      "chapter_number": 6,
+      "verse_number": 9,
+      "start_char": 9021,
+      "end_char": 9106,
+      "length": 86,
+      "text": "והחלוץ הלך לפני הכהנים (תקעו) [תקעי] השופרות והמאסף הלך אחרי הארון הלוך ותקוע בשופרות׃"
+    },
+    {
+      "uid": "Joshua_108",
+      "chapter_number": 6,
+      "verse_number": 10,
+      "start_char": 9107,
+      "end_char": 9208,
+      "length": 102,
+      "text": "ואת־העם צוה יהושע לאמר לא תריעו ולא־תשמיעו את־קולכם ולא־יצא מפיכם דבר עד יום אמרי אליכם הריעו והריעתם׃"
+    },
+    {
+      "uid": "Joshua_109",
+      "chapter_number": 6,
+      "verse_number": 11,
+      "start_char": 9209,
+      "end_char": 9268,
+      "length": 60,
+      "text": "ויסב ארון־יהוה את־העיר הקף פעם אחת ויבאו המחנה וילינו במחנה׃"
+    },
+    {
+      "uid": "Joshua_110",
+      "chapter_number": 6,
+      "verse_number": 12,
+      "start_char": 9269,
+      "end_char": 9311,
+      "length": 43,
+      "text": "וישכם יהושע בבקר וישאו הכהנים את־ארון יהוה׃"
+    },
+    {
+      "uid": "Joshua_111",
+      "chapter_number": 6,
+      "verse_number": 13,
+      "start_char": 9312,
+      "end_char": 9461,
+      "length": 150,
+      "text": "ושבעה הכהנים נשאים שבעה שופרות היבלים לפני ארון יהוה הלכים הלוך ותקעו בשופרות והחלוץ הלך לפניהם והמאסף הלך אחרי ארון יהוה (הולך) [הלוך] ותקוע בשופרות׃"
+    },
+    {
+      "uid": "Joshua_112",
+      "chapter_number": 6,
+      "verse_number": 14,
+      "start_char": 9462,
+      "end_char": 9521,
+      "length": 60,
+      "text": "ויסבו את־העיר ביום השני פעם אחת וישבו המחנה כה עשו ששת ימים׃"
+    },
+    {
+      "uid": "Joshua_113",
+      "chapter_number": 6,
+      "verse_number": 15,
+      "start_char": 9522,
+      "end_char": 9627,
+      "length": 106,
+      "text": "ויהי׀ ביום השביעי וישכמו כעלות השחר ויסבו את־העיר כמשפט הזה שבע פעמים רק ביום ההוא סבבו את־העיר שבע פעמים׃"
+    },
+    {
+      "uid": "Joshua_114",
+      "chapter_number": 6,
+      "verse_number": 16,
+      "start_char": 9628,
+      "end_char": 9714,
+      "length": 87,
+      "text": "ויהי בפעם השביעית תקעו הכהנים בשופרות ויאמר יהושע אל־העם הריעו כי־נתן יהוה לכם את־העיר׃"
+    },
+    {
+      "uid": "Joshua_115",
+      "chapter_number": 6,
+      "verse_number": 17,
+      "start_char": 9715,
+      "end_char": 9820,
+      "length": 106,
+      "text": "והיתה העיר חרם היא וכל־אשר־בה ליהוה רק רחב הזונה תחיה היא וכל־אשר אתה בבית כי החבאתה את־המלאכים אשר שלחנו׃"
+    },
+    {
+      "uid": "Joshua_116",
+      "chapter_number": 6,
+      "verse_number": 18,
+      "start_char": 9821,
+      "end_char": 9903,
+      "length": 83,
+      "text": "ורק־אתם שמרו מן־החרם פן־תחרימו ולקחתם מן־החרם ושמתם את־מחנה ישראל לחרם ועכרתם אותו׃"
+    },
+    {
+      "uid": "Joshua_117",
+      "chapter_number": 6,
+      "verse_number": 19,
+      "start_char": 9904,
+      "end_char": 9962,
+      "length": 59,
+      "text": "וכל׀ כסף וזהב וכלי נחשת וברזל קדש הוא ליהוה אוצר יהוה יבוא׃"
+    },
+    {
+      "uid": "Joshua_118",
+      "chapter_number": 6,
+      "verse_number": 20,
+      "start_char": 9963,
+      "end_char": 10091,
+      "length": 129,
+      "text": "וירע העם ויתקעו בשפרות ויהי כשמע העם את־קול השופר ויריעו העם תרועה גדולה ותפל החומה תחתיה ויעל העם העירה איש נגדו וילכדו את־העיר׃"
+    },
+    {
+      "uid": "Joshua_119",
+      "chapter_number": 6,
+      "verse_number": 21,
+      "start_char": 10092,
+      "end_char": 10166,
+      "length": 75,
+      "text": "ויחרימו את־כל־אשר בעיר מאיש ועד־אשה מנער ועד־זקן ועד שור ושה וחמור לפי־חרב׃"
+    },
+    {
+      "uid": "Joshua_120",
+      "chapter_number": 6,
+      "verse_number": 22,
+      "start_char": 10167,
+      "end_char": 10274,
+      "length": 108,
+      "text": "ולשנים האנשים המרגלים את־הארץ אמר יהושע באו בית־האשה הזונה והוציאו משם את־האשה ואת־כל־אשר־לה כאשר נשבעתם לה׃"
+    },
+    {
+      "uid": "Joshua_121",
+      "chapter_number": 6,
+      "verse_number": 23,
+      "start_char": 10275,
+      "end_char": 10397,
+      "length": 123,
+      "text": "ויבאו הנערים המרגלים ויציאו את־רחב ואת־אביה ואת־אמה ואת־אחיה ואת־כל־אשר־לה ואת כל־משפחותיה הוציאו ויניחום מחוץ למחנה ישראל׃"
+    },
+    {
+      "uid": "Joshua_122",
+      "chapter_number": 6,
+      "verse_number": 24,
+      "start_char": 10398,
+      "end_char": 10475,
+      "length": 78,
+      "text": "והעיר שרפו באש וכל־אשר־בה רק׀ הכסף והזהב וכלי הנחשת והברזל נתנו אוצר בית־יהוה׃"
+    },
+    {
+      "uid": "Joshua_123",
+      "chapter_number": 6,
+      "verse_number": 25,
+      "start_char": 10476,
+      "end_char": 10604,
+      "length": 129,
+      "text": "ואת־רחב הזונה ואת־בית אביה ואת־כל־אשר־לה החיה יהושע ותשב בקרב ישראל עד היום הזה כי החביאה את־המלאכים אשר־שלח יהושע לרגל את־יריחו׃"
+    },
+    {
+      "uid": "Joshua_124",
+      "chapter_number": 6,
+      "verse_number": 26,
+      "start_char": 10605,
+      "end_char": 10718,
+      "length": 114,
+      "text": "וישבע יהושע בעת ההיא לאמר ארור האיש לפני יהוה אשר יקום ובנה את־העיר הזאת את־יריחו בבכרו ייסדנה ובצעירו יציב דלתיה׃"
+    },
+    {
+      "uid": "Joshua_125",
+      "chapter_number": 6,
+      "verse_number": 27,
+      "start_char": 10719,
+      "end_char": 10756,
+      "length": 38,
+      "text": "ויהי יהוה את־יהושע ויהי שמעו בכל־הארץ׃"
+    },
+    {
+      "uid": "Joshua_126",
+      "chapter_number": 7,
+      "verse_number": 1,
+      "start_char": 10757,
+      "end_char": 10857,
+      "length": 101,
+      "text": "וימעלו בני־ישראל מעל בחרם ויקח עכן בן־כרמי בן־זבדי בן־זרח למטה יהודה מן־החרם ויחר־אף יהוה בבני ישראל׃"
+    },
+    {
+      "uid": "Joshua_127",
+      "chapter_number": 7,
+      "verse_number": 2,
+      "start_char": 10858,
+      "end_char": 10976,
+      "length": 119,
+      "text": "וישלח יהושע אנשים מיריחו העי אשר עם־בית און מקדם לבית־אל ויאמר אליהם לאמר עלו ורגלו את־הארץ ויעלו האנשים וירגלו את־העי׃"
+    },
+    {
+      "uid": "Joshua_128",
+      "chapter_number": 7,
+      "verse_number": 3,
+      "start_char": 10977,
+      "end_char": 11097,
+      "length": 121,
+      "text": "וישבו אל־יהושע ויאמרו אליו אל־יעל כל־העם כאלפים איש או כשלשת אלפים איש יעלו ויכו את־העי אל־תיגע־שמה את־כל־העם כי מעט המה׃"
+    },
+    {
+      "uid": "Joshua_129",
+      "chapter_number": 7,
+      "verse_number": 4,
+      "start_char": 11098,
+      "end_char": 11150,
+      "length": 53,
+      "text": "ויעלו מן־העם שמה כשלשת אלפים איש וינסו לפני אנשי העי׃"
+    },
+    {
+      "uid": "Joshua_130",
+      "chapter_number": 7,
+      "verse_number": 5,
+      "start_char": 11151,
+      "end_char": 11247,
+      "length": 97,
+      "text": "ויכו מהם אנשי העי כשלשים וששה איש וירדפום לפני השער עד־השברים ויכום במורד וימס לבב־העם ויהי למים׃"
+    },
+    {
+      "uid": "Joshua_131",
+      "chapter_number": 7,
+      "verse_number": 6,
+      "start_char": 11248,
+      "end_char": 11341,
+      "length": 94,
+      "text": "ויקרע יהושע שמלתיו ויפל על־פניו ארצה לפני ארון יהוה עד־הערב הוא וזקני ישראל ויעלו עפר על־ראשם׃"
+    },
+    {
+      "uid": "Joshua_132",
+      "chapter_number": 7,
+      "verse_number": 7,
+      "start_char": 11342,
+      "end_char": 11459,
+      "length": 118,
+      "text": "ויאמר יהושע אהה׀ אדני יהוה למה העברת העביר את־העם הזה את־הירדן לתת אתנו ביד האמרי להאבידנו ולו הואלנו ונשב בעבר הירדן׃"
+    },
+    {
+      "uid": "Joshua_133",
+      "chapter_number": 7,
+      "verse_number": 8,
+      "start_char": 11460,
+      "end_char": 11508,
+      "length": 49,
+      "text": "בי אדני מה אמר אחרי אשר הפך ישראל ערף לפני איביו׃"
+    },
+    {
+      "uid": "Joshua_134",
+      "chapter_number": 7,
+      "verse_number": 9,
+      "start_char": 11509,
+      "end_char": 11592,
+      "length": 84,
+      "text": "וישמעו הכנעני וכל ישבי הארץ ונסבו עלינו והכריתו את־שמנו מן־הארץ ומה־תעשה לשמך הגדול׃"
+    },
+    {
+      "uid": "Joshua_135",
+      "chapter_number": 7,
+      "verse_number": 10,
+      "start_char": 11593,
+      "end_char": 11641,
+      "length": 49,
+      "text": "ויאמר יהוה אל־יהושע קם לך למה זה אתה נפל על־פניך׃"
+    },
+    {
+      "uid": "Joshua_136",
+      "chapter_number": 7,
+      "verse_number": 11,
+      "start_char": 11642,
+      "end_char": 11734,
+      "length": 93,
+      "text": "חטא ישראל וגם עברו את־בריתי אשר צויתי אותם וגם לקחו מן־החרם וגם גנבו וגם כחשו וגם שמו בכליהם׃"
+    },
+    {
+      "uid": "Joshua_137",
+      "chapter_number": 7,
+      "verse_number": 12,
+      "start_char": 11735,
+      "end_char": 11848,
+      "length": 114,
+      "text": "ולא יכלו בני ישראל לקום לפני איביהם ערף יפנו לפני איביהם כי היו לחרם לא אוסיף להיות עמכם אם־לא תשמידו החרם מקרבכם׃"
+    },
+    {
+      "uid": "Joshua_138",
+      "chapter_number": 7,
+      "verse_number": 13,
+      "start_char": 11849,
+      "end_char": 11968,
+      "length": 120,
+      "text": "קם קדש את־העם ואמרת התקדשו למחר כי כה אמר יהוה אלהי ישראל חרם בקרבך ישראל לא תוכל לקום לפני איביך עד־הסירכם החרם מקרבכם׃"
+    },
+    {
+      "uid": "Joshua_139",
+      "chapter_number": 7,
+      "verse_number": 14,
+      "start_char": 11969,
+      "end_char": 12097,
+      "length": 129,
+      "text": "ונקרבתם בבקר לשבטיכם והיה השבט אשר־ילכדנו יהוה יקרב למשפחות והמשפחה אשר־ילכדנה יהוה תקרב לבתים והבית אשר ילכדנו יהוה יקרב לגברים׃"
+    },
+    {
+      "uid": "Joshua_140",
+      "chapter_number": 7,
+      "verse_number": 15,
+      "start_char": 12098,
+      "end_char": 12180,
+      "length": 83,
+      "text": "והיה הנלכד בחרם ישרף באש אתו ואת־כל־אשר־לו כי עבר את־ברית יהוה וכי־עשה נבלה בישראל׃"
+    },
+    {
+      "uid": "Joshua_141",
+      "chapter_number": 7,
+      "verse_number": 16,
+      "start_char": 12181,
+      "end_char": 12235,
+      "length": 55,
+      "text": "וישכם יהושע בבקר ויקרב את־ישראל לשבטיו וילכד שבט יהודה׃"
+    },
+    {
+      "uid": "Joshua_142",
+      "chapter_number": 7,
+      "verse_number": 17,
+      "start_char": 12236,
+      "end_char": 12316,
+      "length": 81,
+      "text": "ויקרב את־משפחת יהודה וילכד את משפחת הזרחי ויקרב את־משפחת הזרחי לגברים וילכד זבדי׃"
+    },
+    {
+      "uid": "Joshua_143",
+      "chapter_number": 7,
+      "verse_number": 18,
+      "start_char": 12317,
+      "end_char": 12381,
+      "length": 65,
+      "text": "ויקרב את־ביתו לגברים וילכד עכן בן־כרמי בן־זבדי בן־זרח למטה יהודה׃"
+    },
+    {
+      "uid": "Joshua_144",
+      "chapter_number": 7,
+      "verse_number": 19,
+      "start_char": 12382,
+      "end_char": 12477,
+      "length": 96,
+      "text": "ויאמר יהושע אל־עכן בני שים־נא כבוד ליהוה אלהי ישראל ותן־לו תודה והגד־נא לי מה עשית אל־תכחד ממני׃"
+    },
+    {
+      "uid": "Joshua_145",
+      "chapter_number": 7,
+      "verse_number": 20,
+      "start_char": 12478,
+      "end_char": 12552,
+      "length": 75,
+      "text": "ויען עכן את־יהושע ויאמר אמנה אנכי חטאתי ליהוה אלהי ישראל וכזאת וכזאת עשיתי׃"
+    },
+    {
+      "uid": "Joshua_146",
+      "chapter_number": 7,
+      "verse_number": 21,
+      "start_char": 12553,
+      "end_char": 12693,
+      "length": 141,
+      "text": "(ואראה) [וארא] בשלל אדרת שנער אחת טובה ומאתים שקלים כסף ולשון זהב אחד חמשים שקלים משקלו ואחמדם ואקחם והנם טמונים בארץ בתוך האהלי והכסף תחתיה׃"
+    },
+    {
+      "uid": "Joshua_147",
+      "chapter_number": 7,
+      "verse_number": 22,
+      "start_char": 12694,
+      "end_char": 12753,
+      "length": 60,
+      "text": "וישלח יהושע מלאכים וירצו האהלה והנה טמונה באהלו והכסף תחתיה׃"
+    },
+    {
+      "uid": "Joshua_148",
+      "chapter_number": 7,
+      "verse_number": 23,
+      "start_char": 12754,
+      "end_char": 12819,
+      "length": 66,
+      "text": "ויקחום מתוך האהל ויבאום אל־יהושע ואל כל־בני ישראל ויצקם לפני יהוה׃"
+    },
+    {
+      "uid": "Joshua_149",
+      "chapter_number": 7,
+      "verse_number": 24,
+      "start_char": 12820,
+      "end_char": 12979,
+      "length": 160,
+      "text": "ויקח יהושע את־עכן בן־זרח ואת־הכסף ואת־האדרת ואת־לשון הזהב ואת־בניו ואת־בנתיו ואת־שורו ואת־חמרו ואת־צאנו ואת־אהלו ואת־כל־אשר־לו וכל־ישראל עמו ויעלו אתם עמק עכור׃"
+    },
+    {
+      "uid": "Joshua_150",
+      "chapter_number": 7,
+      "verse_number": 25,
+      "start_char": 12980,
+      "end_char": 13078,
+      "length": 99,
+      "text": "ויאמר יהושע מה עכרתנו יעכרך יהוה ביום הזה וירגמו אתו כל־ישראל אבן וישרפו אתם באש ויסקלו אתם באבנים׃"
+    },
+    {
+      "uid": "Joshua_151",
+      "chapter_number": 7,
+      "verse_number": 26,
+      "start_char": 13079,
+      "end_char": 13181,
+      "length": 103,
+      "text": "ויקימו עליו גל־אבנים גדול עד היום הזה וישב יהוה מחרון אפו על־כן קרא שם המקום ההוא עמק עכור עד היום הזה׃"
+    },
+    {
+      "uid": "Joshua_152",
+      "chapter_number": 8,
+      "verse_number": 1,
+      "start_char": 13182,
+      "end_char": 13305,
+      "length": 124,
+      "text": "ויאמר יהוה אל־יהושע אל־תירא ואל־תחת קח עמך את כל־עם המלחמה וקום עלה העי ראה׀ נתתי בידך את־מלך העי ואת־עמו ואת־עירו ואת־ארצו׃"
+    },
+    {
+      "uid": "Joshua_153",
+      "chapter_number": 8,
+      "verse_number": 2,
+      "start_char": 13306,
+      "end_char": 13393,
+      "length": 88,
+      "text": "ועשית לעי ולמלכה כאשר עשית ליריחו ולמלכה רק־שללה ובהמתה תבזו לכם שים־לך ארב לעיר מאחריה׃"
+    },
+    {
+      "uid": "Joshua_154",
+      "chapter_number": 8,
+      "verse_number": 3,
+      "start_char": 13394,
+      "end_char": 13477,
+      "length": 84,
+      "text": "ויקם יהושע וכל־עם המלחמה לעלות העי ויבחר יהושע שלשים אלף איש גבורי החיל וישלחם לילה׃"
+    },
+    {
+      "uid": "Joshua_155",
+      "chapter_number": 8,
+      "verse_number": 4,
+      "start_char": 13478,
+      "end_char": 13561,
+      "length": 84,
+      "text": "ויצו אתם לאמר ראו אתם ארבים לעיר מאחרי העיר אל־תרחיקו מן־העיר מאד והייתם כלכם נכנים׃"
+    },
+    {
+      "uid": "Joshua_156",
+      "chapter_number": 8,
+      "verse_number": 5,
+      "start_char": 13562,
+      "end_char": 13641,
+      "length": 80,
+      "text": "ואני וכל־העם אשר אתי נקרב אל־העיר והיה כי־יצאו לקראתנו כאשר בראשנה ונסנו לפניהם׃"
+    },
+    {
+      "uid": "Joshua_157",
+      "chapter_number": 8,
+      "verse_number": 6,
+      "start_char": 13642,
+      "end_char": 13723,
+      "length": 82,
+      "text": "ויצאו אחרינו עד התיקנו אותם מן־העיר כי יאמרו נסים לפנינו כאשר בראשנה ונסנו לפניהם׃"
+    },
+    {
+      "uid": "Joshua_158",
+      "chapter_number": 8,
+      "verse_number": 7,
+      "start_char": 13724,
+      "end_char": 13780,
+      "length": 57,
+      "text": "ואתם תקמו מהאורב והורשתם את־העיר ונתנה יהוה אלהיכם בידכם׃"
+    },
+    {
+      "uid": "Joshua_159",
+      "chapter_number": 8,
+      "verse_number": 8,
+      "start_char": 13781,
+      "end_char": 13848,
+      "length": 68,
+      "text": "והיה כתפשכם את־העיר תציתו את־העיר באש כדבר יהוה תעשו ראו צויתי אתכם׃"
+    },
+    {
+      "uid": "Joshua_160",
+      "chapter_number": 8,
+      "verse_number": 9,
+      "start_char": 13849,
+      "end_char": 13941,
+      "length": 93,
+      "text": "וישלחם יהושע וילכו אל־המארב וישבו בין בית־אל ובין העי מים לעי וילן יהושע בלילה ההוא בתוך העם׃"
+    },
+    {
+      "uid": "Joshua_161",
+      "chapter_number": 8,
+      "verse_number": 10,
+      "start_char": 13942,
+      "end_char": 14005,
+      "length": 64,
+      "text": "וישכם יהושע בבקר ויפקד את־העם ויעל הוא וזקני ישראל לפני העם העי׃"
+    },
+    {
+      "uid": "Joshua_162",
+      "chapter_number": 8,
+      "verse_number": 11,
+      "start_char": 14006,
+      "end_char": 14088,
+      "length": 83,
+      "text": "וכל־העם המלחמה אשר אתו עלו ויגשו ויבאו נגד העיר ויחנו מצפון לעי והגי בינו ובין־העי׃"
+    },
+    {
+      "uid": "Joshua_163",
+      "chapter_number": 8,
+      "verse_number": 12,
+      "start_char": 14089,
+      "end_char": 14152,
+      "length": 64,
+      "text": "ויקח כחמשת אלפים איש וישם אותם ארב בין בית־אל ובין העי מים לעיר׃"
+    },
+    {
+      "uid": "Joshua_164",
+      "chapter_number": 8,
+      "verse_number": 13,
+      "start_char": 14153,
+      "end_char": 14240,
+      "length": 88,
+      "text": "וישימו העם את־כל־המחנה אשר מצפון לעיר ואת־עקבו מים לעיר וילך יהושע בלילה ההוא בתוך העמק׃"
+    },
+    {
+      "uid": "Joshua_165",
+      "chapter_number": 8,
+      "verse_number": 14,
+      "start_char": 14241,
+      "end_char": 14371,
+      "length": 131,
+      "text": "ויהי כראות מלך־העי וימהרו וישכימו ויצאו אנשי־העיר לקראת־ישראל למלחמה הוא וכל־עמו למועד לפני הערבה והוא לא ידע כי־ארב לו מאחרי העיר׃"
+    },
+    {
+      "uid": "Joshua_166",
+      "chapter_number": 8,
+      "verse_number": 15,
+      "start_char": 14372,
+      "end_char": 14417,
+      "length": 46,
+      "text": "וינגעו יהושע וכל־ישראל לפניהם וינסו דרך המדבר׃"
+    },
+    {
+      "uid": "Joshua_167",
+      "chapter_number": 8,
+      "verse_number": 16,
+      "start_char": 14418,
+      "end_char": 14493,
+      "length": 76,
+      "text": "ויזעקו כל־העם אשר (בעיר) [בעי] לרדף אחריהם וירדפו אחרי יהושע וינתקו מן־העיר׃"
+    },
+    {
+      "uid": "Joshua_168",
+      "chapter_number": 8,
+      "verse_number": 17,
+      "start_char": 14494,
+      "end_char": 14580,
+      "length": 87,
+      "text": "ולא־נשאר איש בעי ובית אל אשר לא־יצאו אחרי ישראל ויעזבו את־העיר פתוחה וירדפו אחרי ישראל׃"
+    },
+    {
+      "uid": "Joshua_169",
+      "chapter_number": 8,
+      "verse_number": 18,
+      "start_char": 14581,
+      "end_char": 14675,
+      "length": 95,
+      "text": "ויאמר יהוה אל־יהושע נטה בכידון אשר־בידך אל־העי כי בידך אתננה ויט יהושע בכידון אשר־בידו אל־העיר׃"
+    },
+    {
+      "uid": "Joshua_170",
+      "chapter_number": 8,
+      "verse_number": 19,
+      "start_char": 14676,
+      "end_char": 14759,
+      "length": 84,
+      "text": "והאורב קם מהרה ממקומו וירוצו כנטות ידו ויבאו העיר וילכדוה וימהרו ויציתו את־העיר באש׃"
+    },
+    {
+      "uid": "Joshua_171",
+      "chapter_number": 8,
+      "verse_number": 20,
+      "start_char": 14760,
+      "end_char": 14872,
+      "length": 113,
+      "text": "ויפנו אנשי העי אחריהם ויראו והנה עלה עשן העיר השמימה ולא־היה בהם ידים לנוס הנה והנה והעם הנס המדבר נהפך אל־הרודף׃"
+    },
+    {
+      "uid": "Joshua_172",
+      "chapter_number": 8,
+      "verse_number": 21,
+      "start_char": 14873,
+      "end_char": 14953,
+      "length": 81,
+      "text": "ויהושע וכל־ישראל ראו כי־לכד הארב את־העיר וכי עלה עשן העיר וישבו ויכו את־אנשי העי׃"
+    },
+    {
+      "uid": "Joshua_173",
+      "chapter_number": 8,
+      "verse_number": 22,
+      "start_char": 14954,
+      "end_char": 15051,
+      "length": 98,
+      "text": "ואלה יצאו מן־העיר לקראתם ויהיו לישראל בתוך אלה מזה ואלה מזה ויכו אותם עד־בלתי השאיר־לו שריד ופליט׃"
+    },
+    {
+      "uid": "Joshua_174",
+      "chapter_number": 8,
+      "verse_number": 23,
+      "start_char": 15052,
+      "end_char": 15091,
+      "length": 40,
+      "text": "ואת־מלך העי תפשו חי ויקרבו אתו אל־יהושע׃"
+    },
+    {
+      "uid": "Joshua_175",
+      "chapter_number": 8,
+      "verse_number": 24,
+      "start_char": 15092,
+      "end_char": 15213,
+      "length": 122,
+      "text": "ויהי ככלות ישראל להרג את־כל־ישבי העי בשדה במדבר אשר רדפום בו ויפלו כלם לפי־חרב עד־תמם וישבו כל־ישראל העי ויכו אתה לפי־חרב׃"
+    },
+    {
+      "uid": "Joshua_176",
+      "chapter_number": 8,
+      "verse_number": 25,
+      "start_char": 15214,
+      "end_char": 15276,
+      "length": 63,
+      "text": "ויהי כל־הנפלים ביום ההוא מאיש ועד־אשה שנים עשר אלף כל אנשי העי׃"
+    },
+    {
+      "uid": "Joshua_177",
+      "chapter_number": 8,
+      "verse_number": 26,
+      "start_char": 15277,
+      "end_char": 15338,
+      "length": 62,
+      "text": "ויהושע לא־השיב ידו אשר נטה בכידון עד אשר החרים את כל־ישבי העי׃"
+    },
+    {
+      "uid": "Joshua_178",
+      "chapter_number": 8,
+      "verse_number": 27,
+      "start_char": 15339,
+      "end_char": 15404,
+      "length": 66,
+      "text": "רק הבהמה ושלל העיר ההיא בזזו להם ישראל כדבר יהוה אשר צוה את־יהושע׃"
+    },
+    {
+      "uid": "Joshua_179",
+      "chapter_number": 8,
+      "verse_number": 28,
+      "start_char": 15405,
+      "end_char": 15455,
+      "length": 51,
+      "text": "וישרף יהושע את־העי וישימה תל־עולם שממה עד היום הזה׃"
+    },
+    {
+      "uid": "Joshua_180",
+      "chapter_number": 8,
+      "verse_number": 29,
+      "start_char": 15456,
+      "end_char": 15600,
+      "length": 145,
+      "text": "ואת־מלך העי תלה על־העץ עד־עת הערב וכבוא השמש צוה יהושע וירידו את־נבלתו מן־העץ וישליכו אותה אל־פתח שער העיר ויקימו עליו גל־אבנים גדול עד היום הזה׃"
+    },
+    {
+      "uid": "Joshua_181",
+      "chapter_number": 8,
+      "verse_number": 30,
+      "start_char": 15601,
+      "end_char": 15645,
+      "length": 45,
+      "text": "אז יבנה יהושע מזבח ליהוה אלהי ישראל בהר עיבל׃"
+    },
+    {
+      "uid": "Joshua_182",
+      "chapter_number": 8,
+      "verse_number": 31,
+      "start_char": 15646,
+      "end_char": 15775,
+      "length": 130,
+      "text": "כאשר צוה משה עבד־יהוה את־בני ישראל ככתוב בספר תורת משה מזבח אבנים שלמות אשר לא־הניף עליהן ברזל ויעלו עליו עלות ליהוה ויזבחו שלמים׃"
+    },
+    {
+      "uid": "Joshua_183",
+      "chapter_number": 8,
+      "verse_number": 32,
+      "start_char": 15776,
+      "end_char": 15834,
+      "length": 59,
+      "text": "ויכתב־שם על־האבנים את משנה תורת משה אשר כתב לפני בני ישראל׃"
+    },
+    {
+      "uid": "Joshua_184",
+      "chapter_number": 8,
+      "verse_number": 33,
+      "start_char": 15835,
+      "end_char": 16024,
+      "length": 190,
+      "text": "וכל־ישראל וזקניו ושטרים׀ושפטיו עמדים מזה׀ומזה׀לארון נגד הכהנים הלוים נשאי׀ ארון ברית־יהוה כגר כאזרח חציו אל־מול הר־גרזים והחציו אל־מול הר־עיבל כאשר צוה משה עבד־יהוה לברך את־העם ישראל בראשנה׃"
+    },
+    {
+      "uid": "Joshua_185",
+      "chapter_number": 8,
+      "verse_number": 34,
+      "start_char": 16025,
+      "end_char": 16088,
+      "length": 64,
+      "text": "ואחרי־כן קרא את־כל־דברי התורה הברכה והקללה ככל־הכתוב בספר התורה׃"
+    },
+    {
+      "uid": "Joshua_186",
+      "chapter_number": 8,
+      "verse_number": 35,
+      "start_char": 16089,
+      "end_char": 16177,
+      "length": 89,
+      "text": "לא־היה דבר מכל אשר־צוה משה אשר לא־קרא יהושע נגד כל־קהל ישראל והנשים והטף והגר ההלך בקרבם׃"
+    },
+    {
+      "uid": "Joshua_187",
+      "chapter_number": 9,
+      "verse_number": 1,
+      "start_char": 16178,
+      "end_char": 16294,
+      "length": 117,
+      "text": "ויהי כשמע כל־המלכים אשר בעבר הירדן בהר ובשפלה ובכל חוף הים הגדול אל־מול הלבנון החתי והאמרי הכנעני הפרזי החוי והיבוסי׃"
+    },
+    {
+      "uid": "Joshua_188",
+      "chapter_number": 9,
+      "verse_number": 2,
+      "start_char": 16295,
+      "end_char": 16339,
+      "length": 45,
+      "text": "ויתקבצו יחדו להלחם עם־יהושע ועם־ישראל פה אחד׃"
+    },
+    {
+      "uid": "Joshua_189",
+      "chapter_number": 9,
+      "verse_number": 3,
+      "start_char": 16340,
+      "end_char": 16385,
+      "length": 46,
+      "text": "וישבי גבעון שמעו את אשר עשה יהושע ליריחו ולעי׃"
+    },
+    {
+      "uid": "Joshua_190",
+      "chapter_number": 9,
+      "verse_number": 4,
+      "start_char": 16386,
+      "end_char": 16475,
+      "length": 90,
+      "text": "ויעשו גם־המה בערמה וילכו ויצטירו ויקחו שקים בלים לחמוריהם ונאדות יין בלים ומבקעים ומצררים׃"
+    },
+    {
+      "uid": "Joshua_191",
+      "chapter_number": 9,
+      "verse_number": 5,
+      "start_char": 16476,
+      "end_char": 16548,
+      "length": 73,
+      "text": "ונעלות בלות ומטלאות ברגליהם ושלמות בלות עליהם וכל לחם צידם יבש היה נקדים׃"
+    },
+    {
+      "uid": "Joshua_192",
+      "chapter_number": 9,
+      "verse_number": 6,
+      "start_char": 16549,
+      "end_char": 16639,
+      "length": 91,
+      "text": "וילכו אל־יהושע אל־המחנה הגלגל ויאמרו אליו ואל־איש ישראל מארץ רחוקה באנו ועתה כרתו־לנו ברית׃"
+    },
+    {
+      "uid": "Joshua_193",
+      "chapter_number": 9,
+      "verse_number": 7,
+      "start_char": 16640,
+      "end_char": 16722,
+      "length": 83,
+      "text": "(ויאמרו) [ויאמר] איש־ישראל אל־החוי אולי בקרבי אתה יושב ואיך (אכרות) [אכרת־]לך ברית׃"
+    },
+    {
+      "uid": "Joshua_194",
+      "chapter_number": 9,
+      "verse_number": 8,
+      "start_char": 16723,
+      "end_char": 16786,
+      "length": 64,
+      "text": "ויאמרו אל־יהושע עבדיך אנחנו ויאמר אליהם יהושע מי אתם ומאין תבאו׃"
+    },
+    {
+      "uid": "Joshua_195",
+      "chapter_number": 9,
+      "verse_number": 9,
+      "start_char": 16787,
+      "end_char": 16874,
+      "length": 88,
+      "text": "ויאמרו אליו מארץ רחוקה מאד באו עבדיך לשם יהוה אלהיך כי־שמענו שמעו ואת כל־אשר עשה במצרים׃"
+    },
+    {
+      "uid": "Joshua_196",
+      "chapter_number": 9,
+      "verse_number": 10,
+      "start_char": 16875,
+      "end_char": 16965,
+      "length": 91,
+      "text": "ואת׀ כל־אשר עשה לשני מלכי האמרי אשר בעבר הירדן לסיחון מלך חשבון ולעוג מלך־הבשן אשר בעשתרות׃"
+    },
+    {
+      "uid": "Joshua_197",
+      "chapter_number": 9,
+      "verse_number": 11,
+      "start_char": 16966,
+      "end_char": 17083,
+      "length": 118,
+      "text": "ויאמרו אלינו זקינינו וכל־ישבי ארצנו לאמר קחו בידכם צידה לדרך ולכו לקראתם ואמרתם אליהם עבדיכם אנחנו ועתה כרתו־לנו ברית׃"
+    },
+    {
+      "uid": "Joshua_198",
+      "chapter_number": 9,
+      "verse_number": 12,
+      "start_char": 17084,
+      "end_char": 17161,
+      "length": 78,
+      "text": "זה׀ לחמנו חם הצטידנו אתו מבתינו ביום צאתנו ללכת אליכם ועתה הנה יבש והיה נקדים׃"
+    },
+    {
+      "uid": "Joshua_199",
+      "chapter_number": 9,
+      "verse_number": 13,
+      "start_char": 17162,
+      "end_char": 17244,
+      "length": 83,
+      "text": "ואלה נאדות היין אשר מלאנו חדשים והנה התבקעו ואלה שלמותינו ונעלינו בלו מרב הדרך מאד׃"
+    },
+    {
+      "uid": "Joshua_200",
+      "chapter_number": 9,
+      "verse_number": 14,
+      "start_char": 17245,
+      "end_char": 17283,
+      "length": 39,
+      "text": "ויקחו האנשים מצידם ואת־פי יהוה לא שאלו׃"
+    },
+    {
+      "uid": "Joshua_201",
+      "chapter_number": 9,
+      "verse_number": 15,
+      "start_char": 17284,
+      "end_char": 17347,
+      "length": 64,
+      "text": "ויעש להם יהושע שלום ויכרת להם ברית לחיותם וישבעו להם נשיאי העדה׃"
+    },
+    {
+      "uid": "Joshua_202",
+      "chapter_number": 9,
+      "verse_number": 16,
+      "start_char": 17348,
+      "end_char": 17430,
+      "length": 83,
+      "text": "ויהי מקצה שלשת ימים אחרי אשר־כרתו להם ברית וישמעו כי־קרבים הם אליו ובקרבו הם ישבים׃"
+    },
+    {
+      "uid": "Joshua_203",
+      "chapter_number": 9,
+      "verse_number": 17,
+      "start_char": 17431,
+      "end_char": 17513,
+      "length": 83,
+      "text": "ויסעו בני־ישראל ויבאו אל־עריהם ביום השלישי ועריהם גבעון והכפירה ובארות וקרית יערים׃"
+    },
+    {
+      "uid": "Joshua_204",
+      "chapter_number": 9,
+      "verse_number": 18,
+      "start_char": 17514,
+      "end_char": 17598,
+      "length": 85,
+      "text": "ולא הכום בני ישראל כי־נשבעו להם נשיאי העדה ביהוה אלהי ישראל וילנו כל־העדה על־הנשיאים׃"
+    },
+    {
+      "uid": "Joshua_205",
+      "chapter_number": 9,
+      "verse_number": 19,
+      "start_char": 17599,
+      "end_char": 17683,
+      "length": 85,
+      "text": "ויאמרו כל־הנשיאים אל־כל־העדה אנחנו נשבענו להם ביהוה אלהי ישראל ועתה לא נוכל לנגע בהם׃"
+    },
+    {
+      "uid": "Joshua_206",
+      "chapter_number": 9,
+      "verse_number": 20,
+      "start_char": 17684,
+      "end_char": 17751,
+      "length": 68,
+      "text": "זאת נעשה להם והחיה אותם ולא־יהיה עלינו קצף על־השבועה אשר־נשבענו להם׃"
+    },
+    {
+      "uid": "Joshua_207",
+      "chapter_number": 9,
+      "verse_number": 21,
+      "start_char": 17752,
+      "end_char": 17834,
+      "length": 83,
+      "text": "ויאמרו אליהם הנשיאים יחיו ויהיו חטבי עצים ושאבי־מים לכל־העדה כאשר דברו להם הנשיאים׃"
+    },
+    {
+      "uid": "Joshua_208",
+      "chapter_number": 9,
+      "verse_number": 22,
+      "start_char": 17835,
+      "end_char": 17926,
+      "length": 92,
+      "text": "ויקרא להם יהושע וידבר אליהם לאמר למה רמיתם אתנו לאמר רחוקים אנחנו מכם מאד ואתם בקרבנו ישבים׃"
+    },
+    {
+      "uid": "Joshua_209",
+      "chapter_number": 9,
+      "verse_number": 23,
+      "start_char": 17927,
+      "end_char": 17990,
+      "length": 64,
+      "text": "ועתה ארורים אתם ולא־יכרת מכם עבד וחטבי עצים ושאבי מים לבית אלהי׃"
+    },
+    {
+      "uid": "Joshua_210",
+      "chapter_number": 9,
+      "verse_number": 24,
+      "start_char": 17991,
+      "end_char": 18158,
+      "length": 168,
+      "text": "ויענו את־יהושע ויאמרו כי הגד הגד לעבדיך את אשר צוה יהוה אלהיך את־משה עבדו לתת לכם את־כל־הארץ ולהשמיד את־כל־ישבי הארץ מפניכם ונירא מאד לנפשתינו מפניכם ונעשה את־הדבר הזה׃"
+    },
+    {
+      "uid": "Joshua_211",
+      "chapter_number": 9,
+      "verse_number": 25,
+      "start_char": 18159,
+      "end_char": 18205,
+      "length": 47,
+      "text": "ועתה הננו בידך כטוב וכישר בעיניך לעשות לנו עשה׃"
+    },
+    {
+      "uid": "Joshua_212",
+      "chapter_number": 9,
+      "verse_number": 26,
+      "start_char": 18206,
+      "end_char": 18251,
+      "length": 46,
+      "text": "ויעש להם כן ויצל אותם מיד בני־ישראל ולא הרגום׃"
+    },
+    {
+      "uid": "Joshua_213",
+      "chapter_number": 9,
+      "verse_number": 27,
+      "start_char": 18252,
+      "end_char": 18340,
+      "length": 89,
+      "text": "ויתנם יהושע ביום ההוא חטבי עצים ושאבי מים לעדה ולמזבח יהוה עד־היום הזה אל־המקום אשר יבחר׃"
+    },
+    {
+      "uid": "Joshua_214",
+      "chapter_number": 10,
+      "verse_number": 1,
+      "start_char": 18341,
+      "end_char": 18483,
+      "length": 143,
+      "text": "ויהי כשמע אדני־צדק מלך ירושל͏ם כי־לכד יהושע את־העי ויחרימה כאשר עשה ליריחו ולמלכה כן־עשה לעי ולמלכה וכי השלימו ישבי גבעון את־ישראל ויהיו בקרבם׃"
+    },
+    {
+      "uid": "Joshua_215",
+      "chapter_number": 10,
+      "verse_number": 2,
+      "start_char": 18484,
+      "end_char": 18566,
+      "length": 83,
+      "text": "וייראו מאד כי עיר גדולה גבעון כאחת ערי הממלכה וכי היא גדולה מן־העי וכל־אנשיה גברים׃"
+    },
+    {
+      "uid": "Joshua_216",
+      "chapter_number": 10,
+      "verse_number": 3,
+      "start_char": 18567,
+      "end_char": 18672,
+      "length": 106,
+      "text": "וישלח אדני־צדק מלך ירושל͏ם אל־הוהם מלך־חברון ואל־פראם מלך־ירמות ואל־יפיע מלך־לכיש ואל־דביר מלך־עגלון לאמר׃"
+    },
+    {
+      "uid": "Joshua_217",
+      "chapter_number": 10,
+      "verse_number": 4,
+      "start_char": 18673,
+      "end_char": 18734,
+      "length": 62,
+      "text": "עלו־אלי ועזרני ונכה את־גבעון כי־השלימה את־יהושע ואת־בני ישראל׃"
+    },
+    {
+      "uid": "Joshua_218",
+      "chapter_number": 10,
+      "verse_number": 5,
+      "start_char": 18735,
+      "end_char": 18856,
+      "length": 122,
+      "text": "ויאספו ויעלו חמשת׀ מלכי האמרי מלך ירושל͏ם מלך־חברון מלך־ירמות מלך־לכיש מלך־עגלון הם וכל־מחניהם ויחנו על־גבעון וילחמו עליה׃"
+    },
+    {
+      "uid": "Joshua_219",
+      "chapter_number": 10,
+      "verse_number": 6,
+      "start_char": 18857,
+      "end_char": 18995,
+      "length": 139,
+      "text": "וישלחו אנשי גבעון אל־יהושע אל־המחנה הגלגלה לאמר אל־תרף ידיך מעבדיך עלה אלינו מהרה והושיעה לנו ועזרנו כי נקבצו אלינו כל־מלכי האמרי ישבי ההר׃"
+    },
+    {
+      "uid": "Joshua_220",
+      "chapter_number": 10,
+      "verse_number": 7,
+      "start_char": 18996,
+      "end_char": 19052,
+      "length": 57,
+      "text": "ויעל יהושע מן־הגלגל הוא וכל־עם המלחמה עמו וכל גבורי החיל׃"
+    },
+    {
+      "uid": "Joshua_221",
+      "chapter_number": 10,
+      "verse_number": 8,
+      "start_char": 19053,
+      "end_char": 19120,
+      "length": 68,
+      "text": "ויאמר יהוה אל־יהושע אל־תירא מהם כי בידך נתתים לא־יעמד איש מהם בפניך׃"
+    },
+    {
+      "uid": "Joshua_222",
+      "chapter_number": 10,
+      "verse_number": 9,
+      "start_char": 19121,
+      "end_char": 19164,
+      "length": 44,
+      "text": "ויבא אליהם יהושע פתאם כל־הלילה עלה מן־הגלגל׃"
+    },
+    {
+      "uid": "Joshua_223",
+      "chapter_number": 10,
+      "verse_number": 10,
+      "start_char": 19165,
+      "end_char": 19255,
+      "length": 91,
+      "text": "ויהמם יהוה לפני ישראל ויכם מכה־גדולה בגבעון וירדפם דרך מעלה בית־חורן ויכם עד־עזקה ועד־מקדה׃"
+    },
+    {
+      "uid": "Joshua_224",
+      "chapter_number": 10,
+      "verse_number": 11,
+      "start_char": 19256,
+      "end_char": 19397,
+      "length": 142,
+      "text": "ויהי בנסם׀ מפני ישראל הם במורד בית־חורן ויהוה השליך עליהם אבנים גדלות מן־השמים עד־עזקה וימתו רבים אשר־מתו באבני הברד מאשר הרגו בני ישראל בחרב׃"
+    },
+    {
+      "uid": "Joshua_225",
+      "chapter_number": 10,
+      "verse_number": 12,
+      "start_char": 19398,
+      "end_char": 19504,
+      "length": 107,
+      "text": "אז ידבר יהושע ליהוה ביום תת יהוה את־האמרי לפני בני ישראל ויאמר׀ לעיני ישראל שמש בגבעון דום וירח בעמק אילון׃"
+    },
+    {
+      "uid": "Joshua_226",
+      "chapter_number": 10,
+      "verse_number": 13,
+      "start_char": 19505,
+      "end_char": 19610,
+      "length": 106,
+      "text": "וידם השמש וירח עמד עד־יקם גוי איביו הלא־היא כתובה על־ספר הישר ויעמד השמש בחצי השמים ולא־אץ לבוא כיום תמים׃"
+    },
+    {
+      "uid": "Joshua_227",
+      "chapter_number": 10,
+      "verse_number": 14,
+      "start_char": 19611,
+      "end_char": 19680,
+      "length": 70,
+      "text": "ולא היה כיום ההוא לפניו ואחריו לשמע יהוה בקול איש כי יהוה נלחם לישראל׃"
+    },
+    {
+      "uid": "Joshua_228",
+      "chapter_number": 10,
+      "verse_number": 15,
+      "start_char": 19681,
+      "end_char": 19721,
+      "length": 41,
+      "text": "וישב יהושע וכל־ישראל עמו אל־המחנה הגלגלה׃"
+    },
+    {
+      "uid": "Joshua_229",
+      "chapter_number": 10,
+      "verse_number": 16,
+      "start_char": 19722,
+      "end_char": 19763,
+      "length": 42,
+      "text": "וינסו חמשת המלכים האלה ויחבאו במערה במקדה׃"
+    },
+    {
+      "uid": "Joshua_230",
+      "chapter_number": 10,
+      "verse_number": 17,
+      "start_char": 19764,
+      "end_char": 19817,
+      "length": 54,
+      "text": "ויגד ליהושע לאמר נמצאו חמשת המלכים נחבאים במערה במקדה׃"
+    },
+    {
+      "uid": "Joshua_231",
+      "chapter_number": 10,
+      "verse_number": 18,
+      "start_char": 19818,
+      "end_char": 19882,
+      "length": 65,
+      "text": "ויאמר יהושע גלו אבנים גדלות אל־פי המערה והפקידו עליה אנשים לשמרם׃"
+    },
+    {
+      "uid": "Joshua_232",
+      "chapter_number": 10,
+      "verse_number": 19,
+      "start_char": 19883,
+      "end_char": 19974,
+      "length": 92,
+      "text": "ואתם אל־תעמדו רדפו אחרי איביכם וזנבתם אותם אל־תתנום לבוא אל־עריהם כי נתנם יהוה אלהיכם בידכם׃"
+    },
+    {
+      "uid": "Joshua_233",
+      "chapter_number": 10,
+      "verse_number": 20,
+      "start_char": 19975,
+      "end_char": 20067,
+      "length": 93,
+      "text": "ויהי ככלות יהושע ובני ישראל להכותם מכה גדולה־מאד עד־תמם והשרידים שרדו מהם ויבאו אל־ערי המבצר׃"
+    },
+    {
+      "uid": "Joshua_234",
+      "chapter_number": 10,
+      "verse_number": 21,
+      "start_char": 20068,
+      "end_char": 20140,
+      "length": 73,
+      "text": "וישבו כל־העם אל־המחנה אל־יהושע מקדה בשלום לא־חרץ לבני ישראל לאיש את־לשנו׃"
+    },
+    {
+      "uid": "Joshua_235",
+      "chapter_number": 10,
+      "verse_number": 22,
+      "start_char": 20141,
+      "end_char": 20210,
+      "length": 70,
+      "text": "ויאמר יהושע פתחו את־פי המערה והוציאו אלי את־חמשת המלכים האלה מן־המערה׃"
+    },
+    {
+      "uid": "Joshua_236",
+      "chapter_number": 10,
+      "verse_number": 23,
+      "start_char": 20211,
+      "end_char": 20327,
+      "length": 117,
+      "text": "ויעשו כן ויציאו אליו את־חמשת המלכים האלה מן־המערה את׀ מלך ירושל͏ם את־מלך חברון את־מלך ירמות את־מלך לכיש את־מלך עגלון׃"
+    },
+    {
+      "uid": "Joshua_237",
+      "chapter_number": 10,
+      "verse_number": 24,
+      "start_char": 20328,
+      "end_char": 20506,
+      "length": 179,
+      "text": "ויהי כהוציאם את־המלכים האלה אל־יהושע ויקרא יהושע אל־כל־איש ישראל ויאמר אל־קציני אנשי המלחמה ההלכוא אתו קרבו שימו את־רגליכם על־צוארי המלכים האלה ויקרבו וישימו את־רגליהם על־צואריהם׃"
+    },
+    {
+      "uid": "Joshua_238",
+      "chapter_number": 10,
+      "verse_number": 25,
+      "start_char": 20507,
+      "end_char": 20601,
+      "length": 95,
+      "text": "ויאמר אליהם יהושע אל־תיראו ואל־תחתו חזקו ואמצו כי ככה יעשה יהוה לכל־איביכם אשר אתם נלחמים אותם׃"
+    },
+    {
+      "uid": "Joshua_239",
+      "chapter_number": 10,
+      "verse_number": 26,
+      "start_char": 20602,
+      "end_char": 20675,
+      "length": 74,
+      "text": "ויכם יהושע אחרי־כן וימיתם ויתלם על חמשה עצים ויהיו תלוים על־העצים עד־הערב׃"
+    },
+    {
+      "uid": "Joshua_240",
+      "chapter_number": 10,
+      "verse_number": 27,
+      "start_char": 20676,
+      "end_char": 20797,
+      "length": 122,
+      "text": "ויהי לעת׀ בוא השמש צוה יהושע וירידום מעל העצים וישלכם אל־המערה אשר נחבאו־שם וישמו אבנים גדלות על־פי המערה עד־עצם היום הזה׃"
+    },
+    {
+      "uid": "Joshua_241",
+      "chapter_number": 10,
+      "verse_number": 28,
+      "start_char": 20798,
+      "end_char": 20926,
+      "length": 129,
+      "text": "ואת־מקדה לכד יהושע ביום ההוא ויכה לפי־חרב ואת־מלכה החרם אותם ואת־כל־הנפש אשר־בה לא השאיר שריד ויעש למלך מקדה כאשר עשה למלך יריחו׃"
+    },
+    {
+      "uid": "Joshua_242",
+      "chapter_number": 10,
+      "verse_number": 29,
+      "start_char": 20927,
+      "end_char": 20977,
+      "length": 51,
+      "text": "ויעבר יהושע וכל־ישראל עמו ממקדה לבנה וילחם עם־לבנה׃"
+    },
+    {
+      "uid": "Joshua_243",
+      "chapter_number": 10,
+      "verse_number": 30,
+      "start_char": 20978,
+      "end_char": 21094,
+      "length": 117,
+      "text": "ויתן יהוה גם־אותה ביד ישראל ואת־מלכה ויכה לפי־חרב ואת־כל־הנפש אשר־בה לא־השאיר בה שריד ויעש למלכה כאשר עשה למלך יריחו׃"
+    },
+    {
+      "uid": "Joshua_244",
+      "chapter_number": 10,
+      "verse_number": 31,
+      "start_char": 21095,
+      "end_char": 21151,
+      "length": 57,
+      "text": "ויעבר יהושע וכל־ישראל עמו מלבנה לכישה ויחן עליה וילחם בה׃"
+    },
+    {
+      "uid": "Joshua_245",
+      "chapter_number": 10,
+      "verse_number": 32,
+      "start_char": 21152,
+      "end_char": 21246,
+      "length": 95,
+      "text": "ויתן יהוה את־לכיש ביד ישראל וילכדה ביום השני ויכה לפי־חרב ואת־כל־הנפש אשר־בה ככל אשר־עשה ללבנה׃"
+    },
+    {
+      "uid": "Joshua_246",
+      "chapter_number": 10,
+      "verse_number": 33,
+      "start_char": 21247,
+      "end_char": 21320,
+      "length": 74,
+      "text": "אז עלה הרם מלך גזר לעזר את־לכיש ויכהו יהושע ואת־עמו עד־בלתי השאיר־לו שריד׃"
+    },
+    {
+      "uid": "Joshua_247",
+      "chapter_number": 10,
+      "verse_number": 34,
+      "start_char": 21321,
+      "end_char": 21381,
+      "length": 61,
+      "text": "ויעבר יהושע וכל־ישראל עמו מלכיש עגלנה ויחנו עליה וילחמו עליה׃"
+    },
+    {
+      "uid": "Joshua_248",
+      "chapter_number": 10,
+      "verse_number": 35,
+      "start_char": 21382,
+      "end_char": 21466,
+      "length": 85,
+      "text": "וילכדוה ביום ההוא ויכוה לפי־חרב ואת כל־הנפש אשר־בה ביום ההוא החרים ככל אשר־עשה ללכיש׃"
+    },
+    {
+      "uid": "Joshua_249",
+      "chapter_number": 10,
+      "verse_number": 36,
+      "start_char": 21467,
+      "end_char": 21518,
+      "length": 52,
+      "text": "ויעל יהושע וכל־ישראל עמו מעגלונה חברונה וילחמו עליה׃"
+    },
+    {
+      "uid": "Joshua_250",
+      "chapter_number": 10,
+      "verse_number": 37,
+      "start_char": 21519,
+      "end_char": 21643,
+      "length": 125,
+      "text": "וילכדוה ויכוה־לפי־חרב ואת־מלכה ואת־כל־עריה ואת־כל־הנפש אשר־בה לא־השאיר שריד ככל אשר־עשה לעגלון ויחרם אותה ואת־כל־הנפש אשר־בה׃"
+    },
+    {
+      "uid": "Joshua_251",
+      "chapter_number": 10,
+      "verse_number": 38,
+      "start_char": 21644,
+      "end_char": 21684,
+      "length": 41,
+      "text": "וישב יהושע וכל־ישראל עמו דברה וילחם עליה׃"
+    },
+    {
+      "uid": "Joshua_252",
+      "chapter_number": 10,
+      "verse_number": 39,
+      "start_char": 21685,
+      "end_char": 21824,
+      "length": 140,
+      "text": "וילכדה ואת־מלכה ואת־כל־עריה ויכום לפי־חרב ויחרימו את־כל־נפש אשר־בה לא השאיר שריד כאשר עשה לחברון כן־עשה לדברה ולמלכה וכאשר עשה ללבנה ולמלכה׃"
+    },
+    {
+      "uid": "Joshua_253",
+      "chapter_number": 10,
+      "verse_number": 40,
+      "start_char": 21825,
+      "end_char": 21943,
+      "length": 119,
+      "text": "ויכה יהושע את־כל־הארץ ההר והנגב והשפלה והאשדות ואת כל־מלכיהם לא השאיר שריד ואת כל־הנשמה החרים כאשר צוה יהוה אלהי ישראל׃"
+    },
+    {
+      "uid": "Joshua_254",
+      "chapter_number": 10,
+      "verse_number": 41,
+      "start_char": 21944,
+      "end_char": 21997,
+      "length": 54,
+      "text": "ויכם יהושע מקדש ברנע ועד־עזה ואת כל־ארץ גשן ועד־גבעון׃"
+    },
+    {
+      "uid": "Joshua_255",
+      "chapter_number": 10,
+      "verse_number": 42,
+      "start_char": 21998,
+      "end_char": 22074,
+      "length": 77,
+      "text": "ואת כל־המלכים האלה ואת־ארצם לכד יהושע פעם אחת כי יהוה אלהי ישראל נלחם לישראל׃"
+    },
+    {
+      "uid": "Joshua_256",
+      "chapter_number": 10,
+      "verse_number": 43,
+      "start_char": 22075,
+      "end_char": 22115,
+      "length": 41,
+      "text": "וישב יהושע וכל־ישראל עמו אל־המחנה הגלגלה׃"
+    },
+    {
+      "uid": "Joshua_257",
+      "chapter_number": 11,
+      "verse_number": 1,
+      "start_char": 22116,
+      "end_char": 22189,
+      "length": 74,
+      "text": "ויהי כשמע יבין מלך־חצור וישלח אל־יובב מלך מדון ואל־מלך שמרון ואל־מלך אכשף׃"
+    },
+    {
+      "uid": "Joshua_258",
+      "chapter_number": 11,
+      "verse_number": 2,
+      "start_char": 22190,
+      "end_char": 22253,
+      "length": 64,
+      "text": "ואל־המלכים אשר מצפון בהר ובערבה נגב כנרות ובשפלה ובנפות דור מים׃"
+    },
+    {
+      "uid": "Joshua_259",
+      "chapter_number": 11,
+      "verse_number": 3,
+      "start_char": 22254,
+      "end_char": 22330,
+      "length": 77,
+      "text": "הכנעני ממזרח ומים והאמרי והחתי והפרזי והיבוסי בהר והחוי תחת חרמון בארץ המצפה׃"
+    },
+    {
+      "uid": "Joshua_260",
+      "chapter_number": 11,
+      "verse_number": 4,
+      "start_char": 22331,
+      "end_char": 22401,
+      "length": 71,
+      "text": "ויצאו הם וכל־מחניהם עמם עם־רב כחול אשר על־שפת־הים לרב וסוס ורכב רב־מאד׃"
+    },
+    {
+      "uid": "Joshua_261",
+      "chapter_number": 11,
+      "verse_number": 5,
+      "start_char": 22402,
+      "end_char": 22466,
+      "length": 65,
+      "text": "ויועדו כל המלכים האלה ויבאו ויחנו יחדו אל־מי מרום להלחם עם־ישראל׃"
+    },
+    {
+      "uid": "Joshua_262",
+      "chapter_number": 11,
+      "verse_number": 6,
+      "start_char": 22467,
+      "end_char": 22587,
+      "length": 121,
+      "text": "ויאמר יהוה אל־יהושע אל־תירא מפניהם כי־מחר כעת הזאת אנכי נתן את־כלם חללים לפני ישראל את־סוסיהם תעקר ואת־מרכבתיהם תשרף באש׃"
+    },
+    {
+      "uid": "Joshua_263",
+      "chapter_number": 11,
+      "verse_number": 7,
+      "start_char": 22588,
+      "end_char": 22648,
+      "length": 61,
+      "text": "ויבא יהושע וכל־עם המלחמה עמו עליהם על־מי מרום פתאם ויפלו בהם׃"
+    },
+    {
+      "uid": "Joshua_264",
+      "chapter_number": 11,
+      "verse_number": 8,
+      "start_char": 22649,
+      "end_char": 22759,
+      "length": 111,
+      "text": "ויתנם יהוה ביד־ישראל ויכום וירדפום עד־צידון רבה ועד משרפות מים ועד־בקעת מצפה מזרחה ויכם עד־בלתי השאיר־להם שריד׃"
+    },
+    {
+      "uid": "Joshua_265",
+      "chapter_number": 11,
+      "verse_number": 9,
+      "start_char": 22760,
+      "end_char": 22826,
+      "length": 67,
+      "text": "ויעש להם יהושע כאשר אמר־לו יהוה את־סוסיהם עקר ואת־מרכבתיהם שרף באש׃"
+    },
+    {
+      "uid": "Joshua_266",
+      "chapter_number": 11,
+      "verse_number": 10,
+      "start_char": 22827,
+      "end_char": 22916,
+      "length": 90,
+      "text": "וישב יהושע בעת ההיא וילכד את־חצור ואת־מלכה הכה בחרב כי־חצור לפנים היא ראש כל־הממלכות האלה׃"
+    },
+    {
+      "uid": "Joshua_267",
+      "chapter_number": 11,
+      "verse_number": 11,
+      "start_char": 22917,
+      "end_char": 22985,
+      "length": 69,
+      "text": "ויכו את־כל־הנפש אשר־בה לפי־חרב החרם לא נותר כל־נשמה ואת־חצור שרף באש׃"
+    },
+    {
+      "uid": "Joshua_268",
+      "chapter_number": 11,
+      "verse_number": 12,
+      "start_char": 22986,
+      "end_char": 23078,
+      "length": 93,
+      "text": "ואת־כל־ערי המלכים־האלה ואת־כל־מלכיהם לכד יהושע ויכם לפי־חרב החרים אותם כאשר צוה משה עבד יהוה׃"
+    },
+    {
+      "uid": "Joshua_269",
+      "chapter_number": 11,
+      "verse_number": 13,
+      "start_char": 23079,
+      "end_char": 23147,
+      "length": 69,
+      "text": "רק כל־הערים העמדות על־תלם לא שרפם ישראל זולתי את־חצור לבדה שרף יהושע׃"
+    },
+    {
+      "uid": "Joshua_270",
+      "chapter_number": 11,
+      "verse_number": 14,
+      "start_char": 23148,
+      "end_char": 23250,
+      "length": 103,
+      "text": "וכל שלל הערים האלה והבהמה בזזו להם בני ישראל רק את־כל־האדם הכו לפי־חרב עד־השמדם אותם לא השאירו כל־נשמה׃"
+    },
+    {
+      "uid": "Joshua_271",
+      "chapter_number": 11,
+      "verse_number": 15,
+      "start_char": 23251,
+      "end_char": 23346,
+      "length": 96,
+      "text": "כאשר צוה יהוה את־משה עבדו כן־צוה משה את־יהושע וכן עשה יהושע לא־הסיר דבר מכל אשר־צוה יהוה את־משה׃"
+    },
+    {
+      "uid": "Joshua_272",
+      "chapter_number": 11,
+      "verse_number": 16,
+      "start_char": 23347,
+      "end_char": 23445,
+      "length": 99,
+      "text": "ויקח יהושע את־כל־הארץ הזאת ההר ואת־כל־הנגב ואת כל־ארץ הגשן ואת־השפלה ואת־הערבה ואת־הר ישראל ושפלתה׃"
+    },
+    {
+      "uid": "Joshua_273",
+      "chapter_number": 11,
+      "verse_number": 17,
+      "start_char": 23446,
+      "end_char": 23535,
+      "length": 90,
+      "text": "מן־ההר החלק העולה שעיר ועד־בעל גד בבקעת הלבנון תחת הר־חרמון ואת כל־מלכיהם לכד ויכם וימיתם׃"
+    },
+    {
+      "uid": "Joshua_274",
+      "chapter_number": 11,
+      "verse_number": 18,
+      "start_char": 23536,
+      "end_char": 23579,
+      "length": 44,
+      "text": "ימים רבים עשה יהושע את־כל־המלכים האלה מלחמה׃"
+    },
+    {
+      "uid": "Joshua_275",
+      "chapter_number": 11,
+      "verse_number": 19,
+      "start_char": 23580,
+      "end_char": 23655,
+      "length": 76,
+      "text": "לא־היתה עיר אשר השלימה אל־בני ישראל בלתי החוי ישבי גבעון את־הכל לקחו במלחמה׃"
+    },
+    {
+      "uid": "Joshua_276",
+      "chapter_number": 11,
+      "verse_number": 20,
+      "start_char": 23656,
+      "end_char": 23774,
+      "length": 119,
+      "text": "כי מאת יהוה׀היתה לחזק את־לבם לקראת המלחמה את־ישראל למען החרימם לבלתי היות־להם תחנה כי למען השמידם כאשר צוה יהוה את־משה׃"
+    },
+    {
+      "uid": "Joshua_277",
+      "chapter_number": 11,
+      "verse_number": 21,
+      "start_char": 23775,
+      "end_char": 23890,
+      "length": 116,
+      "text": "ויבא יהושע בעת ההיא ויכרת את־הענקים מן־ההר מן־חברון מן־דבר מן־ענב ומכל הר יהודה ומכל הר ישראל עם־עריהם החרימם יהושע׃"
+    },
+    {
+      "uid": "Joshua_278",
+      "chapter_number": 11,
+      "verse_number": 22,
+      "start_char": 23891,
+      "end_char": 23945,
+      "length": 55,
+      "text": "לא־נותר ענקים בארץ בני ישראל רק בעזה בגת ובאשדוד נשארו׃"
+    },
+    {
+      "uid": "Joshua_279",
+      "chapter_number": 11,
+      "verse_number": 23,
+      "start_char": 23946,
+      "end_char": 24050,
+      "length": 105,
+      "text": "ויקח יהושע את־כל־הארץ ככל אשר דבר יהוה אל־משה ויתנה יהושע לנחלה לישראל כמחלקתם לשבטיהם והארץ שקטה ממלחמה׃"
+    },
+    {
+      "uid": "Joshua_280",
+      "chapter_number": 12,
+      "verse_number": 1,
+      "start_char": 24051,
+      "end_char": 24159,
+      "length": 109,
+      "text": "ואלה׀ מלכי הארץ אשר הכו בני־ישראל וירשו את־ארצם בעבר הירדן מזרחה השמש מנחל ארנון עד־הר חרמון וכל־הערבה מזרחה׃"
+    },
+    {
+      "uid": "Joshua_281",
+      "chapter_number": 12,
+      "verse_number": 2,
+      "start_char": 24160,
+      "end_char": 24268,
+      "length": 109,
+      "text": "סיחון מלך האמרי היושב בחשבון משל מערוער אשר על־שפת־נחל ארנון ותוך הנחל וחצי הגלעד ועד יבק הנחל גבול בני עמון׃"
+    },
+    {
+      "uid": "Joshua_282",
+      "chapter_number": 12,
+      "verse_number": 3,
+      "start_char": 24269,
+      "end_char": 24358,
+      "length": 90,
+      "text": "והערבה עד־ים כנרות מזרחה ועד ים הערבה ים־המלח מזרחה דרך בית הישמות ומתימן תחת אשדות הפסגה׃"
+    },
+    {
+      "uid": "Joshua_283",
+      "chapter_number": 12,
+      "verse_number": 4,
+      "start_char": 24359,
+      "end_char": 24411,
+      "length": 53,
+      "text": "וגבול עוג מלך הבשן מיתר הרפאים היושב בעשתרות ובאדרעי׃"
+    },
+    {
+      "uid": "Joshua_284",
+      "chapter_number": 12,
+      "verse_number": 5,
+      "start_char": 24412,
+      "end_char": 24498,
+      "length": 87,
+      "text": "ומשל בהר חרמון ובסלכה ובכל־הבשן עד־גבול הגשורי והמעכתי וחצי הגלעד גבול סיחון מלך־חשבון׃"
+    },
+    {
+      "uid": "Joshua_285",
+      "chapter_number": 12,
+      "verse_number": 6,
+      "start_char": 24499,
+      "end_char": 24581,
+      "length": 83,
+      "text": "משה עבד־יהוה ובני ישראל הכום ויתנה משה עבד־יהוה ירשה לראובני ולגדי ולחצי שבט המנשה׃"
+    },
+    {
+      "uid": "Joshua_286",
+      "chapter_number": 12,
+      "verse_number": 7,
+      "start_char": 24582,
+      "end_char": 24718,
+      "length": 137,
+      "text": "ואלה מלכי הארץ אשר הכה יהושע ובני ישראל בעבר הירדן ימה מבעל גד בבקעת הלבנון ועד־ההר החלק העלה שעירה ויתנה יהושע לשבטי ישראל ירשה כמחלקתם׃"
+    },
+    {
+      "uid": "Joshua_287",
+      "chapter_number": 12,
+      "verse_number": 8,
+      "start_char": 24719,
+      "end_char": 24795,
+      "length": 77,
+      "text": "בהר ובשפלה ובערבה ובאשדות ובמדבר ובנגב החתי האמרי והכנעני הפרזי החוי והיבוסי׃"
+    },
+    {
+      "uid": "Joshua_288",
+      "chapter_number": 12,
+      "verse_number": 9,
+      "start_char": 24796,
+      "end_char": 24835,
+      "length": 40,
+      "text": "מלך יריחו אחדמלך העי אשר־מצד בית־אל אחד׃"
+    },
+    {
+      "uid": "Joshua_289",
+      "chapter_number": 12,
+      "verse_number": 10,
+      "start_char": 24836,
+      "end_char": 24864,
+      "length": 29,
+      "text": "מלך ירושל͏ם אחדמלך חברון אחד׃"
+    },
+    {
+      "uid": "Joshua_290",
+      "chapter_number": 12,
+      "verse_number": 11,
+      "start_char": 24865,
+      "end_char": 24890,
+      "length": 26,
+      "text": "מלך ירמות אחדמלך לכיש אחד׃"
+    },
+    {
+      "uid": "Joshua_291",
+      "chapter_number": 12,
+      "verse_number": 12,
+      "start_char": 24891,
+      "end_char": 24915,
+      "length": 25,
+      "text": "מלך עגלון אחדמלך גזר אחד׃"
+    },
+    {
+      "uid": "Joshua_292",
+      "chapter_number": 12,
+      "verse_number": 13,
+      "start_char": 24916,
+      "end_char": 24938,
+      "length": 23,
+      "text": "מלך דבר אחדמלך גדר אחד׃"
+    },
+    {
+      "uid": "Joshua_293",
+      "chapter_number": 12,
+      "verse_number": 14,
+      "start_char": 24939,
+      "end_char": 24962,
+      "length": 24,
+      "text": "מלך חרמה אחדמלך ערד אחד׃"
+    },
+    {
+      "uid": "Joshua_294",
+      "chapter_number": 12,
+      "verse_number": 15,
+      "start_char": 24963,
+      "end_char": 24987,
+      "length": 25,
+      "text": "מלך לבנה אחדמלך עדלם אחד׃"
+    },
+    {
+      "uid": "Joshua_295",
+      "chapter_number": 12,
+      "verse_number": 16,
+      "start_char": 24988,
+      "end_char": 25014,
+      "length": 27,
+      "text": "מלך מקדה אחדמלך בית־אל אחד׃"
+    },
+    {
+      "uid": "Joshua_296",
+      "chapter_number": 12,
+      "verse_number": 17,
+      "start_char": 25015,
+      "end_char": 25038,
+      "length": 24,
+      "text": "מלך תפוח אחדמלך חפר אחד׃"
+    },
+    {
+      "uid": "Joshua_297",
+      "chapter_number": 12,
+      "verse_number": 18,
+      "start_char": 25039,
+      "end_char": 25063,
+      "length": 25,
+      "text": "מלך אפק אחדמלך לשרון אחד׃"
+    },
+    {
+      "uid": "Joshua_298",
+      "chapter_number": 12,
+      "verse_number": 19,
+      "start_char": 25064,
+      "end_char": 25088,
+      "length": 25,
+      "text": "מלך מדון אחדמלך חצור אחד׃"
+    },
+    {
+      "uid": "Joshua_299",
+      "chapter_number": 12,
+      "verse_number": 20,
+      "start_char": 25089,
+      "end_char": 25120,
+      "length": 32,
+      "text": "מלך שמרון מראון אחדמלך אכשף אחד׃"
+    },
+    {
+      "uid": "Joshua_300",
+      "chapter_number": 12,
+      "verse_number": 21,
+      "start_char": 25121,
+      "end_char": 25145,
+      "length": 25,
+      "text": "מלך תענך אחדמלך מגדו אחד׃"
+    },
+    {
+      "uid": "Joshua_301",
+      "chapter_number": 12,
+      "verse_number": 22,
+      "start_char": 25146,
+      "end_char": 25176,
+      "length": 31,
+      "text": "מלך קדש אחדמלך־יקנעם לכרמל אחד׃"
+    },
+    {
+      "uid": "Joshua_302",
+      "chapter_number": 12,
+      "verse_number": 23,
+      "start_char": 25177,
+      "end_char": 25215,
+      "length": 39,
+      "text": "מלך דור לנפת דור אחדמלך־גוים לגלגל אחד׃"
+    },
+    {
+      "uid": "Joshua_303",
+      "chapter_number": 12,
+      "verse_number": 24,
+      "start_char": 25216,
+      "end_char": 25247,
+      "length": 32,
+      "text": "מלך תרצה אחדכל־מלכים שלשים ואחד׃"
+    },
+    {
+      "uid": "Joshua_304",
+      "chapter_number": 13,
+      "verse_number": 1,
+      "start_char": 25248,
+      "end_char": 25330,
+      "length": 83,
+      "text": "ויהושע זקן בא בימים ויאמר יהוה אליו אתה זקנתה באת בימים והארץ נשארה הרבה־מאד לרשתה׃"
+    },
+    {
+      "uid": "Joshua_305",
+      "chapter_number": 13,
+      "verse_number": 2,
+      "start_char": 25331,
+      "end_char": 25375,
+      "length": 45,
+      "text": "זאת הארץ הנשארת כל־גלילות הפלשתים וכל־הגשורי׃"
+    },
+    {
+      "uid": "Joshua_306",
+      "chapter_number": 13,
+      "verse_number": 3,
+      "start_char": 25376,
+      "end_char": 25499,
+      "length": 124,
+      "text": "מן־השיחור אשר׀ על־פני מצרים ועד גבול עקרון צפונה לכנעני תחשב חמשת׀ סרני פלשתים העזתי והאשדודי האשקלוני הגתי והעקרוני והעוים׃"
+    },
+    {
+      "uid": "Joshua_307",
+      "chapter_number": 13,
+      "verse_number": 4,
+      "start_char": 25500,
+      "end_char": 25559,
+      "length": 60,
+      "text": "מתימן כל־ארץ הכנעני ומערה אשר לצידנים עד־אפקה עד גבול האמרי׃"
+    },
+    {
+      "uid": "Joshua_308",
+      "chapter_number": 13,
+      "verse_number": 5,
+      "start_char": 25560,
+      "end_char": 25625,
+      "length": 66,
+      "text": "והארץ הגבלי וכל־הלבנון מזרח השמש מבעל גד תחת הר־חרמון עד לבוא חמת׃"
+    },
+    {
+      "uid": "Joshua_309",
+      "chapter_number": 13,
+      "verse_number": 6,
+      "start_char": 25626,
+      "end_char": 25730,
+      "length": 105,
+      "text": "כל־ישבי ההר מן־הלבנון עד־משרפת מים כל־צידנים אנכי אורישם מפני בני ישראל רק הפלה לישראל בנחלה כאשר צויתיך׃"
+    },
+    {
+      "uid": "Joshua_310",
+      "chapter_number": 13,
+      "verse_number": 7,
+      "start_char": 25731,
+      "end_char": 25787,
+      "length": 57,
+      "text": "ועתה חלק את־הארץ הזאת בנחלה לתשעת השבטים וחצי השבט המנשה׃"
+    },
+    {
+      "uid": "Joshua_311",
+      "chapter_number": 13,
+      "verse_number": 8,
+      "start_char": 25788,
+      "end_char": 25875,
+      "length": 88,
+      "text": "עמו הראובני והגדי לקחו נחלתם אשר נתן להם משה בעבר הירדן מזרחה כאשר נתן להם משה עבד יהוה׃"
+    },
+    {
+      "uid": "Joshua_312",
+      "chapter_number": 13,
+      "verse_number": 9,
+      "start_char": 25876,
+      "end_char": 25948,
+      "length": 73,
+      "text": "מערוער אשר על־שפת־נחל ארנון והעיר אשר בתוך־הנחל וכל־המישר מידבא עד־דיבון׃"
+    },
+    {
+      "uid": "Joshua_313",
+      "chapter_number": 13,
+      "verse_number": 10,
+      "start_char": 25949,
+      "end_char": 26004,
+      "length": 56,
+      "text": "וכל ערי סיחון מלך האמרי אשר מלך בחשבון עד־גבול בני עמון׃"
+    },
+    {
+      "uid": "Joshua_314",
+      "chapter_number": 13,
+      "verse_number": 11,
+      "start_char": 26005,
+      "end_char": 26062,
+      "length": 58,
+      "text": "והגלעד וגבול הגשורי והמעכתי וכל הר חרמון וכל־הבשן עד־סלכה׃"
+    },
+    {
+      "uid": "Joshua_315",
+      "chapter_number": 13,
+      "verse_number": 12,
+      "start_char": 26063,
+      "end_char": 26141,
+      "length": 79,
+      "text": "כל־ממלכות עוג בבשן אשר־מלך בעשתרות ובאדרעי הוא נשאר מיתר הרפאים ויכם משה וירשם׃"
+    },
+    {
+      "uid": "Joshua_316",
+      "chapter_number": 13,
+      "verse_number": 13,
+      "start_char": 26142,
+      "end_char": 26222,
+      "length": 81,
+      "text": "ולא הורישו בני ישראל את־הגשורי ואת־המעכתי וישב גשור ומעכת בקרב ישראל עד היום הזה׃"
+    },
+    {
+      "uid": "Joshua_317",
+      "chapter_number": 13,
+      "verse_number": 14,
+      "start_char": 26223,
+      "end_char": 26289,
+      "length": 67,
+      "text": "רק לשבט הלוי לא נתן נחלה אשי יהוה אלהי ישראל הוא נחלתו כאשר דבר־לו׃"
+    },
+    {
+      "uid": "Joshua_318",
+      "chapter_number": 13,
+      "verse_number": 15,
+      "start_char": 26290,
+      "end_char": 26321,
+      "length": 32,
+      "text": "ויתן משה למטה בני־ראובן למשפחתם׃"
+    },
+    {
+      "uid": "Joshua_319",
+      "chapter_number": 13,
+      "verse_number": 16,
+      "start_char": 26322,
+      "end_char": 26403,
+      "length": 82,
+      "text": "ויהי להם הגבול מערוער אשר על־שפת־נחל ארנון והעיר אשר בתוך־הנחל וכל־המישר על־מידבא׃"
+    },
+    {
+      "uid": "Joshua_320",
+      "chapter_number": 13,
+      "verse_number": 17,
+      "start_char": 26404,
+      "end_char": 26457,
+      "length": 54,
+      "text": "חשבון וכל־עריה אשר במישר דיבן ובמות בעל ובית בעל מעון׃"
+    },
+    {
+      "uid": "Joshua_321",
+      "chapter_number": 13,
+      "verse_number": 18,
+      "start_char": 26458,
+      "end_char": 26475,
+      "length": 18,
+      "text": "ויהצה וקדמת ומפעת׃"
+    },
+    {
+      "uid": "Joshua_322",
+      "chapter_number": 13,
+      "verse_number": 19,
+      "start_char": 26476,
+      "end_char": 26508,
+      "length": 33,
+      "text": "וקריתים ושבמה וצרת השחר בהר העמק׃"
+    },
+    {
+      "uid": "Joshua_323",
+      "chapter_number": 13,
+      "verse_number": 20,
+      "start_char": 26509,
+      "end_char": 26543,
+      "length": 35,
+      "text": "ובית פעור ואשדות הפסגה ובית הישמות׃"
+    },
+    {
+      "uid": "Joshua_324",
+      "chapter_number": 13,
+      "verse_number": 21,
+      "start_char": 26544,
+      "end_char": 26692,
+      "length": 149,
+      "text": "וכל ערי המישר וכל־ממלכות סיחון מלך האמרי אשר מלך בחשבון אשר הכה משה אתו׀ ואת־נשיאי מדין את־אוי ואת־רקם ואת־צור ואת־חור ואת־רבע נסיכי סיחון ישבי הארץ׃"
+    },
+    {
+      "uid": "Joshua_325",
+      "chapter_number": 13,
+      "verse_number": 22,
+      "start_char": 26693,
+      "end_char": 26745,
+      "length": 53,
+      "text": "ואת־בלעם בן־בעור הקוסם הרגו בני־ישראל בחרב אל־חלליהם׃"
+    },
+    {
+      "uid": "Joshua_326",
+      "chapter_number": 13,
+      "verse_number": 23,
+      "start_char": 26746,
+      "end_char": 26819,
+      "length": 74,
+      "text": "ויהי גבול בני ראובן הירדן וגבול זאת נחלת בני־ראובן למשפחותם הערים וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_327",
+      "chapter_number": 13,
+      "verse_number": 24,
+      "start_char": 26820,
+      "end_char": 26852,
+      "length": 33,
+      "text": "ויתן משה למטה־גד לבני־גד למשפחתם׃"
+    },
+    {
+      "uid": "Joshua_328",
+      "chapter_number": 13,
+      "verse_number": 25,
+      "start_char": 26853,
+      "end_char": 26928,
+      "length": 76,
+      "text": "ויהי להם הגבול יעזר וכל־ערי הגלעד וחצי ארץ בני עמון עד־ערוער אשר על־פני רבה׃"
+    },
+    {
+      "uid": "Joshua_329",
+      "chapter_number": 13,
+      "verse_number": 26,
+      "start_char": 26929,
+      "end_char": 26977,
+      "length": 49,
+      "text": "ומחשבון עד־רמת המצפה ובטנים וממחנים עד־גבול לדבר׃"
+    },
+    {
+      "uid": "Joshua_330",
+      "chapter_number": 13,
+      "verse_number": 27,
+      "start_char": 26978,
+      "end_char": 27082,
+      "length": 105,
+      "text": "ובעמק בית הרם ובית נמרה וסכות וצפון יתר ממלכות סיחון מלך חשבון הירדן וגבל עד־קצה ים־כנרת עבר הירדן מזרחה׃"
+    },
+    {
+      "uid": "Joshua_331",
+      "chapter_number": 13,
+      "verse_number": 28,
+      "start_char": 27083,
+      "end_char": 27120,
+      "length": 38,
+      "text": "זאת נחלת בני־גד למשפחתם הערים וחצריהם׃"
+    },
+    {
+      "uid": "Joshua_332",
+      "chapter_number": 13,
+      "verse_number": 29,
+      "start_char": 27121,
+      "end_char": 27175,
+      "length": 55,
+      "text": "ויתן משה לחצי שבט מנשה ויהי לחצי מטה בני־מנשה למשפחותם׃"
+    },
+    {
+      "uid": "Joshua_333",
+      "chapter_number": 13,
+      "verse_number": 30,
+      "start_char": 27176,
+      "end_char": 27256,
+      "length": 81,
+      "text": "ויהי גבולם ממחנים כל־הבשן כל־ממלכות׀ עוג מלך־הבשן וכל־חות יאיר אשר בבשן ששים עיר׃"
+    },
+    {
+      "uid": "Joshua_334",
+      "chapter_number": 13,
+      "verse_number": 31,
+      "start_char": 27257,
+      "end_char": 27343,
+      "length": 87,
+      "text": "וחצי הגלעד ועשתרות ואדרעי ערי ממלכות עוג בבשן לבני מכיר בן־מנשה לחצי בני־מכיר למשפחותם׃"
+    },
+    {
+      "uid": "Joshua_335",
+      "chapter_number": 13,
+      "verse_number": 32,
+      "start_char": 27344,
+      "end_char": 27394,
+      "length": 51,
+      "text": "אלה אשר־נחל משה בערבות מואב מעבר לירדן יריחו מזרחה׃"
+    },
+    {
+      "uid": "Joshua_336",
+      "chapter_number": 13,
+      "verse_number": 33,
+      "start_char": 27395,
+      "end_char": 27460,
+      "length": 66,
+      "text": "ולשבט הלוי לא־נתן משה נחלה יהוה אלהי ישראל הוא נחלתם כאשר דבר להם׃"
+    },
+    {
+      "uid": "Joshua_337",
+      "chapter_number": 14,
+      "verse_number": 1,
+      "start_char": 27461,
+      "end_char": 27561,
+      "length": 101,
+      "text": "ואלה אשר־נחלו בני־ישראל בארץ כנען אשר נחלו אותם אלעזר הכהן ויהושע בן־נון וראשי אבות המטות לבני ישראל׃"
+    },
+    {
+      "uid": "Joshua_338",
+      "chapter_number": 14,
+      "verse_number": 2,
+      "start_char": 27562,
+      "end_char": 27617,
+      "length": 56,
+      "text": "בגורל נחלתם כאשר צוה יהוה ביד־משה לתשעת המטות וחצי המטה׃"
+    },
+    {
+      "uid": "Joshua_339",
+      "chapter_number": 14,
+      "verse_number": 3,
+      "start_char": 27618,
+      "end_char": 27689,
+      "length": 72,
+      "text": "כי־נתן משה נחלת שני המטות וחצי המטה מעבר לירדן וללוים לא־נתן נחלה בתוכם׃"
+    },
+    {
+      "uid": "Joshua_340",
+      "chapter_number": 14,
+      "verse_number": 4,
+      "start_char": 27690,
+      "end_char": 27791,
+      "length": 102,
+      "text": "כי־היו בני־יוסף שני מטות מנשה ואפרים ולא־נתנו חלק ללוים בארץ כי אם־ערים לשבת ומגרשיהם למקניהם ולקנינם׃"
+    },
+    {
+      "uid": "Joshua_341",
+      "chapter_number": 14,
+      "verse_number": 5,
+      "start_char": 27792,
+      "end_char": 27844,
+      "length": 53,
+      "text": "כאשר צוה יהוה את־משה כן עשו בני ישראל ויחלקו את־הארץ׃"
+    },
+    {
+      "uid": "Joshua_342",
+      "chapter_number": 14,
+      "verse_number": 6,
+      "start_char": 27845,
+      "end_char": 27982,
+      "length": 138,
+      "text": "ויגשו בני־יהודה אל־יהושע בגלגל ויאמר אליו כלב בן־יפנה הקנזי אתה ידעת את־הדבר אשר־דבר יהוה אל־משה איש־האלהים על אדותי ועל אדותיך בקדש ברנע׃"
+    },
+    {
+      "uid": "Joshua_343",
+      "chapter_number": 14,
+      "verse_number": 7,
+      "start_char": 27983,
+      "end_char": 28072,
+      "length": 90,
+      "text": "בן־ארבעים שנה אנכי בשלח משה עבד־יהוה אתי מקדש ברנע לרגל את־הארץ ואשב אתו דבר כאשר עם־לבבי׃"
+    },
+    {
+      "uid": "Joshua_344",
+      "chapter_number": 14,
+      "verse_number": 8,
+      "start_char": 28073,
+      "end_char": 28132,
+      "length": 60,
+      "text": "ואחי אשר עלו עמי המסיו את־לב העם ואנכי מלאתי אחרי יהוה אלהי׃"
+    },
+    {
+      "uid": "Joshua_345",
+      "chapter_number": 14,
+      "verse_number": 9,
+      "start_char": 28133,
+      "end_char": 28237,
+      "length": 105,
+      "text": "וישבע משה ביום ההוא לאמר אם־לא הארץ אשר דרכה רגלך בה לך תהיה לנחלה ולבניך עד־עולם כי מלאת אחרי יהוה אלהי׃"
+    },
+    {
+      "uid": "Joshua_346",
+      "chapter_number": 14,
+      "verse_number": 10,
+      "start_char": 28238,
+      "end_char": 28378,
+      "length": 141,
+      "text": "ועתה הנה החיה יהוה׀אותי כאשר דבר זה ארבעים וחמש שנה מאז דבר יהוה את־הדבר הזה אל־משה אשר־הלך ישראל במדבר ועתה הנה אנכי היום בן־חמש ושמנים שנה׃"
+    },
+    {
+      "uid": "Joshua_347",
+      "chapter_number": 14,
+      "verse_number": 11,
+      "start_char": 28379,
+      "end_char": 28453,
+      "length": 75,
+      "text": "עודני היום חזק כאשר ביום שלח אותי משה ככחי אז וככחי עתה למלחמה ולצאת ולבוא׃"
+    },
+    {
+      "uid": "Joshua_348",
+      "chapter_number": 14,
+      "verse_number": 12,
+      "start_char": 28454,
+      "end_char": 28589,
+      "length": 136,
+      "text": "ועתה תנה־לי את־ההר הזה אשר־דבר יהוה ביום ההוא כי אתה־שמעת ביום ההוא כי־ענקים שם וערים גדלות בצרות אולי יהוה אותי והורשתים כאשר דבר יהוה׃"
+    },
+    {
+      "uid": "Joshua_349",
+      "chapter_number": 14,
+      "verse_number": 13,
+      "start_char": 28590,
+      "end_char": 28636,
+      "length": 47,
+      "text": "ויברכהו יהושע ויתן את־חברון לכלב בן־יפנה לנחלה׃"
+    },
+    {
+      "uid": "Joshua_350",
+      "chapter_number": 14,
+      "verse_number": 14,
+      "start_char": 28637,
+      "end_char": 28723,
+      "length": 87,
+      "text": "על־כן היתה־חברון לכלב בן־יפנה הקנזי לנחלה עד היום הזה יען אשר מלא אחרי יהוה אלהי ישראל׃"
+    },
+    {
+      "uid": "Joshua_351",
+      "chapter_number": 14,
+      "verse_number": 15,
+      "start_char": 28724,
+      "end_char": 28789,
+      "length": 66,
+      "text": "ושם חברון לפנים קרית ארבע האדם הגדול בענקים הוא והארץ שקטה ממלחמה׃"
+    },
+    {
+      "uid": "Joshua_352",
+      "chapter_number": 15,
+      "verse_number": 1,
+      "start_char": 28790,
+      "end_char": 28859,
+      "length": 70,
+      "text": "ויהי הגורל למטה בני יהודה למשפחתם אל־גבול אדום מדבר־צן נגבה מקצה תימן׃"
+    },
+    {
+      "uid": "Joshua_353",
+      "chapter_number": 15,
+      "verse_number": 2,
+      "start_char": 28860,
+      "end_char": 28908,
+      "length": 49,
+      "text": "ויהי להם גבול נגב מקצה ים המלח מן־הלשן הפנה נגבה׃"
+    },
+    {
+      "uid": "Joshua_354",
+      "chapter_number": 15,
+      "verse_number": 3,
+      "start_char": 28909,
+      "end_char": 28996,
+      "length": 88,
+      "text": "ויצא אל־מנגב למעלה עקרבים ועבר צנה ועלה מנגב לקדש ברנע ועבר חצרון ועלה אדרה ונסב הקרקעה׃"
+    },
+    {
+      "uid": "Joshua_355",
+      "chapter_number": 15,
+      "verse_number": 4,
+      "start_char": 28997,
+      "end_char": 29074,
+      "length": 78,
+      "text": "ועבר עצמונה ויצא נחל מצרים (והיה) [והיו] תצאות הגבול ימה זה־יהיה לכם גבול נגב׃"
+    },
+    {
+      "uid": "Joshua_356",
+      "chapter_number": 15,
+      "verse_number": 5,
+      "start_char": 29075,
+      "end_char": 29144,
+      "length": 70,
+      "text": "וגבול קדמה ים המלח עד־קצה הירדן וגבול לפאת צפונה מלשון הים מקצה הירדן׃"
+    },
+    {
+      "uid": "Joshua_357",
+      "chapter_number": 15,
+      "verse_number": 6,
+      "start_char": 29145,
+      "end_char": 29214,
+      "length": 70,
+      "text": "ועלה הגבול בית חגלה ועבר מצפון לבית הערבה ועלה הגבול אבן בהן בן־ראובן׃"
+    },
+    {
+      "uid": "Joshua_358",
+      "chapter_number": 15,
+      "verse_number": 7,
+      "start_char": 29215,
+      "end_char": 29342,
+      "length": 128,
+      "text": "ועלה הגבול׀דברה מעמק עכור וצפונה פנה אל־הגלגל אשר־נכח למעלה אדמים אשר מנגב לנחל ועבר הגבול אל־מי־עין שמש והיו תצאתיו אל־עין רגל׃"
+    },
+    {
+      "uid": "Joshua_359",
+      "chapter_number": 15,
+      "verse_number": 8,
+      "start_char": 29343,
+      "end_char": 29463,
+      "length": 121,
+      "text": "ועלה הגבול גי בן־הנם אל־כתף היבוסי מנגב היא ירושל͏ם ועלה הגבול אל־ראש ההר אשר על־פני גי־הנם ימה אשר בקצה עמק־רפאים צפונה׃"
+    },
+    {
+      "uid": "Joshua_360",
+      "chapter_number": 15,
+      "verse_number": 9,
+      "start_char": 29464,
+      "end_char": 29552,
+      "length": 89,
+      "text": "ותאר הגבול מראש ההר אל־מעין מי נפתוח ויצא אל־ערי הר־עפרון ותאר הגבול בעלה היא קרית יערים׃"
+    },
+    {
+      "uid": "Joshua_361",
+      "chapter_number": 15,
+      "verse_number": 10,
+      "start_char": 29553,
+      "end_char": 29645,
+      "length": 93,
+      "text": "ונסב הגבול מבעלה ימה אל־הר שעיר ועבר אל־כתף הר־יערים מצפונה היא כסלון וירד בית־שמש ועבר תמנה׃"
+    },
+    {
+      "uid": "Joshua_362",
+      "chapter_number": 15,
+      "verse_number": 11,
+      "start_char": 29646,
+      "end_char": 29739,
+      "length": 94,
+      "text": "ויצא הגבול אל־כתף עקרון צפונה ותאר הגבול שכרונה ועבר הר־הבעלה ויצא יבנאל והיו תצאות הגבול ימה׃"
+    },
+    {
+      "uid": "Joshua_363",
+      "chapter_number": 15,
+      "verse_number": 12,
+      "start_char": 29740,
+      "end_char": 29796,
+      "length": 57,
+      "text": "וגבול ים הימה הגדול וגבול זה גבול בני־יהודה סביב למשפחתם׃"
+    },
+    {
+      "uid": "Joshua_364",
+      "chapter_number": 15,
+      "verse_number": 13,
+      "start_char": 29797,
+      "end_char": 29883,
+      "length": 87,
+      "text": "ולכלב בן־יפנה נתן חלק בתוך בני־יהודה אל־פי יהוה ליהושע את־קרית ארבע אבי הענק היא חברון׃"
+    },
+    {
+      "uid": "Joshua_365",
+      "chapter_number": 15,
+      "verse_number": 14,
+      "start_char": 29884,
+      "end_char": 29951,
+      "length": 68,
+      "text": "וירש משם כלב את־שלושה בני הענק את־ששי ואת־אחימן ואת־תלמי ילידי הענק׃"
+    },
+    {
+      "uid": "Joshua_366",
+      "chapter_number": 15,
+      "verse_number": 15,
+      "start_char": 29952,
+      "end_char": 29995,
+      "length": 44,
+      "text": "ויעל משם אל־ישבי דבר ושם־דבר לפנים קרית־ספר׃"
+    },
+    {
+      "uid": "Joshua_367",
+      "chapter_number": 15,
+      "verse_number": 16,
+      "start_char": 29996,
+      "end_char": 30057,
+      "length": 62,
+      "text": "ויאמר כלב אשר־יכה את־קרית־ספר ולכדה ונתתי לו את־עכסה בתי לאשה׃"
+    },
+    {
+      "uid": "Joshua_368",
+      "chapter_number": 15,
+      "verse_number": 17,
+      "start_char": 30058,
+      "end_char": 30111,
+      "length": 54,
+      "text": "וילכדה עתניאל בן־קנז אחי כלב ויתן־לו את־עכסה בתו לאשה׃"
+    },
+    {
+      "uid": "Joshua_369",
+      "chapter_number": 15,
+      "verse_number": 18,
+      "start_char": 30112,
+      "end_char": 30185,
+      "length": 74,
+      "text": "ויהי׀ בבואה ותסיתהו לשאול מאת־אביה שדה ותצנח מעל החמור ויאמר־לה כלב מה־לך׃"
+    },
+    {
+      "uid": "Joshua_370",
+      "chapter_number": 15,
+      "verse_number": 19,
+      "start_char": 30186,
+      "end_char": 30274,
+      "length": 89,
+      "text": "ותאמר תנה־לי ברכה כי ארץ הנגב נתתני ונתתה לי גלת מים ויתן־לה את גלת עליות ואת גלת תחתיות׃"
+    },
+    {
+      "uid": "Joshua_371",
+      "chapter_number": 15,
+      "verse_number": 20,
+      "start_char": 30275,
+      "end_char": 30305,
+      "length": 31,
+      "text": "זאת נחלת מטה בני־יהודה למשפחתם׃"
+    },
+    {
+      "uid": "Joshua_372",
+      "chapter_number": 15,
+      "verse_number": 21,
+      "start_char": 30306,
+      "end_char": 30373,
+      "length": 68,
+      "text": "ויהיו הערים מקצה למטה בני־יהודה אל־גבול אדום בנגבה קבצאל ועדר ויגור׃"
+    },
+    {
+      "uid": "Joshua_373",
+      "chapter_number": 15,
+      "verse_number": 22,
+      "start_char": 30374,
+      "end_char": 30394,
+      "length": 21,
+      "text": "וקינה ודימונה ועדעדה׃"
+    },
+    {
+      "uid": "Joshua_374",
+      "chapter_number": 15,
+      "verse_number": 23,
+      "start_char": 30395,
+      "end_char": 30411,
+      "length": 17,
+      "text": "וקדש וחצור ויתנן׃"
+    },
+    {
+      "uid": "Joshua_375",
+      "chapter_number": 15,
+      "verse_number": 24,
+      "start_char": 30412,
+      "end_char": 30427,
+      "length": 16,
+      "text": "זיף וטלם ובעלות׃"
+    },
+    {
+      "uid": "Joshua_376",
+      "chapter_number": 15,
+      "verse_number": 25,
+      "start_char": 30428,
+      "end_char": 30460,
+      "length": 33,
+      "text": "וחצור׀חדתה וקריות חצרון היא חצור׃"
+    },
+    {
+      "uid": "Joshua_377",
+      "chapter_number": 15,
+      "verse_number": 26,
+      "start_char": 30461,
+      "end_char": 30476,
+      "length": 16,
+      "text": "אמם ושמע ומולדה׃"
+    },
+    {
+      "uid": "Joshua_378",
+      "chapter_number": 15,
+      "verse_number": 27,
+      "start_char": 30477,
+      "end_char": 30501,
+      "length": 25,
+      "text": "וחצר גדה וחשמון ובית פלט׃"
+    },
+    {
+      "uid": "Joshua_379",
+      "chapter_number": 15,
+      "verse_number": 28,
+      "start_char": 30502,
+      "end_char": 30529,
+      "length": 28,
+      "text": "וחצר שועל ובאר שבע ובזיותיה׃"
+    },
+    {
+      "uid": "Joshua_380",
+      "chapter_number": 15,
+      "verse_number": 29,
+      "start_char": 30530,
+      "end_char": 30545,
+      "length": 16,
+      "text": "בעלה ועיים ועצם׃"
+    },
+    {
+      "uid": "Joshua_381",
+      "chapter_number": 15,
+      "verse_number": 30,
+      "start_char": 30546,
+      "end_char": 30565,
+      "length": 20,
+      "text": "ואלתולד וכסיל וחרמה׃"
+    },
+    {
+      "uid": "Joshua_382",
+      "chapter_number": 15,
+      "verse_number": 31,
+      "start_char": 30566,
+      "end_char": 30585,
+      "length": 20,
+      "text": "וצקלג ומדמנה וסנסנה׃"
+    },
+    {
+      "uid": "Joshua_383",
+      "chapter_number": 15,
+      "verse_number": 32,
+      "start_char": 30586,
+      "end_char": 30637,
+      "length": 52,
+      "text": "ולבאות ושלחים ועין ורמון כל־ערים עשרים ותשע וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_384",
+      "chapter_number": 15,
+      "verse_number": 33,
+      "start_char": 30638,
+      "end_char": 30662,
+      "length": 25,
+      "text": "בשפלה אשתאול וצרעה ואשנה׃"
+    },
+    {
+      "uid": "Joshua_385",
+      "chapter_number": 15,
+      "verse_number": 34,
+      "start_char": 30663,
+      "end_char": 30690,
+      "length": 28,
+      "text": "וזנוח ועין גנים תפוח והעינם׃"
+    },
+    {
+      "uid": "Joshua_386",
+      "chapter_number": 15,
+      "verse_number": 35,
+      "start_char": 30691,
+      "end_char": 30713,
+      "length": 23,
+      "text": "ירמות ועדלם שוכה ועזקה׃"
+    },
+    {
+      "uid": "Joshua_387",
+      "chapter_number": 15,
+      "verse_number": 36,
+      "start_char": 30714,
+      "end_char": 30766,
+      "length": 53,
+      "text": "ושערים ועדיתים והגדרה וגדרתים ערים ארבע־עשרה וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_388",
+      "chapter_number": 15,
+      "verse_number": 37,
+      "start_char": 30767,
+      "end_char": 30785,
+      "length": 19,
+      "text": "צנן וחדשה ומגדל־גד׃"
+    },
+    {
+      "uid": "Joshua_389",
+      "chapter_number": 15,
+      "verse_number": 38,
+      "start_char": 30786,
+      "end_char": 30805,
+      "length": 20,
+      "text": "ודלען והמצפה ויקתאל׃"
+    },
+    {
+      "uid": "Joshua_390",
+      "chapter_number": 15,
+      "verse_number": 39,
+      "start_char": 30806,
+      "end_char": 30823,
+      "length": 18,
+      "text": "לכיש ובצקת ועגלון׃"
+    },
+    {
+      "uid": "Joshua_391",
+      "chapter_number": 15,
+      "verse_number": 40,
+      "start_char": 30824,
+      "end_char": 30842,
+      "length": 19,
+      "text": "וכבון ולחמס וכתליש׃"
+    },
+    {
+      "uid": "Joshua_392",
+      "chapter_number": 15,
+      "verse_number": 41,
+      "start_char": 30843,
+      "end_char": 30891,
+      "length": 49,
+      "text": "וגדרות בית־דגון ונעמה ומקדה ערים שש־עשרה וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_393",
+      "chapter_number": 15,
+      "verse_number": 42,
+      "start_char": 30892,
+      "end_char": 30906,
+      "length": 15,
+      "text": "לבנה ועתר ועשן׃"
+    },
+    {
+      "uid": "Joshua_394",
+      "chapter_number": 15,
+      "verse_number": 43,
+      "start_char": 30907,
+      "end_char": 30924,
+      "length": 18,
+      "text": "ויפתח ואשנה ונציב׃"
+    },
+    {
+      "uid": "Joshua_395",
+      "chapter_number": 15,
+      "verse_number": 44,
+      "start_char": 30925,
+      "end_char": 30962,
+      "length": 38,
+      "text": "וקעילה ואכזיב ומראשה ערים תשע וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_396",
+      "chapter_number": 15,
+      "verse_number": 45,
+      "start_char": 30963,
+      "end_char": 30982,
+      "length": 20,
+      "text": "עקרון ובנתיה וחצריה׃"
+    },
+    {
+      "uid": "Joshua_397",
+      "chapter_number": 15,
+      "verse_number": 46,
+      "start_char": 30983,
+      "end_char": 31021,
+      "length": 39,
+      "text": "מעקרון וימה כל אשר־על־יד אשדוד וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_398",
+      "chapter_number": 15,
+      "verse_number": 47,
+      "start_char": 31022,
+      "end_char": 31099,
+      "length": 78,
+      "text": "אשדוד בנותיה וחצריה עזה בנותיה וחצריה עד־נחל מצרים והים (הגבול) [הגדול] וגבול׃"
+    },
+    {
+      "uid": "Joshua_399",
+      "chapter_number": 15,
+      "verse_number": 48,
+      "start_char": 31100,
+      "end_char": 31121,
+      "length": 22,
+      "text": "ובהר שמיר ויתיר ושוכה׃"
+    },
+    {
+      "uid": "Joshua_400",
+      "chapter_number": 15,
+      "verse_number": 49,
+      "start_char": 31122,
+      "end_char": 31144,
+      "length": 23,
+      "text": "ודנה וקרית־סנה היא דבר׃"
+    },
+    {
+      "uid": "Joshua_401",
+      "chapter_number": 15,
+      "verse_number": 50,
+      "start_char": 31145,
+      "end_char": 31162,
+      "length": 18,
+      "text": "וענב ואשתמה וענים׃"
+    },
+    {
+      "uid": "Joshua_402",
+      "chapter_number": 15,
+      "verse_number": 51,
+      "start_char": 31163,
+      "end_char": 31199,
+      "length": 37,
+      "text": "וגשן וחלן וגלה ערים אחת־עשרה וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_403",
+      "chapter_number": 15,
+      "verse_number": 52,
+      "start_char": 31200,
+      "end_char": 31215,
+      "length": 16,
+      "text": "ארב ורומה ואשען׃"
+    },
+    {
+      "uid": "Joshua_404",
+      "chapter_number": 15,
+      "verse_number": 53,
+      "start_char": 31216,
+      "end_char": 31247,
+      "length": 32,
+      "text": "(וינים) [וינום] ובית־תפוח ואפקה׃"
+    },
+    {
+      "uid": "Joshua_405",
+      "chapter_number": 15,
+      "verse_number": 54,
+      "start_char": 31248,
+      "end_char": 31297,
+      "length": 50,
+      "text": "וחמטה וקרית ארבע היא חברון וציער ערים תשע וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_406",
+      "chapter_number": 15,
+      "verse_number": 55,
+      "start_char": 31298,
+      "end_char": 31318,
+      "length": 21,
+      "text": "מעון׀כרמל וזיף ויוטה׃"
+    },
+    {
+      "uid": "Joshua_407",
+      "chapter_number": 15,
+      "verse_number": 56,
+      "start_char": 31319,
+      "end_char": 31339,
+      "length": 21,
+      "text": "ויזרעאל ויקדעם וזנוח׃"
+    },
+    {
+      "uid": "Joshua_408",
+      "chapter_number": 15,
+      "verse_number": 57,
+      "start_char": 31340,
+      "end_char": 31372,
+      "length": 33,
+      "text": "הקין גבעה ותמנה ערים עשר וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_409",
+      "chapter_number": 15,
+      "verse_number": 58,
+      "start_char": 31373,
+      "end_char": 31392,
+      "length": 20,
+      "text": "חלחול בית־צור וגדור׃"
+    },
+    {
+      "uid": "Joshua_410",
+      "chapter_number": 15,
+      "verse_number": 59,
+      "start_char": 31393,
+      "end_char": 31431,
+      "length": 39,
+      "text": "ומערת ובית־ענות ואלתקן ערים שש וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_411",
+      "chapter_number": 15,
+      "verse_number": 60,
+      "start_char": 31432,
+      "end_char": 31479,
+      "length": 48,
+      "text": "קרית־בעל היא קרית יערים והרבה ערים שתים וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_412",
+      "chapter_number": 15,
+      "verse_number": 61,
+      "start_char": 31480,
+      "end_char": 31506,
+      "length": 27,
+      "text": "במדבר בית הערבה מדין וסככה׃"
+    },
+    {
+      "uid": "Joshua_413",
+      "chapter_number": 15,
+      "verse_number": 62,
+      "start_char": 31507,
+      "end_char": 31548,
+      "length": 42,
+      "text": "והנבשן ועיר־המלח ועין גדי ערים שש וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_414",
+      "chapter_number": 15,
+      "verse_number": 63,
+      "start_char": 31549,
+      "end_char": 31655,
+      "length": 107,
+      "text": "ואת־היבוסי יושבי ירושל͏ם לא־[יכלו] (יוכלו) בני־יהודה להורישם וישב היבוסי את־בני יהודה בירושל͏ם עד היום הזה׃"
+    },
+    {
+      "uid": "Joshua_415",
+      "chapter_number": 16,
+      "verse_number": 1,
+      "start_char": 31656,
+      "end_char": 31732,
+      "length": 77,
+      "text": "ויצא הגורל לבני יוסף מירדן יריחו למי יריחו מזרחה המדבר עלה מיריחו בהר בית־אל׃"
+    },
+    {
+      "uid": "Joshua_416",
+      "chapter_number": 16,
+      "verse_number": 2,
+      "start_char": 31733,
+      "end_char": 31775,
+      "length": 43,
+      "text": "ויצא מבית־אל לוזה ועבר אל־גבול הארכי עטרות׃"
+    },
+    {
+      "uid": "Joshua_417",
+      "chapter_number": 16,
+      "verse_number": 3,
+      "start_char": 31776,
+      "end_char": 31845,
+      "length": 70,
+      "text": "וירד־ימה אל־גבול היפלטי עד גבול בית־חורן תחתון ועד־גזר והיו תצאתו ימה׃"
+    },
+    {
+      "uid": "Joshua_418",
+      "chapter_number": 16,
+      "verse_number": 4,
+      "start_char": 31846,
+      "end_char": 31873,
+      "length": 28,
+      "text": "וינחלו בני־יוסף מנשה ואפרים׃"
+    },
+    {
+      "uid": "Joshua_419",
+      "chapter_number": 16,
+      "verse_number": 5,
+      "start_char": 31874,
+      "end_char": 31951,
+      "length": 78,
+      "text": "ויהי גבול בני־אפרים למשפחתם ויהי גבול נחלתם מזרחה עטרות אדר עד־בית חורן עליון׃"
+    },
+    {
+      "uid": "Joshua_420",
+      "chapter_number": 16,
+      "verse_number": 6,
+      "start_char": 31952,
+      "end_char": 32028,
+      "length": 77,
+      "text": "ויצא הגבול הימה המכמתת מצפון ונסב הגבול מזרחה תאנת שלה ועבר אותו ממזרח ינוחה׃"
+    },
+    {
+      "uid": "Joshua_421",
+      "chapter_number": 16,
+      "verse_number": 7,
+      "start_char": 32029,
+      "end_char": 32076,
+      "length": 48,
+      "text": "וירד מינוחה עטרות ונערתה ופגע ביריחו ויצא הירדן׃"
+    },
+    {
+      "uid": "Joshua_422",
+      "chapter_number": 16,
+      "verse_number": 8,
+      "start_char": 32077,
+      "end_char": 32152,
+      "length": 76,
+      "text": "מתפוח ילך הגבול ימה נחל קנה והיו תצאתיו הימה זאת נחלת מטה בני־אפרים למשפחתם׃"
+    },
+    {
+      "uid": "Joshua_423",
+      "chapter_number": 16,
+      "verse_number": 9,
+      "start_char": 32153,
+      "end_char": 32214,
+      "length": 62,
+      "text": "והערים המבדלות לבני אפרים בתוך נחלת בני־מנשה כל־הערים וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_424",
+      "chapter_number": 16,
+      "verse_number": 10,
+      "start_char": 32215,
+      "end_char": 32294,
+      "length": 80,
+      "text": "ולא הורישו את־הכנעני היושב בגזר וישב הכנעני בקרב אפרים עד־היום הזה ויהי למס־עבד׃"
+    },
+    {
+      "uid": "Joshua_425",
+      "chapter_number": 17,
+      "verse_number": 1,
+      "start_char": 32295,
+      "end_char": 32399,
+      "length": 105,
+      "text": "ויהי הגורל למטה מנשה כי־הוא בכור יוסף למכיר בכור מנשה אבי הגלעד כי הוא היה איש מלחמה ויהי־לו הגלעד והבשן׃"
+    },
+    {
+      "uid": "Joshua_426",
+      "chapter_number": 17,
+      "verse_number": 2,
+      "start_char": 32400,
+      "end_char": 32533,
+      "length": 134,
+      "text": "ויהי לבני מנשה הנותרים למשפחתם לבני אביעזר ולבני־חלק ולבני אשריאל ולבני־שכם ולבני־חפר ולבני שמידע אלה בני מנשה בן־יוסף הזכרים למשפחתם׃"
+    },
+    {
+      "uid": "Joshua_427",
+      "chapter_number": 17,
+      "verse_number": 3,
+      "start_char": 32534,
+      "end_char": 32640,
+      "length": 107,
+      "text": "ולצלפחד בן־חפר בן־גלעד בן־מכיר בן־מנשה לא־היו לו בנים כי אם־בנות ואלה שמות בנתיו מחלה ונעה חגלה מלכה ותרצה׃"
+    },
+    {
+      "uid": "Joshua_428",
+      "chapter_number": 17,
+      "verse_number": 4,
+      "start_char": 32641,
+      "end_char": 32783,
+      "length": 143,
+      "text": "ותקרבנה לפני אלעזר הכהן ולפני׀ יהושע בן־נון ולפני הנשיאים לאמר יהוה צוה את־משה לתת־לנו נחלה בתוך אחינו ויתן להם אל־פי יהוה נחלה בתוך אחי אביהן׃"
+    },
+    {
+      "uid": "Joshua_429",
+      "chapter_number": 17,
+      "verse_number": 5,
+      "start_char": 32784,
+      "end_char": 32840,
+      "length": 57,
+      "text": "ויפלו חבלי־מנשה עשרה לבד מארץ הגלעד והבשן אשר מעבר לירדן׃"
+    },
+    {
+      "uid": "Joshua_430",
+      "chapter_number": 17,
+      "verse_number": 6,
+      "start_char": 32841,
+      "end_char": 32907,
+      "length": 67,
+      "text": "כי בנות מנשה נחלו נחלה בתוך בניו וארץ הגלעד היתה לבני־מנשה הנותרים׃"
+    },
+    {
+      "uid": "Joshua_431",
+      "chapter_number": 17,
+      "verse_number": 7,
+      "start_char": 32908,
+      "end_char": 32986,
+      "length": 79,
+      "text": "ויהי גבול־מנשה מאשר המכמתת אשר על־פני שכם והלך הגבול אל־הימין אל־ישבי עין תפוח׃"
+    },
+    {
+      "uid": "Joshua_432",
+      "chapter_number": 17,
+      "verse_number": 8,
+      "start_char": 32987,
+      "end_char": 33036,
+      "length": 50,
+      "text": "למנשה היתה ארץ תפוח ותפוח אל־גבול מנשה לבני אפרים׃"
+    },
+    {
+      "uid": "Joshua_433",
+      "chapter_number": 17,
+      "verse_number": 9,
+      "start_char": 33037,
+      "end_char": 33135,
+      "length": 99,
+      "text": "וירד הגבול נחל קנה נגבה לנחל ערים האלה לאפרים בתוך ערי מנשה וגבול מנשה מצפון לנחל ויהי תצאתיו הימה׃"
+    },
+    {
+      "uid": "Joshua_434",
+      "chapter_number": 17,
+      "verse_number": 10,
+      "start_char": 33136,
+      "end_char": 33208,
+      "length": 73,
+      "text": "נגבה לאפרים וצפונה למנשה ויהי הים גבולו ובאשר יפגעון מצפון וביששכר ממזרח׃"
+    },
+    {
+      "uid": "Joshua_435",
+      "chapter_number": 17,
+      "verse_number": 11,
+      "start_char": 33209,
+      "end_char": 33352,
+      "length": 144,
+      "text": "ויהי למנשה ביששכר ובאשר בית־שאן ובנותיה ויבלעם ובנותיה ואת־ישבי דאר ובנותיה וישבי עין־דר ובנותיה וישבי תענך ובנתיה וישבי מגדו ובנותיה שלשת הנפת׃"
+    },
+    {
+      "uid": "Joshua_436",
+      "chapter_number": 17,
+      "verse_number": 12,
+      "start_char": 33353,
+      "end_char": 33419,
+      "length": 67,
+      "text": "ולא יכלו בני מנשה להוריש את־הערים האלה ויואל הכנעני לשבת בארץ הזאת׃"
+    },
+    {
+      "uid": "Joshua_437",
+      "chapter_number": 17,
+      "verse_number": 13,
+      "start_char": 33420,
+      "end_char": 33478,
+      "length": 59,
+      "text": "ויהי כי חזקו בני ישראל ויתנו את־הכנעני למס והורש לא הורישו׃"
+    },
+    {
+      "uid": "Joshua_438",
+      "chapter_number": 17,
+      "verse_number": 14,
+      "start_char": 33479,
+      "end_char": 33579,
+      "length": 101,
+      "text": "וידברו בני יוסף את־יהושע לאמר מדוע נתתה לי נחלה גורל אחד וחבל אחד ואני עם־רב עד אשר־עד־כה ברכני יהוה׃"
+    },
+    {
+      "uid": "Joshua_439",
+      "chapter_number": 17,
+      "verse_number": 15,
+      "start_char": 33580,
+      "end_char": 33672,
+      "length": 93,
+      "text": "ויאמר אליהם יהושע אם־עם־רב אתה עלה לך היערה ובראת לך שם בארץ הפרזי והרפאים כי־אץ לך הר־אפרים׃"
+    },
+    {
+      "uid": "Joshua_440",
+      "chapter_number": 17,
+      "verse_number": 16,
+      "start_char": 33673,
+      "end_char": 33780,
+      "length": 108,
+      "text": "ויאמרו בני יוסף לא־ימצא לנו ההר ורכב ברזל בכל־הכנעני הישב בארץ־העמק לאשר בבית־שאן ובנותיה ולאשר בעמק יזרעאל׃"
+    },
+    {
+      "uid": "Joshua_441",
+      "chapter_number": 17,
+      "verse_number": 17,
+      "start_char": 33781,
+      "end_char": 33865,
+      "length": 85,
+      "text": "ויאמר יהושע אל־בית יוסף לאפרים ולמנשה לאמר עם־רב אתה וכח גדול לך לא־יהיה לך גורל אחד׃"
+    },
+    {
+      "uid": "Joshua_442",
+      "chapter_number": 17,
+      "verse_number": 18,
+      "start_char": 33866,
+      "end_char": 33957,
+      "length": 92,
+      "text": "כי הר יהיה־לך כי־יער הוא ובראתו והיה לך תצאתיו כי־תוריש את־הכנעני כי רכב ברזל לו כי חזק הוא׃"
+    },
+    {
+      "uid": "Joshua_443",
+      "chapter_number": 18,
+      "verse_number": 1,
+      "start_char": 33958,
+      "end_char": 34027,
+      "length": 70,
+      "text": "ויקהלו כל־עדת בני־ישראל שלה וישכינו שם את־אהל מועד והארץ נכבשה לפניהם׃"
+    },
+    {
+      "uid": "Joshua_444",
+      "chapter_number": 18,
+      "verse_number": 2,
+      "start_char": 34028,
+      "end_char": 34077,
+      "length": 50,
+      "text": "ויותרו בבני ישראל אשר לא־חלקו את־נחלתם שבעה שבטים׃"
+    },
+    {
+      "uid": "Joshua_445",
+      "chapter_number": 18,
+      "verse_number": 3,
+      "start_char": 34078,
+      "end_char": 34168,
+      "length": 91,
+      "text": "ויאמר יהושע אל־בני ישראל עד־אנה אתם מתרפים לבוא לרשת את־הארץ אשר נתן לכם יהוה אלהי אבותיכם׃"
+    },
+    {
+      "uid": "Joshua_446",
+      "chapter_number": 18,
+      "verse_number": 4,
+      "start_char": 34169,
+      "end_char": 34250,
+      "length": 82,
+      "text": "הבו לכם שלשה אנשים לשבט ואשלחם ויקמו ויתהלכו בארץ ויכתבו אותה לפי נחלתם ויבאו אלי׃"
+    },
+    {
+      "uid": "Joshua_447",
+      "chapter_number": 18,
+      "verse_number": 5,
+      "start_char": 34251,
+      "end_char": 34330,
+      "length": 80,
+      "text": "והתחלקו אתה לשבעה חלקים יהודה יעמד על־גבולו מנגב ובית יוסף יעמדו על־גבולם מצפון׃"
+    },
+    {
+      "uid": "Joshua_448",
+      "chapter_number": 18,
+      "verse_number": 6,
+      "start_char": 34331,
+      "end_char": 34411,
+      "length": 81,
+      "text": "ואתם תכתבו את־הארץ שבעה חלקים והבאתם אלי הנה ויריתי לכם גורל פה לפני יהוה אלהינו׃"
+    },
+    {
+      "uid": "Joshua_449",
+      "chapter_number": 18,
+      "verse_number": 7,
+      "start_char": 34412,
+      "end_char": 34533,
+      "length": 122,
+      "text": "כי אין־חלק ללוים בקרבכם כי־כהנת יהוה נחלתו וגד וראובן וחצי שבט המנשה לקחו נחלתם מעבר לירדן מזרחה אשר נתן להם משה עבד יהוה׃"
+    },
+    {
+      "uid": "Joshua_450",
+      "chapter_number": 18,
+      "verse_number": 8,
+      "start_char": 34534,
+      "end_char": 34663,
+      "length": 130,
+      "text": "ויקמו האנשים וילכו ויצו יהושע את־ההלכים לכתב את־הארץ לאמר לכו והתהלכו בארץ וכתבו אותה ושובו אלי ופה אשליך לכם גורל לפני יהוה בשלה׃"
+    },
+    {
+      "uid": "Joshua_451",
+      "chapter_number": 18,
+      "verse_number": 9,
+      "start_char": 34664,
+      "end_char": 34749,
+      "length": 86,
+      "text": "וילכו האנשים ויעברו בארץ ויכתבוה לערים לשבעה חלקים על־ספר ויבאו אל־יהושע אל־המחנה שלה׃"
+    },
+    {
+      "uid": "Joshua_452",
+      "chapter_number": 18,
+      "verse_number": 10,
+      "start_char": 34750,
+      "end_char": 34827,
+      "length": 78,
+      "text": "וישלך להם יהושע גורל בשלה לפני יהוה ויחלק־שם יהושע את־הארץ לבני ישראל כמחלקתם׃"
+    },
+    {
+      "uid": "Joshua_453",
+      "chapter_number": 18,
+      "verse_number": 11,
+      "start_char": 34828,
+      "end_char": 34903,
+      "length": 76,
+      "text": "ויעל גורל מטה בני־בנימן למשפחתם ויצא גבול גורלם בין בני יהודה ובין בני יוסף׃"
+    },
+    {
+      "uid": "Joshua_454",
+      "chapter_number": 18,
+      "verse_number": 12,
+      "start_char": 34904,
+      "end_char": 35016,
+      "length": 113,
+      "text": "ויהי להם הגבול לפאת צפונה מן־הירדן ועלה הגבול אל־כתף יריחו מצפון ועלה בהר ימה (והיה) [והיו] תצאתיו מדברה בית און׃"
+    },
+    {
+      "uid": "Joshua_455",
+      "chapter_number": 18,
+      "verse_number": 13,
+      "start_char": 35017,
+      "end_char": 35117,
+      "length": 101,
+      "text": "ועבר משם הגבול לוזה אל־כתף לוזה נגבה היא בית־אל וירד הגבול עטרות אדר על־ההר אשר מנגב לבית־חרון תחתון׃"
+    },
+    {
+      "uid": "Joshua_456",
+      "chapter_number": 18,
+      "verse_number": 14,
+      "start_char": 35118,
+      "end_char": 35251,
+      "length": 134,
+      "text": "ותאר הגבול ונסב לפאת־ים נגבה מן־ההר אשר על־פני בית־חרון נגבה (והיה) [והיו] תצאתיו אל־קרית־בעל היא קרית יערים עיר בני יהודה זאת פאת־ים׃"
+    },
+    {
+      "uid": "Joshua_457",
+      "chapter_number": 18,
+      "verse_number": 15,
+      "start_char": 35252,
+      "end_char": 35314,
+      "length": 63,
+      "text": "ופאת־נגבה מקצה קרית יערים ויצא הגבול ימה ויצא אל־מעין מי נפתוח׃"
+    },
+    {
+      "uid": "Joshua_458",
+      "chapter_number": 18,
+      "verse_number": 16,
+      "start_char": 35315,
+      "end_char": 35422,
+      "length": 108,
+      "text": "וירד הגבול אל־קצה ההר אשר על־פני גי בן־הנם אשר בעמק רפאים צפונה וירד גי הנם אל־כתף היבוסי נגבה וירד עין רגל׃"
+    },
+    {
+      "uid": "Joshua_459",
+      "chapter_number": 18,
+      "verse_number": 17,
+      "start_char": 35423,
+      "end_char": 35502,
+      "length": 80,
+      "text": "ותאר מצפון ויצא עין שמש ויצא אל־גלילות אשר־נכח מעלה אדמים וירד אבן בהן בן־ראובן׃"
+    },
+    {
+      "uid": "Joshua_460",
+      "chapter_number": 18,
+      "verse_number": 18,
+      "start_char": 35503,
+      "end_char": 35542,
+      "length": 40,
+      "text": "ועבר אל־כתף מול־הערבה צפונה וירד הערבתה׃"
+    },
+    {
+      "uid": "Joshua_461",
+      "chapter_number": 18,
+      "verse_number": 19,
+      "start_char": 35543,
+      "end_char": 35666,
+      "length": 124,
+      "text": "ועבר הגבול אל־כתף בית־חגלה צפונה (והיה) [והיו׀] (תצאותיו) [תצאות] הגבול אל־לשון ים־המלח צפונה אל־קצה הירדן נגבה זה גבול נגב׃"
+    },
+    {
+      "uid": "Joshua_462",
+      "chapter_number": 18,
+      "verse_number": 20,
+      "start_char": 35667,
+      "end_char": 35733,
+      "length": 67,
+      "text": "והירדן יגבל־אתו לפאת־קדמה זאת נחלת בני בנימן לגבולתיה סביב למשפחתם׃"
+    },
+    {
+      "uid": "Joshua_463",
+      "chapter_number": 18,
+      "verse_number": 21,
+      "start_char": 35734,
+      "end_char": 35796,
+      "length": 63,
+      "text": "והיו הערים למטה בני בנימן למשפחותיהם יריחו ובית־חגלה ועמק קציץ׃"
+    },
+    {
+      "uid": "Joshua_464",
+      "chapter_number": 18,
+      "verse_number": 22,
+      "start_char": 35797,
+      "end_char": 35822,
+      "length": 26,
+      "text": "ובית הערבה וצמרים ובית־אל׃"
+    },
+    {
+      "uid": "Joshua_465",
+      "chapter_number": 18,
+      "verse_number": 23,
+      "start_char": 35823,
+      "end_char": 35841,
+      "length": 19,
+      "text": "והעוים והפרה ועפרה׃"
+    },
+    {
+      "uid": "Joshua_466",
+      "chapter_number": 18,
+      "verse_number": 24,
+      "start_char": 35842,
+      "end_char": 35897,
+      "length": 56,
+      "text": "וכפר (העמני) [העמנה] והעפני וגבע ערים שתים־עשרה וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_467",
+      "chapter_number": 18,
+      "verse_number": 25,
+      "start_char": 35898,
+      "end_char": 35916,
+      "length": 19,
+      "text": "גבעון והרמה ובארות׃"
+    },
+    {
+      "uid": "Joshua_468",
+      "chapter_number": 18,
+      "verse_number": 26,
+      "start_char": 35917,
+      "end_char": 35937,
+      "length": 21,
+      "text": "והמצפה והכפירה והמצה׃"
+    },
+    {
+      "uid": "Joshua_469",
+      "chapter_number": 18,
+      "verse_number": 27,
+      "start_char": 35938,
+      "end_char": 35956,
+      "length": 19,
+      "text": "ורקם וירפאל ותראלה׃"
+    },
+    {
+      "uid": "Joshua_470",
+      "chapter_number": 18,
+      "verse_number": 28,
+      "start_char": 35957,
+      "end_char": 36046,
+      "length": 90,
+      "text": "וצלע האלף והיבוסי היא ירושל͏ם גבעת קרית ערים ארבע־עשרה וחצריהן זאת נחלת בני־בנימן למשפחתם׃"
+    },
+    {
+      "uid": "Joshua_471",
+      "chapter_number": 19,
+      "verse_number": 1,
+      "start_char": 36047,
+      "end_char": 36124,
+      "length": 78,
+      "text": "ויצא הגורל השני לשמעון למטה בני־שמעון למשפחותם ויהי נחלתם בתוך נחלת בני־יהודה׃"
+    },
+    {
+      "uid": "Joshua_472",
+      "chapter_number": 19,
+      "verse_number": 2,
+      "start_char": 36125,
+      "end_char": 36160,
+      "length": 36,
+      "text": "ויהי להם בנחלתם באר־שבע ושבע ומולדה׃"
+    },
+    {
+      "uid": "Joshua_473",
+      "chapter_number": 19,
+      "verse_number": 3,
+      "start_char": 36161,
+      "end_char": 36180,
+      "length": 20,
+      "text": "וחצר שועל ובלה ועצם׃"
+    },
+    {
+      "uid": "Joshua_474",
+      "chapter_number": 19,
+      "verse_number": 4,
+      "start_char": 36181,
+      "end_char": 36200,
+      "length": 20,
+      "text": "ואלתולד ובתול וחרמה׃"
+    },
+    {
+      "uid": "Joshua_475",
+      "chapter_number": 19,
+      "verse_number": 5,
+      "start_char": 36201,
+      "end_char": 36229,
+      "length": 29,
+      "text": "וצקלג ובית־המרכבות וחצר סוסה׃"
+    },
+    {
+      "uid": "Joshua_476",
+      "chapter_number": 19,
+      "verse_number": 6,
+      "start_char": 36230,
+      "end_char": 36269,
+      "length": 40,
+      "text": "ובית לבאות ושרוחן ערים שלש־עשרה וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_477",
+      "chapter_number": 19,
+      "verse_number": 7,
+      "start_char": 36270,
+      "end_char": 36306,
+      "length": 37,
+      "text": "עין׀רמון ועתר ועשן ערים ארבע וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_478",
+      "chapter_number": 19,
+      "verse_number": 8,
+      "start_char": 36307,
+      "end_char": 36391,
+      "length": 85,
+      "text": "וכל־החצרים אשר סביבות הערים האלה עד־בעלת באר ראמת נגב זאת נחלת מטה בני־שמעון למשפחתם׃"
+    },
+    {
+      "uid": "Joshua_479",
+      "chapter_number": 19,
+      "verse_number": 9,
+      "start_char": 36392,
+      "end_char": 36477,
+      "length": 86,
+      "text": "מחבל בני יהודה נחלת בני שמעון כי־היה חלק בני־יהודה רב מהם וינחלו בני־שמעון בתוך נחלתם׃"
+    },
+    {
+      "uid": "Joshua_480",
+      "chapter_number": 19,
+      "verse_number": 10,
+      "start_char": 36478,
+      "end_char": 36538,
+      "length": 61,
+      "text": "ויעל הגורל השלישי לבני זבולן למשפחתם ויהי גבול נחלתם עד־שריד׃"
+    },
+    {
+      "uid": "Joshua_481",
+      "chapter_number": 19,
+      "verse_number": 11,
+      "start_char": 36539,
+      "end_char": 36602,
+      "length": 64,
+      "text": "ועלה גבולם׀לימה ומרעלה ופגע בדבשת ופגע אל־הנחל אשר על־פני יקנעם׃"
+    },
+    {
+      "uid": "Joshua_482",
+      "chapter_number": 19,
+      "verse_number": 12,
+      "start_char": 36603,
+      "end_char": 36668,
+      "length": 66,
+      "text": "ושב משריד קדמה מזרח השמש על־גבול כסלת תבר ויצא אל־הדברת ועלה יפיע׃"
+    },
+    {
+      "uid": "Joshua_483",
+      "chapter_number": 19,
+      "verse_number": 13,
+      "start_char": 36669,
+      "end_char": 36726,
+      "length": 58,
+      "text": "ומשם עבר קדמה מזרחה גתה חפר עתה קצין ויצא רמון המתאר הנעה׃"
+    },
+    {
+      "uid": "Joshua_484",
+      "chapter_number": 19,
+      "verse_number": 14,
+      "start_char": 36727,
+      "end_char": 36775,
+      "length": 49,
+      "text": "ונסב אתו הגבול מצפון חנתן והיו תצאתיו גי יפתח־אל׃"
+    },
+    {
+      "uid": "Joshua_485",
+      "chapter_number": 19,
+      "verse_number": 15,
+      "start_char": 36776,
+      "end_char": 36832,
+      "length": 57,
+      "text": "וקטת ונהלל ושמרון וידאלה ובית לחם ערים שתים־עשרה וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_486",
+      "chapter_number": 19,
+      "verse_number": 16,
+      "start_char": 36833,
+      "end_char": 36879,
+      "length": 47,
+      "text": "זאת נחלת בני־זבולן למשפחותם הערים האלה וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_487",
+      "chapter_number": 19,
+      "verse_number": 17,
+      "start_char": 36880,
+      "end_char": 36923,
+      "length": 44,
+      "text": "ליששכר יצא הגורל הרביעי לבני יששכר למשפחותם׃"
+    },
+    {
+      "uid": "Joshua_488",
+      "chapter_number": 19,
+      "verse_number": 18,
+      "start_char": 36924,
+      "end_char": 36956,
+      "length": 33,
+      "text": "ויהי גבולם יזרעאלה והכסולת ושונם׃"
+    },
+    {
+      "uid": "Joshua_489",
+      "chapter_number": 19,
+      "verse_number": 19,
+      "start_char": 36957,
+      "end_char": 36976,
+      "length": 20,
+      "text": "וחפרים ושיאן ואנחרת׃"
+    },
+    {
+      "uid": "Joshua_490",
+      "chapter_number": 19,
+      "verse_number": 20,
+      "start_char": 36977,
+      "end_char": 36995,
+      "length": 19,
+      "text": "והרבית וקשיון ואבץ׃"
+    },
+    {
+      "uid": "Joshua_491",
+      "chapter_number": 19,
+      "verse_number": 21,
+      "start_char": 36996,
+      "end_char": 37028,
+      "length": 33,
+      "text": "ורמת ועין־גנים ועין חדה ובית פצץ׃"
+    },
+    {
+      "uid": "Joshua_492",
+      "chapter_number": 19,
+      "verse_number": 22,
+      "start_char": 37029,
+      "end_char": 37118,
+      "length": 90,
+      "text": "ופגע הגבול בתבור (ושחצומה) [ושחצימה] ובית שמש והיו תצאות גבולם הירדן ערים שש־עשרה וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_493",
+      "chapter_number": 19,
+      "verse_number": 23,
+      "start_char": 37119,
+      "end_char": 37163,
+      "length": 45,
+      "text": "זאת נחלת מטה בני־יששכר למשפחתם הערים וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_494",
+      "chapter_number": 19,
+      "verse_number": 24,
+      "start_char": 37164,
+      "end_char": 37203,
+      "length": 40,
+      "text": "ויצא הגורל החמישי למטה בני־אשר למשפחותם׃"
+    },
+    {
+      "uid": "Joshua_495",
+      "chapter_number": 19,
+      "verse_number": 25,
+      "start_char": 37204,
+      "end_char": 37235,
+      "length": 32,
+      "text": "ויהי גבולם חלקת וחלי ובטן ואכשף׃"
+    },
+    {
+      "uid": "Joshua_496",
+      "chapter_number": 19,
+      "verse_number": 26,
+      "start_char": 37236,
+      "end_char": 37283,
+      "length": 48,
+      "text": "ואלמלך ועמעד ומשאל ופגע בכרמל הימה ובשיחור לבנת׃"
+    },
+    {
+      "uid": "Joshua_497",
+      "chapter_number": 19,
+      "verse_number": 27,
+      "start_char": 37284,
+      "end_char": 37371,
+      "length": 88,
+      "text": "ושב מזרח השמש בית דגן ופגע בזבלון ובגי יפתח־אל צפונה בית העמק ונעיאל ויצא אל־כבול משמאל׃"
+    },
+    {
+      "uid": "Joshua_498",
+      "chapter_number": 19,
+      "verse_number": 28,
+      "start_char": 37372,
+      "end_char": 37406,
+      "length": 35,
+      "text": "ועברן ורחב וחמון וקנה עד צידון רבה׃"
+    },
+    {
+      "uid": "Joshua_499",
+      "chapter_number": 19,
+      "verse_number": 29,
+      "start_char": 37407,
+      "end_char": 37490,
+      "length": 84,
+      "text": "ושב הגבול הרמה ועד־עיר מבצר־צר ושב הגבול חסה (ויהיו) [והיו] תצאתיו הימה מחבל אכזיבה׃"
+    },
+    {
+      "uid": "Joshua_500",
+      "chapter_number": 19,
+      "verse_number": 30,
+      "start_char": 37491,
+      "end_char": 37530,
+      "length": 40,
+      "text": "ועמה ואפק ורחב ערים עשרים ושתים וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_501",
+      "chapter_number": 19,
+      "verse_number": 31,
+      "start_char": 37531,
+      "end_char": 37578,
+      "length": 48,
+      "text": "זאת נחלת מטה בני־אשר למשפחתם הערים האלה וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_502",
+      "chapter_number": 19,
+      "verse_number": 32,
+      "start_char": 37579,
+      "end_char": 37623,
+      "length": 45,
+      "text": "לבני נפתלי יצא הגורל הששי לבני נפתלי למשפחתם׃"
+    },
+    {
+      "uid": "Joshua_503",
+      "chapter_number": 19,
+      "verse_number": 33,
+      "start_char": 37624,
+      "end_char": 37697,
+      "length": 74,
+      "text": "ויהי גבולם מחלף מאלון בצעננים ואדמי הנקב ויבנאל עד־לקום ויהי תצאתיו הירדן׃"
+    },
+    {
+      "uid": "Joshua_504",
+      "chapter_number": 19,
+      "verse_number": 34,
+      "start_char": 37698,
+      "end_char": 37792,
+      "length": 95,
+      "text": "ושב הגבול ימה אזנות תבור ויצא משם חוקקה ופגע בזבלון מנגב ובאשר פגע מים וביהודה הירדן מזרח השמש׃"
+    },
+    {
+      "uid": "Joshua_505",
+      "chapter_number": 19,
+      "verse_number": 35,
+      "start_char": 37793,
+      "end_char": 37826,
+      "length": 34,
+      "text": "וערי מבצר הצדים צר וחמת רקת וכנרת׃"
+    },
+    {
+      "uid": "Joshua_506",
+      "chapter_number": 19,
+      "verse_number": 36,
+      "start_char": 37827,
+      "end_char": 37844,
+      "length": 18,
+      "text": "ואדמה והרמה וחצור׃"
+    },
+    {
+      "uid": "Joshua_507",
+      "chapter_number": 19,
+      "verse_number": 37,
+      "start_char": 37845,
+      "end_char": 37866,
+      "length": 22,
+      "text": "וקדש ואדרעי ועין חצור׃"
+    },
+    {
+      "uid": "Joshua_508",
+      "chapter_number": 19,
+      "verse_number": 38,
+      "start_char": 37867,
+      "end_char": 37926,
+      "length": 60,
+      "text": "ויראון ומגדל־אל חרם ובית־ענת ובית שמש ערים תשע־עשרה וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_509",
+      "chapter_number": 19,
+      "verse_number": 39,
+      "start_char": 37927,
+      "end_char": 37971,
+      "length": 45,
+      "text": "זאת נחלת מטה בני־נפתלי למשפחתם הערים וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_510",
+      "chapter_number": 19,
+      "verse_number": 40,
+      "start_char": 37972,
+      "end_char": 38008,
+      "length": 37,
+      "text": "למטה בני־דן למשפחתם יצא הגורל השביעי׃"
+    },
+    {
+      "uid": "Joshua_511",
+      "chapter_number": 19,
+      "verse_number": 41,
+      "start_char": 38009,
+      "end_char": 38046,
+      "length": 38,
+      "text": "ויהי גבול נחלתם צרעה ואשתאול ועיר שמש׃"
+    },
+    {
+      "uid": "Joshua_512",
+      "chapter_number": 19,
+      "verse_number": 42,
+      "start_char": 38047,
+      "end_char": 38067,
+      "length": 21,
+      "text": "ושעלבין ואילון ויתלה׃"
+    },
+    {
+      "uid": "Joshua_513",
+      "chapter_number": 19,
+      "verse_number": 43,
+      "start_char": 38068,
+      "end_char": 38088,
+      "length": 21,
+      "text": "ואילון ותמנתה ועקרון׃"
+    },
+    {
+      "uid": "Joshua_514",
+      "chapter_number": 19,
+      "verse_number": 44,
+      "start_char": 38089,
+      "end_char": 38108,
+      "length": 20,
+      "text": "ואלתקה וגבתון ובעלת׃"
+    },
+    {
+      "uid": "Joshua_515",
+      "chapter_number": 19,
+      "verse_number": 45,
+      "start_char": 38109,
+      "end_char": 38131,
+      "length": 23,
+      "text": "ויהד ובני־ברק וגת־רמון׃"
+    },
+    {
+      "uid": "Joshua_516",
+      "chapter_number": 19,
+      "verse_number": 46,
+      "start_char": 38132,
+      "end_char": 38166,
+      "length": 35,
+      "text": "ומי הירקון והרקון עם־הגבול מול יפו׃"
+    },
+    {
+      "uid": "Joshua_517",
+      "chapter_number": 19,
+      "verse_number": 47,
+      "start_char": 38167,
+      "end_char": 38293,
+      "length": 127,
+      "text": "ויצא גבול־בני־דן מהם ויעלו בני־דן וילחמו עם־לשם וילכדו אותה׀ ויכו אותה לפי־חרב וירשו אותה וישבו בה ויקראו ללשם דן כשם דן אביהם׃"
+    },
+    {
+      "uid": "Joshua_518",
+      "chapter_number": 19,
+      "verse_number": 48,
+      "start_char": 38294,
+      "end_char": 38340,
+      "length": 47,
+      "text": "זאת נחלת מטה בני־דן למשפחתם הערים האלה וחצריהן׃"
+    },
+    {
+      "uid": "Joshua_519",
+      "chapter_number": 19,
+      "verse_number": 49,
+      "start_char": 38341,
+      "end_char": 38409,
+      "length": 69,
+      "text": "ויכלו לנחל־את־הארץ לגבולתיה ויתנו בני־ישראל נחלה ליהושע בן־נון בתוכם׃"
+    },
+    {
+      "uid": "Joshua_520",
+      "chapter_number": 19,
+      "verse_number": 50,
+      "start_char": 38410,
+      "end_char": 38488,
+      "length": 79,
+      "text": "על־פי יהוה נתנו לו את־העיר אשר שאל את־תמנת־סרח בהר אפרים ויבנה את־העיר וישב בה׃"
+    },
+    {
+      "uid": "Joshua_521",
+      "chapter_number": 19,
+      "verse_number": 51,
+      "start_char": 38489,
+      "end_char": 38613,
+      "length": 125,
+      "text": "אלה הנחלת אשר נחלו אלעזר הכהן׀ויהושע בן־נון וראשי האבות למטות בני־ישראל׀בגורל׀בשלה לפני יהוה פתח אהל מועד ויכלו מחלק את־הארץ׃"
+    },
+    {
+      "uid": "Joshua_522",
+      "chapter_number": 20,
+      "verse_number": 1,
+      "start_char": 38614,
+      "end_char": 38638,
+      "length": 25,
+      "text": "וידבר יהוה אל־יהושע לאמר׃"
+    },
+    {
+      "uid": "Joshua_523",
+      "chapter_number": 20,
+      "verse_number": 2,
+      "start_char": 38639,
+      "end_char": 38705,
+      "length": 67,
+      "text": "דבר אל־בני ישראל לאמר תנו לכם את־ערי המקלט אשר־דברתי אליכם ביד־משה׃"
+    },
+    {
+      "uid": "Joshua_524",
+      "chapter_number": 20,
+      "verse_number": 3,
+      "start_char": 38706,
+      "end_char": 38766,
+      "length": 61,
+      "text": "לנוס שמה רוצח מכה־נפש בשגגה בבלי־דעת והיו לכם למקלט מגאל הדם׃"
+    },
+    {
+      "uid": "Joshua_525",
+      "chapter_number": 20,
+      "verse_number": 4,
+      "start_char": 38767,
+      "end_char": 38888,
+      "length": 122,
+      "text": "ונס אל־אחת׀ מהערים האלה ועמד פתח שער העיר ודבר באזני זקני־העיר ההיא את־דבריו ואספו אתו העירה אליהם ונתנו־לו מקום וישב עמם׃"
+    },
+    {
+      "uid": "Joshua_526",
+      "chapter_number": 20,
+      "verse_number": 5,
+      "start_char": 38889,
+      "end_char": 38985,
+      "length": 97,
+      "text": "וכי ירדף גאל הדם אחריו ולא־יסגרו את־הרצח בידו כי בבלי־דעת הכה את־רעהו ולא־שנא הוא לו מתמול שלשום׃"
+    },
+    {
+      "uid": "Joshua_527",
+      "chapter_number": 20,
+      "verse_number": 6,
+      "start_char": 38986,
+      "end_char": 39117,
+      "length": 132,
+      "text": "וישב׀ בעיר ההיא עד־עמדו לפני העדה למשפט עד־מות הכהן הגדול אשר יהיה בימים ההם אז׀ ישוב הרוצח ובא אל־עירו ואל־ביתו אל־העיר אשר־נס משם׃"
+    },
+    {
+      "uid": "Joshua_528",
+      "chapter_number": 20,
+      "verse_number": 7,
+      "start_char": 39118,
+      "end_char": 39199,
+      "length": 82,
+      "text": "ויקדשו את־קדש בגליל בהר נפתלי ואת־שכם בהר אפרים ואת־קרית ארבע היא חברון בהר יהודה׃"
+    },
+    {
+      "uid": "Joshua_529",
+      "chapter_number": 20,
+      "verse_number": 8,
+      "start_char": 39200,
+      "end_char": 39314,
+      "length": 115,
+      "text": "ומעבר לירדן יריחו מזרחה נתנו את־בצר במדבר במישר ממטה ראובן ואת־ראמת בגלעד ממטה־גד ואת־[גולן] (גלון) בבשן ממטה מנשה׃"
+    },
+    {
+      "uid": "Joshua_530",
+      "chapter_number": 20,
+      "verse_number": 9,
+      "start_char": 39315,
+      "end_char": 39428,
+      "length": 114,
+      "text": "אלה היו ערי המועדה לכל׀ בני ישראל ולגר הגר בתוכם לנוס שמה כל־מכה־נפש בשגגה ולא ימות ביד גאל הדם עד־עמדו לפני העדה׃"
+    },
+    {
+      "uid": "Joshua_531",
+      "chapter_number": 21,
+      "verse_number": 1,
+      "start_char": 39429,
+      "end_char": 39512,
+      "length": 84,
+      "text": "ויגשו ראשי אבות הלוים אל־אלעזר הכהן ואל־יהושע בן־נון ואל־ראשי אבות המטות לבני ישראל׃"
+    },
+    {
+      "uid": "Joshua_532",
+      "chapter_number": 21,
+      "verse_number": 2,
+      "start_char": 39513,
+      "end_char": 39597,
+      "length": 85,
+      "text": "וידברו אליהם בשלה בארץ כנען לאמר יהוה צוה ביד־משה לתת־לנו ערים לשבת ומגרשיהן לבהמתנו׃"
+    },
+    {
+      "uid": "Joshua_533",
+      "chapter_number": 21,
+      "verse_number": 3,
+      "start_char": 39598,
+      "end_char": 39663,
+      "length": 66,
+      "text": "ויתנו בני־ישראל ללוים מנחלתם אל־פי יהוה את־הערים האלה ואת־מגרשיהן׃"
+    },
+    {
+      "uid": "Joshua_534",
+      "chapter_number": 21,
+      "verse_number": 4,
+      "start_char": 39664,
+      "end_char": 39772,
+      "length": 109,
+      "text": "ויצא הגורל למשפחת הקהתי ויהי לבני אהרן הכהן מן־הלוים ממטה יהודה וממטה השמעני וממטה בנימן בגורל ערים שלש עשרה׃"
+    },
+    {
+      "uid": "Joshua_535",
+      "chapter_number": 21,
+      "verse_number": 5,
+      "start_char": 39773,
+      "end_char": 39846,
+      "length": 74,
+      "text": "ולבני קהת הנותרים ממשפחת מטה־אפרים וממטה־דן ומחצי מטה מנשה בגורל ערים עשר׃"
+    },
+    {
+      "uid": "Joshua_536",
+      "chapter_number": 21,
+      "verse_number": 6,
+      "start_char": 39847,
+      "end_char": 39938,
+      "length": 92,
+      "text": "ולבני גרשון ממשפחות מטה־יששכר וממטה־אשר וממטה נפתלי ומחצי מטה מנשה בבשן בגורל ערים שלש עשרה׃"
+    },
+    {
+      "uid": "Joshua_537",
+      "chapter_number": 21,
+      "verse_number": 7,
+      "start_char": 39939,
+      "end_char": 40003,
+      "length": 65,
+      "text": "לבני מררי למשפחתם ממטה ראובן וממטה־גד וממטה זבולן ערים שתים עשרה׃"
+    },
+    {
+      "uid": "Joshua_538",
+      "chapter_number": 21,
+      "verse_number": 8,
+      "start_char": 40004,
+      "end_char": 40079,
+      "length": 76,
+      "text": "ויתנו בני־ישראל ללוים את־הערים האלה ואת־מגרשיהן כאשר צוה יהוה ביד־משה בגורל׃"
+    },
+    {
+      "uid": "Joshua_539",
+      "chapter_number": 21,
+      "verse_number": 9,
+      "start_char": 40080,
+      "end_char": 40148,
+      "length": 69,
+      "text": "ויתנו ממטה בני יהודה וממטה בני שמעון את הערים האלה אשר־יקרא אתהן בשם׃"
+    },
+    {
+      "uid": "Joshua_540",
+      "chapter_number": 21,
+      "verse_number": 10,
+      "start_char": 40149,
+      "end_char": 40210,
+      "length": 62,
+      "text": "ויהי לבני אהרן ממשפחות הקהתי מבני לוי כי להם היה הגורל ראישנה׃"
+    },
+    {
+      "uid": "Joshua_541",
+      "chapter_number": 21,
+      "verse_number": 11,
+      "start_char": 40211,
+      "end_char": 40281,
+      "length": 71,
+      "text": "ויתנו להם את־קרית ארבע אבי הענוק היא חברון בהר יהודה ואת־מגרשה סביבתיה׃"
+    },
+    {
+      "uid": "Joshua_542",
+      "chapter_number": 21,
+      "verse_number": 12,
+      "start_char": 40282,
+      "end_char": 40329,
+      "length": 48,
+      "text": "ואת־שדה העיר ואת־חצריה נתנו לכלב בן־יפנה באחזתו׃"
+    },
+    {
+      "uid": "Joshua_543",
+      "chapter_number": 21,
+      "verse_number": 13,
+      "start_char": 40330,
+      "end_char": 40406,
+      "length": 77,
+      "text": "ולבני׀ אהרן הכהן נתנו את־עיר מקלט הרצח את־חברון ואת־מגרשה ואת־לבנה ואת־מגרשה׃"
+    },
+    {
+      "uid": "Joshua_544",
+      "chapter_number": 21,
+      "verse_number": 14,
+      "start_char": 40407,
+      "end_char": 40444,
+      "length": 38,
+      "text": "ואת־יתר ואת־מגרשה ואת־אשתמע ואת־מגרשה׃"
+    },
+    {
+      "uid": "Joshua_545",
+      "chapter_number": 21,
+      "verse_number": 15,
+      "start_char": 40445,
+      "end_char": 40480,
+      "length": 36,
+      "text": "ואת־חלן ואת־מגרשה ואת־דבר ואת־מגרשה׃"
+    },
+    {
+      "uid": "Joshua_546",
+      "chapter_number": 21,
+      "verse_number": 16,
+      "start_char": 40481,
+      "end_char": 40566,
+      "length": 86,
+      "text": "ואת־עין ואת־מגרשה ואת־יטה ואת־מגרשה את־בית שמש ואת־מגרשה ערים תשע מאת שני השבטים האלה׃"
+    },
+    {
+      "uid": "Joshua_547",
+      "chapter_number": 21,
+      "verse_number": 17,
+      "start_char": 40567,
+      "end_char": 40615,
+      "length": 49,
+      "text": "וממטה בנימין את־גבעון ואת־מגרשה את־גבע ואת־מגרשה׃"
+    },
+    {
+      "uid": "Joshua_548",
+      "chapter_number": 21,
+      "verse_number": 18,
+      "start_char": 40616,
+      "end_char": 40664,
+      "length": 49,
+      "text": "את־ענתות ואת־מגרשה ואת־עלמון ואת־מגרשה ערים ארבע׃"
+    },
+    {
+      "uid": "Joshua_549",
+      "chapter_number": 21,
+      "verse_number": 19,
+      "start_char": 40665,
+      "end_char": 40710,
+      "length": 46,
+      "text": "כל־ערי בני־אהרן הכהנים שלש־עשרה ערים ומגרשיהן׃"
+    },
+    {
+      "uid": "Joshua_550",
+      "chapter_number": 21,
+      "verse_number": 20,
+      "start_char": 40711,
+      "end_char": 40776,
+      "length": 66,
+      "text": "ולמשפחות בני־קהת הלוים הנותרים מבני קהת ויהי ערי גורלם ממטה אפרים׃"
+    },
+    {
+      "uid": "Joshua_551",
+      "chapter_number": 21,
+      "verse_number": 21,
+      "start_char": 40777,
+      "end_char": 40848,
+      "length": 72,
+      "text": "ויתנו להם את־עיר מקלט הרצח את־שכם ואת־מגרשה בהר אפרים ואת־גזר ואת־מגרשה׃"
+    },
+    {
+      "uid": "Joshua_552",
+      "chapter_number": 21,
+      "verse_number": 22,
+      "start_char": 40849,
+      "end_char": 40901,
+      "length": 53,
+      "text": "ואת־קבצים ואת־מגרשה ואת־בית חורן ואת־מגרשה ערים ארבע׃"
+    },
+    {
+      "uid": "Joshua_553",
+      "chapter_number": 21,
+      "verse_number": 23,
+      "start_char": 40902,
+      "end_char": 40948,
+      "length": 47,
+      "text": "וממטה־דן את־אלתקא ואת־מגרשה את־גבתון ואת־מגרשה׃"
+    },
+    {
+      "uid": "Joshua_554",
+      "chapter_number": 21,
+      "verse_number": 24,
+      "start_char": 40949,
+      "end_char": 40998,
+      "length": 50,
+      "text": "את־אילון ואת־מגרשה את־גת־רמון ואת־מגרשה ערים ארבע׃"
+    },
+    {
+      "uid": "Joshua_555",
+      "chapter_number": 21,
+      "verse_number": 25,
+      "start_char": 40999,
+      "end_char": 41065,
+      "length": 67,
+      "text": "וממחצית מטה מנשה את־תענך ואת־מגרשה ואת־גת רמון ואת־מגרשה ערים שתים׃"
+    },
+    {
+      "uid": "Joshua_556",
+      "chapter_number": 21,
+      "verse_number": 26,
+      "start_char": 41066,
+      "end_char": 41110,
+      "length": 45,
+      "text": "כל־ערים עשר ומגרשיהן למשפחות בני־קהת הנותרים׃"
+    },
+    {
+      "uid": "Joshua_557",
+      "chapter_number": 21,
+      "verse_number": 27,
+      "start_char": 41111,
+      "end_char": 41229,
+      "length": 119,
+      "text": "ולבני גרשון ממשפחת הלוים מחצי מטה מנשה את־עיר מקלט הרצח את־[גולן] (גלון) בבשן ואת־מגרשה ואת־בעשתרה ואת־מגרשה ערים שתים׃"
+    },
+    {
+      "uid": "Joshua_558",
+      "chapter_number": 21,
+      "verse_number": 28,
+      "start_char": 41230,
+      "end_char": 41278,
+      "length": 49,
+      "text": "וממטה יששכר את־קשיון ואת־מגרשה את־דברת ואת־מגרשה׃"
+    },
+    {
+      "uid": "Joshua_559",
+      "chapter_number": 21,
+      "verse_number": 29,
+      "start_char": 41279,
+      "end_char": 41329,
+      "length": 51,
+      "text": "את־ירמות ואת־מגרשה את־עין גנים ואת־מגרשה ערים ארבע׃"
+    },
+    {
+      "uid": "Joshua_560",
+      "chapter_number": 21,
+      "verse_number": 30,
+      "start_char": 41330,
+      "end_char": 41376,
+      "length": 47,
+      "text": "וממטה אשר את־משאל ואת־מגרשה את־עבדון ואת־מגרשה׃"
+    },
+    {
+      "uid": "Joshua_561",
+      "chapter_number": 21,
+      "verse_number": 31,
+      "start_char": 41377,
+      "end_char": 41422,
+      "length": 46,
+      "text": "את־חלקת ואת־מגרשה ואת־רחב ואת־מגרשה ערים ארבע׃"
+    },
+    {
+      "uid": "Joshua_562",
+      "chapter_number": 21,
+      "verse_number": 32,
+      "start_char": 41423,
+      "end_char": 41525,
+      "length": 103,
+      "text": "וממטה נפתלי את־עיר׀ מקלט הרצח את־קדש בגליל ואת־מגרשה ואת־חמת דאר ואת־מגרשה ואת־קרתן ואת־מגרשה ערים שלש׃"
+    },
+    {
+      "uid": "Joshua_563",
+      "chapter_number": 21,
+      "verse_number": 33,
+      "start_char": 41526,
+      "end_char": 41569,
+      "length": 44,
+      "text": "כל־ערי הגרשני למשפחתם שלש־עשרה עיר ומגרשיהן׃"
+    },
+    {
+      "uid": "Joshua_564",
+      "chapter_number": 21,
+      "verse_number": 34,
+      "start_char": 41570,
+      "end_char": 41652,
+      "length": 83,
+      "text": "ולמשפחות בני־מררי הלוים הנותרים מאת מטה זבולן את־יקנעם ואת־מגרשה את־קרתה ואת־מגרשה׃"
+    },
+    {
+      "uid": "Joshua_565",
+      "chapter_number": 21,
+      "verse_number": 35,
+      "start_char": 41653,
+      "end_char": 41698,
+      "length": 46,
+      "text": "את־דמנה ואת־מגרשה את־נהלל ואת־מגרשה ערים ארבע׃"
+    },
+    {
+      "uid": "Joshua_566",
+      "chapter_number": 21,
+      "verse_number": 36,
+      "start_char": 41699,
+      "end_char": 41699,
+      "length": 1,
+      "text": "—"
+    },
+    {
+      "uid": "Joshua_567",
+      "chapter_number": 21,
+      "verse_number": 37,
+      "start_char": 41700,
+      "end_char": 41700,
+      "length": 1,
+      "text": "—"
+    },
+    {
+      "uid": "Joshua_568",
+      "chapter_number": 21,
+      "verse_number": 38,
+      "start_char": 41701,
+      "end_char": 41769,
+      "length": 69,
+      "text": "וממטה־גד את־עיר מקלט הרצח את־רמת בגלעד ואת־מגרשה ואת־מחנים ואת־מגרשה׃"
+    },
+    {
+      "uid": "Joshua_569",
+      "chapter_number": 21,
+      "verse_number": 39,
+      "start_char": 41770,
+      "end_char": 41819,
+      "length": 50,
+      "text": "את־חשבון ואת־מגרשה את־יעזר ואת־מגרשה כל־ערים ארבע׃"
+    },
+    {
+      "uid": "Joshua_570",
+      "chapter_number": 21,
+      "verse_number": 40,
+      "start_char": 41820,
+      "end_char": 41894,
+      "length": 75,
+      "text": "כל־הערים לבני מררי למשפחתם הנותרים ממשפחות הלוים ויהי גורלם ערים שתים עשרה׃"
+    },
+    {
+      "uid": "Joshua_571",
+      "chapter_number": 21,
+      "verse_number": 41,
+      "start_char": 41895,
+      "end_char": 41954,
+      "length": 60,
+      "text": "כל ערי הלוים בתוך אחזת בני־ישראל ערים ארבעים ושמנה ומגרשיהן׃"
+    },
+    {
+      "uid": "Joshua_572",
+      "chapter_number": 21,
+      "verse_number": 42,
+      "start_char": 41955,
+      "end_char": 42014,
+      "length": 60,
+      "text": "תהיינה הערים האלה עיר עיר ומגרשיה סביבתיה כן לכל־הערים האלה׃"
+    },
+    {
+      "uid": "Joshua_573",
+      "chapter_number": 21,
+      "verse_number": 43,
+      "start_char": 42015,
+      "end_char": 42078,
+      "length": 64,
+      "text": "ויתן יהוה לישראל את־כל־הארץ אשר נשבע לתת לאבותם וירשוה וישבו בה׃"
+    },
+    {
+      "uid": "Joshua_574",
+      "chapter_number": 21,
+      "verse_number": 44,
+      "start_char": 42079,
+      "end_char": 42175,
+      "length": 97,
+      "text": "וינח יהוה להם מסביב ככל אשר־נשבע לאבותם ולא־עמד איש בפניהם מכל־איביהם את כל־איביהם נתן יהוה בידם׃"
+    },
+    {
+      "uid": "Joshua_575",
+      "chapter_number": 21,
+      "verse_number": 45,
+      "start_char": 42176,
+      "end_char": 42233,
+      "length": 58,
+      "text": "לא־נפל דבר מכל הדבר הטוב אשר־דבר יהוה אל־בית ישראל הכל בא׃"
+    },
+    {
+      "uid": "Joshua_576",
+      "chapter_number": 22,
+      "verse_number": 1,
+      "start_char": 42234,
+      "end_char": 42276,
+      "length": 43,
+      "text": "אז יקרא יהושע לראובני ולגדי ולחצי מטה מנשה׃"
+    },
+    {
+      "uid": "Joshua_577",
+      "chapter_number": 22,
+      "verse_number": 2,
+      "start_char": 42277,
+      "end_char": 42362,
+      "length": 86,
+      "text": "ויאמר אליהם אתם שמרתם את כל־אשר צוה אתכם משה עבד יהוה ותשמעו בקולי לכל אשר־צויתי אתכם׃"
+    },
+    {
+      "uid": "Joshua_578",
+      "chapter_number": 22,
+      "verse_number": 3,
+      "start_char": 42363,
+      "end_char": 42438,
+      "length": 76,
+      "text": "לא־עזבתם את־אחיכם זה ימים רבים עד היום הזה ושמרתם את־משמרת מצות יהוה אלהיכם׃"
+    },
+    {
+      "uid": "Joshua_579",
+      "chapter_number": 22,
+      "verse_number": 4,
+      "start_char": 42439,
+      "end_char": 42557,
+      "length": 119,
+      "text": "ועתה הניח יהוה אלהיכם לאחיכם כאשר דבר להם ועתה פנו ולכו לכם לאהליכם אל־ארץ אחזתכם אשר׀ נתן לכם משה עבד יהוה בעבר הירדן׃"
+    },
+    {
+      "uid": "Joshua_580",
+      "chapter_number": 22,
+      "verse_number": 5,
+      "start_char": 42558,
+      "end_char": 42709,
+      "length": 152,
+      "text": "רק׀ שמרו מאד לעשות את־המצוה ואת־התורה אשר צוה אתכם משה עבד־יהוה לאהבה את־יהוה אלהיכם וללכת בכל־דרכיו ולשמר מצותיו ולדבקה־בו ולעבדו בכל־לבבכם ובכל־נפשכם׃"
+    },
+    {
+      "uid": "Joshua_581",
+      "chapter_number": 22,
+      "verse_number": 6,
+      "start_char": 42710,
+      "end_char": 42745,
+      "length": 36,
+      "text": "ויברכם יהושע וישלחם וילכו אל־אהליהם׃"
+    },
+    {
+      "uid": "Joshua_582",
+      "chapter_number": 22,
+      "verse_number": 7,
+      "start_char": 42746,
+      "end_char": 42860,
+      "length": 115,
+      "text": "ולחצי׀ שבט המנשה נתן משה בבשן ולחציו נתן יהושע עם־אחיהם (מעבר) [בעבר] הירדן ימה וגם כי־שלחם יהושע אל־אהליהם ויברכם׃"
+    },
+    {
+      "uid": "Joshua_583",
+      "chapter_number": 22,
+      "verse_number": 8,
+      "start_char": 42861,
+      "end_char": 42985,
+      "length": 125,
+      "text": "ויאמר אליהם לאמר בנכסים רבים שובו אל־אהליכם ובמקנה רב־מאד בכסף ובזהב ובנחשת ובברזל ובשלמות הרבה מאד חלקו שלל־איביכם עם־אחיכם׃"
+    },
+    {
+      "uid": "Joshua_584",
+      "chapter_number": 22,
+      "verse_number": 9,
+      "start_char": 42986,
+      "end_char": 43127,
+      "length": 142,
+      "text": "וישבו וילכו בני־ראובן ובני־גד וחצי׀ שבט המנשה מאת בני ישראל משלה אשר בארץ־כנען ללכת אל־ארץ הגלעד אל־ארץ אחזתם אשר נאחזו־בה על־פי יהוה ביד־משה׃"
+    },
+    {
+      "uid": "Joshua_585",
+      "chapter_number": 22,
+      "verse_number": 10,
+      "start_char": 43128,
+      "end_char": 43235,
+      "length": 108,
+      "text": "ויבאו אל־גלילות הירדן אשר בארץ כנען ויבנו בני־ראובן ובני־גד וחצי שבט המנשה שם מזבח על־הירדן מזבח גדול למראה׃"
+    },
+    {
+      "uid": "Joshua_586",
+      "chapter_number": 22,
+      "verse_number": 11,
+      "start_char": 43236,
+      "end_char": 43356,
+      "length": 121,
+      "text": "וישמעו בני־ישראל לאמר הנה בנו בני־ראובן ובני־גד וחצי שבט המנשה את־המזבח אל־מול ארץ כנען אל־גלילות הירדן אל־עבר בני ישראל׃"
+    },
+    {
+      "uid": "Joshua_587",
+      "chapter_number": 22,
+      "verse_number": 12,
+      "start_char": 43357,
+      "end_char": 43418,
+      "length": 62,
+      "text": "וישמעו בני ישראל ויקהלו כל־עדת בני־ישראל שלה לעלות עליהם לצבא׃"
+    },
+    {
+      "uid": "Joshua_588",
+      "chapter_number": 22,
+      "verse_number": 13,
+      "start_char": 43419,
+      "end_char": 43512,
+      "length": 94,
+      "text": "וישלחו בני־ישראל אל־בני־ראובן ואל־בני־גד ואל־חצי שבט־מנשה אל־ארץ הגלעד את־פינחס בן־אלעזר הכהן׃"
+    },
+    {
+      "uid": "Joshua_589",
+      "chapter_number": 22,
+      "verse_number": 14,
+      "start_char": 43513,
+      "end_char": 43604,
+      "length": 92,
+      "text": "ועשרה נשאים עמו נשיא אחד נשיא אחד לבית אב לכל מטות ישראל ואיש ראש בית־אבותם המה לאלפי ישראל׃"
+    },
+    {
+      "uid": "Joshua_590",
+      "chapter_number": 22,
+      "verse_number": 15,
+      "start_char": 43605,
+      "end_char": 43680,
+      "length": 76,
+      "text": "ויבאו אל־בני־ראובן ואל־בני־גד ואל־חצי שבט־מנשה אל־ארץ הגלעד וידברו אתם לאמר׃"
+    },
+    {
+      "uid": "Joshua_591",
+      "chapter_number": 22,
+      "verse_number": 16,
+      "start_char": 43681,
+      "end_char": 43791,
+      "length": 111,
+      "text": "כה אמרו כל׀ עדת יהוה מה־המעל הזה אשר מעלתם באלהי ישראל לשוב היום מאחרי יהוה בבנותכם לכם מזבח למרדכם היום ביהוה׃"
+    },
+    {
+      "uid": "Joshua_592",
+      "chapter_number": 22,
+      "verse_number": 17,
+      "start_char": 43792,
+      "end_char": 43863,
+      "length": 72,
+      "text": "המעט־לנו את־עון פעור אשר לא־הטהרנו ממנו עד היום הזה ויהי הנגף בעדת יהוה׃"
+    },
+    {
+      "uid": "Joshua_593",
+      "chapter_number": 22,
+      "verse_number": 18,
+      "start_char": 43864,
+      "end_char": 43941,
+      "length": 78,
+      "text": "ואתם תשבו היום מאחרי יהוה והיה אתם תמרדו היום ביהוה ומחר אל־כל־עדת ישראל יקצף׃"
+    },
+    {
+      "uid": "Joshua_594",
+      "chapter_number": 22,
+      "verse_number": 19,
+      "start_char": 43942,
+      "end_char": 44096,
+      "length": 155,
+      "text": "ואך אם־טמאה ארץ אחזתכם עברו לכם אל־ארץ אחזת יהוה אשר שכן־שם משכן יהוה והאחזו בתוכנו וביהוה אל־תמרדו ואתנו אל־תמרדו בבנתכם לכם מזבח מבלעדי מזבח יהוה אלהינו׃"
+    },
+    {
+      "uid": "Joshua_595",
+      "chapter_number": 22,
+      "verse_number": 20,
+      "start_char": 44097,
+      "end_char": 44177,
+      "length": 81,
+      "text": "הלוא׀ עכן בן־זרח מעל מעל בחרם ועל־כל־עדת ישראל היה קצף והוא איש אחד לא גוע בעונו׃"
+    },
+    {
+      "uid": "Joshua_596",
+      "chapter_number": 22,
+      "verse_number": 21,
+      "start_char": 44178,
+      "end_char": 44242,
+      "length": 65,
+      "text": "ויענו בני־ראובן ובני־גד וחצי שבט המנשה וידברו את־ראשי אלפי ישראל׃"
+    },
+    {
+      "uid": "Joshua_597",
+      "chapter_number": 22,
+      "verse_number": 22,
+      "start_char": 44243,
+      "end_char": 44336,
+      "length": 94,
+      "text": "אל׀אלהים׀יהוה אל׀אלהים׀יהוה הוא ידע וישראל הוא ידע אם־במרד ואם־במעל ביהוה אל־תושיענו היום הזה׃"
+    },
+    {
+      "uid": "Joshua_598",
+      "chapter_number": 22,
+      "verse_number": 23,
+      "start_char": 44337,
+      "end_char": 44434,
+      "length": 98,
+      "text": "לבנות לנו מזבח לשוב מאחרי יהוה ואם־להעלות עליו עולה ומנחה ואם־לעשות עליו זבחי שלמים יהוה הוא יבקש׃"
+    },
+    {
+      "uid": "Joshua_599",
+      "chapter_number": 22,
+      "verse_number": 24,
+      "start_char": 44435,
+      "end_char": 44523,
+      "length": 89,
+      "text": "ואם־לא מדאגה מדבר עשינו את־זאת לאמר מחר יאמרו בניכם לבנינו לאמר מה־לכם וליהוה אלהי ישראל׃"
+    },
+    {
+      "uid": "Joshua_600",
+      "chapter_number": 22,
+      "verse_number": 25,
+      "start_char": 44524,
+      "end_char": 44638,
+      "length": 115,
+      "text": "וגבול נתן־יהוה ביננו וביניכם בני־ראובן ובני־גד את־הירדן אין־לכם חלק ביהוה והשביתו בניכם את־בנינו לבלתי ירא את־יהוה׃"
+    },
+    {
+      "uid": "Joshua_601",
+      "chapter_number": 22,
+      "verse_number": 26,
+      "start_char": 44639,
+      "end_char": 44689,
+      "length": 51,
+      "text": "ונאמר נעשה־נא לנו לבנות את־המזבח לא לעולה ולא לזבח׃"
+    },
+    {
+      "uid": "Joshua_602",
+      "chapter_number": 22,
+      "verse_number": 27,
+      "start_char": 44690,
+      "end_char": 44830,
+      "length": 141,
+      "text": "כי עד הוא בינינו וביניכם ובין דרותינו אחרינו לעבד את־עבדת יהוה לפניו בעלותינו ובזבחינו ובשלמינו ולא־יאמרו בניכם מחר לבנינו אין־לכם חלק ביהוה׃"
+    },
+    {
+      "uid": "Joshua_603",
+      "chapter_number": 22,
+      "verse_number": 28,
+      "start_char": 44831,
+      "end_char": 44960,
+      "length": 130,
+      "text": "ונאמר והיה כי־יאמרו אלינו ואל־דרתינו מחר ואמרנו ראו את־תבנית מזבח יהוה אשר־עשו אבותינו לא לעולה ולא לזבח כי־עד הוא בינינו וביניכם׃"
+    },
+    {
+      "uid": "Joshua_604",
+      "chapter_number": 22,
+      "verse_number": 29,
+      "start_char": 44961,
+      "end_char": 45073,
+      "length": 113,
+      "text": "חלילה לנו ממנו למרד ביהוה ולשוב היום מאחרי יהוה לבנות מזבח לעלה למנחה ולזבח מלבד מזבח יהוה אלהינו אשר לפני משכנו׃"
+    },
+    {
+      "uid": "Joshua_605",
+      "chapter_number": 22,
+      "verse_number": 30,
+      "start_char": 45074,
+      "end_char": 45188,
+      "length": 115,
+      "text": "וישמע פינחס הכהן ונשיאי העדה וראשי אלפי ישראל אשר אתו את־הדברים אשר דברו בני־ראובן ובני־גד ובני מנשה וייטב בעיניהם׃"
+    },
+    {
+      "uid": "Joshua_606",
+      "chapter_number": 22,
+      "verse_number": 31,
+      "start_char": 45189,
+      "end_char": 45336,
+      "length": 148,
+      "text": "ויאמר פינחס בן־אלעזר הכהן אל־בני־ראובן ואל־בני־גד ואל־בני מנשה היום׀ידענו כי־בתוכנו יהוה אשר לא־מעלתם ביהוה המעל הזה אז הצלתם את־בני ישראל מיד יהוה׃"
+    },
+    {
+      "uid": "Joshua_607",
+      "chapter_number": 22,
+      "verse_number": 32,
+      "start_char": 45337,
+      "end_char": 45447,
+      "length": 111,
+      "text": "וישב פינחס בן־אלעזר הכהן׀והנשיאים מאת בני־ראובן ומאת בני־גד מארץ הגלעד אל־ארץ כנען אל־בני ישראל וישבו אותם דבר׃"
+    },
+    {
+      "uid": "Joshua_608",
+      "chapter_number": 22,
+      "verse_number": 33,
+      "start_char": 45448,
+      "end_char": 45567,
+      "length": 120,
+      "text": "וייטב הדבר בעיני בני ישראל ויברכו אלהים בני ישראל ולא אמרו לעלות עליהם לצבא לשחת את־הארץ אשר בני־ראובן ובני־גד ישבים בה׃"
+    },
+    {
+      "uid": "Joshua_609",
+      "chapter_number": 22,
+      "verse_number": 34,
+      "start_char": 45568,
+      "end_char": 45631,
+      "length": 64,
+      "text": "ויקראו בני־ראובן ובני־גד למזבח כי עד הוא בינתינו כי יהוה האלהים׃"
+    },
+    {
+      "uid": "Joshua_610",
+      "chapter_number": 23,
+      "verse_number": 1,
+      "start_char": 45632,
+      "end_char": 45710,
+      "length": 79,
+      "text": "ויהי מימים רבים אחרי אשר־הניח יהוה לישראל מכל־איביהם מסביב ויהושע זקן בא בימים׃"
+    },
+    {
+      "uid": "Joshua_611",
+      "chapter_number": 23,
+      "verse_number": 2,
+      "start_char": 45711,
+      "end_char": 45795,
+      "length": 85,
+      "text": "ויקרא יהושע לכל־ישראל לזקניו ולראשיו ולשפטיו ולשטריו ויאמר אלהם אני זקנתי באתי בימים׃"
+    },
+    {
+      "uid": "Joshua_612",
+      "chapter_number": 23,
+      "verse_number": 3,
+      "start_char": 45796,
+      "end_char": 45883,
+      "length": 88,
+      "text": "ואתם ראיתם את כל־אשר עשה יהוה אלהיכם לכל־הגוים האלה מפניכם כי יהוה אלהיכם הוא הנלחם לכם׃"
+    },
+    {
+      "uid": "Joshua_613",
+      "chapter_number": 23,
+      "verse_number": 4,
+      "start_char": 45884,
+      "end_char": 45983,
+      "length": 100,
+      "text": "ראו הפלתי לכם את־הגוים הנשארים האלה בנחלה לשבטיכם מן־הירדן וכל־הגוים אשר הכרתי והים הגדול מבוא השמש׃"
+    },
+    {
+      "uid": "Joshua_614",
+      "chapter_number": 23,
+      "verse_number": 5,
+      "start_char": 45984,
+      "end_char": 46072,
+      "length": 89,
+      "text": "ויהוה אלהיכם הוא יהדפם מפניכם והוריש אתם מלפניכם וירשתם את־ארצם כאשר דבר יהוה אלהיכם לכם׃"
+    },
+    {
+      "uid": "Joshua_615",
+      "chapter_number": 23,
+      "verse_number": 6,
+      "start_char": 46073,
+      "end_char": 46148,
+      "length": 76,
+      "text": "וחזקתם מאד לשמר ולעשות את כל־הכתוב בספר תורת משה לבלתי סור־ממנו ימין ושמאול׃"
+    },
+    {
+      "uid": "Joshua_616",
+      "chapter_number": 23,
+      "verse_number": 7,
+      "start_char": 46149,
+      "end_char": 46245,
+      "length": 97,
+      "text": "לבלתי־בא בגוים האלה הנשארים האלה אתכם ובשם אלהיהם לא־תזכירו ולא תשביעו ולא תעבדום ולא תשתחוו להם׃"
+    },
+    {
+      "uid": "Joshua_617",
+      "chapter_number": 23,
+      "verse_number": 8,
+      "start_char": 46246,
+      "end_char": 46293,
+      "length": 48,
+      "text": "כי אם־ביהוה אלהיכם תדבקו כאשר עשיתם עד היום הזה׃"
+    },
+    {
+      "uid": "Joshua_618",
+      "chapter_number": 23,
+      "verse_number": 9,
+      "start_char": 46294,
+      "end_char": 46365,
+      "length": 72,
+      "text": "ויורש יהוה מפניכם גוים גדלים ועצומים ואתם לא־עמד איש בפניכם עד היום הזה׃"
+    },
+    {
+      "uid": "Joshua_619",
+      "chapter_number": 23,
+      "verse_number": 10,
+      "start_char": 46366,
+      "end_char": 46429,
+      "length": 64,
+      "text": "איש־אחד מכם ירדף־אלף כי׀ יהוה אלהיכם הוא הנלחם לכם כאשר דבר לכם׃"
+    },
+    {
+      "uid": "Joshua_620",
+      "chapter_number": 23,
+      "verse_number": 11,
+      "start_char": 46430,
+      "end_char": 46471,
+      "length": 42,
+      "text": "ונשמרתם מאד לנפשתיכם לאהבה את־יהוה אלהיכם׃"
+    },
+    {
+      "uid": "Joshua_621",
+      "chapter_number": 23,
+      "verse_number": 12,
+      "start_char": 46472,
+      "end_char": 46560,
+      "length": 89,
+      "text": "כי׀ אם־שוב תשובו ודבקתם ביתר הגוים האלה הנשארים האלה אתכם והתחתנתם בהם ובאתם בהם והם בכם׃"
+    },
+    {
+      "uid": "Joshua_622",
+      "chapter_number": 23,
+      "verse_number": 13,
+      "start_char": 46561,
+      "end_char": 46726,
+      "length": 166,
+      "text": "ידוע תדעו כי לא יוסיף יהוה אלהיכם להוריש את־הגוים האלה מלפניכם והיו לכם לפח ולמוקש ולשטט בצדיכם ולצננים בעיניכם עד־אבדכם מעל האדמה הטובה הזאת אשר נתן לכם יהוה אלהיכם׃"
+    },
+    {
+      "uid": "Joshua_623",
+      "chapter_number": 23,
+      "verse_number": 14,
+      "start_char": 46727,
+      "end_char": 46882,
+      "length": 156,
+      "text": "והנה אנכי הולך היום בדרך כל־הארץ וידעתם בכל־לבבכם ובכל־נפשכם כי לא־נפל דבר אחד מכל׀ הדברים הטובים אשר דבר יהוה אלהיכם עליכם הכל באו לכם לא־נפל ממנו דבר אחד׃"
+    },
+    {
+      "uid": "Joshua_624",
+      "chapter_number": 23,
+      "verse_number": 15,
+      "start_char": 46883,
+      "end_char": 47035,
+      "length": 153,
+      "text": "והיה כאשר־בא עליכם כל־הדבר הטוב אשר דבר יהוה אלהיכם אליכם כן יביא יהוה עליכם את כל־הדבר הרע עד־השמידו אותכם מעל האדמה הטובה הזאת אשר נתן לכם יהוה אלהיכם׃"
+    },
+    {
+      "uid": "Joshua_625",
+      "chapter_number": 23,
+      "verse_number": 16,
+      "start_char": 47036,
+      "end_char": 47171,
+      "length": 136,
+      "text": "בעברכם את־ברית יהוה אלהיכם אשר צוה אתכם והלכתם ועבדתם אלהים אחרים והשתחויתם להם וחרה אף־יהוה בכם ואבדתם מהרה מעל הארץ הטובה אשר נתן לכם׃"
+    },
+    {
+      "uid": "Joshua_626",
+      "chapter_number": 24,
+      "verse_number": 1,
+      "start_char": 47172,
+      "end_char": 47267,
+      "length": 96,
+      "text": "ויאסף יהושע את־כל־שבטי ישראל שכמה ויקרא לזקני ישראל ולראשיו ולשפטיו ולשטריו ויתיצבו לפני האלהים׃"
+    },
+    {
+      "uid": "Joshua_627",
+      "chapter_number": 24,
+      "verse_number": 2,
+      "start_char": 47268,
+      "end_char": 47384,
+      "length": 117,
+      "text": "ויאמר יהושע אל־כל־העם כה־אמר יהוה אלהי ישראל בעבר הנהר ישבו אבותיכם מעולם תרח אבי אברהם ואבי נחור ויעבדו אלהים אחרים׃"
+    },
+    {
+      "uid": "Joshua_628",
+      "chapter_number": 24,
+      "verse_number": 3,
+      "start_char": 47385,
+      "end_char": 47479,
+      "length": 95,
+      "text": "ואקח את־אביכם את־אברהם מעבר הנהר ואולך אתו בכל־ארץ כנען (וארב) [וארבה] את־זרעו ואתן־לו את־יצחק׃"
+    },
+    {
+      "uid": "Joshua_629",
+      "chapter_number": 24,
+      "verse_number": 4,
+      "start_char": 47480,
+      "end_char": 47560,
+      "length": 81,
+      "text": "ואתן ליצחק את־יעקב ואת־עשו ואתן לעשו את־הר שעיר לרשת אותו ויעקב ובניו ירדו מצרים׃"
+    },
+    {
+      "uid": "Joshua_630",
+      "chapter_number": 24,
+      "verse_number": 5,
+      "start_char": 47561,
+      "end_char": 47630,
+      "length": 70,
+      "text": "ואשלח את־משה ואת־אהרן ואגף את־מצרים כאשר עשיתי בקרבו ואחר הוצאתי אתכם׃"
+    },
+    {
+      "uid": "Joshua_631",
+      "chapter_number": 24,
+      "verse_number": 6,
+      "start_char": 47631,
+      "end_char": 47712,
+      "length": 82,
+      "text": "ואוציא את־אבותיכם ממצרים ותבאו הימה וירדפו מצרים אחרי אבותיכם ברכב ובפרשים ים־סוף׃"
+    },
+    {
+      "uid": "Joshua_632",
+      "chapter_number": 24,
+      "verse_number": 7,
+      "start_char": 47713,
+      "end_char": 47838,
+      "length": 126,
+      "text": "ויצעקו אל־יהוה וישם מאפל ביניכם׀ ובין המצרים ויבא עליו את־הים ויכסהו ותראינה עיניכם את אשר־עשיתי במצרים ותשבו במדבר ימים רבים׃"
+    },
+    {
+      "uid": "Joshua_633",
+      "chapter_number": 24,
+      "verse_number": 8,
+      "start_char": 47839,
+      "end_char": 47947,
+      "length": 109,
+      "text": "(ואבאה) [ואביא] אתכם אל־ארץ האמרי היושב בעבר הירדן וילחמו אתכם ואתן אותם בידכם ותירשו את־ארצם ואשמידם מפניכם׃"
+    },
+    {
+      "uid": "Joshua_634",
+      "chapter_number": 24,
+      "verse_number": 9,
+      "start_char": 47948,
+      "end_char": 48022,
+      "length": 75,
+      "text": "ויקם בלק בן־צפור מלך מואב וילחם בישראל וישלח ויקרא לבלעם בן־בעור לקלל אתכם׃"
+    },
+    {
+      "uid": "Joshua_635",
+      "chapter_number": 24,
+      "verse_number": 10,
+      "start_char": 48023,
+      "end_char": 48074,
+      "length": 52,
+      "text": "ולא אביתי לשמע לבלעם ויברך ברוך אתכם ואצל אתכם מידו׃"
+    },
+    {
+      "uid": "Joshua_636",
+      "chapter_number": 24,
+      "verse_number": 11,
+      "start_char": 48075,
+      "end_char": 48191,
+      "length": 117,
+      "text": "ותעברו את־הירדן ותבאו אל־יריחו וילחמו בכם בעלי־יריחו האמרי והפרזי והכנעני והחתי והגרגשי החוי והיבוסי ואתן אותם בידכם׃"
+    },
+    {
+      "uid": "Joshua_637",
+      "chapter_number": 24,
+      "verse_number": 12,
+      "start_char": 48192,
+      "end_char": 48265,
+      "length": 74,
+      "text": "ואשלח לפניכם את־הצרעה ותגרש אותם מפניכם שני מלכי האמרי לא בחרבך ולא בקשתך׃"
+    },
+    {
+      "uid": "Joshua_638",
+      "chapter_number": 24,
+      "verse_number": 13,
+      "start_char": 48266,
+      "end_char": 48359,
+      "length": 94,
+      "text": "ואתן לכם ארץ׀ אשר לא־יגעת בה וערים אשר לא־בניתם ותשבו בהם כרמים וזיתים אשר לא־נטעתם אתם אכלים׃"
+    },
+    {
+      "uid": "Joshua_639",
+      "chapter_number": 24,
+      "verse_number": 14,
+      "start_char": 48360,
+      "end_char": 48464,
+      "length": 105,
+      "text": "ועתה יראו את־יהוה ועבדו אתו בתמים ובאמת והסירו את־אלהים אשר עבדו אבותיכם בעבר הנהר ובמצרים ועבדו את־יהוה׃"
+    },
+    {
+      "uid": "Joshua_640",
+      "chapter_number": 24,
+      "verse_number": 15,
+      "start_char": 48465,
+      "end_char": 48634,
+      "length": 170,
+      "text": "ואם רע בעיניכם לעבד את־יהוה בחרו לכם היום את־מי תעבדון אם את־אלהים אשר־עבדו אבותיכם אשר (בעבר) [מעבר] הנהר ואם את־אלהי האמרי אשר אתם ישבים בארצם ואנכי וביתי נעבד את־יהוה׃"
+    },
+    {
+      "uid": "Joshua_641",
+      "chapter_number": 24,
+      "verse_number": 16,
+      "start_char": 48635,
+      "end_char": 48689,
+      "length": 55,
+      "text": "ויען העם ויאמר חלילה לנו מעזב את־יהוה לעבד אלהים אחרים׃"
+    },
+    {
+      "uid": "Joshua_642",
+      "chapter_number": 24,
+      "verse_number": 17,
+      "start_char": 48690,
+      "end_char": 48848,
+      "length": 159,
+      "text": "כי יהוה אלהינו הוא המעלה אתנו ואת־אבותינו מארץ מצרים מבית עבדים ואשר עשה לעינינו את־האתות הגדלות האלה וישמרנו בכל־הדרך אשר הלכנו בה ובכל העמים אשר עברנו בקרבם׃"
+    },
+    {
+      "uid": "Joshua_643",
+      "chapter_number": 24,
+      "verse_number": 18,
+      "start_char": 48849,
+      "end_char": 48933,
+      "length": 85,
+      "text": "ויגרש יהוה את־כל־העמים ואת־האמרי ישב הארץ מפנינו גם־אנחנו נעבד את־יהוה כי־הוא אלהינו׃"
+    },
+    {
+      "uid": "Joshua_644",
+      "chapter_number": 24,
+      "verse_number": 19,
+      "start_char": 48934,
+      "end_char": 49030,
+      "length": 97,
+      "text": "ויאמר יהושע אל־העם לא תוכלו לעבד את־יהוה כי־אלהים קדשים הוא אל־קנוא הוא לא־ישא לפשעכם ולחטאותיכם׃"
+    },
+    {
+      "uid": "Joshua_645",
+      "chapter_number": 24,
+      "verse_number": 20,
+      "start_char": 49031,
+      "end_char": 49105,
+      "length": 75,
+      "text": "כי תעזבו את־יהוה ועבדתם אלהי נכר ושב והרע לכם וכלה אתכם אחרי אשר־היטיב לכם׃"
+    },
+    {
+      "uid": "Joshua_646",
+      "chapter_number": 24,
+      "verse_number": 21,
+      "start_char": 49106,
+      "end_char": 49143,
+      "length": 38,
+      "text": "ויאמר העם אל־יהושע לא כי את־יהוה נעבד׃"
+    },
+    {
+      "uid": "Joshua_647",
+      "chapter_number": 24,
+      "verse_number": 22,
+      "start_char": 49144,
+      "end_char": 49222,
+      "length": 79,
+      "text": "ויאמר יהושע אל־העם עדים אתם בכם כי־אתם בחרתם לכם את־יהוה לעבד אותו ויאמרו עדים׃"
+    },
+    {
+      "uid": "Joshua_648",
+      "chapter_number": 24,
+      "verse_number": 23,
+      "start_char": 49223,
+      "end_char": 49290,
+      "length": 68,
+      "text": "ועתה הסירו את־אלהי הנכר אשר בקרבכם והטו את־לבבכם אל־יהוה אלהי ישראל׃"
+    },
+    {
+      "uid": "Joshua_649",
+      "chapter_number": 24,
+      "verse_number": 24,
+      "start_char": 49291,
+      "end_char": 49342,
+      "length": 52,
+      "text": "ויאמרו העם אל־יהושע את־יהוה אלהינו נעבד ובקולו נשמע׃"
+    },
+    {
+      "uid": "Joshua_650",
+      "chapter_number": 24,
+      "verse_number": 25,
+      "start_char": 49343,
+      "end_char": 49395,
+      "length": 53,
+      "text": "ויכרת יהושע ברית לעם ביום ההוא וישם לו חק ומשפט בשכם׃"
+    },
+    {
+      "uid": "Joshua_651",
+      "chapter_number": 24,
+      "verse_number": 26,
+      "start_char": 49396,
+      "end_char": 49487,
+      "length": 92,
+      "text": "ויכתב יהושע את־הדברים האלה בספר תורת אלהים ויקח אבן גדולה ויקימה שם תחת האלה אשר במקדש יהוה׃"
+    },
+    {
+      "uid": "Joshua_652",
+      "chapter_number": 24,
+      "verse_number": 27,
+      "start_char": 49488,
+      "end_char": 49611,
+      "length": 124,
+      "text": "ויאמר יהושע אל־כל־העם הנה האבן הזאת תהיה־בנו לעדה כי־היא שמעה את כל־אמרי יהוה אשר דבר עמנו והיתה בכם לעדה פן־תכחשון באלהיכם׃"
+    },
+    {
+      "uid": "Joshua_653",
+      "chapter_number": 24,
+      "verse_number": 28,
+      "start_char": 49612,
+      "end_char": 49641,
+      "length": 30,
+      "text": "וישלח יהושע את־העם איש לנחלתו׃"
+    },
+    {
+      "uid": "Joshua_654",
+      "chapter_number": 24,
+      "verse_number": 29,
+      "start_char": 49642,
+      "end_char": 49707,
+      "length": 66,
+      "text": "ויהי אחרי הדברים האלה וימת יהושע בן־נון עבד יהוה בן־מאה ועשר שנים׃"
+    },
+    {
+      "uid": "Joshua_655",
+      "chapter_number": 24,
+      "verse_number": 30,
+      "start_char": 49708,
+      "end_char": 49768,
+      "length": 61,
+      "text": "ויקברו אתו בגבול נחלתו בתמנת־סרח אשר בהר־אפרים מצפון להר־געש׃"
+    },
+    {
+      "uid": "Joshua_656",
+      "chapter_number": 24,
+      "verse_number": 31,
+      "start_char": 49769,
+      "end_char": 49885,
+      "length": 117,
+      "text": "ויעבד ישראל את־יהוה כל ימי יהושע וכל׀ ימי הזקנים אשר האריכו ימים אחרי יהושע ואשר ידעו את כל־מעשה יהוה אשר עשה לישראל׃"
+    },
+    {
+      "uid": "Joshua_657",
+      "chapter_number": 24,
+      "verse_number": 32,
+      "start_char": 49886,
+      "end_char": 50014,
+      "length": 129,
+      "text": "ואת־עצמות יוסף אשר־העלו בני־ישראל׀ממצרים קברו בשכם בחלקת השדה אשר קנה יעקב מאת בני־חמור אבי־שכם במאה קשיטה ויהיו לבני־יוסף לנחלה׃"
+    },
+    {
+      "uid": "Joshua_658",
+      "chapter_number": 24,
+      "verse_number": 33,
+      "start_char": 50015,
+      "end_char": 50080,
+      "length": 66,
+      "text": "ואלעזר בן־אהרן מת ויקברו אתו בגבעת פינחס בנו אשר נתן־לו בהר אפרים׃"
+    }
+  ]
+}
