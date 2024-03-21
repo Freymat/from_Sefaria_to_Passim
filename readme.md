@@ -9,4 +9,4 @@ Pipeline steps:
    - Analyze json file structure and process each file according to its particular structure.
    - Clean up texts (html tags, unicodes, numbers...)
    - Create an index from the structured json files. The index will contain the start and end character position of each text chunk in the book.
-   - Concatenate the lines of each text. Thanks to the index, it will always be possible to locate a text fragment in the concatenated text.
+   - Concatenate the lines of each text. Thanks to the index, it will always be possible to identify the references of a text fragment from the concatenated text.
