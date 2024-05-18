@@ -6,7 +6,7 @@
   ],
   "lines": [
     {
-      "uid": "Birkat_Hamazon_1",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_1",
       "parent_titles": [
         "Birkat Hamazon",
         "Preliminary Psalms"
@@ -18,31 +18,31 @@
       "text": "ביום שאומרים בו תחנון:על נהרות בבל שם ישבנו גם בכינו בזכרנו את ציון. על ערבים בתוכה תלינו כנרותינו. כי שם שאלונו שובינו דברי שיר ותוללינו שמחה שירו לנו משיר ציון. איך נשיר את שיר יהוה על אדמת נכר. אם אשכחך ירושלם תשכח ימיני. תדבק לשוני לחכי אם לא אזכרכי אם לא אעלה את ירושלם על ראש שמחתי. זכר יהוה לבני אדום את יום ירושלם האמרים ערו ערו עד היסוד בה. בת בבל השדודה אשרי שישלם לך את גמולך שגמלת לנו. אשרי שיאחז ונפץ את עלליך אל הסלע."
     },
     {
-      "uid": "Birkat_Hamazon_2",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_2",
       "parent_titles": [
         "Birkat Hamazon",
         "Preliminary Psalms"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 432,
       "end_char": 721,
       "length": 290,
       "text": "ביום שאין אומרים בו תחנון:שיר המעלות בשוב יהוה את שיבת ציון היינו כחלמים. אז ימלא שחוק פינו ולשוננו רנה אז יאמרו בגוים הגדיל יהוה לעשות עם אלה. הגדיל יהוה לעשות עמנו היינו שמחים. שובה יהוה את שביתנו כאפיקים בנגב. הזרעים בדמעה ברנה יקצרו. הלוך ילך ובכה נשא משך הזרע בא יבוא ברנה נשא אלמתיו. "
     },
     {
-      "uid": "Birkat_Hamazon_3",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_3",
       "parent_titles": [
         "Birkat Hamazon",
         "Preliminary Psalms"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 722,
       "end_char": 722,
       "length": 1,
       "text": "*"
     },
     {
-      "uid": "Birkat_Hamazon_4",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_4",
       "parent_titles": [
         "Birkat Hamazon",
         "Zimmun"
@@ -54,55 +54,55 @@
       "text": "שלשה שאכלו כאחד חיבין לזמן והמזמן פותחרבותי, נברך:"
     },
     {
-      "uid": "Birkat_Hamazon_5",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_5",
       "parent_titles": [
         "Birkat Hamazon",
         "Zimmun"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 773,
       "end_char": 813,
       "length": 41,
       "text": "המסבים עוניםיהי שם יי מברך מעתה ועד עולם:"
     },
     {
-      "uid": "Birkat_Hamazon_6",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_6",
       "parent_titles": [
         "Birkat Hamazon",
         "Zimmun"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 814,
       "end_char": 880,
       "length": 67,
       "text": "המזמן אומרברשות מרנן ורבנן ורבותי, נברך (בעשרה אלהינו) שאכלנו משלו:"
     },
     {
-      "uid": "Birkat_Hamazon_7",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_7",
       "parent_titles": [
         "Birkat Hamazon",
         "Zimmun"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 881,
       "end_char": 937,
       "length": 57,
       "text": "המסבים עוניםברוך (בעשרה אלהינו) שאכלנו משלו ובטובו חיינו:"
     },
     {
-      "uid": "Birkat_Hamazon_8",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_8",
       "parent_titles": [
         "Birkat Hamazon",
         "Zimmun"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 938,
       "end_char": 1000,
       "length": 63,
       "text": "המזמן חוזר ואומרברוך  (בעשרה אלהינו)  שאכלנו משלו ובטובו חיינו:"
     },
     {
-      "uid": "Birkat_Hamazon_9",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_9",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on the Food"
@@ -114,7 +114,7 @@
       "text": "ברוך אתה יהוה אלהינו מלך העולם הזן את העולם כלו בטובו בחן בחסד וברחמים, הוא נתן לחם לכל־בשר כי לעולם חסדו ובטובו הגדול תמיד לא חסר לנו ואל יחסר לנו מזון (תמיד) לעולם ועד בעבור שמו הגדול כי הוא אל זן ומפרנס לכל ומטיב לכל ומכין מזון לכל־בריותיו אשר ברא ברוך אתה יי הזן את הכל."
     },
     {
-      "uid": "Birkat_Hamazon_10",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_10",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on the Land"
@@ -126,55 +126,55 @@
       "text": "נודה לך יהוה אלהינו על שהנחלת לאבותינו ארץ חמדה טובה ורחבה ועל שהוצאתנו יי אלהינו מארץ מצרים ופדיתנו מבית עבדים ועל בריתך שחתמת בבשרנו ועל תורתך שלמדתנו ועל חקיך שהודעתנו ועל חיים חן וחסד שחוננתנו, ועל אכילת מזון שאתה זן ומפרנס אותנו תמיד, בכל יום ובכל עת ובכל שעה."
     },
     {
-      "uid": "Birkat_Hamazon_11",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_11",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on the Land"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 1540,
       "end_char": 1642,
       "length": 103,
       "text": "לחנוכה ולפוריםעל הנסים ועל הפרקן ועל הגבורות ועל התשועות ועל המלחמות שעשית לאבותינו בימים ההם בזמן הזה."
     },
     {
-      "uid": "Birkat_Hamazon_12",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_12",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on the Land"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 1643,
       "end_char": 2140,
       "length": 498,
       "text": "לחנוכה—בימי מתתיהו בן יוחנן כהן גדול חשמונאי ובניו כשעמדה מלכות יון הרשעה על עמך ישראל להשכיחם מתורתך ולהעבירם מחקי רצונך ואתה ברחמיך הרבים עמדת להם בעת צרתם רבת את ריבם דנת את דינם נקמת את נקמתם מסרת גבורים ביד חלשים ורבים ביד מעטים וטמאים ביד טהורים ורשעים ביד צדיקים וזדים ביד עוסקי תורתך ולך עשית שם גדול וקדוש בעולמך ולעמך ישראל עשית תשועה גדולה ופרקן כהיום הזה ואחר כך באו בניך לדביר ביתך ופנו את היכלך וטהרו את־מקדשך והדליקו נרות בחצרות קדשך וקבעו שמונת ימי חנכה אלו להודות ולהלל לשמך הגדול."
     },
     {
-      "uid": "Birkat_Hamazon_13",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_13",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on the Land"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 2141,
       "end_char": 2453,
       "length": 313,
       "text": "לפורים—בימי מרדכי ואסתר בשושן הבירה כשעמד עליהם המן הרשע בקש להשמיד להרוג ולאבד את־כל־היהודים מנער ועד זקן טף ונשים ביום אחד בשלשה עשר לחדש שנים עשר הוא חדש אדר ושללם לבוז ואתה ברחמיך הרבים הפרת את עצתו וקלקלת את מחשבתו והשבות־לו גמולו בראשו ותלו אותו ואת בניו על העץ ועשית עמהם נסים ונפלאות ונודה לשמך הגדול סלה."
     },
     {
-      "uid": "Birkat_Hamazon_14",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_14",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on the Land"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 2454,
       "end_char": 2631,
       "length": 178,
       "text": "ועל הכל יי אלהינו אנחנו מודים לך ומברכים אותך, יתברך שמך בפי כל חי תמיד לעולם ועד, ככתוב: ואכלת ושבעת, וברכת את יי אלהיך על הארץ הטובה אשר נתן לך. ברוך אתה יי, על הארץ ועל המזון."
     },
     {
-      "uid": "Birkat_Hamazon_15",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_15",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on Jerusalem"
@@ -186,127 +186,127 @@
       "text": "רחם נא יי אלהינו על ישראל עמך, ועל ירושלים עירך, ועל ציון משכן כבודך, ועל מלכות בית דוד משיחך, ועל הבית הגדול והקדוש שנקרא שמך עליו. אלהינו, אבינו, רענו, זוננו, פרנסנו וכלכלנו והרויחנו, והרוח לנו יי אלהינו מהרה מכל צרותינו. ונא אל תצריכנו יי אלהינו, לא לידי מתנת בשר ודם ולא לידי הלואתם, כי אם לידך המלאה הפתוחה הקדושה והרחבה, שלא נבוש ולא נכלם לעולם ועד."
     },
     {
-      "uid": "Birkat_Hamazon_16",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_16",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on Jerusalem"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 2987,
       "end_char": 3287,
       "length": 301,
       "text": "בשבתרצה והחליצנו יי אלהינו במצותיך ובמצות יום השביעי השבת הגדול והקדוש הזה. כי יום זה גדול וקדוש הוא לפניך לשבת בו ולנוח בו באהבה כמצות רצונך. וברצונך הניח לנו יי אלהינו שלא תהא צרה ויגון ואנחה ביום מנוחתנו. והראנו יי אלהינו בנחמת ציון עירך ובבנין ירושלים עיר קדשך כי אתה הוא בעל הישועות ובעל הנחמות. "
     },
     {
-      "uid": "Birkat_Hamazon_17",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_17",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on Jerusalem"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 3288,
       "end_char": 3515,
       "length": 228,
       "text": "בראש-חודש ובמועדיםאלהינו ואלהי אבותינו, יעלה ויבא יגיע יראה וירצה ישמע יפקד ויזכר זכרוננו וזכרון אבותינו, זכרון ירושלים עירך, וזכרון משיח בן דוד עבדך, וזכרון כל-עמך בית ישראל לפניך, לפלטה לטובה לחן לחסד ולרחמים לחיים ולשלום ביום"
     },
     {
-      "uid": "Birkat_Hamazon_18",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_18",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on Jerusalem"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 3516,
       "end_char": 3533,
       "length": 18,
       "text": "בראש חודש—ראש החדש"
     },
     {
-      "uid": "Birkat_Hamazon_19",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_19",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on Jerusalem"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 3534,
       "end_char": 3546,
       "length": 13,
       "text": "בפסח—חג המצות"
     },
     {
-      "uid": "Birkat_Hamazon_20",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_20",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on Jerusalem"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 3547,
       "end_char": 3561,
       "length": 15,
       "text": "בסוכות—חג הסכות"
     },
     {
-      "uid": "Birkat_Hamazon_21",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_21",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on Jerusalem"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 3562,
       "end_char": 3587,
       "length": 26,
       "text": "בשמיני עצרת—שמיני עצרת החג"
     },
     {
-      "uid": "Birkat_Hamazon_22",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_22",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on Jerusalem"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 3588,
       "end_char": 3605,
       "length": 18,
       "text": "בשבועות—חג השבועות"
     },
     {
-      "uid": "Birkat_Hamazon_23",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_23",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on Jerusalem"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 9,
       "start_char": 3606,
       "end_char": 3622,
       "length": 17,
       "text": "בראש השנה—הזכרון,"
     },
     {
-      "uid": "Birkat_Hamazon_24",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_24",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on Jerusalem"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 10,
       "start_char": 3623,
       "end_char": 3783,
       "length": 161,
       "text": "הזה, זכרנו יהוה אלהינו בו לטובה, ופקדנו בו לברכה, והושיענו בו לחיים, בדבר ישועה ורחמים; חוס וחננו, ורחם עלינו, והושיענו כי אליך עינינו, כי אל מלך חנון ורחום אתה."
     },
     {
-      "uid": "Birkat_Hamazon_25",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_25",
       "parent_titles": [
         "Birkat Hamazon",
         "Blessing on Jerusalem"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 11,
       "start_char": 3784,
       "end_char": 3857,
       "length": 74,
       "text": "ובנה ירושלים עיר הקדש במהרה בימינו. ברוך אתה יי, בונה ברחמיו ירושלים. אמן."
     },
     {
-      "uid": "Birkat_Hamazon_26",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_26",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
@@ -318,151 +318,151 @@
       "text": "ברוך אתה יי אלהינו, מלך העולם, האל אבינו, מלכנו, אדירנו, בוראנו, גאלנו, יוצרנו, קדושנו קדוש יעקב, רוענו רועה ישראל, המלך הטוב והמיטיב לכל, שבכל יום ויום הוא היטיב, הוא מיטיב, הוא ייטיב לנו, הוא גמלנו, הוא גומלנו, הוא יגמלנו לעד, לחן ולחסד ולרחמים ולרוח הצלה והצלחה, ברכה וישועה, נחמה פרנסה וכלכלה ורחמים וחיים ושלום, וכל טוב; ומכל טוב לעולם אל יחסרנו."
     },
     {
-      "uid": "Birkat_Hamazon_27",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_27",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 4209,
       "end_char": 4356,
       "length": 148,
       "text": "הרחמן הוא ימלוך עלינו לעולם ועד. הרחמן הוא יתברך בשמים ובארץ. הרחמן הוא ישתבח לדור דורים, ויתפאר בנו לעד ולנצח נצחים, ויתהדר בנו לעד ולעולמי עולמים."
     },
     {
-      "uid": "Birkat_Hamazon_28",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_28",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 4357,
       "end_char": 4589,
       "length": 233,
       "text": "הרחמן הוא יפרנסנו בכבוד. הרחמן הוא ישבור עלנו מעל צוארנו, והוא יוליכנו קוממיות לארצנו. הרחמן הוא ישלח לנו ברכה מרבה בבית הזה, ועל שלחן זה שאכלנו עליו. הרחמן הוא ישלח לנו את אליהו הנביא זכור לטוב, ויבשר לנו בשורות טובות ישועות ונחמות."
     },
     {
-      "uid": "Birkat_Hamazon_29",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_29",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 4590,
       "end_char": 4673,
       "length": 84,
       "text": "בבית אביו אומר הרחמן הוא יברך את אבי מורי בעל הבית הזה, ואת אמי מורתי בעלת הבית הזה."
     },
     {
-      "uid": "Birkat_Hamazon_30",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_30",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 4674,
       "end_char": 5139,
       "length": 466,
       "text": "אותם ואת ביתם ואת זרעם ואת כל אשר להם, אותנו ואת כל אשר לנו, כמו שנתברכו אבותינו אברהם יצחק ויעקב בכל מכל כל – כן יברך אותנו כלנו יחד בברכה שלמה. ונאמר: אמן.אם אוכל על שלחן אחרים יברך לבעה\"ב. ואפילו בנים הסמוכים על שלחן אביהם, וגם האב הנסמך על שלחן בניו וגם אשתו תאמר כן:יהי רצון שלא יבוש ולא יכלם בעל הבית הזה לא בעולם הזה ולא בעולם הבא ויצליח בכל־נכסיו ויהיו נכסיו מוצלחים וקרובים לעיר ואל־ישלוט שטן במעשה ידיו ואל יזדקק לפניו שום דבר חטא והרהור עון מעתה ועד עולם:"
     },
     {
-      "uid": "Birkat_Hamazon_31",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_31",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 5140,
       "end_char": 5259,
       "length": 120,
       "text": "במרום ילמדו עליהם ועלינו זכות שתהא למשמרת שלום. ונשא ברכה מאת יי, וצדקה מאלהי ישענו, ונמצא חן ושכל טוב בעיני אלהים ואדם."
     },
     {
-      "uid": "Birkat_Hamazon_32",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_32",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 5260,
       "end_char": 5315,
       "length": 56,
       "text": "בשבת—הרחמן הוא ינחילנו יום שכלו שבת ומנוחה לחיי העולמים."
     },
     {
-      "uid": "Birkat_Hamazon_33",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_33",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 5316,
       "end_char": 5355,
       "length": 40,
       "text": "ביום טוב—הרחמן הוא ינחילנו יום שכלו טוב."
     },
     {
-      "uid": "Birkat_Hamazon_34",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_34",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 9,
       "start_char": 5356,
       "end_char": 5411,
       "length": 56,
       "text": "בראש חודש—הרחמן הוא יחדש עלינו את החדש הזה לטובה ולברכה."
     },
     {
-      "uid": "Birkat_Hamazon_35",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_35",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 10,
       "start_char": 5412,
       "end_char": 5468,
       "length": 57,
       "text": "בראש השנה—הרחמן הוא יחדש עלינו את השנה הזאת לטובה ולברכה."
     },
     {
-      "uid": "Birkat_Hamazon_36",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_36",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 11,
       "start_char": 5469,
       "end_char": 5512,
       "length": 44,
       "text": "בסוכות—הרחמן הוא יקים לנו את סכת דוד הנופלת."
     },
     {
-      "uid": "Birkat_Hamazon_37",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_37",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 12,
       "start_char": 5513,
       "end_char": 5719,
       "length": 207,
       "text": "הרחמן הוא יזכנו לימות המשיח ולחיי העולם הבא. מגדיל (ביום שמתפללים בו מוסף ובמלוה מלכה—מגדול) ישועות מלכו, ועשה חסד למשיחו, לדוד ולזרעו עד עולם. עשה שלום במרומיו, הוא יעשה שלום עלינו ועל כל ישראל. ואמרו: אמן."
     },
     {
-      "uid": "Birkat_Hamazon_38",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_38",
       "parent_titles": [
         "Birkat Hamazon",
         "Hatov Vehametiv"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 13,
       "start_char": 5720,
       "end_char": 6000,
       "length": 281,
       "text": "יראו את יי קדשיו, כי אין מחסור ליראיו. כפירים רשו ורעבו, ודרשי יי לא יחסרו כל טוב. הודו ליי כי טוב, כי לעולם חסדו. פותח את ידך, ומשביע לכל חי רצון. ברוך הגבר אשר יבטח ביי, והיה יי מבטחו. נער הייתי גם זקנתי, ולא ראיתי צדיק נעזב, וזרעו מבקש לחם. יי עז לעמו יתן, יי יברך את עמו בשלום."
     },
     {
-      "uid": "Birkat_Hamazon_1",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_39",
       "parent_titles": [
         "Blessings After Other Foods",
         "M'ainShalosh"
@@ -474,139 +474,139 @@
       "text": "ברוך אתה יי, אלהינו מלך העולם,"
     },
     {
-      "uid": "Birkat_Hamazon_2",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_40",
       "parent_titles": [
         "Blessings After Other Foods",
         "M'ainShalosh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 31,
       "end_char": 66,
       "length": 36,
       "text": "על חמשת מיני דגן—על המחיה ועל הכלכלה"
     },
     {
-      "uid": "Birkat_Hamazon_3",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_41",
       "parent_titles": [
         "Blessings After Other Foods",
         "M'ainShalosh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 67,
       "end_char": 94,
       "length": 28,
       "text": "על היין—על הגפן ועל פרי הגפן"
     },
     {
-      "uid": "Birkat_Hamazon_4",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_42",
       "parent_titles": [
         "Blessings After Other Foods",
         "M'ainShalosh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 95,
       "end_char": 134,
       "length": 40,
       "text": "על פירות משבעת המינים—על העץ ועל פרי העץ"
     },
     {
-      "uid": "Birkat_Hamazon_5",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_43",
       "parent_titles": [
         "Blessings After Other Foods",
         "M'ainShalosh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 135,
       "end_char": 467,
       "length": 333,
       "text": "ועל תנובת השדה ועל ארץ חמדה טובה ורחבה שרצית והנחלת לאבותינו לאכול מפריה ולשבוע מטובה. רחם (נא) יי אלהינו על ישראל עמך ועל ירושלים עירך ועל ציון משכן כבודך, ועל מזבחך, ועל היכלך. ובנה ירושלים עיר הקדש במהרה בימינו. והעלנו לתוכה ושמחנו בבנינה, ונאכל מפריה ונשבע מטובה ונברכך עליה בקדשה ובטהרה. כי אתה יי טוב ומטיב לכל ונודה לך על הארץ"
     },
     {
-      "uid": "Birkat_Hamazon_6",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_44",
       "parent_titles": [
         "Blessings After Other Foods",
         "M'ainShalosh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 468,
       "end_char": 493,
       "length": 26,
       "text": "על חמשת מיני דגן—ועל המחיה"
     },
     {
-      "uid": "Birkat_Hamazon_7",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_45",
       "parent_titles": [
         "Blessings After Other Foods",
         "M'ainShalosh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 494,
       "end_char": 534,
       "length": 41,
       "text": "על היין—ועל פרי גפנה (בחו\"ל—ועל פרי הגפן)"
     },
     {
-      "uid": "Birkat_Hamazon_8",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_46",
       "parent_titles": [
         "Blessings After Other Foods",
         "M'ainShalosh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 535,
       "end_char": 584,
       "length": 50,
       "text": "על פירות משבעת המינים—ועל פרותיה (בחו\"ל—ועל הפרות)"
     },
     {
-      "uid": "Birkat_Hamazon_9",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_47",
       "parent_titles": [
         "Blessings After Other Foods",
         "M'ainShalosh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 9,
       "start_char": 585,
       "end_char": 604,
       "length": 20,
       "text": "ברוך אתה יי, על הארץ"
     },
     {
-      "uid": "Birkat_Hamazon_10",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_48",
       "parent_titles": [
         "Blessings After Other Foods",
         "M'ainShalosh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 10,
       "start_char": 605,
       "end_char": 652,
       "length": 48,
       "text": "על חמשת מיני דגן—ועל המחיה (וי\"א גם ועל הכלכלה)."
     },
     {
-      "uid": "Birkat_Hamazon_11",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_49",
       "parent_titles": [
         "Blessings After Other Foods",
         "M'ainShalosh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 11,
       "start_char": 653,
       "end_char": 694,
       "length": 42,
       "text": "על היין—ועל פרי גפנה (בחו\"ל—ועל פרי הגפן)."
     },
     {
-      "uid": "Birkat_Hamazon_12",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_50",
       "parent_titles": [
         "Blessings After Other Foods",
         "M'ainShalosh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 12,
       "start_char": 695,
       "end_char": 745,
       "length": 51,
       "text": "על פירות משבעת המינים—ועל פרותיה (בחו\"ל—ועל הפרות)."
     },
     {
-      "uid": "Birkat_Hamazon_13",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_51",
       "parent_titles": [
         "Blessings After Other Foods",
         "Bore Nefashot"
@@ -618,7 +618,7 @@
       "text": "ברוך אתה יהוה, אלהינו מלך העולם, בורא נפשות רבות וחסרונן על כל מה שבראת להחיות בהם נפש כל-חי. ברוך חי העולמים."
     },
     {
-      "uid": "Birkat_Hamazon_1",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_52",
       "parent_titles": [
         "HaRachaman of Brit Milah"
       ],
@@ -629,73 +629,73 @@
       "text": "הרחמן הוא יברך אבי הילד ואמו, ויזכו לגדלו ולחנכו ולחכמו, מיום השמיני והלאה ירצה דמו, ויהי יי אלהיו עמו. אמן:"
     },
     {
-      "uid": "Birkat_Hamazon_2",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_53",
       "parent_titles": [
         "HaRachaman of Brit Milah"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 109,
       "end_char": 213,
       "length": 105,
       "text": "הרחמן הוא יברך בעל ברית המילה, אשר שש לעשות צדק בגילה, וישלם פעלו ומשכרתו כפולה, ויתנהו למעלה למעלה. אמן:"
     },
     {
-      "uid": "Birkat_Hamazon_3",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_54",
       "parent_titles": [
         "HaRachaman of Brit Milah"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 214,
       "end_char": 317,
       "length": 104,
       "text": "הרחמן הוא יברך רך הנמול לשמונה, ויהיו ידיו ולבו לאל אמונה, ויזכה לראות פני השכינה, שלוש פעמים בשנה. אמן:"
     },
     {
-      "uid": "Birkat_Hamazon_4",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_55",
       "parent_titles": [
         "HaRachaman of Brit Milah"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 318,
       "end_char": 428,
       "length": 111,
       "text": "הרחמן הוא יברך המל בשר הערלה, ופרע ומצץ דמי המילה, איש הירא ורך הלבב עבודתו פסולה. אם שלוש אלה לא יעשה לה. אמן:"
     },
     {
-      "uid": "Birkat_Hamazon_5",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_56",
       "parent_titles": [
         "HaRachaman of Brit Milah"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 429,
       "end_char": 548,
       "length": 120,
       "text": "הרחמן הוא ישלח לנו משיחו הולך תמים, בזכות חתן למולות דמים, לבשר בשורות טובות ונחומים, לעם אחד מפזר ומפרד בין העמים. אמן:"
     },
     {
-      "uid": "Birkat_Hamazon_6",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_57",
       "parent_titles": [
         "HaRachaman of Brit Milah"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 549,
       "end_char": 675,
       "length": 127,
       "text": "הרחמן הוא ישלח לנו כהן צדק אשר לקח לעילום, עד הוכן כסאו כשמש ויהלום, וילט פניו באדרתו ויגלום, בריתי היתה אתו החיים והשלום. אמן:"
     },
     {
-      "uid": "Birkat_Hamazon_7",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_58",
       "parent_titles": [
         "HaRachaman of Brit Milah"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 676,
       "end_char": 708,
       "length": 33,
       "text": "הרחמן הוא יזכנו לימות המשיח וכו':"
     },
     {
-      "uid": "Birkat_Hamazon_8",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_59",
       "parent_titles": [
         "Sheva Brachot"
       ],
@@ -706,66 +706,66 @@
       "text": "ברוך אתה יי אלהינו מלך העולם, שהכל ברא לכבודו."
     },
     {
-      "uid": "Birkat_Hamazon_9",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_60",
       "parent_titles": [
         "Sheva Brachot"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 755,
       "end_char": 794,
       "length": 40,
       "text": "ברוך אתה יי אלהינו מלך העולם, יוצר האדם."
     },
     {
-      "uid": "Birkat_Hamazon_10",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_61",
       "parent_titles": [
         "Sheva Brachot"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 795,
       "end_char": 916,
       "length": 122,
       "text": "ברוך אתה יי אלהינו מלך העולם, אשר יצר את האדם בצלמו, בצלם דמות תבניתו, והתקין לו ממנו בנין עדי עד. ברוך אתה יי, יוצר האדם."
     },
     {
-      "uid": "Birkat_Hamazon_11",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_62",
       "parent_titles": [
         "Sheva Brachot"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 917,
       "end_char": 989,
       "length": 73,
       "text": "שוש תשיש ותגל עקרה, בקבוץ בניה לתוכה בשמחה. ברוך אתה יי, משמח ציון בבניה."
     },
     {
-      "uid": "Birkat_Hamazon_12",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_63",
       "parent_titles": [
         "Sheva Brachot"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 990,
       "end_char": 1065,
       "length": 76,
       "text": "שמח תשמח רעים האהובים, כשמחך יצירך בגן עדן מקדם. ברוך אתה יי, משמח חתן וכלה."
     },
     {
-      "uid": "Birkat_Hamazon_13",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_64",
       "parent_titles": [
         "Sheva Brachot"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 1066,
       "end_char": 1330,
       "length": 265,
       "text": "ברוך אתה יי אלהינו מלך העולם, אשר ברא ששון ושמחה חתן וכלה, גילה רנה דיצה וחדוה, אהבה ואחוה ושלום ורעות. מהרה יי אלהינו ישמע בערי יהודה ובחוצות ירושלים, קול ששון וקול שמחה, קול חתן וקול כלה, קול מצהלות חתנים מחפתם, ונערים ממשתה נגינתם. ברוך אתה יי, משמח חתן עם הכלה."
     },
     {
-      "uid": "Birkat_Hamazon_14",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_65",
       "parent_titles": [
         "Sheva Brachot"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 1331,
       "end_char": 1374,
       "length": 44,

@@ -6,7 +6,7 @@
   ],
   "lines": [
     {
-      "uid": "Pesach_Haggadah_1",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_1",
       "parent_titles": [
         "Kadesh"
       ],
@@ -17,139 +17,139 @@
       "text": "מוזגים כוס ראשון. המצות מכוסות. "
     },
     {
-      "uid": "Pesach_Haggadah_2",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_2",
       "parent_titles": [
         "Kadesh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 33,
       "end_char": 35,
       "length": 3,
       "text": "קדש"
     },
     {
-      "uid": "Pesach_Haggadah_3",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_3",
       "parent_titles": [
         "Kadesh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 36,
       "end_char": 48,
       "length": 13,
       "text": "בשבת מתחילין "
     },
     {
-      "uid": "Pesach_Haggadah_4",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_4",
       "parent_titles": [
         "Kadesh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 49,
       "end_char": 258,
       "length": 210,
       "text": "ויהי ערב ויהי בקר יום הששי. ויכלו השמים והארץ וכל־צבאם. ויכל אלהים ביום השביעי מלאכתו אשר עשה וישבת ביום השביעי מכל מלאכתו אשר עשה. ויברך אלהים את יום השביעי ויקדש אותו כי בו שבת מכל־מלאכתו אשר ברא אלהים לעשות."
     },
     {
-      "uid": "Pesach_Haggadah_5",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_5",
       "parent_titles": [
         "Kadesh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 259,
       "end_char": 272,
       "length": 14,
       "text": "בחול מתחילין: "
     },
     {
-      "uid": "Pesach_Haggadah_6",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_6",
       "parent_titles": [
         "Kadesh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 273,
       "end_char": 341,
       "length": 69,
       "text": "סברי מרנן ורבנן ורבותי. ברוך אתה ה', אלהינו מלך העולם בורא פרי הגפן. "
     },
     {
-      "uid": "Pesach_Haggadah_7",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_7",
       "parent_titles": [
         "Kadesh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 342,
       "end_char": 706,
       "length": 365,
       "text": "ברוך אתה ה', אלהינו מלך העולם אשר בחר בנו מכל־עם ורוממנו מכל־לשון וקדשנו במצותיו. ותתן לנו ה' אלהינו באהבה (לשבת: שבתות למנוחה ו) מועדים לשמחה, חגים וזמנים לששון, (לשבת: את יום השבת הזה ו) את יום חג המצות הזה זמן חרותנו, (לשבת: באהבה) מקרא קדש זכר ליציאת מצרים. כי בנו בחרת ואותנו קדשת מכל העמים, (לשבת: ושבת) ומועדי קדשך (לשבת: באהבה וברצון) בשמחה ובששון הנחלתנו. "
     },
     {
-      "uid": "Pesach_Haggadah_8",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_8",
       "parent_titles": [
         "Kadesh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 707,
       "end_char": 754,
       "length": 48,
       "text": "ברוך אתה ה', מקדש (לשבת: השבת ו) ישראל והזמנים. "
     },
     {
-      "uid": "Pesach_Haggadah_9",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_9",
       "parent_titles": [
         "Kadesh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 9,
       "start_char": 755,
       "end_char": 774,
       "length": 20,
       "text": "במוצאי שבת מוסיפים: "
     },
     {
-      "uid": "Pesach_Haggadah_10",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_10",
       "parent_titles": [
         "Kadesh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 10,
       "start_char": 775,
       "end_char": 1036,
       "length": 262,
       "text": "ברוך אתה ה', אלהינו מלך העולם, בורא מאורי האש. ברוך אתה ה', אלהינו מלך העולם המבדיל בין קדש לחל, בין אור לחשך, בין ישראל לעמים, בין יום השביעי לששת ימי המעשה. בין קדשת שבת לקדשת יום טוב הבדלת, ואת־יום השביעי מששת ימי המעשה קדשת. הבדלת וקדשת את־עמך ישראל בקדשתך. "
     },
     {
-      "uid": "Pesach_Haggadah_11",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_11",
       "parent_titles": [
         "Kadesh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 11,
       "start_char": 1037,
       "end_char": 1070,
       "length": 34,
       "text": "ברוך אתה ה', המבדיל בין קדש לקדש. "
     },
     {
-      "uid": "Pesach_Haggadah_12",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_12",
       "parent_titles": [
         "Kadesh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 12,
       "start_char": 1071,
       "end_char": 1133,
       "length": 63,
       "text": "ברוך אתה ה', אלהינו מלך העולם, שהחינו וקימנו והגיענו לזמן הזה. "
     },
     {
-      "uid": "Pesach_Haggadah_13",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_13",
       "parent_titles": [
         "Kadesh"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 13,
       "start_char": 1134,
       "end_char": 1173,
       "length": 40,
       "text": "שותה בהסיבת שמאל ואינו מברך ברכה אחרונה."
     },
     {
-      "uid": "Pesach_Haggadah_14",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_14",
       "parent_titles": [
         "Urchatz"
       ],
@@ -160,18 +160,18 @@
       "text": "ורחץ"
     },
     {
-      "uid": "Pesach_Haggadah_15",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_15",
       "parent_titles": [
         "Urchatz"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 1178,
       "end_char": 1220,
       "length": 43,
       "text": "נוטלים את הידים ואין מברכים \"על נטילת ידים\""
     },
     {
-      "uid": "Pesach_Haggadah_16",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_16",
       "parent_titles": [
         "Karpas"
       ],
@@ -182,29 +182,29 @@
       "text": "כרפס"
     },
     {
-      "uid": "Pesach_Haggadah_17",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_17",
       "parent_titles": [
         "Karpas"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 1225,
       "end_char": 1366,
       "length": 142,
       "text": "לוקח מן הכרפס פחות מכזית – כדי שלא יתחייב בברכה אחרונה – טובל במי מלח, מברך \"בורא פרי האדמה\", ומכווין לפטור בברכה גם את המרור. אוכל בלא הסבה. "
     },
     {
-      "uid": "Pesach_Haggadah_18",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_18",
       "parent_titles": [
         "Karpas"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 1367,
       "end_char": 1413,
       "length": 47,
       "text": "ברוך אתה ה', אלהינו מלך העולם, בורא פרי האדמה. "
     },
     {
-      "uid": "Pesach_Haggadah_19",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_19",
       "parent_titles": [
         "Yachatz"
       ],
@@ -215,18 +215,18 @@
       "text": "יחץ"
     },
     {
-      "uid": "Pesach_Haggadah_20",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_20",
       "parent_titles": [
         "Yachatz"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 1417,
       "end_char": 1473,
       "length": 57,
       "text": "חותך את המצה האמצעית לשתים, ומצפין את הנתח הגדול לאפיקומן"
     },
     {
-      "uid": "Pesach_Haggadah_1",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_21",
       "parent_titles": [
         "Magid",
         "Ha Lachma Anya"
@@ -238,31 +238,31 @@
       "text": "מגיד"
     },
     {
-      "uid": "Pesach_Haggadah_2",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_22",
       "parent_titles": [
         "Magid",
         "Ha Lachma Anya"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 5,
       "end_char": 49,
       "length": 45,
       "text": "מגלה את המצות, מגביה את הקערה ואומר בקול רם: "
     },
     {
-      "uid": "Pesach_Haggadah_3",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_23",
       "parent_titles": [
         "Magid",
         "Ha Lachma Anya"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 50,
       "end_char": 199,
       "length": 150,
       "text": "הא לחמא עניא די אכלו אבהתנא בארעא דמצרים. כל דכפין ייתי וייכל, כל דצריך ייתי ויפסח. השתא הכא, לשנה הבאה בארעא דישראל. השתא עבדי, לשנה הבאה בני חורין. "
     },
     {
-      "uid": "Pesach_Haggadah_4",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_24",
       "parent_titles": [
         "Magid",
         "Four Questions"
@@ -274,19 +274,19 @@
       "text": "מסיר את הקערה מעל השולחן. מוזגין כוס שני. הבן שואל:"
     },
     {
-      "uid": "Pesach_Haggadah_5",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_25",
       "parent_titles": [
         "Magid",
         "Four Questions"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 251,
       "end_char": 525,
       "length": 275,
       "text": "מה נשתנה הלילה הזה מכל הלילות? שבכל הלילות אנו אוכלין חמץ ומצה, הלילה הזה – כלו מצה. שבכל הלילות אנו אוכלין שאר ירקות – הלילה הזה (כלו) מרור. שבכל הלילות אין אנו מטבילין אפילו פעם אחת – הלילה הזה שתי פעמים. שבכל הלילות אנו אוכלין בין יושבין ובין מסבין – הלילה הזה כלנו מסבין."
     },
     {
-      "uid": "Pesach_Haggadah_6",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_26",
       "parent_titles": [
         "Magid",
         "We Were Slaves in Egypt"
@@ -298,19 +298,19 @@
       "text": "מחזיר את הקערה אל השולחן. המצות תהיינה מגלות בשעת אמירת ההגדה. "
     },
     {
-      "uid": "Pesach_Haggadah_7",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_27",
       "parent_titles": [
         "Magid",
         "We Were Slaves in Egypt"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 589,
       "end_char": 894,
       "length": 306,
       "text": "עבדים היינו לפרעה במצרים, ויוציאנו ה' אלהינו משם ביד חזקה ובזרע נטויה. ואלו לא הוציא הקדוש ברוך הוא את אבותינו ממצרים, הרי אנו ובנינו ובני בנינו משעבדים היינו לפרעה במצרים. ואפילו כלנו חכמים כלנו נבונים כלנו זקנים כלנו יודעים את התורה מצוה עלינו לספר ביציאת מצרים. וכל המרבה לספר ביציאת מצרים הרי זה משבח. "
     },
     {
-      "uid": "Pesach_Haggadah_8",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_28",
       "parent_titles": [
         "Magid",
         "Story of the Five Rabbis"
@@ -322,19 +322,19 @@
       "text": "מעשה ברבי אליעזר ורבי יהושע ורבי אלעזר בן־עזריה ורבי עקיבא ורבי טרפון שהיו מסבין בבני־ברק והיו מספרים ביציאת מצרים כל־אותו הלילה, עד שבאו תלמידיהם ואמרו להם רבותינו הגיע זמן קריאת שמע של שחרית. "
     },
     {
-      "uid": "Pesach_Haggadah_9",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_29",
       "parent_titles": [
         "Magid",
         "Story of the Five Rabbis"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 1089,
       "end_char": 1339,
       "length": 251,
       "text": "אמר רבי אלעזר בן־עזריה הרי אני כבן שבעים שנה ולא זכיתי שתאמר יציאת מצרים בלילות עד שדרשה בן זומא, שנאמר, למען תזכר את יום צאתך מארץ מצרים כל ימי חייך. ימי חייך הימים. כל ימי חייך הלילות. וחכמים אומרים ימי חייך העולם הזה. כל ימי חייך להביא לימות המשיח:"
     },
     {
-      "uid": "Pesach_Haggadah_10",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_30",
       "parent_titles": [
         "Magid",
         "The Four Sons"
@@ -346,55 +346,55 @@
       "text": "ברוך המקום, ברוך הוא, ברוך שנתן תורה לעמו ישראל, ברוך הוא. כנגד ארבעה בנים דברה תורה: אחד חכם, ואחד רשע, ואחד תם, ואחד שאינו יודע לשאול. "
     },
     {
-      "uid": "Pesach_Haggadah_11",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_31",
       "parent_titles": [
         "Magid",
         "The Four Sons"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 1477,
       "end_char": 1600,
       "length": 124,
       "text": "חכם מה הוא אומר? מה העדות והחקים והמשפטים אשר צוה ה' אלהינו אתכם. ואף אתה אמור לו כהלכות הפסח: אין מפטירין אחר הפסח אפיקומן:"
     },
     {
-      "uid": "Pesach_Haggadah_12",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_32",
       "parent_titles": [
         "Magid",
         "The Four Sons"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 1601,
       "end_char": 1791,
       "length": 191,
       "text": "רשע מה הוא אומר? מה העבודה הזאת לכם. לכם – ולא לו. ולפי שהוציא את עצמו מן הכלל כפר בעקר. ואף אתה הקהה את שניו ואמור לו: \"בעבור זה עשה ה' לי בצאתי ממצרים\". לי ולא־לו. אלו היה שם, לא היה נגאל: "
     },
     {
-      "uid": "Pesach_Haggadah_13",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_33",
       "parent_titles": [
         "Magid",
         "The Four Sons"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 1792,
       "end_char": 1867,
       "length": 76,
       "text": "תם מה הוא אומר? מה זאת? ואמרת אליו \"בחוזק יד הוציאנו ה' ממצרים מבית עבדים\". "
     },
     {
-      "uid": "Pesach_Haggadah_14",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_34",
       "parent_titles": [
         "Magid",
         "The Four Sons"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 1868,
       "end_char": 1964,
       "length": 97,
       "text": "ושאינו יודע לשאול – את פתח לו, שנאמר, והגדת לבנך ביום ההוא לאמר, בעבור זה עשה ה' לי בצאתי ממצרים."
     },
     {
-      "uid": "Pesach_Haggadah_15",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_35",
       "parent_titles": [
         "Magid",
         "Yechol Me'rosh Chodesh"
@@ -406,7 +406,7 @@
       "text": "יכול מראש חדש? תלמוד לומר ביום ההוא. אי ביום ההוא יכול מבעוד יום? תלמוד לומר בעבור זה – בעבור זה לא אמרתי, אלא בשעה שיש מצה ומרור מנחים לפניך. "
     },
     {
-      "uid": "Pesach_Haggadah_16",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_36",
       "parent_titles": [
         "Magid",
         "In the Beginning Our Fathers Were Idol Worshipers"
@@ -418,55 +418,55 @@
       "text": "מתחלה עובדי עבודה זרה היו אבותינו, ועכשיו קרבנו המקום לעבדתו, שנאמר: ויאמר יהושע אל־כל־העם, כה אמר ה' אלהי ישראל: בעבר הנהר ישבו אבותיכם מעולם, תרח אבי אברהם ואבי נחור, ויעבדו אלהים אחרים. "
     },
     {
-      "uid": "Pesach_Haggadah_17",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_37",
       "parent_titles": [
         "Magid",
         "In the Beginning Our Fathers Were Idol Worshipers"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 2297,
       "end_char": 2468,
       "length": 172,
       "text": "ואקח את־אביכם את־אברהם מעבר הנהר ואולך אותו בכל־ארץ כנען, וארבה את־זרעו ואתן לו את־יצחק, ואתן ליצחק את־יעקב ואת־עשו. ואתן לעשו את־הר שעיר לרשת אתו, ויעקב ובניו ירדו מצרים. "
     },
     {
-      "uid": "Pesach_Haggadah_18",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_38",
       "parent_titles": [
         "Magid",
         "In the Beginning Our Fathers Were Idol Worshipers"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 2469,
       "end_char": 2720,
       "length": 252,
       "text": "ברוך שומר הבטחתו לישראל, ברוך הוא. שהקדוש ברוך הוא חשב את־הקץ, לעשות כמו שאמר לאברהם אבינו בברית בין הבתרים, שנאמר: ויאמר לאברם, ידע תדע כי־גר יהיה זרעך בארץ לא להם, ועבדום וענו אתם ארבע מאות שנה. וגם את־הגוי אשר יעבדו דן אנכי ואחרי־כן יצאו ברכש גדול. "
     },
     {
-      "uid": "Pesach_Haggadah_19",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_39",
       "parent_titles": [
         "Magid",
         "In the Beginning Our Fathers Were Idol Worshipers"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 2721,
       "end_char": 2758,
       "length": 38,
       "text": "מכסה המצה ומגביה את הכוס בידו, ואומר: "
     },
     {
-      "uid": "Pesach_Haggadah_20",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_40",
       "parent_titles": [
         "Magid",
         "In the Beginning Our Fathers Were Idol Worshipers"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 2759,
       "end_char": 2885,
       "length": 127,
       "text": "והיא שעמדה לאבותינו ולנו. שלא אחד בלבד עמד עלינו לכלותנו, אלא שבכל דור ודור עומדים עלינו לכלותנו, והקדוש ברוך הוא מצילנו מידם. "
     },
     {
-      "uid": "Pesach_Haggadah_21",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_41",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
@@ -478,283 +478,283 @@
       "text": "יניח הכוס מידו ויגלה את המצות. "
     },
     {
-      "uid": "Pesach_Haggadah_22",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_42",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 2917,
       "end_char": 3090,
       "length": 174,
       "text": "צא ולמד מה בקש לבן הארמי לעשות ליעקב אבינו: שפרעה לא גזר אלא על הזכרים, ולבן בקש לעקר את־הכל. שנאמר: ארמי אבד אבי, וירד מצרימה ויגר שם במתי מעט, ויהי שם לגוי גדול, עצום ורב. "
     },
     {
-      "uid": "Pesach_Haggadah_23",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_43",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 3091,
       "end_char": 3302,
       "length": 212,
       "text": "וירד מצרימה – אנוס על פי הדבור. ויגר שם. מלמד שלא ירד יעקב אבינו להשתקע במצרים אלא לגור שם, שנאמר: ויאמרו אל־פרעה, לגור בארץ באנו, כי אין מרעה לצאן אשר לעבדיך, כי כבד הרעב בארץ כנען. ועתה ישבו־נא עבדיך בארץ גשן. "
     },
     {
-      "uid": "Pesach_Haggadah_24",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_44",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 3303,
       "end_char": 3390,
       "length": 88,
       "text": "במתי מעט. כמה שנאמר: בשבעים נפש ירדו אבותיך מצרימה, ועתה שמך ה' אלהיך ככוכבי השמים לרב. "
     },
     {
-      "uid": "Pesach_Haggadah_25",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_45",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 3391,
       "end_char": 3515,
       "length": 125,
       "text": "ויהי שם לגוי. מלמד שהיו ישראל מצינים שם. גדול עצום – כמה שנאמר: ובני ישראל פרו וישרצו וירבו ויעצמו במאד מאד, ותמלא הארץ אתם. "
     },
     {
-      "uid": "Pesach_Haggadah_26",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_46",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 3516,
       "end_char": 3689,
       "length": 174,
       "text": "ורב. כמה שנאמר: רבבה כצמח השדה נתתיך, ותרבי ותגדלי ותבאי בעדי עדיים, שדים נכנו ושערך צמח, ואת ערם ועריה. ואעבר עליך ואראך מתבוססת בדמיך, ואמר לך בדמיך חיי, ואמר לך בדמיך חיי."
     },
     {
-      "uid": "Pesach_Haggadah_27",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_47",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 3690,
       "end_char": 3861,
       "length": 172,
       "text": "וירעו אתנו המצרים ויענונו, ויתנו עלינו עבדה קשה. וירעו אתנו המצרים – כמה שנאמר: הבה נתחכמה לו פן ירבה, והיה כי תקראנה מלחמה ונוסף גם הוא על שנאינו ונלחם־בנו, ועלה מן־הארץ. "
     },
     {
-      "uid": "Pesach_Haggadah_28",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_48",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 3862,
       "end_char": 3960,
       "length": 99,
       "text": "ויענונו. כמה שנאמר: וישימו עליו שרי מסים למען ענתו בסבלתם. ויבן ערי מסכנות לפרעה. את־פתם ואת־רעמסס."
     },
     {
-      "uid": "Pesach_Haggadah_29",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_49",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 9,
       "start_char": 3961,
       "end_char": 4024,
       "length": 64,
       "text": "ויתנו עלינו עבדה קשה. כמה שנאמר: ויעבדו מצרים את־בני ישראל בפרך."
     },
     {
-      "uid": "Pesach_Haggadah_30",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_50",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 10,
       "start_char": 4025,
       "end_char": 4024,
       "length": 0,
       "text": ""
     },
     {
-      "uid": "Pesach_Haggadah_31",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_51",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 11,
       "start_char": 4025,
       "end_char": 4102,
       "length": 78,
       "text": "ונצעק אל־ה' אלהי אבתינו, וישמע ה' את־קלנו, וירא את־ענינו ואת עמלנו ואת לחצנו. "
     },
     {
-      "uid": "Pesach_Haggadah_32",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_52",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 12,
       "start_char": 4103,
       "end_char": 4241,
       "length": 139,
       "text": "ונצעק אל־ה' אלהי אבתינו – כמה שנאמר: ויהי בימים הרבים ההם וימת מלך מצרים, ויאנחו בני־ישראל מ־העבודה ויזעקו, ותעל שועתם אל־האלהים מן העבדה. "
     },
     {
-      "uid": "Pesach_Haggadah_33",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_53",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 13,
       "start_char": 4242,
       "end_char": 4341,
       "length": 100,
       "text": "וישמע ה' את קלנו. כמה שנאמר: וישמע אלהים את־נאקתם, ויזכר אלהים את־בריתו את־אברהם, את־יצחק ואת־יעקב. "
     },
     {
-      "uid": "Pesach_Haggadah_34",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_54",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 14,
       "start_char": 4342,
       "end_char": 4422,
       "length": 81,
       "text": "וירא את־ענינו. זו פרישות דרך ארץ, כמה שנאמר: וירא אלהים את בני־ישראל וידע אלהים. "
     },
     {
-      "uid": "Pesach_Haggadah_35",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_55",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 15,
       "start_char": 4423,
       "end_char": 4496,
       "length": 74,
       "text": "ואת־עמלנו. אלו הבנים. כמה שנאמר: כל־הבן הילוד היארה תשליכהו וכל־הבת תחיון."
     },
     {
-      "uid": "Pesach_Haggadah_36",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_56",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 16,
       "start_char": 4497,
       "end_char": 4566,
       "length": 70,
       "text": "ואת לחצנו. זו הדחק, כמה שנאמר: וגם־ראיתי את־הלחץ אשר מצרים לחצים אתם. "
     },
     {
-      "uid": "Pesach_Haggadah_37",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_57",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 17,
       "start_char": 4567,
       "end_char": 4634,
       "length": 68,
       "text": "ויוצאנו ה' ממצרים ביד חזקה, ובזרע נטויה, ובמרא גדל, ובאתות ובמפתים. "
     },
     {
-      "uid": "Pesach_Haggadah_38",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_58",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 18,
       "start_char": 4635,
       "end_char": 4849,
       "length": 215,
       "text": "ויוצאנו ה' ממצרים. לא על־ידי מלאך, ולא על־ידי שרף, ולא על־ידי שליח, אלא הקדוש ברוך הוא בכבודו ובעצמו. שנאמר: ועברתי בארץ מצרים בלילה הזה, והכיתי כל־בכור בארץ מצרים מאדם ועד בהמה, ובכל אלהי מצרים אעשה שפטים. אני ה'. "
     },
     {
-      "uid": "Pesach_Haggadah_39",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_59",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 19,
       "start_char": 4850,
       "end_char": 5000,
       "length": 151,
       "text": "ועברתי בארץ מצרים בלילה הזה – אני ולא מלאך; והכיתי כל בכור בארץ־מצרים. אני ולא שרף; ובכל־אלהי מצרים אעשה שפטים. אני ולא השליח; אני ה'. אני הוא ולא אחר."
     },
     {
-      "uid": "Pesach_Haggadah_40",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_60",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 20,
       "start_char": 5001,
       "end_char": 5110,
       "length": 110,
       "text": "ביד חזקה. זו הדבר, כמה שנאמר: הנה יד־ה' הויה במקנך אשר בשדה, בסוסים, בחמרים, בגמלים, בבקר ובצאן, דבר כבד מאד. "
     },
     {
-      "uid": "Pesach_Haggadah_41",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_61",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 21,
       "start_char": 5111,
       "end_char": 5179,
       "length": 69,
       "text": "ובזרע נטויה. זו החרב, כמה שנאמר: וחרבו שלופה בידו, נטויה על־ירושלים. "
     },
     {
-      "uid": "Pesach_Haggadah_42",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_62",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 22,
       "start_char": 5180,
       "end_char": 5364,
       "length": 185,
       "text": "ובמורא גדל. זו גלוי שכינה. כמה שנאמר, או הנסה אלהים לבוא לקחת לו גוי מקרב גוי במסת באתת ובמופתים ובמלחמה וביד חזקה ובזרוע נטויה ובמוראים גדולים ככל אשר־עשה לכם ה' אלהיכם במצרים לעיניך. "
     },
     {
-      "uid": "Pesach_Haggadah_43",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_63",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 23,
       "start_char": 5365,
       "end_char": 5437,
       "length": 73,
       "text": "ובאתות. זה המטה, כמה שנאמר: ואת המטה הזה תקח בידך, אשר תעשה־בו את האתות. "
     },
     {
-      "uid": "Pesach_Haggadah_44",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_64",
       "parent_titles": [
         "Magid",
         "First Fruits Declaration"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 24,
       "start_char": 5438,
       "end_char": 5491,
       "length": 54,
       "text": "ובמפתים. זה הדם, כמה שנאמר: ונתתי מופתים בשמים ובארץ. "
     },
     {
-      "uid": "Pesach_Haggadah_45",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_65",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
@@ -766,235 +766,235 @@
       "text": "כשאומר דם ואש ותימרות עשן, עשר המכות ודצ\"ך עד\"ש באח\"ב – ישפוך מן הכוס מעט יין:"
     },
     {
-      "uid": "Pesach_Haggadah_46",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_66",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 5570,
       "end_char": 5588,
       "length": 19,
       "text": "דם ואש ותימרות עשן."
     },
     {
-      "uid": "Pesach_Haggadah_47",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_67",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 5589,
       "end_char": 5588,
       "length": 0,
       "text": ""
     },
     {
-      "uid": "Pesach_Haggadah_48",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_68",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 5589,
       "end_char": 5679,
       "length": 91,
       "text": "דבר אחר: ביד חזקה שתים, ובזרע נטויה שתים, ובמרא גדל – שתים, ובאתות – שתים, ובמפתים – שתים. "
     },
     {
-      "uid": "Pesach_Haggadah_49",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_69",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 5680,
       "end_char": 5739,
       "length": 60,
       "text": "אלו עשר מכות שהביא הקדוש ברוך הוא על־המצרים במצרים, ואלו הן:"
     },
     {
-      "uid": "Pesach_Haggadah_50",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_70",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 5740,
       "end_char": 5744,
       "length": 5,
       "text": "-----"
     },
     {
-      "uid": "Pesach_Haggadah_51",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_71",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 5745,
       "end_char": 5746,
       "length": 2,
       "text": "דם"
     },
     {
-      "uid": "Pesach_Haggadah_52",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_72",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 5747,
       "end_char": 5751,
       "length": 5,
       "text": "צפרדע"
     },
     {
-      "uid": "Pesach_Haggadah_53",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_73",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 9,
       "start_char": 5752,
       "end_char": 5755,
       "length": 4,
       "text": "כנים"
     },
     {
-      "uid": "Pesach_Haggadah_54",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_74",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 10,
       "start_char": 5756,
       "end_char": 5759,
       "length": 4,
       "text": "ערוב"
     },
     {
-      "uid": "Pesach_Haggadah_55",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_75",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 11,
       "start_char": 5760,
       "end_char": 5762,
       "length": 3,
       "text": "דבר"
     },
     {
-      "uid": "Pesach_Haggadah_56",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_76",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 12,
       "start_char": 5763,
       "end_char": 5766,
       "length": 4,
       "text": "שחין"
     },
     {
-      "uid": "Pesach_Haggadah_57",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_77",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 13,
       "start_char": 5767,
       "end_char": 5769,
       "length": 3,
       "text": "ברד"
     },
     {
-      "uid": "Pesach_Haggadah_58",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_78",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 14,
       "start_char": 5770,
       "end_char": 5773,
       "length": 4,
       "text": "ארבה"
     },
     {
-      "uid": "Pesach_Haggadah_59",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_79",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 15,
       "start_char": 5774,
       "end_char": 5776,
       "length": 3,
       "text": "חשך"
     },
     {
-      "uid": "Pesach_Haggadah_60",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_80",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 16,
       "start_char": 5777,
       "end_char": 5786,
       "length": 10,
       "text": "מכת בכורות"
     },
     {
-      "uid": "Pesach_Haggadah_61",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_81",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 17,
       "start_char": 5787,
       "end_char": 5832,
       "length": 46,
       "text": "רבי יהודה היה נותן בהם סמנים: דצ\"ך עד\"ש באח\"ב."
     },
     {
-      "uid": "Pesach_Haggadah_62",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_82",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 18,
       "start_char": 5833,
       "end_char": 6165,
       "length": 333,
       "text": "רבי יוסי הגלילי אומר: מנין אתה אומר שלקו המצרים במצרים עשר מכות ועל הים לקו חמשים מכות? במצרים מה הוא אומר? ויאמרו החרטמם אל פרעה: אצבע אלהים הוא, ועל הים מה הוא אומר? וירא ישראל את־היד הגדלה אשר עשה ה' במצרים, וייראו העם את־ה', ויאמינו ביי ובמשה עבדו. כמה לקו באצבע? עשר מכות. אמור מעתה: במצרים לקו עשר מכות ועל הים לקו חמשים מכות. "
     },
     {
-      "uid": "Pesach_Haggadah_63",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_83",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 19,
       "start_char": 6166,
       "end_char": 6436,
       "length": 271,
       "text": "רבי אליעזר אומר: מנין שכל־מכה ומכה שהביא הקדוש ברוך הוא על המצרים במצרים היתה של ארבע מכות? שנאמר: ישלח־בם חרון אפו, עברה וזעם וצרה, משלחת מלאכי רעים. עברה – אחת, וזעם – שתים, וצרה – שלש, משלחת מלאכי רעים – ארבע. אמור מעתה: במצרים לקו ארבעים מכות ועל הים לקו מאתים מכות. "
     },
     {
-      "uid": "Pesach_Haggadah_64",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_84",
       "parent_titles": [
         "Magid",
         "The Ten Plagues"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 20,
       "start_char": 6437,
       "end_char": 6728,
       "length": 292,
       "text": "רבי עקיבא אומר: מנין שכל־מכה ומכה שהביא הקדוש ברוך הוא על המצרים במצרים היתה של חמש מכות? שנאמר: ישלח־בם חרון אפו, עברה וזעם וצרה, משלחת מלאכי רעים. חרון אפו – אחת, עברה – שתים, וזעם – שלוש, וצרה – ארבע, משלחת מלאכי רעים – חמש. אמור מעתה: במצרים לקו חמשים מכות ועל הים לקו חמשים ומאתים מכות. "
     },
     {
-      "uid": "Pesach_Haggadah_65",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_85",
       "parent_titles": [
         "Magid",
         "Dayenu"
@@ -1006,187 +1006,187 @@
       "text": "כמה מעלות טובות למקום עלינו!"
     },
     {
-      "uid": "Pesach_Haggadah_66",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_86",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 6757,
       "end_char": 6800,
       "length": 44,
       "text": "אלו הוציאנו ממצרים ולא עשה בהם שפטים, דינו. "
     },
     {
-      "uid": "Pesach_Haggadah_67",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_87",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 6801,
       "end_char": 6842,
       "length": 42,
       "text": "אלו עשה בהם שפטים, ולא עשה באלהיהם, דינו. "
     },
     {
-      "uid": "Pesach_Haggadah_68",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_88",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 6843,
       "end_char": 6885,
       "length": 43,
       "text": "אלו עשה באלהיהם, ולא הרג את־בכוריהם, דינו. "
     },
     {
-      "uid": "Pesach_Haggadah_69",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_89",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 6886,
       "end_char": 6932,
       "length": 47,
       "text": "אלו הרג את־בכוריהם ולא נתן לנו את־ממונם, דינו. "
     },
     {
-      "uid": "Pesach_Haggadah_70",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_90",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 6933,
       "end_char": 6979,
       "length": 47,
       "text": "אלו נתן לנו את־ממונם ולא קרע לנו את־הים, דינו. "
     },
     {
-      "uid": "Pesach_Haggadah_71",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_91",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 6980,
       "end_char": 7029,
       "length": 50,
       "text": "אלו קרע לנו את־הים ולא העבירנו בתוכו בחרבה, דינו. "
     },
     {
-      "uid": "Pesach_Haggadah_72",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_92",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 7030,
       "end_char": 7077,
       "length": 48,
       "text": "אלו העבירנו בתוכו בחרבה ולא שקע צרנו בתוכו דינו."
     },
     {
-      "uid": "Pesach_Haggadah_73",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_93",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 9,
       "start_char": 7078,
       "end_char": 7132,
       "length": 55,
       "text": "אלו שקע צרנו בתוכו ולא ספק צרכנו במדבר ארבעים שנה דינו."
     },
     {
-      "uid": "Pesach_Haggadah_74",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_94",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 10,
       "start_char": 7133,
       "end_char": 7187,
       "length": 55,
       "text": "אלו ספק צרכנו במדבר ארבעים שנה ולא האכילנו את־המן דינו."
     },
     {
-      "uid": "Pesach_Haggadah_75",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_95",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 11,
       "start_char": 7188,
       "end_char": 7233,
       "length": 46,
       "text": "אלו האכילנו את־המן ולא נתן לנו את־השבת, דינו. "
     },
     {
-      "uid": "Pesach_Haggadah_76",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_96",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 12,
       "start_char": 7234,
       "end_char": 7284,
       "length": 51,
       "text": "אלו נתן לנו את־השבת, ולא קרבנו לפני הר סיני, דינו. "
     },
     {
-      "uid": "Pesach_Haggadah_77",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_97",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 13,
       "start_char": 7285,
       "end_char": 7336,
       "length": 52,
       "text": "אלו קרבנו לפני הר סיני, ולא נתן לנו את־התורה. דינו. "
     },
     {
-      "uid": "Pesach_Haggadah_78",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_98",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 14,
       "start_char": 7337,
       "end_char": 7387,
       "length": 51,
       "text": "אלו נתן לנו את־התורה ולא הכניסנו לארץ ישראל, דינו. "
     },
     {
-      "uid": "Pesach_Haggadah_79",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_99",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 15,
       "start_char": 7388,
       "end_char": 7441,
       "length": 54,
       "text": "אלו הכניסנו לארץ ישראל ולא בנה לנו את־בית הבחירה דינו."
     },
     {
-      "uid": "Pesach_Haggadah_80",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_100",
       "parent_titles": [
         "Magid",
         "Dayenu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 16,
       "start_char": 7442,
       "end_char": 7798,
       "length": 357,
       "text": "על אחת, כמה וכמה, טובה כפולה ומכפלת למקום עלינו: שהוציאנו ממצרים, ועשה בהם שפטים, ועשה באלהיהם, והרג את־בכוריהם, ונתן לנו את־ממונם, וקרע לנו את־הים, והעבירנו בתוכו בחרבה, ושקע צרנו בתוכו, וספק צרכנו במדבר ארבעים שנה, והאכילנו את־המן, ונתן לנו את־השבת, וקרבנו לפני הר סיני, ונתן לנו את־התורה, והכניסנו לארץ ישראל, ובנה לנו את־בית הבחירה לכפר על־כל־עונותינו. "
     },
     {
-      "uid": "Pesach_Haggadah_81",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_101",
       "parent_titles": [
         "Magid",
         "Rabban Gamliel's Three Things"
@@ -1198,79 +1198,79 @@
       "text": "רבן גמליאל היה אומר: כל שלא אמר שלשה דברים אלו בפסח, לא יצא ידי חובתו, ואלו הן: פסח, מצה, ומרור. "
     },
     {
-      "uid": "Pesach_Haggadah_82",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_102",
       "parent_titles": [
         "Magid",
         "Rabban Gamliel's Three Things"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 7896,
       "end_char": 8117,
       "length": 222,
       "text": "פסח שהיו אבותינו אוכלים בזמן שבית המקדש היה קים, על שום מה? על שום שפסח הקדוש ברוך הוא על בתי אבותינו במצרים, שנאמר: ואמרתם זבח פסח הוא ליי, אשר פסח על בתי בני ישראל במצרים בנגפו את־מצרים, ואת־בתינו הציל ויקד העם וישתחוו. "
     },
     {
-      "uid": "Pesach_Haggadah_83",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_103",
       "parent_titles": [
         "Magid",
         "Rabban Gamliel's Three Things"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 8118,
       "end_char": 8152,
       "length": 35,
       "text": "אוחז המצה בידו ומראה אותה למסובין: "
     },
     {
-      "uid": "Pesach_Haggadah_84",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_104",
       "parent_titles": [
         "Magid",
         "Rabban Gamliel's Three Things"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 8153,
       "end_char": 8391,
       "length": 239,
       "text": "מצה זו שאנו אוכלים, על שום מה? על שום שלא הספיק בצקם של אבותינו להחמיץ עד שנגלה עליהם מלך מלכי המלכים, הקדוש ברוך הוא, וגאלם, שנאמר: ויאפו את־הבצק אשר הוציאו ממצרים עגת מצות, כי לא חמץ, כי גרשו ממצרים ולא יכלו להתמהמה, וגם צדה לא עשו להם. "
     },
     {
-      "uid": "Pesach_Haggadah_85",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_105",
       "parent_titles": [
         "Magid",
         "Rabban Gamliel's Three Things"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 8392,
       "end_char": 8427,
       "length": 36,
       "text": "אוחז המרור בידו ומראה אותו למסובין: "
     },
     {
-      "uid": "Pesach_Haggadah_86",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_106",
       "parent_titles": [
         "Magid",
         "Rabban Gamliel's Three Things"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 8428,
       "end_char": 8595,
       "length": 168,
       "text": "מרור זה שאנו אוכלים, על שום מה? על שום שמררו המצרים את־חיי אבותינו במצרים, שנאמר: וימררו את חייהם בעבדה קשה, בחמר ובלבנים ובכל־עבדה בשדה את כל עבדתם אשר עבדו בהם בפרך. "
     },
     {
-      "uid": "Pesach_Haggadah_87",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_107",
       "parent_titles": [
         "Magid",
         "Rabban Gamliel's Three Things"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 8596,
       "end_char": 8856,
       "length": 261,
       "text": "בכל־דור ודור חיב אדם לראות את־עצמו כאלו הוא יצא ממצרים, שנאמר: והגדת לבנך ביום ההוא לאמר, בעבור זה עשה ה' לי בצאתי ממצרים. לא את־אבותינו בלבד גאל הקדוש ברוך הוא, אלא אף אותנו גאל עמהם, שנאמר: ואותנו הוציא משם, למען הביא אותנו, לתת לנו את־הארץ אשר נשבע לאבתינו. "
     },
     {
-      "uid": "Pesach_Haggadah_88",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_108",
       "parent_titles": [
         "Magid",
         "First Half of Hallel"
@@ -1282,43 +1282,43 @@
       "text": "יאחז הכוס בידו ויכסה המצות ויאמר: "
     },
     {
-      "uid": "Pesach_Haggadah_89",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_109",
       "parent_titles": [
         "Magid",
         "First Half of Hallel"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 8891,
       "end_char": 9119,
       "length": 229,
       "text": "לפיכך אנחנו חיבים להודות, להלל, לשבח, לפאר, לרומם, להדר, לברך, לעלה ולקלס למי שעשה לאבותינו ולנו את־כל־הנסים האלו: הוציאנו מעבדות לחרות מיגון לשמחה, ומאבל ליום טוב, ומאפלה לאור גדול, ומשעבוד לגאלה. ונאמר לפניו שירה חדשה: הללויה. "
     },
     {
-      "uid": "Pesach_Haggadah_90",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_110",
       "parent_titles": [
         "Magid",
         "First Half of Hallel"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 9120,
       "end_char": 9412,
       "length": 293,
       "text": "הללויה הללו עבדי ה', הללו את־שם ה'. יהי שם ה' מברך מעתה ועד עולם. ממזרח שמש עד מבואו מהלל שם ה'. רם על־כל־גוים ה', על השמים כבודו. מי כיי אלהינו המגביהי לשבת, המשפילי לראות בשמים ובארץ? מקימי מעפר דל, מאשפת ירים אביון, להושיבי עם־נדיבים, עם נדיבי עמו. מושיבי עקרת הבית, אם הבנים שמחה. הללויה. "
     },
     {
-      "uid": "Pesach_Haggadah_91",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_111",
       "parent_titles": [
         "Magid",
         "First Half of Hallel"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 9413,
       "end_char": 9701,
       "length": 289,
       "text": "בצאת ישראל ממצרים, בית יעקב מעם לעז, היתה יהודה לקדשו, ישראל ממשלותיו. הים ראה וינס, הירדן יסב לאחור. ההרים רקדו כאילים, גבעות כבני צאן. מה לך הים כי תנוס, הירדן – תסב לאחור, ההרים – תרקדו כאילים, גבעות כבני־צאן. מלפני אדון חולי ארץ, מלפני אלוה יעקב. ההפכי הצור אגם־מים, חלמיש למעינו־מים. "
     },
     {
-      "uid": "Pesach_Haggadah_92",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_112",
       "parent_titles": [
         "Magid",
         "Second Cup of Wine"
@@ -1330,43 +1330,43 @@
       "text": "מגביהים את הכוס עד גאל ישראל. "
     },
     {
-      "uid": "Pesach_Haggadah_93",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_113",
       "parent_titles": [
         "Magid",
         "Second Cup of Wine"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 9732,
       "end_char": 10070,
       "length": 339,
       "text": "ברוך אתה ה' אלהינו מלך העולם, אשר גאלנו וגאל את־אבותינו ממצרים, והגיענו הלילה הזה לאכל־בו מצה ומרור. כן ה' אלהינו ואלהי אבותינו יגיענו למועדים ולרגלים אחרים הבאים לקראתנו לשלום, שמחים בבנין עירך וששים בעבודתך. ונאכל שם מן הזבחים ומן הפסחים אשר יגיע דמם על קיר מזבחך לרצון, ונודה לך שיר חדש על גאלתנו ועל פדות נפשנו. ברוך אתה ה', גאל ישראל."
     },
     {
-      "uid": "Pesach_Haggadah_94",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_114",
       "parent_titles": [
         "Magid",
         "Second Cup of Wine"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 10071,
       "end_char": 10095,
       "length": 25,
       "text": "שותים את הכוס בהסבת שמאל."
     },
     {
-      "uid": "Pesach_Haggadah_95",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_115",
       "parent_titles": [
         "Magid",
         "Second Cup of Wine"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 10096,
       "end_char": 10140,
       "length": 45,
       "text": "ברוך אתה ה', אלהינו מלך העולם בורא פרי הגפן. "
     },
     {
-      "uid": "Pesach_Haggadah_21",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_116",
       "parent_titles": [
         "Rachtzah"
       ],
@@ -1377,29 +1377,29 @@
       "text": "רחצה"
     },
     {
-      "uid": "Pesach_Haggadah_22",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_117",
       "parent_titles": [
         "Rachtzah"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 1478,
       "end_char": 1502,
       "length": 25,
       "text": "נוטלים את הידים ומברכים: "
     },
     {
-      "uid": "Pesach_Haggadah_23",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_118",
       "parent_titles": [
         "Rachtzah"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 1503,
       "end_char": 1572,
       "length": 70,
       "text": "ברוך אתה ה', אלהינו מלך העולם, אשר קדשנו במצותיו וצונו על נטילת ידים. "
     },
     {
-      "uid": "Pesach_Haggadah_24",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_119",
       "parent_titles": [
         "Motzi Matzah"
       ],
@@ -1410,40 +1410,40 @@
       "text": "מוציא מצה"
     },
     {
-      "uid": "Pesach_Haggadah_25",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_120",
       "parent_titles": [
         "Motzi Matzah"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 1582,
       "end_char": 1803,
       "length": 222,
       "text": "יקח המצות בסדר שהניחן, הפרוסה בין שתי השלמות, יאחז שלשתן בידו ויברך \"המוציא\" בכוונה על העליונה, ו\"על אכילת מצה\" בכוונה על הפרוסה. אחר כך יבצע כזית מן העליונה השלמה וכזית שני מן הפרוסה, ויטבלם במלח, ויאכל בהסבה שני הזיתים: "
     },
     {
-      "uid": "Pesach_Haggadah_26",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_121",
       "parent_titles": [
         "Motzi Matzah"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 1804,
       "end_char": 1853,
       "length": 50,
       "text": "ברוך אתה ה', אלהינו מלך העולם המוציא לחם מן הארץ. "
     },
     {
-      "uid": "Pesach_Haggadah_27",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_122",
       "parent_titles": [
         "Motzi Matzah"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 1854,
       "end_char": 1922,
       "length": 69,
       "text": "ברוך אתה ה', אלהינו מלך העולם, אשר קדשנו במצותיו וצונו על אכילת מצה. "
     },
     {
-      "uid": "Pesach_Haggadah_28",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_123",
       "parent_titles": [
         "Maror"
       ],
@@ -1454,29 +1454,29 @@
       "text": "מרור"
     },
     {
-      "uid": "Pesach_Haggadah_29",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_124",
       "parent_titles": [
         "Maror"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 1927,
       "end_char": 2005,
       "length": 79,
       "text": "כל אחד מהמסבים לוקח כזית מרור, מטבלו בחרוסת, מנער החרוסת, מברך ואוכל בלי הסבה. "
     },
     {
-      "uid": "Pesach_Haggadah_30",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_125",
       "parent_titles": [
         "Maror"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 2006,
       "end_char": 2075,
       "length": 70,
       "text": "ברוך אתה ה', אלהינו מלך העולם, אשר קדשנו במצותיו וצונו על אכילת מרור. "
     },
     {
-      "uid": "Pesach_Haggadah_31",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_126",
       "parent_titles": [
         "Korech"
       ],
@@ -1487,40 +1487,40 @@
       "text": "כורך"
     },
     {
-      "uid": "Pesach_Haggadah_32",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_127",
       "parent_titles": [
         "Korech"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 2080,
       "end_char": 2186,
       "length": 107,
       "text": "כל אחד מהמסבים לוקח כזית מן המצה השלישית עם כזית מרור, כורכים יחד, אוכלים בהסבה ובלי ברכה. לפני אכלו אומר. "
     },
     {
-      "uid": "Pesach_Haggadah_33",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_128",
       "parent_titles": [
         "Korech"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 2187,
       "end_char": 2237,
       "length": 51,
       "text": "זכר למקדש כהלל. כן עשה הלל בזמן שבית המקדש היה קים:"
     },
     {
-      "uid": "Pesach_Haggadah_34",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_129",
       "parent_titles": [
         "Korech"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 2238,
       "end_char": 2306,
       "length": 69,
       "text": "היה כורך מצה ומרור ואוכל ביחד, לקים מה שנאמר: על מצות ומרורים יאכלהו."
     },
     {
-      "uid": "Pesach_Haggadah_35",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_130",
       "parent_titles": [
         "Shulchan Orech"
       ],
@@ -1531,18 +1531,18 @@
       "text": "שלחן עורך"
     },
     {
-      "uid": "Pesach_Haggadah_36",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_131",
       "parent_titles": [
         "Shulchan Orech"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 2316,
       "end_char": 2329,
       "length": 14,
       "text": "אוכלים ושותים."
     },
     {
-      "uid": "Pesach_Haggadah_37",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_132",
       "parent_titles": [
         "Tzafun"
       ],
@@ -1553,29 +1553,29 @@
       "text": "צפון"
     },
     {
-      "uid": "Pesach_Haggadah_38",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_133",
       "parent_titles": [
         "Tzafun"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 2334,
       "end_char": 2454,
       "length": 121,
       "text": "אחר גמר הסעודה לוקח כל אחד מהמסבים כזית מהמצה שהייתה צפונה לאפיקומן ואוכל ממנה כזית בהסבה. וצריך לאוכלה קודם חצות הלילה. "
     },
     {
-      "uid": "Pesach_Haggadah_39",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_134",
       "parent_titles": [
         "Tzafun"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 2455,
       "end_char": 2509,
       "length": 55,
       "text": "לפני אכילת האפיקומן יאמר: זכר לקרבן פסח הנאכל על השובע."
     },
     {
-      "uid": "Pesach_Haggadah_1",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_135",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
@@ -1587,271 +1587,271 @@
       "text": "ברך"
     },
     {
-      "uid": "Pesach_Haggadah_2",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_136",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 4,
       "end_char": 39,
       "length": 36,
       "text": "מוזגים כוס שלישי ומברכים ברכת המזון."
     },
     {
-      "uid": "Pesach_Haggadah_3",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_137",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 40,
       "end_char": 300,
       "length": 261,
       "text": "שיר המעלות, בשוב ה' את שיבת ציון היינו כחלמים. אז ימלא שחוק פינו ולשוננו רנה. אז יאמרו בגוים: הגדיל ה' לעשות עם אלה. הגדיל ה' לעשות עמנו, היינו שמחים. שובה ה' את שביתנו כאפיקים בנגב. הזרעים בדמעה, ברנה יקצרו. הלוך ילך ובכה נשא משך הזרע, בא יבא ברנה נשא אלמתיו. "
     },
     {
-      "uid": "Pesach_Haggadah_4",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_138",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 301,
       "end_char": 340,
       "length": 40,
       "text": "שלשה שאכלו כאחד חיבים לזמן והמזמן פותח: "
     },
     {
-      "uid": "Pesach_Haggadah_5",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_139",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 341,
       "end_char": 351,
       "length": 11,
       "text": "רבותי נברך:"
     },
     {
-      "uid": "Pesach_Haggadah_6",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_140",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 352,
       "end_char": 365,
       "length": 14,
       "text": "המסבים עונים: "
     },
     {
-      "uid": "Pesach_Haggadah_7",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_141",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 366,
       "end_char": 394,
       "length": 29,
       "text": "יהי שם ה' מברך מעתה ועד עולם."
     },
     {
-      "uid": "Pesach_Haggadah_8",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_142",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 395,
       "end_char": 406,
       "length": 12,
       "text": "המזמן אומר: "
     },
     {
-      "uid": "Pesach_Haggadah_9",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_143",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 9,
       "start_char": 407,
       "end_char": 458,
       "length": 52,
       "text": "ברשות מרנן ורבנן ורבותי, נברך [אלהינו] שאכלנו משלו. "
     },
     {
-      "uid": "Pesach_Haggadah_10",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_144",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 10,
       "start_char": 459,
       "end_char": 472,
       "length": 14,
       "text": "המסבים עונים: "
     },
     {
-      "uid": "Pesach_Haggadah_11",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_145",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 11,
       "start_char": 473,
       "end_char": 510,
       "length": 38,
       "text": "ברוך [אלהינו] שאכלנו משלו ובטובו חיינו"
     },
     {
-      "uid": "Pesach_Haggadah_12",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_146",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 12,
       "start_char": 511,
       "end_char": 528,
       "length": 18,
       "text": "המזמן חוזר ואומר: "
     },
     {
-      "uid": "Pesach_Haggadah_13",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_147",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 13,
       "start_char": 529,
       "end_char": 566,
       "length": 38,
       "text": "ברוך [אלהינו] שאכלנו משלו ובטובו חיינו"
     },
     {
-      "uid": "Pesach_Haggadah_14",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_148",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 14,
       "start_char": 567,
       "end_char": 578,
       "length": 12,
       "text": "כלם אומרים: "
     },
     {
-      "uid": "Pesach_Haggadah_15",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_149",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 15,
       "start_char": 579,
       "end_char": 854,
       "length": 276,
       "text": "ברוך אתה ה', אלהינו מלך העולם, הזן את העולם כלו בטובו בחן בחסד וברחמים, הוא נותן לחם לכל בשר כי לעולם חסדו. ובטובו הגדול תמיד לא חסר לנו, ואל יחסר לנו מזון לעולם ועד. בעבור שמו הגדול, כי הוא אל זן ומפרנס לכל ומטיב לכל, ומכין מזון לכל בריותיו אשר ברא. ברוך אתה ה', הזן את הכל. "
     },
     {
-      "uid": "Pesach_Haggadah_16",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_150",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 16,
       "start_char": 855,
       "end_char": 1124,
       "length": 270,
       "text": "נודה לך ה' אלהינו על שהנחלת לאבותינו ארץ חמדה טובה ורחבה, ועל שהוצאתנו ה' אלהינו מארץ מצרים, ופדיתנו מבית עבדים, ועל בריתך שחתמת בבשרנו, ועל תורתך שלמדתנו, ועל חקיך שהודעתנו, ועל חיים חן וחסד שחוננתנו, ועל אכילת מזון שאתה זן ומפרנס אותנו תמיד, בכל יום ובכל עת ובכל שעה: "
     },
     {
-      "uid": "Pesach_Haggadah_17",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_151",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 17,
       "start_char": 1125,
       "end_char": 1303,
       "length": 179,
       "text": "ועל הכל ה' אלהינו, אנחנו מודים לך ומברכים אותך, יתברך שמך בפי כל חי תמיד לעולם ועד. ככתוב: ואכלת ושבעת וברכת את ה' אלהיך על הארץ הטובה אשר נתן לך. ברוך אתה ה', על הארץ ועל המזון: "
     },
     {
-      "uid": "Pesach_Haggadah_18",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_152",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 18,
       "start_char": 1304,
       "end_char": 1652,
       "length": 349,
       "text": "רחם נא ה' אלהינו על ישראל עמך ועל ירושלים עירך ועל ציון משכן כבודך ועל מלכות בית דוד משיחך ועל הבית הגדול והקדוש שנקרא שמך עליו: אלהינו אבינו, רענו זוננו פרנסנו וכלכלנו והרויחנו, והרוח לנו ה' אלהינו מהרה מכל צרותינו. ונא אל תצריכנו ה' אלהינו, לא לידי מתנת בשר ודם ולא לידי הלואתם, כי אם לידך המלאה הפתוחה הקדושה והרחבה, שלא נבוש ולא נכלם לעולם ועד. "
     },
     {
-      "uid": "Pesach_Haggadah_19",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_153",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 19,
       "start_char": 1653,
       "end_char": 1666,
       "length": 14,
       "text": "בשבת מוסיפין: "
     },
     {
-      "uid": "Pesach_Haggadah_20",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_154",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 20,
       "start_char": 1667,
       "end_char": 1962,
       "length": 296,
       "text": "רצה והחליצנו ה' אלהינו במצותיך ובמצות יום השביעי השבת הגדול והקדוש הזה. כי יום זה גדול וקדוש הוא לפניך לשבת בו ולנוח בו באהבה כמצות רצונך. וברצונך הניח לנו ה' אלהינו שלא תהא צרה ויגון ואנחה ביום מנוחתנו. והראנו ה' אלהינו בנחמת ציון עירך ובבנין ירושלים עיר קדשך כי אתה הוא בעל הישועות ובעל הנחמות."
     },
     {
-      "uid": "Pesach_Haggadah_21",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_155",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 21,
       "start_char": 1963,
       "end_char": 2435,
       "length": 473,
       "text": "אלהינו ואלהי אבותינו, יעלה ויבא ויגיע ויראה וירצה וישמע ויפקד ויזכר זכרוננו ופקדוננו, וזכרון אבותינו, וזכרון משיח בן דוד עבדך, וזכרון ירושלים עיר קדשך, וזכרון כל עמך בית ישראל לפניך, לפליטה לטובה לחן ולחסד ולרחמים, לחיים ולשלום ביום חג המצות הזה זכרנו ה' אלהינו בו לטובה ופקדנו בו לברכה והושיענו בו לחיים. ובדבר ישועה ורחמים חוס וחננו ורחם עלינו והושיענו, כי אליך עינינו, כי אל מלך חנון ורחום אתה. ובנה ירושלים עיר הקדש במהרה בימינו. ברוך אתה ה', בונה ברחמיו ירושלים. אמן. "
     },
     {
-      "uid": "Pesach_Haggadah_22",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_156",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 22,
       "start_char": 2436,
       "end_char": 2772,
       "length": 337,
       "text": "ברוך אתה ה', אלהינו מלך העולם, האל אבינו מלכנו אדירנו בוראנו גואלנו יוצרנו קדושנו קדוש יעקב רוענו רועה ישראל המלך הטוב והמטיב לכל שבכל יום ויום הוא הטיב, הוא מטיב, הוא ייטיב לנו. הוא גמלנו הוא גומלנו הוא יגמלנו לעד, לחן ולחסד ולרחמים ולרוח הצלה והצלחה, ברכה וישועה נחמה פרנסה וכלכלה ורחמים וחיים ושלום וכל טוב, ומכל טוב לעולם על יחסרנו. "
     },
     {
-      "uid": "Pesach_Haggadah_23",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_157",
       "parent_titles": [
         "Barech",
         "Birkat Hamazon"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 23,
       "start_char": 2773,
       "end_char": 4161,
       "length": 1389,
       "text": "הרחמן הוא ימלוך עלינו לעולם ועד. הרחמן הוא יתברך בשמים ובארץ. הרחמן הוא ישתבח לדור דורים, ויתפאר בנו לעד ולנצח נצחים, ויתהדר בנו לעד ולעולמי עולמים. הרחמן הוא יפרנסנו בכבוד. הרחמן הוא ישבור עלנו מעל צוארנו, והוא יוליכנו קוממיות לארצנו. הרחמן הוא ישלח לנו ברכה מרבה בבית הזה, ועל שלחן זה שאכלנו עליו. הרחמן הוא ישלח לנו את אליהו הנביא זכור לטוב, ויבשר לנו בשורות טובות ישועות ונחמות. הרחמן הוא יברך את בעלי / אשתי. הרחמן הוא יברך את [אבי מורי] בעל הבית הזה. ואת [אמי מורתי] בעלת הבית הזה, אותם ואת ביתם ואת זרעם ואת כל אשר להם. אותנו ואת כל אשר לנו, כמו שנתברכו אבותינו אברהם יצחק ויעקב בכל מכל כל, כן יברך אותנו כלנו יחד בברכה שלמה, ונאמר, אמן. במרום ילמדו עליהם ועלינו זכות שתהא למשמרת שלום. ונשא ברכה מאת ה', וצדקה מאלהי ישענו, ונמצא חן ושכל טוב בעיני אלהים ואדם. בשבת: הרחמן הוא ינחילנו יום שכלו שבת ומנוחה לחיי העולמים. הרחמן הוא ינחילנו יום שכלו טוב.[יום שכלו ארוך. יום שצדיקים יושבים ועטרותיהם בראשיהם ונהנים מזיו השכינה ויהי חלקינו עמהם]. הרחמן הוא יזכנו לימות המשיח ולחיי העולם הבא. מגדול ישועות מלכו ועשה חסד למשיחו לדוד ולזרעו עד עולם. עשה שלום במרומיו, הוא יעשה שלום עלינו ועל כל ישראל ואמרו, אמן. יראו את ה' קדשיו, כי אין מחסור ליראיו. כפירים רשו ורעבו, ודרשי ה' לא יחסרו כל טוב. הודו ליי כי טוב כי לעולם חסדו. פותח את ידך, ומשביע לכל חי רצון. ברוך הגבר אשר יבטח ביי, והיה ה' מבטחו. נער הייתי גם זקנתי, ולא ראיתי צדיק נעזב, וזרעו מבקש לחם. יי עז לעמו יתן, ה' יברך את עמו בשלום."
     },
     {
-      "uid": "Pesach_Haggadah_24",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_158",
       "parent_titles": [
         "Barech",
         "Third Cup of Wine"
@@ -1863,19 +1863,19 @@
       "text": "ברוך אתה ה', אלהינו מלך העולם בורא פרי הגפן. "
     },
     {
-      "uid": "Pesach_Haggadah_25",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_159",
       "parent_titles": [
         "Barech",
         "Third Cup of Wine"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 4207,
       "end_char": 4243,
       "length": 37,
       "text": "ושותים בהסיבה ואינו מברך ברכה אחרונה."
     },
     {
-      "uid": "Pesach_Haggadah_26",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_160",
       "parent_titles": [
         "Barech",
         "Pour Out Thy Wrath"
@@ -1887,19 +1887,19 @@
       "text": "מוזגים כוס של אליהו ופותחים את הדלת:"
     },
     {
-      "uid": "Pesach_Haggadah_27",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_161",
       "parent_titles": [
         "Barech",
         "Pour Out Thy Wrath"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 4280,
       "end_char": 4430,
       "length": 151,
       "text": "שפך חמתך אל־הגוים אשר לא ידעוך ועל־ממלכות אשר בשמך לא קראו. כי אכל את־יעקב ואת־נוהו השמו. שפך־עליהם זעמך וחרון אפך ישיגם. תרדף באף ותשמידם מתחת שמי ה'."
     },
     {
-      "uid": "Pesach_Haggadah_1",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_162",
       "parent_titles": [
         "Hallel",
         "Second Half of Hallel"
@@ -1911,115 +1911,115 @@
       "text": "הללמוזגין כוס רביעי וגומרין עליו את ההלל"
     },
     {
-      "uid": "Pesach_Haggadah_2",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_163",
       "parent_titles": [
         "Hallel",
         "Second Half of Hallel"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 41,
       "end_char": 705,
       "length": 665,
       "text": "לא לנו, ה', לא לנו, כי לשמך תן כבוד, על חסדך על אמתך. למה יאמרו הגוים איה נא אלהיהם. ואלהינו בשמים, כל אשר חפץ עשה. עצביהם כסף וזהב מעשה ידי אדם. פה להם ולא ידברו, עינים להם ולא יראו. אזנים להם ולא ישמעו, אף להם ולא יריחון. ידיהם ולא ימישון, רגליהם ולא יהלכו, לא יהגו בגרונם. כמוהם יהיו עשיהם, כל אשר בטח בהם. ישראל בטח ביי, עזרם ומגנם הוא. בית אהרן בטחו ביי, עזרם ומגנם הוא. יראי ה' בטחו ביי, עזרם ומגנם הוא. יי זכרנו יברך. יברך את בית ישראל, יברך את בית אהרן, יברך יראי ה', הקטנים עם הגדלים. יסף ה' עליכם, עליכם ועל בניכם. ברוכים אתם ליי, עשה שמים וארץ. השמים שמים ליי והארץ נתן לבני אדם. לא המתים יהללו יה ולא כל ירדי דומה. ואנחנו נברך יה מעתה ועד עולם. הללויה. "
     },
     {
-      "uid": "Pesach_Haggadah_3",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_164",
       "parent_titles": [
         "Hallel",
         "Second Half of Hallel"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 706,
       "end_char": 1084,
       "length": 379,
       "text": "אהבתי כי ישמע ה' את קולי תחנוני. כי הטה אזנו לי ובימי אקרא. אפפוני חבלי מות ומצרי שאול מצאוני, צרה ויגון אמצא. ובשם ה' אקרא: אנא ה' מלטה נפשי. חנון ה' וצדיק, ואלהינו מרחם. שמר פתאים ה', דלותי ולי יהושיע. שובי נפשי למנוחיכי, כי ה' גמל עליכי. כי חלצת נפשי ממות, את עיני מן דמעה, את רגלי מדחי. אתהלך לפני ה' בארצות החיים. האמנתי כי אדבר, אני עניתי מאד. אני אמרתי בחפזי כל האדם כזב. "
     },
     {
-      "uid": "Pesach_Haggadah_4",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_165",
       "parent_titles": [
         "Hallel",
         "Second Half of Hallel"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 1085,
       "end_char": 1353,
       "length": 269,
       "text": "מה אשיב ליי כל תגמולוהי עלי. כוס ישועות אשא ובשם ה' אקרא. נדרי ליי אשלם נגדה נא לכל עמו. יקר בעיני ה' המותה לחסידיו. אנה ה' כי אני עבדך, אני עבדך בן אמתך, פתחת למוסרי. לך אזבח זבח תודה ובשם ה' אקרא. נדרי ליי אשלם נגדה נא לכל עמו. בחצרות בית ה', בתוככי ירושלים. הללויה. "
     },
     {
-      "uid": "Pesach_Haggadah_5",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_166",
       "parent_titles": [
         "Hallel",
         "Second Half of Hallel"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 1354,
       "end_char": 1557,
       "length": 204,
       "text": "הללו את ה' כל גוים, שבחוהו כל האמים. כי גבר עלינו חסדו, ואמת ה' לעולם. הללויה. הודו ליי כי טוב כי לעולם חסדו. יאמר נא ישראל כי לעולם חסדו. יאמרו נא בית אהרן כי לעולם חסדו. יאמרו נא יראי ה' כי לעולם חסדו. "
     },
     {
-      "uid": "Pesach_Haggadah_6",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_167",
       "parent_titles": [
         "Hallel",
         "Second Half of Hallel"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 1558,
       "end_char": 2080,
       "length": 523,
       "text": "מן המצר קראתי יה, ענני במרחב יה. ה' לי, לא אירא – מה יעשה לי אדם, ה' לי בעזרי ואני אראה בשנאי. טוב לחסות ביי מבטח באדם. טוב לחסות ביי מבטח בנדיבים. כל גוים סבבוני, בשם ה' כי אמילם. סבוני גם סבבוני, בשם ה' כי אמילם. סבוני כדברים, דעכו כאש קוצים, בשם ה' כי אמילם. דחה דחיתני לנפל, ויי עזרני. עזי וזמרת יה ויהי לי לישועה. קול רנה וישועה באהלי צדיקים: ימין ה' עשה חיל, ימין ה' רוממה, ימין ה' עשה חיל. לא אמות כי אחיה, ואספר מעשי יה. יסר יסרני יה, ולמות לא נתנני. פתחו לי שערי צדק, אבא בם, אודה יה. זה השער ליי, צדיקים יבאו בו. "
     },
     {
-      "uid": "Pesach_Haggadah_7",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_168",
       "parent_titles": [
         "Hallel",
         "Second Half of Hallel"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 2081,
       "end_char": 2339,
       "length": 259,
       "text": "אודך כי עניתני ותהי לי לישועה. אודך כי עניתני ותהי לי לישועה. אבן מאסו הבונים היתה לראש פנה. אבן מאסו הבונים היתה לראש פנה. מאת ה' היתה זאת היא נפלאת בעינינו. מאת ה' היתה זאת היא נפלאת בעינינו. זה היום עשה ה'. נגילה ונשמחה בו. זה היום עשה ה'. נגילה ונשמחה בו."
     },
     {
-      "uid": "Pesach_Haggadah_8",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_169",
       "parent_titles": [
         "Hallel",
         "Second Half of Hallel"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 2340,
       "end_char": 2415,
       "length": 76,
       "text": "אנא ה', הושיעה נא. אנא ה', הושיעה נא. אנא ה', הצליחה נא. אנא ה', הצליחה נא. "
     },
     {
-      "uid": "Pesach_Haggadah_9",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_170",
       "parent_titles": [
         "Hallel",
         "Second Half of Hallel"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 9,
       "start_char": 2416,
       "end_char": 2701,
       "length": 286,
       "text": "ברוך הבא בשם ה', ברכנוכם מבית ה'. ברוך הבא בשם ה', ברכנוכם מבית ה'. אל ה' ויאר לנו. אסרו חג בעבתים עד קרנות המזבח. אל ה' ויאר לנו. אסרו חג בעבתים עד קרנות המזבח. אלי אתה ואודך, אלהי – ארוממך. אלי אתה ואודך, אלהי – ארוממך. הודו ליי כי טוב, כי לעולם חסדו. הודו ליי כי טוב, כי לעולם חסדו. "
     },
     {
-      "uid": "Pesach_Haggadah_10",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_171",
       "parent_titles": [
         "Hallel",
         "Second Half of Hallel"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 10,
       "start_char": 2702,
       "end_char": 2913,
       "length": 212,
       "text": "יהללוך ה' אלהינו כל מעשיך, וחסידיך צדיקים עושי רצונך, וכל עמך בית ישראל ברנה יודו ויברכו, וישבחו ויפארו, וירוממו ויעריצו, ויקדישו וימליכו את שמך, מלכנו. כי לך טוב להודות ולשמך נאה לזמר, כי מעולם ועד עולם אתה אל. "
     },
     {
-      "uid": "Pesach_Haggadah_11",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_172",
       "parent_titles": [
         "Hallel",
         "Songs of Praise and Thanks"
@@ -2031,67 +2031,67 @@
       "text": "הודו ליי כי טוב כי לעולם חסדו. הודו לאלהי האלהים כי לעולם חסדו. הודו לאדני האדנים כי לעולם חסדו. לעשה נפלאות גדלות לבדו כי לעולם חסדו. לעשה השמים בתבונה כי לעולם חסדו. לרוקע הארץ על המים כי לעולם חסדו. לעשה אורים גדלים כי לעולם חסדו. את השמש לממשלת ביום כי לעולם חסדו. את הירח וכוכבים לממשלות בלילה כי לעולם חסדו. למכה מצרים בבכוריהם כי לעולם חסדו. ויוצא ישראל מתוכם כי לעולם חסדו. ביד חזקה ובזרוע נטויה כי לעולם חסדו. לגזר ים סוף לגזרים כי לעולם חסדו. והעביר ישראל בתוכו כי לעולם חסדו. ונער פרעה וחילו בים סוף כי לעולם חסדו. למוליך עמו במדבר כי לעולם חסדו. למכה מלכים גדלים כי לעולם חסדו. ויהרג מלכים אדירים כי לעולם חסדו. לסיחון מלך האמרי כי לעולם חסדו. ולעוג מלך הבשן כי לעולם חסדו. ונתן ארצם לנחלה כי לעולם חסדו. נחלה לישראל עבדו כי לעולם חסדו. שבשפלנו זכר לנו כי לעולם חסדו. ויפרקנו מצרינו כי לעולם חסדו. נתן לחם לכל בשר כי לעולם חסדו. הודו לאל השמים כי לעולם חסדו."
     },
     {
-      "uid": "Pesach_Haggadah_12",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_173",
       "parent_titles": [
         "Hallel",
         "Songs of Praise and Thanks"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 3784,
       "end_char": 4222,
       "length": 439,
       "text": "נשמת כל חי תברך את שמך, ה' אלהינו, ורוח כל בשר תפאר ותרומם זכרך, מלכנו, תמיד. מן העולם ועד העולם אתה אל, ומבלעדיך אין לנו מלך גואל ומושיע, פודה ומציל ומפרנס ומרחם בכל עת צרה וצוקה. אין לנו מלך אלא אתה. אלהי הראשונים והאחרונים, אלוה כל בריות, אדון כל תולדות, המהלל ברב התשבחות, המנהג עולמו בחסד ובריותיו ברחמים. ויי לא ינום ולא יישן – המעורר ישנים והמקיץ נרדמים, והמשיח אלמים והמתיר אסורים והסומך נופלים והזוקף כפופים. לך לבדך אנחנו מודים. "
     },
     {
-      "uid": "Pesach_Haggadah_13",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_174",
       "parent_titles": [
         "Hallel",
         "Songs of Praise and Thanks"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 4223,
       "end_char": 4636,
       "length": 414,
       "text": "אלו פינו מלא שירה כים, ולשוננו רנה כהמון גליו, ושפתותינו שבח כמרחבי רקיע, ועינינו מאירות כשמש וכירח, וידינו פרושות כנשרי שמים, ורגלינו קלות כאילות – אין אנחנו מספיקים להודות לך, ה' אלהינו ואלהי אבותינו, ולברך את שמך על אחת מאלף, אלפי אלפים ורבי רבבות פעמים הטובות שעשית עם אבותינו ועמנו. ממצרים גאלתנו, ה' אלהינו, ומבית עבדים פדיתנו, ברעב זנתנו ובשבע כלכלתנו, מחרב הצלתנו ומדבר מלטתנו, ומחלים רעים ונאמנים דליתנו. "
     },
     {
-      "uid": "Pesach_Haggadah_14",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_175",
       "parent_titles": [
         "Hallel",
         "Songs of Praise and Thanks"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 4637,
       "end_char": 5456,
       "length": 820,
       "text": "עד הנה עזרונו רחמיך ולא עזבונו חסדיך, ואל תטשנו, ה' אלהינו, לנצח. על כן אברים שפלגת בנו ורוח ונשמה שנפחת באפינו ולשון אשר שמת בפינו – הן הם יודו ויברכו וישבחו ויפארו וירוממו ויעריצו ויקדישו וימליכו את שמך מלכנו. כי כל פה לך יודה, וכל לשון לך תשבע, וכל ברך לך תכרע, וכל קומה לפניך תשתחוה, וכל לבבות ייראוך, וכל קרב וכליות יזמרו לשמך. כדבר שכתוב, כל עצמתי תאמרנה, ה' מי כמוך מציל עני מחזק ממנו ועני ואביון מגזלו. מי ידמה לך ומי ישוה לך ומי יערך לך האל הגדול, הגבור והנורא, אל עליון, קנה שמים וארץ. נהללך ונשבחך ונפארך ונברך את שם קדשך, כאמור: לדוד, ברכי נפשי את ה' וכל קרבי את שם קדשו. האל בתעצמות עזך, הגדול בכבוד שמך, הגבור לנצח והנורא בנוראותיך, המלך היושב על כסא רם ונשא. שוכן עד מרום וקדוש שמו. וכתוב: רננו צדיקים ביי, לישרים נאוה תהלה. בפי ישרים תתהלל, ובדברי צדיקים תתברך, ובלשון חסידים תתרומם, ובקרב קדושים תתקדש. "
     },
     {
-      "uid": "Pesach_Haggadah_15",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_176",
       "parent_titles": [
         "Hallel",
         "Songs of Praise and Thanks"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 5457,
       "end_char": 5672,
       "length": 216,
       "text": "ובמקהלות רבבות עמך בית ישראל ברנה יתפאר שמך, מלכנו, בכל דור ודור, שכן חובת כל היצורים לפניך, ה' אלהינו ואלהי אבותינו, להודות להלל לשבח, לפאר לרומם להדר לברך, לעלה ולקלס על כל דברי שירות ותשבחות דוד בן ישי עבדך משיחך."
     },
     {
-      "uid": "Pesach_Haggadah_16",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_177",
       "parent_titles": [
         "Hallel",
         "Songs of Praise and Thanks"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 5673,
       "end_char": 5966,
       "length": 294,
       "text": "ישתבח שמך לעד מלכנו, האל המלך הגדול והקדוש בשמים ובארץ, כי לך נאה, ה' אלהינו ואלהי אבותינו, שיר ושבחה, הלל וזמרה, עז וממשלה, נצח, גדלה וגבורה, תהלה ותפארת, קדשה ומלכות, ברכות והודאות מעתה ועד עולם. ברוך אתה ה', אל מלך גדול בתשבחות, אל ההודאות, אדון הנפלאות, הבוחר בשירי זמרה, מלך אל חי העולמים."
     },
     {
-      "uid": "Pesach_Haggadah_17",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_178",
       "parent_titles": [
         "Hallel",
         "Fourth Cup of Wine"
@@ -2103,43 +2103,43 @@
       "text": "ברוך אתה ה', אלהינו מלך העולם בורא פרי הגפן. "
     },
     {
-      "uid": "Pesach_Haggadah_18",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_179",
       "parent_titles": [
         "Hallel",
         "Fourth Cup of Wine"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 6012,
       "end_char": 6030,
       "length": 19,
       "text": "ושותה בהסיבת שמאל. "
     },
     {
-      "uid": "Pesach_Haggadah_19",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_180",
       "parent_titles": [
         "Hallel",
         "Fourth Cup of Wine"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 6031,
       "end_char": 6483,
       "length": 453,
       "text": "ברוך אתה ה' אלהינו מלך העולם, על הגפן ועל פרי הגפן, על תנובת השדה ועל ארץ חמדה טובה ורחבה שרצית והנחלת לאבותינו לאכול מפריה ולשבע מטובה. רחם נא ה' אלהינו על ישראל עמך ועל ירושלים עירך ועל ציון משכן כבודך ועל מזבחך ועל היכלך ובנה ירושלים עיר הקדש במהרה בימינו והעלנו לתוכה ושמחנו בבנינה ונאכל מפריה ונשבע מטובה ונברכך עליה בקדשה ובטהרה [בשבת: ורצה והחליצנו ביום השבת הזה] ושמחנו ביום חג המצות הזה, כי אתה ה' טוב ומטיב לכל, ונודה לך על הארץ ועל פרי הגפן. "
     },
     {
-      "uid": "Pesach_Haggadah_20",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_181",
       "parent_titles": [
         "Hallel",
         "Fourth Cup of Wine"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 6484,
       "end_char": 6517,
       "length": 34,
       "text": "ברוך אתה ה', על הארץ ועל פרי הגפן."
     },
     {
-      "uid": "Pesach_Haggadah_1",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_182",
       "parent_titles": [
         "Nirtzah",
         "Chasal Siddur Pesach"
@@ -2151,19 +2151,19 @@
       "text": "נרצה"
     },
     {
-      "uid": "Pesach_Haggadah_2",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_183",
       "parent_titles": [
         "Nirtzah",
         "Chasal Siddur Pesach"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 5,
       "end_char": 152,
       "length": 148,
       "text": "חסל סדור פסח כהלכתו, ככל משפטו וחקתו. כאשר זכינו לסדר אותו כן נזכה לעשותו. זך שוכן מעונה, קומם קהל עדת מי מנה. בקרוב נהל נטעי כנה פדוים לציון ברנה. "
     },
     {
-      "uid": "Pesach_Haggadah_3",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_184",
       "parent_titles": [
         "Nirtzah",
         "L'Shana HaBaa"
@@ -2175,7 +2175,7 @@
       "text": "לשנה הבאה בירושלים הבנויה."
     },
     {
-      "uid": "Pesach_Haggadah_4",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_185",
       "parent_titles": [
         "Nirtzah",
         "And It Happened at Midnight"
@@ -2187,127 +2187,127 @@
       "text": "בליל ראשון אומרים:"
     },
     {
-      "uid": "Pesach_Haggadah_5",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_186",
       "parent_titles": [
         "Nirtzah",
         "And It Happened at Midnight"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 197,
       "end_char": 217,
       "length": 21,
       "text": "ובכן ויהי בחצי הלילה."
     },
     {
-      "uid": "Pesach_Haggadah_6",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_187",
       "parent_titles": [
         "Nirtzah",
         "And It Happened at Midnight"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 218,
       "end_char": 263,
       "length": 46,
       "text": "אז רוב נסים הפלאת בלילה, בראש אשמורת זה הלילה."
     },
     {
-      "uid": "Pesach_Haggadah_7",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_188",
       "parent_titles": [
         "Nirtzah",
         "And It Happened at Midnight"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 264,
       "end_char": 307,
       "length": 44,
       "text": "גר צדק נצחתו כנחלק לו לילה, ויהי בחצי הלילה."
     },
     {
-      "uid": "Pesach_Haggadah_8",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_189",
       "parent_titles": [
         "Nirtzah",
         "And It Happened at Midnight"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 308,
       "end_char": 353,
       "length": 46,
       "text": "דנת מלך גרר בחלום הלילה, הפחדת ארמי באמש לילה."
     },
     {
-      "uid": "Pesach_Haggadah_9",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_190",
       "parent_titles": [
         "Nirtzah",
         "And It Happened at Midnight"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 354,
       "end_char": 402,
       "length": 49,
       "text": "וישר ישראל למלאך ויוכל לו לילה, ויהי בחצי הלילה. "
     },
     {
-      "uid": "Pesach_Haggadah_10",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_191",
       "parent_titles": [
         "Nirtzah",
         "And It Happened at Midnight"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 403,
       "end_char": 511,
       "length": 109,
       "text": "זרע בכורי פתרוס מחצת בחצי הלילה, חילם לא מצאו בקומם בלילה, טיסת נגיד חרשת סלית בכוכבי לילה, ויהי בחצי הלילה. "
     },
     {
-      "uid": "Pesach_Haggadah_11",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_192",
       "parent_titles": [
         "Nirtzah",
         "And It Happened at Midnight"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 512,
       "end_char": 625,
       "length": 114,
       "text": "יעץ מחרף לנופף אווי, הובשת פגריו בלילה, כרע בל ומצבו באישון לילה, לאיש חמודות נגלה רז חזות לילה, ויהי בחצי הלילה. "
     },
     {
-      "uid": "Pesach_Haggadah_12",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_193",
       "parent_titles": [
         "Nirtzah",
         "And It Happened at Midnight"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 9,
       "start_char": 626,
       "end_char": 738,
       "length": 113,
       "text": "משתכר בכלי קדש נהרג בו בלילה, נושע מבור אריות פותר בעתותי לילה, שנאה נטר אגגי וכתב ספרים בלילה, ויהי בחצי הלילה. "
     },
     {
-      "uid": "Pesach_Haggadah_13",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_194",
       "parent_titles": [
         "Nirtzah",
         "And It Happened at Midnight"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 10,
       "start_char": 739,
       "end_char": 845,
       "length": 107,
       "text": "עוררת נצחך עליו בנדד שנת לילה. פורה תדרוך לשומר מה מלילה, צרח כשומר ושח אתא בקר וגם לילה, ויהי בחצי הלילה. "
     },
     {
-      "uid": "Pesach_Haggadah_14",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_195",
       "parent_titles": [
         "Nirtzah",
         "And It Happened at Midnight"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 11,
       "start_char": 846,
       "end_char": 988,
       "length": 143,
       "text": "קרב יום אשר הוא לא יום ולא לילה, רם הודע כי לך היום אף לך הלילה, שומרים הפקד לעירך כל היום וכל הלילה, תאיר כאור יום חשכת לילה, ויהי בחצי הלילה."
     },
     {
-      "uid": "Pesach_Haggadah_15",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_196",
       "parent_titles": [
         "Nirtzah",
         "Zevach Pesach"
@@ -2319,91 +2319,91 @@
       "text": "בליל שני בחו\"ל: ובכן ואמרתם זבח פסח."
     },
     {
-      "uid": "Pesach_Haggadah_16",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_197",
       "parent_titles": [
         "Nirtzah",
         "Zevach Pesach"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 1025,
       "end_char": 1115,
       "length": 91,
       "text": "אמץ גבורותיך הפלאת בפסח, בראש כל מועדות נשאת פסח. גלית לאזרחי חצות ליל פסח, ואמרתם זבח פסח."
     },
     {
-      "uid": "Pesach_Haggadah_17",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_198",
       "parent_titles": [
         "Nirtzah",
         "Zevach Pesach"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 1116,
       "end_char": 1215,
       "length": 100,
       "text": "דלתיו דפקת כחם היום בפסח, הסעיד נוצצים עגות מצות בפסח, ואל הבקר רץ זכר לשור ערך פסח, ואמרתם זבח פסח."
     },
     {
-      "uid": "Pesach_Haggadah_18",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_199",
       "parent_titles": [
         "Nirtzah",
         "Zevach Pesach"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 1216,
       "end_char": 1323,
       "length": 108,
       "text": "זועמו סדומים ולוהטו באש בפסח, חלץ לוט מהם ומצות אפה בקץ פסח, טאטאת אדמת מוף ונוף בעברך בפסח. ואמרתם זבח פסח."
     },
     {
-      "uid": "Pesach_Haggadah_19",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_200",
       "parent_titles": [
         "Nirtzah",
         "Zevach Pesach"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 1324,
       "end_char": 1434,
       "length": 111,
       "text": "יה ראש כל הון מחצת בליל שמור פסח, כביר, על בן בכור פסחת בדם פסח, לבלתי תת משחית לבא בפתחי בפסח, ואמרתם זבח פסח."
     },
     {
-      "uid": "Pesach_Haggadah_20",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_201",
       "parent_titles": [
         "Nirtzah",
         "Zevach Pesach"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 1435,
       "end_char": 1540,
       "length": 106,
       "text": "מסגרת סגרה בעתותי פסח, נשמדה מדין בצליל שעורי עמר פסח, שורפו משמני פול ולוד ביקד יקוד פסח, ואמרתם זבח פסח."
     },
     {
-      "uid": "Pesach_Haggadah_21",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_202",
       "parent_titles": [
         "Nirtzah",
         "Zevach Pesach"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 1541,
       "end_char": 1646,
       "length": 106,
       "text": "עוד היום בנב לעמוד עד געה עונת פסח, פס יד כתבה לקעקע צול בפסח, צפה הצפית ערוך השלחן בפסח, ואמרתם זבח פסח. "
     },
     {
-      "uid": "Pesach_Haggadah_22",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_203",
       "parent_titles": [
         "Nirtzah",
         "Zevach Pesach"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 1647,
       "end_char": 1793,
       "length": 147,
       "text": "קהל כנסה הדסה לשלש צום בפסח, ראש מבית רשע מחצת בעץ חמשים בפסח, שתי אלה רגע תביא לעוצית בפסח, תעז ידך תרום ימינך כליל התקדש חג פסח, ואמרתם זבח פסח. "
     },
     {
-      "uid": "Pesach_Haggadah_23",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_204",
       "parent_titles": [
         "Nirtzah",
         "Ki Lo Na'e"
@@ -2415,103 +2415,103 @@
       "text": "כי לו נאה, כי לו יאה."
     },
     {
-      "uid": "Pesach_Haggadah_24",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_205",
       "parent_titles": [
         "Nirtzah",
         "Ki Lo Na'e"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 1815,
       "end_char": 1919,
       "length": 105,
       "text": "אדיר במלוכה, בחור כהלכה, גדודיו יאמרו לו: לך ולך, לך כי לך, לך אף לך, לך ה' הממלכה, כי לו נאה, כי לו יאה."
     },
     {
-      "uid": "Pesach_Haggadah_25",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_206",
       "parent_titles": [
         "Nirtzah",
         "Ki Lo Na'e"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 1920,
       "end_char": 2024,
       "length": 105,
       "text": "דגול במלוכה, הדור כהלכה, ותיקיו יאמרו לו: לך ולך, לך כי לך, לך אף לך, לך ה' הממלכה, כי לו נאה, כי לו יאה."
     },
     {
-      "uid": "Pesach_Haggadah_26",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_207",
       "parent_titles": [
         "Nirtzah",
         "Ki Lo Na'e"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 2025,
       "end_char": 2128,
       "length": 104,
       "text": "זכאי במלוכה, חסין כהלכה טפסריו יאמרו לו: לך ולך, לך כי לך, לך אף לך, לך ה' הממלכה, כי לו נאה, כי לו יאה."
     },
     {
-      "uid": "Pesach_Haggadah_27",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_208",
       "parent_titles": [
         "Nirtzah",
         "Ki Lo Na'e"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 2129,
       "end_char": 2232,
       "length": 104,
       "text": "יחיד במלוכה, כביר כהלכה למודיו יאמרו לו: לך ולך, לך כי לך, לך אף לך, לך ה' הממלכה, כי לו נאה, כי לו יאה."
     },
     {
-      "uid": "Pesach_Haggadah_28",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_209",
       "parent_titles": [
         "Nirtzah",
         "Ki Lo Na'e"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 2233,
       "end_char": 2336,
       "length": 104,
       "text": "מושל במלוכה, נורא כהלכה סביביו יאמרו לו: לך ולך, לך כי לך, לך אף לך, לך ה' הממלכה, כי לו נאה, כי לו יאה."
     },
     {
-      "uid": "Pesach_Haggadah_29",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_210",
       "parent_titles": [
         "Nirtzah",
         "Ki Lo Na'e"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 2337,
       "end_char": 2441,
       "length": 105,
       "text": "עניו במלוכה, פודה כהלכה, צדיקיו יאמרו לו: לך ולך, לך כי לך, לך אף לך, לך ה' הממלכה, כי לו נאה, כי לו יאה."
     },
     {
-      "uid": "Pesach_Haggadah_30",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_211",
       "parent_titles": [
         "Nirtzah",
         "Ki Lo Na'e"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 2442,
       "end_char": 2545,
       "length": 104,
       "text": "קדוש במלוכה, רחום כהלכה שנאניו יאמרו לו: לך ולך, לך כי לך, לך אף לך, לך ה' הממלכה, כי לו נאה, כי לו יאה."
     },
     {
-      "uid": "Pesach_Haggadah_31",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_212",
       "parent_titles": [
         "Nirtzah",
         "Ki Lo Na'e"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 9,
       "start_char": 2546,
       "end_char": 2650,
       "length": 105,
       "text": "תקיף במלוכה, תומך כהלכה תמימיו יאמרו לו: לך ולך, לך כי לך, לך אף לך, לך ה' הממלכה, כי לו נאה, כי לו יאה. "
     },
     {
-      "uid": "Pesach_Haggadah_32",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_213",
       "parent_titles": [
         "Nirtzah",
         "Adir Hu"
@@ -2523,91 +2523,91 @@
       "text": "אדיר הוא יבנה ביתו בקרוב. במהרה, במהרה, בימינו בקרוב. אל בנה, אל בנה, בנה ביתך בקרוב."
     },
     {
-      "uid": "Pesach_Haggadah_33",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_214",
       "parent_titles": [
         "Nirtzah",
         "Adir Hu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 2736,
       "end_char": 2840,
       "length": 105,
       "text": "בחור הוא, גדול הוא, דגול הוא יבנה ביתו בקרוב. במהרה, במהרה, בימינו בקרוב. אל בנה, אל בנה, בנה ביתך בקרוב."
     },
     {
-      "uid": "Pesach_Haggadah_34",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_215",
       "parent_titles": [
         "Nirtzah",
         "Adir Hu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 2841,
       "end_char": 2945,
       "length": 105,
       "text": "הדור הוא, ותיק הוא, זכאי הוא יבנה ביתו בקרוב. במהרה, במהרה, בימינו בקרוב. אל בנה, אל בנה, בנה ביתך בקרוב."
     },
     {
-      "uid": "Pesach_Haggadah_35",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_216",
       "parent_titles": [
         "Nirtzah",
         "Adir Hu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 2946,
       "end_char": 3050,
       "length": 105,
       "text": "חסיד הוא, טהור הוא, יחיד הוא יבנה ביתו בקרוב. במהרה, במהרה, בימינו בקרוב. אל בנה, אל בנה, בנה ביתך בקרוב."
     },
     {
-      "uid": "Pesach_Haggadah_36",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_217",
       "parent_titles": [
         "Nirtzah",
         "Adir Hu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 3051,
       "end_char": 3154,
       "length": 104,
       "text": "כביר הוא, למוד הוא, מלך הוא יבנה ביתו בקרוב. במהרה, במהרה, בימינו בקרוב. אל בנה, אל בנה, בנה ביתך בקרוב."
     },
     {
-      "uid": "Pesach_Haggadah_37",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_218",
       "parent_titles": [
         "Nirtzah",
         "Adir Hu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 3155,
       "end_char": 3259,
       "length": 105,
       "text": "נורא הוא, סגיב הוא, עזוז הוא יבנה ביתו בקרוב. במהרה, במהרה, בימינו בקרוב. אל בנה, אל בנה, בנה ביתך בקרוב."
     },
     {
-      "uid": "Pesach_Haggadah_38",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_219",
       "parent_titles": [
         "Nirtzah",
         "Adir Hu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 3260,
       "end_char": 3364,
       "length": 105,
       "text": "פודה הוא, צדיק הוא, קדוש הוא יבנה ביתו בקרוב. במהרה, במהרה, בימינו בקרוב. אל בנה, אל בנה, בנה ביתך בקרוב."
     },
     {
-      "uid": "Pesach_Haggadah_39",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_220",
       "parent_titles": [
         "Nirtzah",
         "Adir Hu"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 3365,
       "end_char": 3469,
       "length": 105,
       "text": "רחום הוא, שדי הוא, תקיף הוא יבנה ביתו בקרוב. במהרה, במהרה, בימינו בקרוב. אל בנה, אל בנה, בנה ביתך בקרוב. "
     },
     {
-      "uid": "Pesach_Haggadah_40",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_221",
       "parent_titles": [
         "Nirtzah",
         "Sefirat HaOmer"
@@ -2619,19 +2619,19 @@
       "text": "ספירת העמר בחוץ לארץ, בליל שני של פסח:"
     },
     {
-      "uid": "Pesach_Haggadah_41",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_222",
       "parent_titles": [
         "Nirtzah",
         "Sefirat HaOmer"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 3508,
       "end_char": 3596,
       "length": 89,
       "text": "ברוך אתה ה', אלהינו מלך העולם, אשר קדשנו במצותיו וצונו על ספירת העמר. היום יום אחד בעמר. "
     },
     {
-      "uid": "Pesach_Haggadah_42",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_223",
       "parent_titles": [
         "Nirtzah",
         "Echad Mi Yodea"
@@ -2643,7 +2643,7 @@
       "text": "אחד מי יודע? אחד אני יודע: אחד אלהינו שבשמים ובארץ. שנים מי יודע? שנים אני יודע: שני לחות הברית. אחד אלהינו שבשמים ובארץ. שלשה מי יודע? שלשה אני יודע: שלשה אבות, שני לחות הברית, אחד אלהינו שבשמים ובארץ. ארבע מי יודע? ארבע אני יודע: ארבע אמהות, שלשה אבות, שני לחות הברית, אחד אלהינו שבשמים ובארץ. חמשה מי יודע? חמשה אני יודע: חמשה חומשי תורה, ארבע אמהות, שלשה אבות, שני לחות הברית, אחד אלהינו שבשמים ובארץ. ששה מי יודע? ששה אני יודע: ששה סדרי משנה, חמשה חומשי תורה, ארבע אמהות, שלשה אבות, שני לחות הברית, אחד אלהינו שבשמים ובארץ. שבעה מי יודע? שבעה אני יודע: שבעה ימי שבתא, ששה סדרי משנה, חמשה חומשי תורה, ארבע אמהות, שלשה אבות, שני לחות הברית, אחד אלהינו שבשמים ובארץ. שמונה מי יודע? שמונה אני יודע: שמונה ימי מילה, שבעה ימי שבתא, ששה סדרי משנה, חמשה חומשי תורה, ארבע אמהות, שלשה אבות, שני לחות הברית, אחד אלהינו שבשמים ובארץ. תשעה מי יודע? תשעה אני יודע: תשעה ירחי לדה, שמונה ימי מילה, שבעה ימי שבתא, ששה סדרי משנה, חמשה חומשי תורה, ארבע אמהות, שלשה אבות, שני לחות הברית, אחד אלהינו שבשמים ובארץ. עשרה מי יודע? עשרה אני יודע: עשרה דבריא, תשעה ירחי לדה, שמונה ימי מילה, שבעה ימי שבתא, ששה סדרי משנה, חמשה חומשי תורה, ארבע אמהות, שלשה אבות, שני לחות הברית, אחד אלהינו שבשמים ובארץ. אחד עשר מי יודע? אחד עשר אני יודע: אחד עשר כוכביא, עשרה דבריא, תשעה ירחי לדה, שמונה ימי מילה, שבעה ימי שבתא, ששה סדרי משנה, חמשה חומשי תורה, ארבע אמהות, שלשה אבות, שני לחות הברית, אחד אלהינו שבשמים ובארץ. שנים עשר מי יודע? שנים עשר אני יודע: שנים עשר שבטיא, אחד עשר כוכביא, עשרה דבריא, תשעה ירחי לדה, שמונה ימי מילה, שבעה ימי שבתא, ששה סדרי משנה, חמשה חומשי תורה, ארבע אמהות, שלשה אבות, שני לחות הברית, אחד אלהינו שבשמים ובארץ. שלשה עשר מי יודע? שלשה עשר אני יודע: שלשה עשר מדיא. שנים עשר שבטיא, אחד עשר כוכביא, עשרה דבריא, תשעה ירחי לדה, שמונה ימי מילה, שבעה ימי שבתא, ששה סדרי משנה, חמשה חומשי תורה, ארבע אמהות, שלשה אבות, שני לחות הברית, אחד אלהינו שבשמים ובארץ. "
     },
     {
-      "uid": "Pesach_Haggadah_43",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_224",
       "parent_titles": [
         "Nirtzah",
         "Chad Gadya"
@@ -2655,108 +2655,108 @@
       "text": "חד גדיא, חד גדיא דזבין אבא בתרי זוזי, חד גדיא, חד גדיא."
     },
     {
-      "uid": "Pesach_Haggadah_44",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_225",
       "parent_titles": [
         "Nirtzah",
         "Chad Gadya"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 2,
       "start_char": 5499,
       "end_char": 5560,
       "length": 62,
       "text": "ואתא שונרא ואכלה לגדיא, דזבין אבא בתרי זוזי. חד גדיא, חד גדיא."
     },
     {
-      "uid": "Pesach_Haggadah_45",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_226",
       "parent_titles": [
         "Nirtzah",
         "Chad Gadya"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 3,
       "start_char": 5561,
       "end_char": 5634,
       "length": 74,
       "text": "ואתא כלבא ונשך לשונרא, דאכלה לגדיא, דזבין אבא בתרי זוזי. חד גדיא, חד גדיא."
     },
     {
-      "uid": "Pesach_Haggadah_46",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_227",
       "parent_titles": [
         "Nirtzah",
         "Chad Gadya"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 4,
       "start_char": 5635,
       "end_char": 5721,
       "length": 87,
       "text": "ואתא חוטרא והכה לכלבא, דנשך לשונרא, דאכלה לגדיא, דזבין אבא בתרי זוזי. חד גדיא, חד גדיא."
     },
     {
-      "uid": "Pesach_Haggadah_47",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_228",
       "parent_titles": [
         "Nirtzah",
         "Chad Gadya"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 5,
       "start_char": 5722,
       "end_char": 5820,
       "length": 99,
       "text": "ואתא נורא ושרף לחוטרא, דהכה לכלבא, דנשך לשונרא, דאכלה לגדיא, דזבין אבא בתרי זוזי. חד גדיא, חד גדיא."
     },
     {
-      "uid": "Pesach_Haggadah_48",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_229",
       "parent_titles": [
         "Nirtzah",
         "Chad Gadya"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 6,
       "start_char": 5821,
       "end_char": 5930,
       "length": 110,
       "text": "ואתא מיא וכבה לנורא, דשרף לחוטרא, דהכה לכלבא, דנשך לשונרא, דאכלה לגדיא, דזבין אבא בתרי זוזי. חד גדיא, חד גדיא."
     },
     {
-      "uid": "Pesach_Haggadah_49",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_230",
       "parent_titles": [
         "Nirtzah",
         "Chad Gadya"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 7,
       "start_char": 5931,
       "end_char": 6052,
       "length": 122,
       "text": "ואתא תורא ושתה למיא, דכבה לנורא, דשרף לחוטרא, דהכה לכלבא, דנשך לשונרא, דאכלה לגדיא, דזבין אבא בתרי זוזי. חד גדיא, חד גדיא."
     },
     {
-      "uid": "Pesach_Haggadah_50",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_231",
       "parent_titles": [
         "Nirtzah",
         "Chad Gadya"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 8,
       "start_char": 6053,
       "end_char": 6187,
       "length": 135,
       "text": "ואתא השוחט ושחט לתורא, דשתה למיא, דכבה לנורא, דשרף לחוטרא, דהכה לכלבא, דנשך לשונרא, דאכלה לגדיא, דזבין אבא בתרי זוזי. חד גדיא, חד גדיא."
     },
     {
-      "uid": "Pesach_Haggadah_51",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_232",
       "parent_titles": [
         "Nirtzah",
         "Chad Gadya"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 9,
       "start_char": 6188,
       "end_char": 6338,
       "length": 151,
       "text": "ואתא מלאך המות ושחט לשוחט, דשחט לתורא, דשתה למיא, דכבה לנורא, דשרף לחוטרא, דהכה לכלבא, דנשך לשונרא, דאכלה לגדיא, דזבין אבא בתרי זוזי. חד גדיא, חד גדיא."
     },
     {
-      "uid": "Pesach_Haggadah_52",
+      "uid": "Machzor_Yom_Kippur_Ashkenaz_233",
       "parent_titles": [
         "Nirtzah",
         "Chad Gadya"
       ],
-      "item_lvl_1_number": 1,
+      "item_lvl_1_number": 10,
       "start_char": 6339,
       "end_char": 6511,
       "length": 173,
